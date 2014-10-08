@@ -2,6 +2,65 @@
 % Encoding: Cp1252
 
 
+@InProceedings{,
+  Title                    = {REMOTE SENSING OF ENVIRONMENT 8:127-150(1 979)},
+  Author                   = { and RedPhotographiIcn fraredl and lnear Combinations and for MonitoringV and egetation },
+  Year                     = {1979},
+
+  Review                   = {REMOTE SENSING OF ENVIRONMENT 8:127-150(1 979) 127 
+
+Red and PhotographiIcn fraredl ,lnear Combinations 
+for MonitoringV egetation 
+
+COMPTON J. TUCKER 
+
+EarthR esourceBsr anchN, ASA~G oddardS paceF lightC enterG, reenbelMt,a ryland2 0771 
+
+In situ collecteds pectrometedra taw ereu sedt o evaluatea nd quantifyt he relationshipbs etweenv ariousli near 
+combinationosf  red and photographicn fraredr adianceas nd experimentpalo t biomassl,e afw aterc ontenta, nd 
+chlorophycllo ntentT. he radianceva riablese valuateidn cludedth er eda ndp hotographiincf rared(I B) radiancea nd 
+the linearc ombinationosf  the IR/red ratio,t he squarer oot of the IR/red ratio,t he IR- red differencet,h e 
+vegetatioinn dex, and the transformevde getatioinn dex. In addition,t he correspondinggr eena nd red linear 
+combinationws ere evaluatedfo r comparativpeu rposesT. hree datas ets wereu sedf rom June, Septembera,n d 
+Octobers amplingp eriods. 
+
+Regressioann al)s iss howedth ei ncreaseudt ilityo f theI R andr edl inearc ombinationvsis -a-vist hes ameg reena nd 
+redl inearc ombinationTs.h er eda ndI R linearc ombinationhsa d7 %a nd1 4%g reaterre gressiosni gnificanceth ant he 
+greena nd redl inearc ombinationfosr  theJ unv andS eptembesra mplingp eriods,r espectively. 
+
+Thev egetatioind ex,t ransformevde getatioind ex,a nds quarero oto f theI _R/redr atiow eret hem osts ignificant, 
+followedc loselyb y thel _R/redr atio.L esst hana  6%d ifferencsee paratetdh eh ighesat ndl owesto f thesefo urI R and 
+redl inearc ombinationsT.h e useo f theseli nearc ombinationws ass hownt o be sensitivep rimarilyto  the greenle af 
+area or greenl eafb iomassA. s such,t hesel inearc ombinationosf  the red and photographiIcR  radiancecsa n be 
+employetdo  monitort he photosyntheticaallcyt iveb iomasso f plantc anopies. 
+
+Introduction canopys pectrain  an attemptto  quantify 
+ther elationshibpe tweenth eI R andr ed 
+
+The use of photographicn frared( IR) linear combinationas nd propertieso f 
+andr edl inearc ombinationfosr  monitor- plantc anopies. 
+ing vegetatiobni omassa ndp hysiological 
+statush aver ecentlyb ecomec ommonin  PreviousW ork 
+the remotes ensingc ommunityA. ccom- 
+panyingt his increasedu sage,h owever, The use of a near-infrared/reradt io 
+hasb eena  lack of detaileda nalysecso n- methodf or estimatingb iomasso r leaf 
+cerningl imitationso f these data and areai ndexw as first reportedb y Jordan 
+theira pplication(s)tovegetationmon(i1to9r6-9 ) who used a radiancer atio of 
+ing. Quantitativein formationre garding0 .800/0.675/~tmo  derivet he leaf area 
+the variousI R and red linearc ombina- index for forestc anopiesin  a tropical 
+tionsa nd the constraintisn volvedin  the rain forest. This applicationo f the 
+use of thesem ethodsw ill enablem ore IR/redr atiou sedt het ransmittelidg hta t 
+advantageouasp plicationo f theset ech- thesew avelengthse, nsedo n the forest 
+niquesI.t  will alsop revenot verambitiousfl oor (Jordan, 1969). Subsequenwt ork 
+use of these techniquesw hen other was reportedb y Pearsona nd Miller 
+methodws ouldb e morea pplicableT.h is (1972) who developeda  hand-held 
+article examinesg round-collectegdra ss spectrarl adiometefro r estimatingr ass 
+
+@ElsevieNr orthH ollandI nc., 1979 0034-4257/79/0201+2 274 501.75 
+
+}
+}
+
 @Article{Akesson,
   Title                    = {{Remittances and inequality in Cape Verde : the impact of changing family organization}},
   Author                   = {\AA kesson, Lisa},
@@ -26,22 +85,6 @@
 
   Doi                      = {10.1029/1998JD200032},
   File                     = {:Ackerman et al. - 1998(2).pdf:PDF},
-  ISSN                     = {0148-0227},
-  Owner                    = {tnauss},
-  Url                      = {http://www.agu.org/pubs/crossref/1998/1998JD200032.shtml}
-}
-
-@Article{Ackerman1998a,
-  Title                    = {{Discriminating clear sky from clouds with MODIS}},
-  Author                   = {Ackerman, Steven a. and Strabala, Kathleen I. and Menzel, W. Paul and Frey, Richard a. and Moeller, Christopher C. and Gumley, Liam E.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {1998},
-  Number                   = {D24},
-  Pages                    = {32141--32157},
-  Volume                   = {103},
-
-  Doi                      = {10.1029/1998JD200032},
-  File                     = {:Ackerman et al. - 1998.pdf:PDF},
   ISSN                     = {0148-0227},
   Owner                    = {tnauss},
   Url                      = {http://www.agu.org/pubs/crossref/1998/1998JD200032.shtml}
@@ -824,28 +867,6 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425700001267}
 }
 
-@Article{Asner2008a,
-  Title                    = {{Invasive plants transform the three-dimensional structure of rain forests.}},
-  Author                   = {Asner, Gregory P and Hughes, R Flint and Vitousek, Peter M and Knapp, David E and Kennedy-Bowdoin, Ty and Boardman, Joseph and Martin, Roberta E and Eastwood, Michael and Green, Robert O},
-  Journal                  = {Proceedings of the National Academy of Sciences of the United States of America},
-  Year                     = {2008},
-
-  Month                    = mar,
-  Number                   = {11},
-  Pages                    = {4519--23},
-  Volume                   = {105},
-
-  Abstract                 = {Biological invasions contribute to global environmental change, but the dynamics and consequences of most invasions are difficult to assess at regional scales. We deployed an airborne remote sensing system that mapped the location and impacts of five highly invasive plant species across 221,875 ha of Hawaiian ecosystems, identifying four distinct ways that these species transform the three-dimensional (3D) structure of native rain forests. In lowland to montane forests, three invasive tree species replace native midcanopy and understory plants, whereas one understory invader excludes native species at the ground level. A fifth invasive nitrogen-fixing tree, in combination with a midcanopy alien tree, replaces native plants at all canopy levels in lowland forests. We conclude that this diverse array of alien plant species, each representing a different growth form or functional type, is changing the fundamental 3D structure of native Hawaiian rain forests. Our work also demonstrates how an airborne mapping strategy can identify and track the spread of certain invasive plant species, determine ecological consequences of their proliferation, and provide detailed geographic information to conservation and management efforts.},
-  Doi                      = {10.1073/pnas.0710811105},
-  File                     = {:Asner et al. - 2008(3).pdf:PDF},
-  ISSN                     = {1091-6490},
-  Keywords                 = {Ecology,Ecosystem,Hawaii,Imaging, Three-Dimensional,Plant Physiological Phenomena,Rain,Remote Sensing,Trees},
-  Owner                    = {tnauss},
-  Pmid                     = {18316720},
-  Tags                     = {Ecology,Remote Sensing},
-  Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2393775\&tool=pmcentrez\&rendertype=abstract}
-}
-
 @Article{Asner2008b,
   Title                    = {{Invasive species detection in Hawaiian rainforests using airborne imaging spectroscopy and LiDAR}},
   Author                   = {Asner, Gregory P. and Knapp, David E. and Kennedy-Bowdoin, Ty and Jones, Matthew O. and Martin, Roberta E. and Boardman, Joseph and Hughes, R. Flint},
@@ -934,6 +955,39 @@
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/joc.1495/abstract}
 }
 
+@Article{Attorre2007a,
+  Title                    = {Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale},
+  Author                   = {Attorre, F., Alfo, M., De Sanctis, M., Francesconi, F., Bruno, F.},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2007},
+  Pages                    = {1825-1843},
+  Volume                   = {27},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1002/joc.1495},
+  File                     = {:E\:\\Documents\\Pull_Heaven_Down\\Attore_Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale_Int_J_Climatol_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Attorre2013,
+  Title                    = {The use of spatial ecological modelling as a tool for improving the assessment of
+geographic range size of threatened species},
+  Author                   = {Attorre, F., De Sanctis, M., Farcomeni, A., Guillet, A., Scepi, E., Vitale, M., Pella, F., Fasola, M},
+  Journal                  = {Journal for Nature Conservation},
+  Year                     = {2013},
+  Pages                    = {48-55},
+  Volume                   = {21},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Attore_et al_2013_The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species_Journal_of_Nature_Conservation.pdf:PDF},
+  Keywords                 = {Area of occupancy Extent of occurrence Random Forest Red List Criteria Socotra Suitability maps, Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.1016/j.jnc.2012.10.001}
+}
+
 @Article{Atzberger2011,
   Title                    = {{A time series for monitoring vegetation activity and phenology at 10-daily time steps covering large parts of South America}},
   Author                   = {Atzberger, Clement and Eilers, Paul H.C.},
@@ -947,24 +1001,6 @@
 
   Doi                      = {10.1080/17538947.2010.505664},
   File                     = {:Atzberger, Eilers - 2011(2).pdf:PDF},
-  ISSN                     = {1753-8947},
-  Owner                    = {tnauss},
-  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/17538947.2010.505664}
-}
-
-@Article{Atzberger2011a,
-  Title                    = {{A time series for monitoring vegetation activity and phenology at 10-daily time steps covering large parts of South America}},
-  Author                   = {Atzberger, Clement and Eilers, Paul H.C.},
-  Journal                  = {International Journal of Digital Earth},
-  Year                     = {2011},
-
-  Month                    = sep,
-  Number                   = {5},
-  Pages                    = {365--386},
-  Volume                   = {4},
-
-  Doi                      = {10.1080/17538947.2010.505664},
-  File                     = {:Atzberger, Eilers - 2011.pdf:PDF},
   ISSN                     = {1753-8947},
   Owner                    = {tnauss},
   Url                      = {http://www.tandfonline.com/doi/abs/10.1080/17538947.2010.505664}
@@ -1031,27 +1067,6 @@
   File                     = {:Ayanu et al. - 2012(2).pdf:PDF},
   ISSN                     = {1520-5851},
   Keywords                 = {Costs and Cost Analysis, Ecosystem, Ecosystem Services, Models, Remote Sensing Technology, Theoretical},
-  Owner                    = {tnauss},
-  Pmid                     = {22816512},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22816512}
-}
-
-@Article{Ayanu2012a,
-  Title                    = {{Quantifying and mapping ecosystem services supplies and demands: a review of remote sensing applications.}},
-  Author                   = {Ayanu, Yohannes Zergaw and Conrad, Christopher and Nauss, Thomas and Wegmann, Martin and Koellner, Thomas},
-  Journal                  = {Environmental science \& technology},
-  Year                     = {2012},
-
-  Month                    = aug,
-  Number                   = {16},
-  Pages                    = {8529--41},
-  Volume                   = {46},
-
-  Abstract                 = {Ecosystems provide services necessary for the livelihoods and well-being of people. Quantifying and mapping supplies and demands of ecosystem services is essential for continuous monitoring of such services to support decision-making. Area-wide and spatially explicit mapping of ecosystem services based on extensive ground surveys is restricted to local scales and limited due to high costs. In contrast, remote sensing provides reliable area-wide data for quantifying and mapping ecosystem services at comparatively low costs, and with the option of fast, frequent, and continuous observations for monitoring. In this paper, we review relevant remote sensing systems, sensor types, and methods applicable in quantifying selected provisioning and regulatory services. Furthermore, opportunities, challenges, and future prospects in using remote sensing for supporting ecosystem services' quantification and mapping are discussed.},
-  Doi                      = {10.1021/es300157u},
-  File                     = {:Ayanu et al. - 2012.pdf:PDF},
-  ISSN                     = {1520-5851},
-  Keywords                 = {Ecosystem Services},
   Owner                    = {tnauss},
   Pmid                     = {22816512},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22816512}
@@ -1168,23 +1183,6 @@
   Keywords                 = {Kilimanjaro, africa, air-sea interaction, atlantic, interannual variability, itcz, rainfal, sst},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
-}
-
-@Article{Balas2007a,
-  Title                    = {{The relationship of rainfall variability in West Central Africa to sea-surface temperature fluctuations}},
-  Author                   = {Balas, N and Nicholson, SE E and Klotter, D},
-  Journal                  = {International Journal of Climatology},
-  Year                     = {2007},
-  Number                   = {June},
-  Pages                    = {1335--1349},
-  Volume                   = {1349},
-
-  Doi                      = {10.1002/joc},
-  File                     = {:Balas, Nicholson, Klotter - 2007.pdf:PDF},
-  Keywords                 = {Kilimanjaro, accepted 30 september 2006, africa, air-sea interaction, atlantic, interannual variability, itcz, rainfal, rainfall, received 7 october 2005, revised 25 september 2006, sst},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/joc.1456/abstract}
 }
 
 @Article{Balic2007,
@@ -1485,24 +1483,6 @@
 
   File                     = {:Barrett, Beaumont - 2009.pdf:PDF},
   Owner                    = {tnauss}
-}
-
-@Article{Barrett1988a,
-  Title                    = {{A new instrument with rainfall monitoring potential}},
-  Author                   = {Barrett, Eric C. and Kidd, Christopher and Bailey, John O.},
-  Journal                  = {International Journal of Remote Sensing},
-  Year                     = {1988},
-
-  Month                    = dec,
-  Number                   = {12},
-  Pages                    = {1943--1950},
-  Volume                   = {9},
-
-  Doi                      = {10.1080/01431168808954993},
-  File                     = {:Barrett, Kidd, Bailey - 1988.pdf:PDF},
-  ISSN                     = {0143-1161},
-  Owner                    = {tnauss},
-  Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1080/01431168808954993\&magic=crossref||D404A21C5BB053405B1A640AFFD44AE3}
 }
 
 @Article{Barriopedro2011,
@@ -3324,6 +3304,23 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22678280}
 }
 
+@Article{Cardinale2012a,
+  Title                    = {Biodiversitylossanditsimpactonhumanity},
+  Author                   = {Cardinale, B.J., Duffy, J. E., Gonzalez, A., Hooper. D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M., Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D. S., Naeem, S.},
+  Journal                  = {Nature},
+  Year                     = {2012},
+  Number                   = {59},
+  Volume                   = {486},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1038/nature11148},
+  File                     = {:Cardinale_at el_Biodiversity loss_ Nature_2012.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.nature.com/nature/journal/v486/n7401/pdf/nature11148.pdf}
+}
+
 @Article{Carling2004,
   Title                    = {{Emigration, return and development in Cape Verde: the impact of closing borders}},
   Author                   = {Carling, J\o rgen},
@@ -4164,6 +4161,19 @@
   Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3118790\&tool=pmcentrez\&rendertype=abstract}
 }
 
+@Proceedings{Collins1996,
+  Title                    = {A Comparison of Spatial Interpolation Techniques in Temperature Estimation},
+  Year                     = {1996},
+
+  __markedentry            = {[tnauss:]},
+  Author                   = {Collins, F. C.},
+  File                     = {:Collins_and_Bolstad_1996_A Comparison of Spatial Interpolation Techniques in Temperature Estimation.doc:Word},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03},
+  Url                      = {http://www.ncgia.ucsb.edu/conf/SANTA_FE_CD-ROM/sf_papers/collins_fred/collins.html}
+}
+
 @Article{Communication2001,
   Title                    = {{Phylogeography of Cape Verde Island skinks ( Mabuya )}},
   Author                   = {Communication, Short},
@@ -4394,6 +4404,23 @@
   Keywords                 = {1121,1134,2004,7,climatic gradients,ecology letters,latitudinal gradients,productivity,speciation,species richness,species-energy theory},
   Owner                    = {tnauss},
   Url                      = {http://doi.wiley.com/10.1111/j.1461-0248.2004.00671.x}
+}
+
+@Article{Currie2004a,
+  Title                    = {Predictions and tests of climate-based hypotheses of
+broad-scale variation in taxonomic richness},
+  Author                   = {Currie, D. J., Mittelbach, G. G., Cornell, H. V., Guegan, J., Hawkins, B. A., Kaufman, D. M., Thierry, J. T. K., O'Brien, O. E., Turner, J. R. G.},
+  Journal                  = {Ecology Letters,},
+  Year                     = {2004},
+  Pages                    = {1121–1134},
+  Volume                   = {7},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1111/j.1461-0248.2004.00671.x},
+  File                     = {:Currie et al 2004 Ecol Lett.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
 }
 
 @Article{Curry2011,
@@ -4779,27 +4806,6 @@
   Url                      = {http://doi.wiley.com/10.1111/j.1365-2486.2009.01997.x}
 }
 
-@Article{Doherty2010a,
-  Title                    = {{Implications of future climate and atmospheric CO 2 content for regional biogeochemistry, biogeography and ecosystem services across East Africa}},
-  Author                   = {Doherty, Ruth M. and Sitch, Stephen and Smith, Benjamin and Lewis, Simon L. and Thornton, Philip K.},
-  Journal                  = {Global Change Biology},
-  Year                     = {2010},
-
-  Month                    = feb,
-  Number                   = {2},
-  Pages                    = {617--640},
-  Volume                   = {16},
-
-  Abstract                 = {We model future changes in land biogeochemistry and biogeography across East Africa. East Africa is one of few tropical regions where general circulation model (GCM) future climate projections exhibit a robust response of strong future warming and general annual-mean rainfall increases. Eighteen future climate projections from nine GCMs participating in the Intergovernmental Panel on Climate Change (IPCC) Fourth Assess- ment were used as input to the LPJ dynamic global vegetation model (DGVM), which predicted vegetation patterns and carbon storage in agreement with satellite observations and forest inventory data under the present-day climate. All simulations showed future increases in tropical woody vegetation over the region at the expense of grasslands. Regional increases in net primary productivity (NPP) (18â€“36\%) and total carbon storage (3â€“13\%) by 2080â€“2099 compared with the present-day were common to all simulations. Despite decreases in soil carbon after 2050, seven out of nine simulations continued to show an annual net land carbon sink in the final decades of the 21st century because vegetation biomass continued to increase. The seasonal cycles of rainfall and soil moisture show future increases in wet season rainfall across the GCMs with generally little change in dry season rainfall. Based on the simulated present-day climate and its future trends, the GCMs can be grouped into four broad categories. Overall, our model results suggest that East Africa, a populous and economically poor region, is likely to experience some ecosystem service benefits through increased precipitation, river runoff and fresh water availability. Resulting enhancements in NPP may lead to improved crop yields in some areas. Our results stand in partial contradiction to other studies that suggest possible negative consequences for agriculture, biodiversity and other ecosystem services caused by temperature increases.},
-  Doi                      = {10.1111/j.1365-2486.2009.01997.x},
-  File                     = {:/Doherty et al. - 2010.pdf:PDF},
-  ISSN                     = {13541013},
-  Keywords                 = {2009, Biodiversity, Ecosystem Services, Kilimanjaro, and accepted 10 may, climate change, climate uncertainty, dgvm, dynamic global vegetation models, east africa, ecosystem services, general circulation models, received 29 january 2009, regional climate impacts},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://doi.wiley.com/10.1111/j.1365-2486.2009.01997.x}
-}
-
 @Article{Doktorgrades2006,
   Title                    = {{SOFOS - A new Satellite-based Operational Fog Observation Scheme}},
   Author                   = {Doktorgrades, Erlangung and Naturwissenschaften, Der},
@@ -4832,7 +4838,7 @@
 
 @Article{Dool2000,
   Title                    = {{Empirical orthogonal teleconnections}},
-  Author                   = {den Dool, HM Van and Saha, S},
+  Author                   = {van den Dool, HM and Saha, S},
   Journal                  = {Journal of Climate},
   Year                     = {2000},
   Pages                    = {1421--1435},
@@ -4971,40 +4977,6 @@
   Abstract                 = {Hourly temperature and humidity observations were obtained over 16 months from loggers ranging in elevation from 1890 to 5800 m a.s.l. up the southwestern slope of Kilimanjaro, Tanzania. The vertical gradient in mean air temperature is non-linear, with the treeline weakening the gradient and the snow-ice line enhancing it. On average, moisture availability (both relative humidity and absolute vapor pressure) decreases with elevation, but the seasonal and diurnal variability in relative humidity (RH) is enhanced toward the mountain summit. The strong diurnal cycle in humidity is shown to be an outcome of strong upslope moisture transport during the day, counterbalanced by downslope transport and drying at night. Cooling on the lower slopes during the months of June and July weakens the lapse rates and consequently convective activity. This is borne out by the reduction in cloud amounts (using a surrogate threshold of RH . 95\%), toward the summit during these months. The lower slopes of Kilimanjaro are observed to be a major moisture source for the summit region, and implications of this for the mass balance of the summit glaciers are discussed.},
   Doi                      = {10.1657/1523-0430(06-127)},
   File                     = {:Duane et al. - 2008.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Duane2008b,
-  Title                    = {{General Characteristics of Temperature and Humidity Variability on Kilimanjaro , Tanzania}},
-  Author                   = {Duane, W J and Pepin, N C and Losleben, M L and Hardy, D R},
-  Journal                  = {Arctic, Antarctic, and Alpine Research},
-  Year                     = {2008},
-  Number                   = {2},
-  Pages                    = {323--334},
-  Volume                   = {40},
-
-  Abstract                 = {Hourly temperature and humidity observations were obtained over 16 months from loggers ranging in elevation from 1890 to 5800 m a.s.l. up the southwestern slope of Kilimanjaro, Tanzania. The vertical gradient in mean air temperature is non-linear, with the treeline weakening the gradient and the snow-ice line enhancing it. On average, moisture availability (both relative humidity and absolute vapor pressure) decreases with elevation, but the seasonal and diurnal variability in relative humidity (RH) is enhanced toward the mountain summit. The strong diurnal cycle in humidity is shown to be an outcome of strong upslope moisture transport during the day, counterbalanced by downslope transport and drying at night. Cooling on the lower slopes during the months of June and July weakens the lapse rates and consequently convective activity. This is borne out by the reduction in cloud amounts (using a surrogate threshold of RH . 95\%), toward the summit during these months. The lower slopes of Kilimanjaro are observed to be a major moisture source for the summit region, and implications of this for the mass balance of the summit glaciers are discussed.},
-  Doi                      = {10.1657/1523-0430(06-127)},
-  File                     = {:/Duane et al. - 2008.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Duane2008c,
-  Title                    = {{General Characteristics of Temperature and Humidity Variability on Kilimanjaro , Tanzania}},
-  Author                   = {Duane, W J and Pepin, N C and Losleben, M L and Hardy, D R},
-  Journal                  = {Arctic, Antarctic, and Alpine Research},
-  Year                     = {2008},
-  Number                   = {2},
-  Pages                    = {323--334},
-  Volume                   = {40},
-
-  Abstract                 = {Hourly temperature and humidity observations were obtained over 16 months from loggers ranging in elevation from 1890 to 5800 m a.s.l. up the southwestern slope of Kilimanjaro, Tanzania. The vertical gradient in mean air temperature is non-linear, with the treeline weakening the gradient and the snow-ice line enhancing it. On average, moisture availability (both relative humidity and absolute vapor pressure) decreases with elevation, but the seasonal and diurnal variability in relative humidity (RH) is enhanced toward the mountain summit. The strong diurnal cycle in humidity is shown to be an outcome of strong upslope moisture transport during the day, counterbalanced by downslope transport and drying at night. Cooling on the lower slopes during the months of June and July weakens the lapse rates and consequently convective activity. This is borne out by the reduction in cloud amounts (using a surrogate threshold of RH . 95\%), toward the summit during these months. The lower slopes of Kilimanjaro are observed to be a major moisture source for the summit region, and implications of this for the mass balance of the summit glaciers are discussed.},
-  Doi                      = {10.1657/1523-0430(06-127)},
-  File                     = {:/Duane et al. - 2008.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -5638,26 +5610,6 @@
   File                     = {:/Fairman et al. - 2011.pdf:PDF},
   ISSN                     = {0148-0227},
   Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.agu.org/pubs/crossref/2011/2010JD014712.shtml}
-}
-
-@Article{Fairman2011a,
-  Title                    = {{Land use change impacts on regional climate over Kilimanjaro}},
-  Author                   = {Fairman, Jonathan G. and Nair, Udaysankar S. and Christopher, Sundar a. and M\"{o}lg, Thomas},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2011},
-
-  Month                    = feb,
-  Number                   = {D3},
-  Pages                    = {1--24},
-  Volume                   = {116},
-
-  Doi                      = {10.1029/2010JD014712},
-  File                     = {:Fairman et al. - 2011(2).pdf:PDF},
-  ISSN                     = {0148-0227},
-  Keywords                 = {Kilimanjaro, doi:10.102, http://dx.doi.org/10.1029/2010JD014712},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.agu.org/pubs/crossref/2011/2010JD014712.shtml}
@@ -6409,6 +6361,21 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0168192311002619}
 }
 
+@Article{Fries2009a,
+  Title                    = {Thermal structure of a megadiverse andean mountain ecosystem in southern Equador and its regionalization},
+  Author                   = {Fries, A., Rollenbeck, R., Göttlicher, D., Nauss, T., Homeier, J., Peters, T., Bendix, J.},
+  Journal                  = {Erdkunde},
+  Year                     = {2009},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.3112/erdkunde.2009.04.03},
+  File                     = {:Fries_et al_Therma structure of megadiverse_Erdkunde_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.giub.uni-bonn.de/erdkunde}
+}
+
 @Article{Frumau2006,
   Title                    = {{Final Technical Report DFID-FRP Project no . R7991 Part I :}},
   Author                   = {Frumau, Arnoud and Tob\'{o}n, Conrado and Bruijnzeel, Sampurno},
@@ -6546,17 +6513,6 @@
   Pages                    = {37--41},
 
   File                     = {:G\"{o}ttlicher et al. - 2009(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{Goettlicher2009a,
-  Title                    = {{International Journal of Remote Land â€? cover classification in the Andes of southern Ecuador using Landsat ETM + data as a basis for SVAT modelling}},
-  Author                   = {G\"{o}ttlicher, D and Obreg\'{o}n, A and Homeier, J and Rollenbeck, R},
-  Year                     = {2009},
-  Number                   = {August 2012},
-  Pages                    = {37--41},
-
-  File                     = {:G\"{o}ttlicher et al. - 2009(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -7073,6 +7029,24 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0143622811002384}
 }
 
+@Article{Goovaerts2000,
+  Title                    = {Geostatistical approaches for incorporating elevation into the
+spatial interpolation of rainfall},
+  Author                   = {Goovaerts, P.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2000},
+  Pages                    = {113-129},
+  Volume                   = {228},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/S0022-1694(00)00144-X},
+  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
+  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
+}
+
 @Article{Goudie2002,
   Title                    = {{The roles of salt (sodium nitrate) and fog in weathering: a laboratory simulation of conditions in the northern Atacama Desert, Chile}},
   Author                   = {Goudie, a},
@@ -7279,21 +7253,6 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
 }
 
 @Article{Gritti2010,
-  Title                    = {{Simulated effects of a seasonal precipitation change on the vegetation in tropical Africa}},
-  Author                   = {Gritti, E S and Cassignat, C and Flores, O and Bonnefille, R and Chali\'{e}, F and Guiot, J and Jolly, D},
-  Journal                  = {Climate on the Past},
-  Year                     = {2010},
-  Pages                    = {169--178},
-  Volume                   = {6},
-
-  Abstract                 = {Pollen data collected in Africa at high (Ku- ruyange, valley swamp, Burundi) and low altitude (Victoria, lake, Uganda; Ngamakala, pond, Congo) showed that after 6 ky before present (BP), pollen of deciduous trees increase their relative percentage, suggesting thus the reduction of the annual amount of precipitation and/or an increase of in the length of the dry season. Until now, pollen-climate trans- fer functions only investigated mean annual precipitation, due to the absence of modern pollen-assemblage analogs un- der diversified precipitation regimes. Hence these functions omit the potential effect of a change in precipitation season- ality modifying thus the length of the dry season. In the present study, we use an equilibrium biosphere model (i.e. BIOME3.5) to estimate the sensitivity of equatorial African vegetation, at specific sites, to such changes. Climatic sce- narios, differing only in the monthly distribution of the cur- rent annual amount of precipitation, are examined at the above three locations in equatorial Africa. Soil characteris- tics, monthly temperatures and cloudiness are kept constant at their present-day values. Good agreement is shown be- tween model simulations and current biomes assemblages, as inferred from pollen data. To date, the increase of the de- ciduous forest component in the palaeodata around 6 kyBP has been interpreted as the beginning of a drier climate pe- riod. However, our results demonstrate that a change in the seasonal distribution of precipitation could also induce the observed changes in vegetation types. This study confirms the importance of taking into account seasonal changes in the hydrological balance. Palaeoecologists can greatly ben- efit from the use of dynamic process based vegetation models to acccount for modification of the length of the dry sea- son when they wish to reconstruct vegetation composition or to infer quantitative climate parameters, such as temperature and precipitation, from pollen or vegetation proxy.},
-  File                     = {:/Gritti et al. - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Gritti2010a,
   Title                    = {{Simulated effects of a seasonal precipitation change on the vegetation in tropical Africa}},
   Author                   = {Gritti, E S and Cassignat, C and Flores, O and Bonnefille, R and Chali\'{e}, F and Guiot, J and Jolly, D},
   Journal                  = {Climate on the Past},
@@ -8189,6 +8148,23 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JCLI4238.1}
 }
 
+@Article{Hawkins2003a,
+  Title                    = {Energy, water, and broad-scale geographic patterns of species richness},
+  Author                   = {Hawkins, B. A., Field, R., Cornell, H. V., Currie, D. J., Guegan, J., Kaufman, D. M., Kerr, J. T., Mittelbach, G. G., Oberdorff, T., O'Brien, E. M., Porter, E. E., Turner, J. R. G.},
+  Journal                  = {Ecology},
+  Year                     = {2003},
+  Number                   = {12},
+  Pages                    = {3105-3117},
+  Volume                   = {84},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Hawkins_et al_Energy_water_Ecology_2003.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation, diversity gradients, energy hypothesis, latitudinalgradient, productivity hypothesis},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.jstor.org/stable/pdfplus/3450055.pdf?acceptTC=true&jpdConfirm=true}
+}
+
 @Article{Hawkins2003,
   Title                    = {{Energy, water, and broad-scale geographic patterns of species richness}},
   Author                   = {Hawkins, BA and Field, R and Cornell, HV},
@@ -8266,6 +8242,22 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Owner                    = {tnauss},
   Pmid                     = {17625564},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/17625564}
+}
+
+@Article{Hector2007a,
+  Title                    = {Biodiversity and ecosystem multifunctionality},
+  Author                   = {Hector, A., Bagchi, R.},
+  Journal                  = {Nature},
+  Year                     = {2007},
+  Volume                   = {448},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1038/nature05947},
+  File                     = {:Hector_and_Bagchi_Biodiversity_and_Ecosystem_multifunctionality_Nature_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.nature.com/nature/journal/v448/n7150/pdf/nature05947.pdf}
 }
 
 @Article{Heiden2012,
@@ -8472,26 +8464,6 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.springerlink.com/index/10.1007/s11258-005-9049-4}
-}
-
-@Article{Hemp2005b,
-  Title                    = {{Climate change-driven forest fires marginalize the impact of ice cap wasting on Kilimanjaro}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {Global Change Biology},
-  Year                     = {2005},
-
-  Month                    = jul,
-  Number                   = {7},
-  Pages                    = {1013--1023},
-  Volume                   = {11},
-
-  Doi                      = {10.1111/j.1365-2486.2005.00968.x},
-  File                     = {:Hemp - 2005(3).pdf:PDF},
-  ISSN                     = {1354-1013},
-  Keywords                 = {28 january 2005, Kilimanjaro, alpine vegetation, climate change, cloud forest, east africa, erica, forest fires, january 2005 and accepted, montane and subalpine, received 10 may 2004, revised version received 7, vegetation change, vegetation zones},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2486.2005.00968.x}
 }
 
 @Article{Hemp2002,
@@ -8830,6 +8802,22 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0924271608001172}
 }
 
+@Article{Ho2014,
+  Title                    = {Mapping maximum urban air temperature on hot summer days},
+  Author                   = {Ho, H. C., Knudby, A., Sirovyak, P., Xu, Y., Hodul, M., Henderson, S. B.,},
+  Journal                  = {Remote Sensing of the Environment},
+  Year                     = {2014},
+  Pages                    = {38-45},
+  Volume                   = {154},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Ho_et_al_mapping_maximum_summer_temp_Remote_sensing_2014.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.1016/j.rse.2014.08.012}
+}
+
 @Article{Hoerling2002,
   Title                    = {{Atmospheric response patterns associated with tropical forcing}},
   Author                   = {Hoerling, Martin P. and Kumar, Arun},
@@ -8867,6 +8855,22 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   File                     = {:Hofmann, Lohmann, M\"{u}ller - 2008.pdf:PDF},
   Keywords                 = {change detection,gis,indicators,satellite mapping,updating},
   Owner                    = {tnauss}
+}
+
+@Article{Hofstra2008,
+  Title                    = {Comparison of six methods for the interpolation of daily,
+European climate data},
+  Author                   = {Hofstra, N., Haylock, M., New, M., Jones, P., Frei, C.},
+  Journal                  = {Journal of Geographical Research},
+  Year                     = {2008},
+  Volume                   = {113},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1029/2008JD010100},
+  File                     = {:Hofstra_et_al_2008_Comparison of six methods for interpolation of daily European climate data_Journal_Geo_Res_133.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
 }
 
 @PhdThesis{Hohl2001,
@@ -9828,6 +9832,23 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://doi.wiley.com/10.1002/hyp.7847}
 }
 
+@Article{Jarvis2001,
+  Title                    = {A Comparison among Strategies for Interpolating Maximum and Minimum Daily Air
+Temperatures. Part I: The Selection of ‘‘Guiding’’ Topographic
+and Land Cover Variables},
+  Author                   = {Jarvis, C. H., Stuart, N.},
+  Journal                  = {Journal of Applied Meteorology},
+  Year                     = {2001},
+  Volume                   = {40},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Jarvis_and_Stuart_2001_A comparison among strategies for interpolating maximum and minimum daily air temperatures_J_Appl_Meteorol.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://journals.ametsoc.org/doi/pdf/10.1175/1520-0450%282001%29040%3C1060%3AACASFI%3E2.0.CO%3B2}
+}
+
 @Article{Jaskierniak2011,
   Title                    = {{Extracting LiDAR indices to characterise multilayered forest structure using mixture distribution functions}},
   Author                   = {Jaskierniak, Dominik and Lane, Patrick N.J. and Robinson, Andrew and Lucieer, Arko},
@@ -9913,20 +9934,6 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
 }
 
 @Article{Jochum2005,
-  Title                    = {{Internal Variability of Indian Ocean SST}},
-  Author                   = {Jochum, Markus and Murtugudde, Raghu},
-  Journal                  = {Journal of Climate},
-  Year                     = {2005},
-  Pages                    = {3726--3738},
-  Volume                   = {18},
-
-  File                     = {:/Jochum, Murtugudde - 2005.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Jochum2005a,
   Title                    = {{Internal Variability of Indian Ocean SST}},
   Author                   = {Jochum, Markus and Murtugudde, Raghu},
   Journal                  = {Journal of Climate},
@@ -10355,26 +10362,6 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   File                     = {:/Kaser et al. - 2004.pdf:PDF},
   ISSN                     = {0899-8418},
   Keywords                 = {Kilimanjaro, climatic change, data synopsis, glaciological field observations, kilimanjaro, research concept, tropical glaciers},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://doi.wiley.com/10.1002/joc.1008}
-}
-
-@Article{Kaser2004a,
-  Title                    = {{Modern glacier retreat on Kilimanjaro as evidence of climate change: observations and facts}},
-  Author                   = {Kaser, Georg and Hardy, Douglas R. and M\"{o}lg, Thomas and Bradley, Raymond S. and Hyera, Tharsis M.},
-  Journal                  = {International Journal of Climatology},
-  Year                     = {2004},
-
-  Month                    = mar,
-  Number                   = {3},
-  Pages                    = {329--339},
-  Volume                   = {24},
-
-  Doi                      = {10.1002/joc.1008},
-  File                     = {:Kaser et al. - 2004.pdf:PDF},
-  ISSN                     = {0899-8418},
-  Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://doi.wiley.com/10.1002/joc.1008}
@@ -12264,6 +12251,20 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://link.springer.com/10.1007/978-1-4614-6849-3}
 }
 
+@Book{Kuhn2013a,
+  Title                    = {Applied Predictive Modeling},
+  Author                   = {Kuhn, M., Johnson, K.},
+  Publisher                = {Springer},
+  Year                     = {2013},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1007/978-1-4614-6849-3},
+  File                     = {:Kuhn_and_Johnson_Applied_Predictive_Modeliing_Springer_2008.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
 @Article{Kultusministerium,
   Title                    = {{Bildungsstandards und Inhaltsfelder}},
   Author                   = {Kultusministerium, Hessisches},
@@ -13345,6 +13346,19 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Url                      = {http://link.springer.com/10.1007/BF00125347}
 }
 
+@Article{Li2013,
+  Title                    = {Predicting the spatial distribution of seabed gravel content using random forest, spatial interpolation methods and their hybrid methods},
+  Author                   = {Li, J.},
+  Year                     = {2013},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:li_2013_predicting_spatial_distribution_of_seabed_gravel_content_using_random_forest_spatial_interpolation.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.mssanz.org.au/modsim2013/A9/li.pdf}
+}
+
 @Article{Li,
   Title                    = {{A Review of Spatial Interpolation Methods for Environmental Scientists}},
   Author                   = {Li, Jin and Heap, Andrew D},
@@ -13366,6 +13380,69 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   ISSN                     = {1520-0450},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450(2003)042\%3C0204\%3AHSRSAC\%3E2.0.CO\%3B2}
+}
+
+@Article{Li2008,
+  Title                    = {A Review of Spatial Interpolation Methods for Environmental Scientists},
+  Author                   = {Li, J., Heap, A.},
+  Journal                  = {Geoscience Australia},
+  Year                     = {2008},
+  Volume                   = {23},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Li_and_Heap_2008_A review of spatial interpolation methods for environmental scientist_Geoscience_Australia_No_Record_2008_23.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.ga.gov.au/image_cache/GA12526.pdf}
+}
+
+@Article{Li2011a,
+  Title                    = {Application of machine learning methods to spatial interpolation of environmental variables},
+  Author                   = {Li, J., Heap, A., Potter, A., Daniell, J. J.},
+  Journal                  = {Environmental Modelling \& Software},
+  Year                     = {2011},
+  Pages                    = {1647-1659},
+  Volume                   = {26},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/j.envsoft.2011.07.004},
+  File                     = {:Li_et_al_Application_of_machine_lerning_methods_to_spatial_interpolation_2011.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Li2011b,
+  Title                    = {Can weimprovethespatialpredictionsofseabedsediments?Acasestudyof spatial interpolationofmudcontentacrossthesouthwestAustralianmargin},
+  Author                   = {Li, J., Heap, A., Potter, A., Huang, Z., Daniell, J. J.},
+  Journal                  = {Continental Shelf Research},
+  Year                     = {2011},
+  Pages                    = {1365–1376},
+  Volume                   = {31},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/j.csr.2011.05.015},
+  File                     = {:Li_et_el_2011_Can we improve the spatial predicions of seabed sediments_case study of spatial interpolation of mud content across the southwest australian margin_Continenental Shelf Research_31.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S027843431100197X}
+}
+
+@Article{Li2012,
+  Title                    = {Predicting Seabed Sand Content across the Australian Margin Using Machine Learning and Geostatistical Methods},
+  Author                   = {Li, J., Potter, A., Huang, Z., Heap, A. D.},
+  Journal                  = {Geoscience Australia},
+  Year                     = {2012},
+  Volume                   = {48},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Li_Predicting seabed sand content across the Autralian using machine learning and Geostatistical methods.Geoscience_2012_48.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.ga.gov.au/corporate_data/74030/Rec2012_048.pdf}
 }
 
 @Article{Li1996,
@@ -13407,6 +13484,23 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Owner                    = {tnauss},
   Pmid                     = {12391327},
   Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=137927\&tool=pmcentrez\&rendertype=abstract}
+}
+
+@Article{Liess2012,
+  Title                    = {Uncertainty in the spatial prediction of soil texture Comparison of regression tree and Random Forest models},
+  Author                   = {Liess, M., Glaser, B., Huwe, B.},
+  Journal                  = {Geoderma},
+  Year                     = {2012},
+  Pages                    = {70-79},
+  Volume                   = {170},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/j.geoderma.2011.10.010},
+  File                     = {:Liess_et_al_2012_Uncertanity in the spatial prediction of soil texture comparison of regression tree and random forest model_Geoderma_170.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0016706111002953}
 }
 
 @Article{Linthicum1999,
@@ -13489,6 +13583,20 @@ CONCLUSION: Public health advice can reduce morbidity and mortality from windsto
   Publisher                = {Nature Publishing Group},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.nature.com/doifinder/10.1038/nclimate1043}
+}
+
+@Article{Loeffler2006,
+  Title                    = {The climatologic significance of topography, altitude and region in high mountains – A survey of oceanic-continental differentiations of the Scandes.},
+  Author                   = {Löffler, J., Pape, R., Wundram, D.},
+  Journal                  = {Erdkunde},
+  Year                     = {2006},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.3112/erdkunde.2006.01.02},
+  File                     = {:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_supplimentary.pdf:PDF;:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_main.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
 }
 
 @Article{Lohmann2000,
@@ -14655,35 +14763,6 @@ Vol.},
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Marzeion2010a,
-  Title                    = {{Land-use change around Kilimanjaro and its potential impact on glaciation}},
-  Author                   = {Marzeion, Ben and M\"{o}lg, Thomas and Hofer, Marlis and Kaser, Georg and Hemp, Andreas},
-  Journal                  = {Geophysical Research Abstracts},
-  Year                     = {2010},
-  Volume                   = {12},
-
-  Abstract                 = {Changes in glacier extent are effects of the variability of the atmospheric conditions integrated over a time span similar to that often referred to as the timescale on which the climate system should be assessed (i. e., decades). In remote locations characterized through sparse instrumental data records, such as Kilimanjaro, glaciers therefore provide a valuable opportunity to reveal climate change. However, in order to be able to make statements about the large scale, potential local influences have to be understood. In the case of Kilimajaro, large changes in vegetation have been observed, in particular resulting in re- duced montane and subalpine forest coverage. Using a numerical atmospheric circulation model (WRF), we quantify the impact of anthropogenic land-use change around Kilimanjaro on summit climate, using on-site automated weather stations as validation tools.We then use a glacier mass balance model to directly evaluate the impact of local scale vegetation change on the glaciers of Kilimanjaro.},
-  File                     = {:/Marzeion et al. - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Marzeion2010b,
-  Title                    = {{Land-use change around Kilimanjaro and its potential impact on glaciation}},
-  Author                   = {Marzeion, Ben and M\"{o}lg, Thomas and Hofer, Marlis and Kaser, Georg and Hemp, Andreas},
-  Journal                  = {Geophysical Research Abstracts},
-  Year                     = {2010},
-  Pages                    = {8004},
-  Volume                   = {12},
-
-  Abstract                 = {Changes in glacier extent are effects of the variability of the atmospheric conditions integrated over a time span similar to that often referred to as the timescale on which the climate system should be assessed (i. e., decades). In remote locations characterized through sparse instrumental data records, such as Kilimanjaro, glaciers therefore provide a valuable opportunity to reveal climate change. However, in order to be able to make statements about the large scale, potential local influences have to be understood. In the case of Kilimajaro, large changes in vegetation have been observed, in particular resulting in re- duced montane and subalpine forest coverage. Using a numerical atmospheric circulation model (WRF), we quantify the impact of anthropogenic land-use change around Kilimanjaro on summit climate, using on-site automated weather stations as validation tools.We then use a glacier mass balance model to directly evaluate the impact of local scale vegetation change on the glaciers of Kilimanjaro.},
-  File                     = {:/Marzeion et al. - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
 @Article{Mas2008,
   Title                    = {{The application of artificial neural networks to the analysis of remotely sensed data}},
   Author                   = {Mas, J. F. and Flores, J. J.},
@@ -14716,48 +14795,6 @@ Vol.},
   Abstract                 = {Aim The FAO land-cover classification system (LCCS) represents an innovative approach to standardizing and harmonizing land-cover classifications based on remote sensing data. The thematic information considered by the LCCS, however, is intrinsically related to vegetation physiognomy and does not report important eco-climatic features. Our aim is to develop a methodology to enrich LCCS maps with information on vegetation productivity and phenology derived from Moderate Resolution Imaging Spectroradiometer (MODIS) normalized difference vegetation index (NDVI) data. Location The LCCS has recently been applied in East Africa by the Africover project. The proposed methodology is developed and tested in Tanzania using MODIS NDVI data for a 5-year period (2001â€“05). Methods Annual NDVI profiles of Africover polygons were extracted from MODIS imagery. These profiles, composed of 23 NDVI values per year, were averaged over the study period, purified for possible land-cover errors and converted into a more manageable format composed of 24 half-month values. The resulting NDVI profiles were first analysed visually and then evaluated statistically against rainfall measurements taken at 12 Tanzanian stations. The steps involved were as follows: NDVI values were aggregated on a monthly basis and represented with a one-digit integer to obtain an extended code; a subset of parameters describing vegetation development and phenology was identified, thus obtaining a restricted codification; and finally, the information loss resulting from both the extended and restricted codification was evaluated with respect to the original NDVI profiles. Results NDVI profiles of different Africover classes can differ in mean values but tend to have a similar shape, linked to the seasonality of local vegetation. Both NDVI annual averages and seasonal variations are strictly dependent on rainfall patterns, particularly in arid zones. The tested codifications effectively summarize the eco-climatic information contained in the polygon NDVI profiles, with the extended and restricted codifications retaining > 90\% and 80\% of such information, respectively. Main conclusions The proposed methodology is capable of enriching LCCS polygons with eco-climatic information derived from MODIS NDVI data. Such information is related to vegetation development and seasonality, and can be efficiently condensed at various levels of detail.},
   Doi                      = {10.1111/j.1365-2699.2008.01981.x},
   File                     = {:/Maselli et al. - 2009.pdf:PDF},
-  ISSN                     = {03050270},
-  Keywords                 = {Kilimanjaro, codification, east africa, eco-climatic information, land-cover classification, lccs, modis, ndvi, tanzania},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://doi.wiley.com/10.1111/j.1365-2699.2008.01981.x}
-}
-
-@Article{Maselli2009a,
-  Title                    = {{Enrichment of land-cover polygons with eco-climatic information derived from MODIS NDVI imagery}},
-  Author                   = {Maselli, Fabio and {Di Gregorio}, Antonio and Capecchi, Valerio and Breda, Federico},
-  Journal                  = {Journal of Biogeography},
-  Year                     = {2009},
-
-  Month                    = apr,
-  Number                   = {4},
-  Pages                    = {639--650},
-  Volume                   = {36},
-
-  Abstract                 = {Aim The FAO land-cover classification system (LCCS) represents an innovative approach to standardizing and harmonizing land-cover classifications based on remote sensing data. The thematic information considered by the LCCS, however, is intrinsically related to vegetation physiognomy and does not report important eco-climatic features. Our aim is to develop a methodology to enrich LCCS maps with information on vegetation productivity and phenology derived from Moderate Resolution Imaging Spectroradiometer (MODIS) normalized difference vegetation index (NDVI) data. Location The LCCS has recently been applied in East Africa by the Africover project. The proposed methodology is developed and tested in Tanzania using MODIS NDVI data for a 5-year period (2001â€“05). Methods Annual NDVI profiles of Africover polygons were extracted from MODIS imagery. These profiles, composed of 23 NDVI values per year, were averaged over the study period, purified for possible land-cover errors and converted into a more manageable format composed of 24 half-month values. The resulting NDVI profiles were first analysed visually and then evaluated statistically against rainfall measurements taken at 12 Tanzanian stations. The steps involved were as follows: NDVI values were aggregated on a monthly basis and represented with a one-digit integer to obtain an extended code; a subset of parameters describing vegetation development and phenology was identified, thus obtaining a restricted codification; and finally, the information loss resulting from both the extended and restricted codification was evaluated with respect to the original NDVI profiles. Results NDVI profiles of different Africover classes can differ in mean values but tend to have a similar shape, linked to the seasonality of local vegetation. Both NDVI annual averages and seasonal variations are strictly dependent on rainfall patterns, particularly in arid zones. The tested codifications effectively summarize the eco-climatic information contained in the polygon NDVI profiles, with the extended and restricted codifications retaining > 90\% and 80\% of such information, respectively. Main conclusions The proposed methodology is capable of enriching LCCS polygons with eco-climatic information derived from MODIS NDVI data. Such information is related to vegetation development and seasonality, and can be efficiently condensed at various levels of detail.},
-  Doi                      = {10.1111/j.1365-2699.2008.01981.x},
-  File                     = {:/Maselli et al. - 2009.pdf:PDF},
-  ISSN                     = {03050270},
-  Keywords                 = {Kilimanjaro, codification, east africa, eco-climatic information, land-cover classification, lccs, modis, ndvi, tanzania},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://doi.wiley.com/10.1111/j.1365-2699.2008.01981.x}
-}
-
-@Article{Maselli2009b,
-  Title                    = {{Enrichment of land-cover polygons with eco-climatic information derived from MODIS NDVI imagery}},
-  Author                   = {Maselli, Fabio and {Di Gregorio}, Antonio and Capecchi, Valerio and Breda, Federico},
-  Journal                  = {Journal of Biogeography},
-  Year                     = {2009},
-
-  Month                    = apr,
-  Number                   = {4},
-  Pages                    = {639--650},
-  Volume                   = {36},
-
-  Abstract                 = {Aim The FAO land-cover classification system (LCCS) represents an innovative approach to standardizing and harmonizing land-cover classifications based on remote sensing data. The thematic information considered by the LCCS, however, is intrinsically related to vegetation physiognomy and does not report important eco-climatic features. Our aim is to develop a methodology to enrich LCCS maps with information on vegetation productivity and phenology derived from Moderate Resolution Imaging Spectroradiometer (MODIS) normalized difference vegetation index (NDVI) data. Location The LCCS has recently been applied in East Africa by the Africover project. The proposed methodology is developed and tested in Tanzania using MODIS NDVI data for a 5-year period (2001â€“05). Methods Annual NDVI profiles of Africover polygons were extracted from MODIS imagery. These profiles, composed of 23 NDVI values per year, were averaged over the study period, purified for possible land-cover errors and converted into a more manageable format composed of 24 half-month values. The resulting NDVI profiles were first analysed visually and then evaluated statistically against rainfall measurements taken at 12 Tanzanian stations. The steps involved were as follows: NDVI values were aggregated on a monthly basis and represented with a one-digit integer to obtain an extended code; a subset of parameters describing vegetation development and phenology was identified, thus obtaining a restricted codification; and finally, the information loss resulting from both the extended and restricted codification was evaluated with respect to the original NDVI profiles. Results NDVI profiles of different Africover classes can differ in mean values but tend to have a similar shape, linked to the seasonality of local vegetation. Both NDVI annual averages and seasonal variations are strictly dependent on rainfall patterns, particularly in arid zones. The tested codifications effectively summarize the eco-climatic information contained in the polygon NDVI profiles, with the extended and restricted codifications retaining > 90\% and 80\% of such information, respectively. Main conclusions The proposed methodology is capable of enriching LCCS polygons with eco-climatic information derived from MODIS NDVI data. Such information is related to vegetation development and seasonality, and can be efficiently condensed at various levels of detail.},
-  Doi                      = {10.1111/j.1365-2699.2008.01981.x},
-  File                     = {:Maselli et al. - 2009.pdf:PDF},
   ISSN                     = {03050270},
   Keywords                 = {Kilimanjaro, codification, east africa, eco-climatic information, land-cover classification, lccs, modis, ndvi, tanzania},
   Owner                    = {tnauss},
@@ -14838,18 +14875,6 @@ Vol.},
   Pages                    = {1--8},
 
   File                     = {:/Material - 2011.pdf:PDF;:/Material - 2011.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Material2011a,
-  Title                    = {{Lc 1976}},
-  Author                   = {Material, Supplementary Online},
-  Year                     = {2011},
-  Pages                    = {1--8},
-
-  File                     = {:Material - 2011.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -15039,48 +15064,6 @@ Vol.},
   Url                      = {http://www.springerlink.com/index/10.1007/s10040-009-0558-4}
 }
 
-@Article{Mckenzie2010a,
-  Title                    = {{A hydrogeochemical survey of Kilimanjaro (Tanzania): implications for water sources and ages}},
-  Author                   = {Mckenzie, Jeffrey M. and Mark, Bryan G. and Thompson, Lonnie G. and Schotterer, Ulrich and Lin, Ping-Nan},
-  Journal                  = {Hydrogeology Journal},
-  Year                     = {2010},
-
-  Month                    = jan,
-  Number                   = {4},
-  Pages                    = {985--995},
-  Volume                   = {18},
-
-  Abstract                 = {Kilimanjaro, Tanzania, the highest mountain in Africa, has undergone extensive hydrologic changes over the past century in an area where water resources are critical. A hydrochemical and isotopic synoptic sampling program in January 2006 is used to characterize hydro- geology, hydrology, and water quality of the area. Samples were collected from the summit and southern side of Kilimanjaro and the Moshi region (Tanzania). Sample sources included four glaciers, seven groundwater wells, 12 rivers, 10 springs, precipitation, and a lake. Analyses included major ion chemistry, stable isotopes of water (18O and D); in addition, seven samples were analyzed for tritium. The samples generally have good water quality with the exception of three samples with elevated fluoride concentrations (>3 mg/L) and elevated nitrate concen- trations (>2.5 mg/L NO3 as N). There is a strong elevation control on stable isotopes, with an apparent elevation effect of â€“ 0.1 â€° $\delta$18O per 100 m rise in elevation (R2 = 0.79). The results, including the tritium values, show that the hydrogeologic system is comprised of both local and regional flow systems, and that regional rivers are receiving significant inflow from shallow groundwater, and at very high elevations the hydrologic system is derived from groundwater, precipitation, and glacial melt water.},
-  Doi                      = {10.1007/s10040-009-0558-4},
-  File                     = {:/Mckenzie et al. - 2010.pdf:PDF},
-  ISSN                     = {1431-2174},
-  Keywords                 = {Kilimanjaro, groundwater age, hydrochemistry, kilimanjaro, tanzania, volcanic aquifer},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s10040-009-0558-4}
-}
-
-@Article{Mckenzie2010b,
-  Title                    = {{A hydrogeochemical survey of Kilimanjaro (Tanzania): implications for water sources and ages}},
-  Author                   = {Mckenzie, Jeffrey M. and Mark, Bryan G. and Thompson, Lonnie G. and Schotterer, Ulrich and Lin, Ping-Nan},
-  Journal                  = {Hydrogeology Journal},
-  Year                     = {2010},
-
-  Month                    = jan,
-  Number                   = {4},
-  Pages                    = {985--995},
-  Volume                   = {18},
-
-  Abstract                 = {Kilimanjaro, Tanzania, the highest mountain in Africa, has undergone extensive hydrologic changes over the past century in an area where water resources are critical. A hydrochemical and isotopic synoptic sampling program in January 2006 is used to characterize hydro- geology, hydrology, and water quality of the area. Samples were collected from the summit and southern side of Kilimanjaro and the Moshi region (Tanzania). Sample sources included four glaciers, seven groundwater wells, 12 rivers, 10 springs, precipitation, and a lake. Analyses included major ion chemistry, stable isotopes of water (18O and D); in addition, seven samples were analyzed for tritium. The samples generally have good water quality with the exception of three samples with elevated fluoride concentrations (>3 mg/L) and elevated nitrate concen- trations (>2.5 mg/L NO3 as N). There is a strong elevation control on stable isotopes, with an apparent elevation effect of â€“ 0.1 â€° $\delta$18O per 100 m rise in elevation (R2 = 0.79). The results, including the tritium values, show that the hydrogeologic system is comprised of both local and regional flow systems, and that regional rivers are receiving significant inflow from shallow groundwater, and at very high elevations the hydrologic system is derived from groundwater, precipitation, and glacial melt water.},
-  Doi                      = {10.1007/s10040-009-0558-4},
-  File                     = {:/Mckenzie et al. - 2010.pdf:PDF},
-  ISSN                     = {1431-2174},
-  Keywords                 = {Kilimanjaro, groundwater age, hydrochemistry, kilimanjaro, tanzania, volcanic aquifer},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s10040-009-0558-4}
-}
-
 @Article{McVicar1998,
   Title                    = {{The Current and Potential Operational Uses of Remote Sensing to Aid Decisions on Drought Exceptional Circumstances in Australia : a Review}},
   Author                   = {McVicar, T.R. and Jupp, D.L.B.},
@@ -15216,6 +15199,20 @@ Vol.},
   ISSN                     = {0177-7971},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/Index/10.1007/s00703-002-0554-x}
+}
+
+@Article{Melini2013,
+  Title                    = {A spatial model for sporadic tree species distribution in support of tree oriented silviculture},
+  Author                   = {Melini, D.},
+  Journal                  = {Annals of Silvicultural Research},
+  Year                     = {2013},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Melini_2013_751-2878-1-PB.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.12899/ASR-751}
 }
 
 @Article{Menz1997,
@@ -15577,27 +15574,6 @@ Vol.},
   Url                      = {http://www.academicjournals.org/jgrp/abstracts/abstracts/Abstracts 2012/18 Mar/Misana et al.htm}
 }
 
-@Article{Misana2012a,
-  Title                    = {{Land-use/cover changes and their drivers on the slopes of Mount Kilimanjaro, Tanzania}},
-  Author                   = {Misana, Salome B and Sokoni, Cosmas and Mbonile, Milline J},
-  Journal                  = {Journal of Geography and Regional Planning},
-  Year                     = {2012},
-
-  Month                    = mar,
-  Number                   = {6},
-  Pages                    = {151--164},
-  Volume                   = {5},
-
-  Abstract                 = {This paper presents the findings of a study that analyzed land use and cover change, their driving forces and the socio-economic implications on the southern and eastern slopes of Mount Kilimanjaro. This study is based on data extracted from remote sensing techniques using 1973, 1984 and 1999/2000 satellite images and household interviews. The major change detected in the study area from satellite images was expansion of cultivation at the expense of natural vegetation. The area under cultivation increased from 54\% in 1973 to 62 and 63\% in 1984 and 2000, respectively. Expansion and intensification of cultivation were noted particularly in the lowlands while some forest areas in the highlands had become degraded. These changes led to changes in cropping patterns and crop diversification, declined productivity of land and food insecurity. The underlying drivers of these changes were demographic, government policies, economic factors, socio-cultural factors including the land tenure system, institutional factors, technological change and infrastructure development. Investments in irrigation technology, introduction of new crop varieties and government interventions to support the poor are required to improve the productivity of land and reduce the vulnerability of the people to environmental perturbations, including drought.},
-  Doi                      = {10.5897/JGRP11.050},
-  File                     = {:/Misana, Sokoni, Mbonile - 2012.pdf:PDF},
-  ISSN                     = {20701845},
-  Keywords                 = {Kilimanjaro, agricultural intensification, conversion, cover change, diversification, kilimanjaro, land-use},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.academicjournals.org/jgrp/abstracts/abstracts/Abstracts 2012/18 Mar/Misana et al.htm}
-}
-
 @Article{Mishchenko1999,
   Title                    = {{Bidirectional reflectance of flat, optically thick particulate layers: an efficient radiative transfer solution and applications to snow and soil surfaces}},
   Author                   = {Mishchenko, M},
@@ -15814,27 +15790,6 @@ Vol.},
   Url                      = {http://doi.wiley.com/10.1002/joc.2011}
 }
 
-@Article{Moore2010a,
-  Title                    = {{Adapting MODIS-derived LAI and fractional cover into the RAMS in East Africa}},
-  Author                   = {Moore, Nathan and Torbick, Nathan and Lofgren, Brent and Wang, Jing and Pijanowski, Bryan and Andresen, Jeffrey and Kim, Dong-Yun and Olson, Jennifer},
-  Journal                  = {International Journal of Climatology},
-  Year                     = {2010},
-
-  Month                    = nov,
-  Number                   = {13},
-  Pages                    = {1954--1969},
-  Volume                   = {30},
-
-  Abstract                 = {Land cover and its associated biophysical parameters govern many landâ€“atmosphere interactions. Several previous studies have demonstrated the utility of incorporating satellite-derived observations of land cover into climate models to improve prediction accuracy. In the developing world where agriculture is a primary livelihood, a better understanding of seasonal variability in precipitation and near-surface temperature is critical to constructing more effective coping strategies for climate changes and food security. However, relatively few studies have been able to assess the impacts of improved surface parameterisation on these variables and their seasonality. Using moderate resolution imaging spectroradiometer (MODIS)-derived products, we sought to address this shortcoming by adapting leaf area index (LAI) and vegetative fractional cover (FC) products, along with an improved representation of the land surface (i.e. land use land cover) into the Regional Atmospheric Modelling System in East Africa to evaluate the effect improved representations would have on simulated precipitation and land surface temperature (LST). In particular, we tested the hypothesis that improved phenological parameterisations could reduce error in precipitation and LST under dramatically different atmospheric conditions. The model was used to simulate dry/normal/wet rainfall years of 2000, 2001, and 2002 (respectively) in order to understand biases in this parameterisation under different boundary conditions. Our results show a dramatic improvement in LST simulation due to the use of the improved representations (spline functions) during most of the year, both spatially and temporally. Annual precipitation, which is dependent upon a much greater variety of surface and atmospheric characteristics, did not improve as much by adopting the spline representations of LAI and FC; the results were more equivocal. However, seasonal timing of precipitation improved in some areas, and this improvement has important consequences for integrated climateâ€“agriculture assessments.},
-  Doi                      = {10.1002/joc.2011},
-  File                     = {:/Moore et al. - 2010.pdf:PDF},
-  ISSN                     = {08998418},
-  Keywords                 = {Kilimanjaro, accepted 28 july 2009, climate modelling, fractional cover, lai, modis, rams, received 11 september 2008, revised 15 may 2009},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://doi.wiley.com/10.1002/joc.2011}
-}
-
 @Article{Mora2013,
   Title                    = {{The projected timing of climate departure from recent variability.}},
   Author                   = {Mora, Camilo and Frazier, Abby G and Longman, Ryan J and Dacks, Rachel S and Walton, Maya M and Tong, Eric J and Sanchez, Joseph J and Kaiser, Lauren R and Stender, Yuko O and Anderson, James M and Ambrosino, Christine M and Fernandez-Silva, Iria and Giuseffi, Louise M and Giambelluca, Thomas W},
@@ -15921,20 +15876,6 @@ Vol.},
 }
 
 @Article{Muamba2010,
-  Title                    = {{Weather Vulnerability , Climate Change , and Food Security in Mt . Kilimanjaro}},
-  Author                   = {Muamba, Francis M. and Kraybill, David S},
-  Journal                  = {?},
-  Year                     = {2010},
-  Pages                    = {1--40},
-
-  Abstract                 = {This study estimates the impact of rainfall variation on livelihood in Mt. Kilimanjaro using the Ricardian approach to capture farmersâ€™ adaptation strategies to cope with climate change risks. The data for the analysis were gathered from a random sample of over 200 households in 15 villages and precipitation from rainfall observation posts placed in each of the surveyed villages. The precipitation data provide information on the effect of moisture at critical months in the growing season. Due to prevalence of intercropping among local farmers, the present study develops a multivariate model that assumes endogeneity between crop yields. Doing so allows the study to capture adaptation strategies that smallholders use by diversifying farm portfolio. The results indicate that Mt. Kilimanjaro agriculture is vulnerable to precipitation variation. However, farm vulnerability is heterogeneous across space, crops and, months. Location varying inputs are responsible for substantial percentage of crop yield. The study found ambiguous evidence about the ability of irrigation usage to reduce crop vulnerability to precipitation variation, but suggests that proper cost benefit analysis ought to be done in order to measure the welfare value of irrigation. In terms of future food security, climate simulations reveal that by 2029, it will no longer be ideal to produce coffee in Mt. Kilimanjaro if precipitation annually decreases by a minimum rate of 2\%. While maize production will also suffer severe production reduction, banana production will decrease but not in an alarming rate by 2029.},
-  File                     = {:/Muamba, Kraybill - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Muamba2010a,
   Title                    = {{Weather Vulnerability , Climate Change , and Food Security in Mt . Kilimanjaro}},
   Author                   = {Muamba, Francis M. and Kraybill, David S},
   Journal                  = {?},
@@ -16078,40 +16019,6 @@ Vol.},
   Url                      = {http://iprc.soest.hawaii.edu/publications/pdf/iprc-30.pdf}
 }
 
-@Article{Murtugudde2000a,
-  Title                    = {{Oceanic processes associated with anomalous events in the Indian Ocean with relevance to 1997-1998}},
-  Author                   = {Murtugudde, Raghu and McCreary, Julian P Jr. and Busalacchi, Antonio J.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2000},
-  Number                   = {C2},
-  Pages                    = {3295--3306},
-  Volume                   = {105},
-
-  Abstract                 = {An anomalous climatic event occurred in the Indian Ocean (IO) region during 1997â€“1998, which coincided with a severe drought in Indonesia and floods in parts of eastern Africa. Cool sea surface temperature anomalies (SSTAs) were present in the eastern IO along and south of the equator. Beginning in July 1997, warm SSTAs appeared in the western IO, and they peaked in February 1998. An ocean general circulation model is employed to investigate the dynamic and thermodynamic processes that caused the SSTAs associated with this and other similar IO events. The eastern cooling resulted from unusually strong upwelling along the equator and Sumatra. The Sumatran upwelling was forced both locally by the stronger alongshore winds and remotely by equatorial and coastal Kelvin waves. By the end of 1997, weakening of the winds and the associated reduction in latent heat loss led to the elimination of the cold SST anomalies in the east. The western warming was initiated by weaker Southwest Monsoon winds and maintained by enhanced precipitation forcing, which resulted in a barrier layer structure. Analysis of the mixed layer temperature equation indicates that a downwelling Rossby wave contribution was crucial for sustaining the warming into February 1998. It is tempting to suppose that the 1997 event was related to the El Nin Ëœo-Southern Oscillation (ENSO) event that took place in the Pacific at the same time. Indeed, weaker IO events occur quite regularly in the control run that evolve similarly to the 1997 event, and they are often but not always related to ENSO. We speculate that these events represent a natural mode of oscillation in the IO, which is externally forced by ENSO but also excited by ocean-atmosphere interactions internal to the IO.},
-  File                     = {:Murtugudde, McCreary, Busalacchi - 2000.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://iprc.soest.hawaii.edu/publications/pdf/iprc-30.pdf}
-}
-
-@Article{Murtugudde2000b,
-  Title                    = {{Oceanic processes associated with anomalous events in the Indian Ocean with relevance to 1997-1998}},
-  Author                   = {Murtugudde, Raghu and McCreary, Julian P Jr. and Busalacchi, Antonio J.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2000},
-  Number                   = {C2},
-  Pages                    = {3295--3306},
-  Volume                   = {105},
-
-  Abstract                 = {An anomalous climatic event occurred in the Indian Ocean (IO) region during 1997â€“1998, which coincided with a severe drought in Indonesia and floods in parts of eastern Africa. Cool sea surface temperature anomalies (SSTAs) were present in the eastern IO along and south of the equator. Beginning in July 1997, warm SSTAs appeared in the western IO, and they peaked in February 1998. An ocean general circulation model is employed to investigate the dynamic and thermodynamic processes that caused the SSTAs associated with this and other similar IO events. The eastern cooling resulted from unusually strong upwelling along the equator and Sumatra. The Sumatran upwelling was forced both locally by the stronger alongshore winds and remotely by equatorial and coastal Kelvin waves. By the end of 1997, weakening of the winds and the associated reduction in latent heat loss led to the elimination of the cold SST anomalies in the east. The western warming was initiated by weaker Southwest Monsoon winds and maintained by enhanced precipitation forcing, which resulted in a barrier layer structure. Analysis of the mixed layer temperature equation indicates that a downwelling Rossby wave contribution was crucial for sustaining the warming into February 1998. It is tempting to suppose that the 1997 event was related to the El Nin Ëœo-Southern Oscillation (ENSO) event that took place in the Pacific at the same time. Indeed, weaker IO events occur quite regularly in the control run that evolve similarly to the 1997 event, and they are often but not always related to ENSO. We speculate that these events represent a natural mode of oscillation in the IO, which is externally forced by ENSO but also excited by ocean-atmosphere interactions internal to the IO.},
-  File                     = {:/Murtugudde, McCreary, Busalacchi - 2000.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://iprc.soest.hawaii.edu/publications/pdf/iprc-30.pdf}
-}
-
 @Article{Muss2011,
   Title                    = {{A pseudo-waveform technique to assess forest structure using discrete lidar data}},
   Author                   = {Muss, Jordan D. and Mladenoff, David J. and Townsend, Philip a.},
@@ -16216,6 +16123,21 @@ Vol.},
 
   File                     = {:Myers et al. - 2000.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Article{Myers2000a,
+  Title                    = {Biodiversity hotspots for conservation priorities},
+  Author                   = {Myers, N., Mittermeier, R. A., Mittermeier, C. G., Da Fonseca, G. A. B., Kent, J.},
+  Journal                  = {Nature},
+  Year                     = {2000},
+  Volume                   = {403},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Myers_et_al_Biodiversity_hotspot_4_Conservation_Priorities_Nature_2000.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.nature.com/nature/journal/v403/n6772/pdf/403853a0.pdf}
 }
 
 @Article{Naeem2013,
@@ -16337,6 +16259,21 @@ Vol.},
   Owner                    = {tnauss},
   Publisher                = {Spie},
   Url                      = {http://link.aip.org/link/?PSI/5570/22/1\&Agg=doi}
+}
+
+@Article{Nalder1998,
+  Title                    = {Spatial interpolation of climatic Normals: test of a new method in the Canadian boreal forest},
+  Author                   = {Nalder, A., Wein, R. W.},
+  Journal                  = {Agricultural and Forest Meteorology},
+  Year                     = {1998},
+  Pages                    = {211-225},
+  Volume                   = {92},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Nalder_and_Wein_1998_Spatial interpolation of climatic Normal_Test of new method in the Canadian boreal forest_Agri_and_Forest_Meteorology_92_211_225.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Narapusetty2009,
@@ -16832,60 +16769,6 @@ Vol.},
   File                     = {:O'Sullivan et al. - 1990(3).pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://www.cabdirect.org/abstracts/19901947797.html}
-}
-
-@Article{OSullivan1990a,
-  Title                    = {{Rain Estimation from Infrared and Visible GOES Satellite Data}},
-  Author                   = {O'Sullivan, Finbarr and Wash, Carlyle H. and Stewart, Michael and Motell, Craig E.},
-  Journal                  = {Journal of Applied Meteorology},
-  Year                     = {1990},
-
-  Month                    = mar,
-  Number                   = {3},
-  Pages                    = {209--223},
-  Volume                   = {29},
-
-  Doi                      = {10.1175/1520-0450(1990)029<0209:REFIAV>2.0.CO;2},
-  File                     = {:O'Sullivan et al. - 1990(2).pdf:PDF},
-  ISSN                     = {0894-8763},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281990\%29029\%3C0209\%3AREFIAV\%3E2.0.CO\%3B2}
-}
-
-@Article{OSullivan1990b,
-  Title                    = {{Rain Estimation from Infrared and Visible GOES Satellite Data}},
-  Author                   = {O'Sullivan, Finbarr and Wash, Carlyle H. and Stewart, Michael and Motell, Craig E.},
-  Journal                  = {Journal of Applied Meteorology},
-  Year                     = {1990},
-
-  Month                    = mar,
-  Number                   = {3},
-  Pages                    = {209--223},
-  Volume                   = {29},
-
-  Doi                      = {10.1175/1520-0450(1990)029<0209:REFIAV>2.0.CO;2},
-  File                     = {:O'Sullivan et al. - 1990(4).pdf:PDF},
-  ISSN                     = {0894-8763},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281990\%29029\%3C0209\%3AREFIAV\%3E2.0.CO\%3B2}
-}
-
-@Article{OSullivan1990c,
-  Title                    = {{Rain Estimation from Infrared and Visible GOES Satellite Data}},
-  Author                   = {O'Sullivan, Finbarr and Wash, Carlyle H. and Stewart, Michael and Motell, Craig E.},
-  Journal                  = {Journal of Applied Meteorology},
-  Year                     = {1990},
-
-  Month                    = mar,
-  Number                   = {3},
-  Pages                    = {209--223},
-  Volume                   = {29},
-
-  Doi                      = {10.1175/1520-0450(1990)029<0209:REFIAV>2.0.CO;2},
-  File                     = {:O'Sullivan et al. - 1990.pdf:PDF},
-  ISSN                     = {0894-8763},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281990\%29029\%3C0209\%3AREFIAV\%3E2.0.CO\%3B2}
 }
 
 @Article{Objectives2005,
@@ -17418,6 +17301,22 @@ Vol.},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0426\%281998\%29015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2 http://journals.ametsoc.org/doi/abs/10.1175/1520-0426(1998)015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2}
 }
 
+@Article{Panitz2014,
+  Title                    = {COSMO-CLM (CCLM) climate simulations over CORDEX-Africa domain: analysis of the ERA-Interim driven simulations at 0.44° and 0.22° resolution},
+  Author                   = {Panitz, H., Dosio, A., Büchner, M., Lüthi, D., Keuler, K.},
+  Journal                  = {Clim Dyn},
+  Year                     = {2014},
+  Pages                    = {3025-3038},
+  Volume                   = {42},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1007/s00382-013-1834-5},
+  File                     = {:Panitz_etal_Climate_simulations_over_Cordex_Africa_2014.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
 @Article{Panitz2013,
   Title                    = {{COSMO-CLM (CCLM) climate simulations over CORDEX-Africa domain: analysis of the ERA-Interim driven simulations at 0.44Â° and 0.22Â° resolution}},
   Author                   = {Panitz, Hans-J\"{u}rgen and Dosio, Alessandro and B\"{u}chner, Matthias and L\"{u}thi, Daniel and Keuler, Klaus},
@@ -17704,22 +17603,6 @@ Vol.},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0006320799001950}
 }
 
-@Article{Pelkey2000a,
-  Title                    = {{Vegetation in Tanzania: assessing long term trends and effects of protection using satellite imagery}},
-  Author                   = {Pelkey, NW and Stoner, CJ and Caro, TM},
-  Journal                  = {Biological Conservation},
-  Year                     = {2000},
-  Number                   = {3},
-  Pages                    = {297--309},
-  Volume                   = {94},
-
-  File                     = {:/Pelkey, Stoner, Caro - 2000.pdf:PDF},
-  Keywords                 = {habitat change,ndvi,protected areas,tanzania,vegetative greenness},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S0006320799001950}
-}
-
 @Article{Pepin2010,
   Title                    = {{The montane circulation on Kilimanjaro, Tanzania and its relevance for the summit ice fields: Comparison of surface mountain climate with equivalent reanalysis parameters}},
   Author                   = {Pepin, N.C. and Duane, W.J. and Hardy, D.R.},
@@ -17742,92 +17625,37 @@ Vol.},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
 }
 
-@Article{Pepin2010a,
-  Title                    = {{The montane circulation on Kilimanjaro, Tanzania and its relevance for the summit ice fields: Comparison of surface mountain climate with equivalent reanalysis parameters}},
-  Author                   = {Pepin, N.C. and Duane, W.J. and Hardy, D.R.},
-  Journal                  = {Global and Planetary Change},
-  Year                     = {2010},
-
-  Month                    = nov,
+@Article{PeterM1998,
+  Title                    = {Mapping Precipitation in Switzerland with Ordinary and
+Indicator Kriging},
+  Author                   = {Peter M, A},
+  Journal                  = {Journal of Geographic Information and Decision Analysis},
+  Year                     = {1998},
   Number                   = {2},
-  Pages                    = {61--75},
-  Volume                   = {74},
+  Pages                    = {65-76},
+  Volume                   = {2},
 
-  Abstract                 = {We compare surface climate (temperature and moisture) measured on an hourly basis at ten elevations on Kilimanjaro with equivalent observations in the free atmosphere from NCEP/NCAR reanalysis data, for September 2004â€“July 2008. On the lower forested slopes the mountain surface is consistently cooler and moister than the atmospheric boundary layer. In contrast, temperatures and moisture on the higher slopes above treeline (\~{}3000 m) are decoupled from the free atmosphere, showing substantial heating/cooling by day/night and import of moisture up from lower elevations during daylight hours. The mountain is universally warmer than the background atmosphere at 1500 EAT, the sparsely vegetated upper slopes acting as the focus for the most intense heating. The persistent vapour pressure excesses (N5 mb) in the forest zone move upslope during daylight and subside downslope at night. Strong seasonal contrasts are shown in the vigour of this process, the resultant mountain thermal circulation and its consequences. The synoptic forcing of this process (as represented by flow indices developed from reanalysis wind components), although evident, is relatively weak. This means that upslope flow from the forest zone is an important supplementary source of moisture for the upper slopes of the mountain and that free-air variability, although important, alone cannot account for all the variability in the summit moisture regime. Long-term ice retreat at the summit of Kilimanjaro therefore is most likely to be influenced by changes in local land-use as well as more regional free-air changes. Â©},
-  Doi                      = {10.1016/j.gloplacha.2010.08.001},
-  File                     = {:/Pepin, Duane, Hardy - 2010.pdf:PDF},
-  ISSN                     = {09218181},
-  Keywords                 = {Kilimanjaro, ice-field, land-use change, montane circulation, mountain climate},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier B.V.},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
+  __markedentry            = {[tnauss:]},
+  File                     = {:Atkinson_&_Lloyd_1998_Mapping precipitation in Switzerland with ordinary and indicator kriging_GIDA.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation, indicator kriging, ordinary kriging, precipitation.},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
 }
 
-@Article{Pepin2010b,
-  Title                    = {{The montane circulation on Kilimanjaro, Tanzania and its relevance for the summit ice fields: Comparison of surface mountain climate with equivalent reanalysis parameters}},
-  Author                   = {Pepin, N.C. and Duane, W.J. and Hardy, D.R.},
-  Journal                  = {Global and Planetary Change},
-  Year                     = {2010},
+@Article{Peters2007,
+  Title                    = {Random forests as a tool for ecohydrological distribution modelling},
+  Author                   = {Peters, J., De Baets, B., Verhoest, N. E. C., Samson, R., Degroeve, S., De Becker, P., Huybrechts, W.},
+  Journal                  = {Ecological Modelling},
+  Year                     = {2007},
+  Pages                    = {304–318},
+  Volume                   = {207},
 
-  Month                    = nov,
-  Number                   = {2},
-  Pages                    = {61--75},
-  Volume                   = {74},
-
-  Abstract                 = {We compare surface climate (temperature and moisture) measured on an hourly basis at ten elevations on Kilimanjaro with equivalent observations in the free atmosphere from NCEP/NCAR reanalysis data, for September 2004â€“July 2008. On the lower forested slopes the mountain surface is consistently cooler and moister than the atmospheric boundary layer. In contrast, temperatures and moisture on the higher slopes above treeline (\~{}3000 m) are decoupled from the free atmosphere, showing substantial heating/cooling by day/night and import of moisture up from lower elevations during daylight hours. The mountain is universally warmer than the background atmosphere at 1500 EAT, the sparsely vegetated upper slopes acting as the focus for the most intense heating. The persistent vapour pressure excesses (N5 mb) in the forest zone move upslope during daylight and subside downslope at night. Strong seasonal contrasts are shown in the vigour of this process, the resultant mountain thermal circulation and its consequences. The synoptic forcing of this process (as represented by flow indices developed from reanalysis wind components), although evident, is relatively weak. This means that upslope flow from the forest zone is an important supplementary source of moisture for the upper slopes of the mountain and that free-air variability, although important, alone cannot account for all the variability in the summit moisture regime. Long-term ice retreat at the summit of Kilimanjaro therefore is most likely to be influenced by changes in local land-use as well as more regional free-air changes. Â©},
-  Doi                      = {10.1016/j.gloplacha.2010.08.001},
-  File                     = {:/Pepin, Duane, Hardy - 2010.pdf:PDF},
-  ISSN                     = {09218181},
-  Keywords                 = {Kilimanjaro, ice-field, land-use change, montane circulation, mountain climate},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier B.V.},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
-}
-
-@Article{Pepin2010c,
-  Title                    = {{The montane circulation on Kilimanjaro, Tanzania and its relevance for the summit ice fields: Comparison of surface mountain climate with equivalent reanalysis parameters}},
-  Author                   = {Pepin, N.C. and Duane, W.J. and Hardy, D.R.},
-  Journal                  = {Global and Planetary Change},
-  Year                     = {2010},
-
-  Month                    = nov,
-  Number                   = {2},
-  Pages                    = {61--75},
-  Volume                   = {74},
-
-  Abstract                 = {We compare surface climate (temperature and moisture) measured on an hourly basis at ten elevations on Kilimanjaro with equivalent observations in the free atmosphere from NCEP/NCAR reanalysis data, for September 2004â€“July 2008. On the lower forested slopes the mountain surface is consistently cooler and moister than the atmospheric boundary layer. In contrast, temperatures and moisture on the higher slopes above treeline (\~{}3000 m) are decoupled from the free atmosphere, showing substantial heating/cooling by day/night and import of moisture up from lower elevations during daylight hours. The mountain is universally warmer than the background atmosphere at 1500 EAT, the sparsely vegetated upper slopes acting as the focus for the most intense heating. The persistent vapour pressure excesses (N5 mb) in the forest zone move upslope during daylight and subside downslope at night. Strong seasonal contrasts are shown in the vigour of this process, the resultant mountain thermal circulation and its consequences. The synoptic forcing of this process (as represented by flow indices developed from reanalysis wind components), although evident, is relatively weak. This means that upslope flow from the forest zone is an important supplementary source of moisture for the upper slopes of the mountain and that free-air variability, although important, alone cannot account for all the variability in the summit moisture regime. Long-term ice retreat at the summit of Kilimanjaro therefore is most likely to be influenced by changes in local land-use as well as more regional free-air changes. Â©},
-  Doi                      = {10.1016/j.gloplacha.2010.08.001},
-  File                     = {:/Pepin, Duane, Hardy - 2010.pdf:PDF},
-  ISSN                     = {09218181},
-  Keywords                 = {Kilimanjaro, ice-field, land-use change, montane circulation, mountain climate},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier B.V.},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
-}
-
-@Article{Pepin2010d,
-  Title                    = {{The montane circulation on Kilimanjaro, Tanzania and its relevance for the summit ice fields: Comparison of surface mountain climate with equivalent reanalysis parameters}},
-  Author                   = {Pepin, N.C. and Duane, W.J. and Hardy, D.R.},
-  Journal                  = {Global and Planetary Change},
-  Year                     = {2010},
-
-  Month                    = nov,
-  Number                   = {2},
-  Pages                    = {61--75},
-  Volume                   = {74},
-
-  Abstract                 = {We compare surface climate (temperature and moisture) measured on an hourly basis at ten elevations on Kilimanjaro with equivalent observations in the free atmosphere from NCEP/NCAR reanalysis data, for September 2004â€“July 2008. On the lower forested slopes the mountain surface is consistently cooler and moister than the atmospheric boundary layer. In contrast, temperatures and moisture on the higher slopes above treeline (\~{}3000 m) are decoupled from the free atmosphere, showing substantial heating/cooling by day/night and import of moisture up from lower elevations during daylight hours. The mountain is universally warmer than the background atmosphere at 1500 EAT, the sparsely vegetated upper slopes acting as the focus for the most intense heating. The persistent vapour pressure excesses (N5 mb) in the forest zone move upslope during daylight and subside downslope at night. Strong seasonal contrasts are shown in the vigour of this process, the resultant mountain thermal circulation and its consequences. The synoptic forcing of this process (as represented by flow indices developed from reanalysis wind components), although evident, is relatively weak. This means that upslope flow from the forest zone is an important supplementary source of moisture for the upper slopes of the mountain and that free-air variability, although important, alone cannot account for all the variability in the summit moisture regime. Long-term ice retreat at the summit of Kilimanjaro therefore is most likely to be influenced by changes in local land-use as well as more regional free-air changes. Â©},
-  Doi                      = {10.1016/j.gloplacha.2010.08.001},
-  File                     = {:/Pepin, Duane, Hardy - 2010.pdf:PDF},
-  ISSN                     = {09218181},
-  Keywords                 = {Kilimanjaro, ice-field, land-use change, montane circulation, mountain climate},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier B.V.},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/j.ecolmodel.2007.05.011},
+  File                     = {:Peters_Random forests as a tool for ecohyrological distribution modelling_Ecological_Modelling_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Petitjean2011,
@@ -17965,22 +17793,6 @@ Vol.},
   ISSN                     = {0177-7971},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/BF01030054}
-}
-
-@Article{Petty1994a,
-  Title                    = {{Physical retrievals of over-ocean rain rate from multichannel microwave imagery. Part I: Theoretical characteristics of normalized polarization and scattering indices}},
-  Author                   = {Petty, G. W.},
-  Journal                  = {Meteorology and Atmospheric Physics},
-  Year                     = {1994},
-  Number                   = {1-4},
-  Pages                    = {79--99},
-  Volume                   = {54},
-
-  Doi                      = {10.1007/BF01030053},
-  File                     = {:Petty - 1994(2).pdf:PDF},
-  ISSN                     = {0177-7971},
-  Owner                    = {tnauss},
-  Url                      = {http://www.springerlink.com/index/10.1007/BF01030053}
 }
 
 @Article{Pietroniro2000,
@@ -18230,50 +18042,6 @@ Vol.},
   Url                      = {http://www.springerlink.com/index/10.1007/s00382-011-1024-2}
 }
 
-@Article{Pohl2011a,
-  Title                    = {{Testing WRF capability in simulating the atmospheric water cycle over Equatorial East Africa}},
-  Author                   = {Pohl, Benjamin and Cr\'{e}tat, Julien and Camberlin, Pierre},
-  Journal                  = {Climate Dynamics},
-  Year                     = {2011},
-
-  Month                    = feb,
-  Number                   = {7-8},
-  Pages                    = {1357--1379},
-  Volume                   = {37},
-
-  Abstract                 = {Uncertainties in simulating the seasonal mean atmospheric water cycle in Equatorial East Africa are quantified using 58 one-year-long experiments performed with the Weather Research and Forecasting model (WRF). Tested parameters include physical parameterizations of atmospheric convection, cloud microphysics, planetary boundary layer, land-surface model and radiation schemes, as well as land-use categories (USGS vs. MODIS), lateral forcings (ERA-Interim and ERA40 reanalyses), and domain geometry (size and vertical resolution). Results show that (1) uncertainties, defined as the differences between the experiments, are larger than the biases; (2) the parameters exerting the largest influence on simulated rainfall are, in order of decreasing importance, the short- wave radiation scheme, the land-surface model, the domain size, followed by convective schemes and land-use cate- gories; (3) cloud microphysics, lateral forcing reanalysis, the number of vertical levels and planetary boundary layer schemes appear to be of lesser importance at the seasonal scale. Though persisting biases (consisting of conditions that are too wet over the Indian Ocean and the Congo Basin and too dry over eastern Kenya) prevail in most experiments, several configurations simulate the regional climate with reasonable accuracy.},
-  Doi                      = {10.1007/s00382-011-1024-2},
-  File                     = {:Pohl, Cr\'{e}tat, Camberlin - 2011.pdf:PDF},
-  ISBN                     = {0038201110242},
-  ISSN                     = {0930-7575},
-  Keywords                 = {East Africa, Kilimanjaro, WRF, rainfall, regional climate modelling, water cycle},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s00382-011-1024-2}
-}
-
-@Article{Pohl2011b,
-  Title                    = {{Testing WRF capability in simulating the atmospheric water cycle over Equatorial East Africa}},
-  Author                   = {Pohl, Benjamin and Cr\'{e}tat, Julien and Camberlin, Pierre},
-  Journal                  = {Climate Dynamics},
-  Year                     = {2011},
-
-  Month                    = feb,
-  Number                   = {7-8},
-  Pages                    = {1357--1379},
-  Volume                   = {37},
-
-  Abstract                 = {Uncertainties in simulating the seasonal mean atmospheric water cycle in Equatorial East Africa are quantified using 58 one-year-long experiments performed with the Weather Research and Forecasting model (WRF). Tested parameters include physical parameterizations of atmospheric convection, cloud microphysics, planetary boundary layer, land-surface model and radiation schemes, as well as land-use categories (USGS vs. MODIS), lateral forcings (ERA-Interim and ERA40 reanalyses), and domain geometry (size and vertical resolution). Results show that (1) uncertainties, defined as the differences between the experiments, are larger than the biases; (2) the parameters exerting the largest influence on simulated rainfall are, in order of decreasing importance, the short- wave radiation scheme, the land-surface model, the domain size, followed by convective schemes and land-use cate- gories; (3) cloud microphysics, lateral forcing reanalysis, the number of vertical levels and planetary boundary layer schemes appear to be of lesser importance at the seasonal scale. Though persisting biases (consisting of conditions that are too wet over the Indian Ocean and the Congo Basin and too dry over eastern Kenya) prevail in most experiments, several configurations simulate the regional climate with reasonable accuracy.},
-  Doi                      = {10.1007/s00382-011-1024-2},
-  File                     = {:/Pohl, Cr\'{e}tat, Camberlin - 2011.pdf:PDF},
-  ISBN                     = {0038201110242},
-  ISSN                     = {0930-7575},
-  Keywords                 = {East Africa, Kilimanjaro, WRF, rainfall, regional climate modelling, water cycle},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s00382-011-1024-2}
-}
-
 @Article{Pohl2008,
   Title                    = {{Interactions between synoptic, intraseasonal and interannual convective variability over Southern Africa}},
   Author                   = {Pohl, B. and Fauchereau, N. and Richard, Y. and Rouault, M. and Reason, C. J. C.},
@@ -18331,6 +18099,22 @@ Vol.},
   Owner                    = {tnauss},
   Publisher                = {Academie des sciences},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S1631071309002843}
+}
+
+@Article{Polishchuk2009,
+  Title                    = {Application of Random Forest Approach to QSAR Prediction of Aquatic Toxicity},
+  Author                   = {Polishchuk, P. G., Muratov, E. N., Artemenko, A. G., Kolumbin, O. G., Muratov, N. N., Kuz'min, V},
+  Journal                  = {J. Chem. Inf. Model},
+  Year                     = {2009},
+  Pages                    = {2481–2488},
+  Volume                   = {49},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Polishchuk_Application_of_random_forest_approach_to_qsar_prediction_J_Chem_Inf_Model_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://pubs.acs.org/doi/pdf/10.1021/ci900203n}
 }
 
 @Article{Politovich1995,
@@ -18413,6 +18197,22 @@ Vol.},
   ISSN                     = {14641909},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S1464190999000593}
+}
+
+@Article{Pozdnoukhov2009,
+  Title                    = {Data-driven topo-climatic mapping with machine learning methods},
+  Author                   = {Pozdnoukhov, A., Foresti, L., Kanevski, M.},
+  Journal                  = {Nat Hazards},
+  Year                     = {2009},
+  Pages                    = {497–518},
+  Volume                   = {50},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1007/s11069-008-9339-y},
+  File                     = {:Pozdnoukhov_Data_driven_topo_climatic_mapping_Nat_Hazards_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Prakash2011,
@@ -19052,16 +18852,6 @@ Vol.},
   Owner                    = {tnauss}
 }
 
-@Article{Reu2011a,
-  Title                    = {{Interactive comment on â€œ The role of plant functional trade-offs for biodiversity changes and biome shifts under scenarios of global climatic change â€? by B . Reu et al .}},
-  Author                   = {Reu, B},
-  Journal                  = {Biogeosciences Discussions},
-  Year                     = {2011},
-
-  File                     = {:/Reu - 2011.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Article{Reu2011b,
   Title                    = {{The role of climate and plant functional trade-offs in shaping global biome and biodiversity patterns}},
   Author                   = {Reu, Bj\"{o}rn and Proulx, Rapha\"{e}l and Bohn, Kristin and Dyke, James G. and Kleidon, Axel and Pavlick, Ryan and Schmidtlein, Sebastian},
@@ -19105,19 +18895,6 @@ Vol.},
   File                     = {:Reudenbach - 2003.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://scholar.google.com/scholar?hl=en\&btnG=Search\&q=intitle:Konvektive+Sommerniederschl\"{a}ge+in+Mitteleuropa\#0}
-}
-
-@InProceedings{Reudenbach2004,
-  Title                    = {{An integrated receiving and processing unit for MSG, NOAA and Terra/Aqua data}},
-  Author                   = {Reudenbach, Ch and Nauss, T. and Cermak, J and Dobbermann, M and Bendix, J and Theissen, W and Scheidgen, P and Harmann, O},
-  Booktitle                = {Proc. 2003 EUMETSAT Meteorological Sat. Data Usersâ€™ Conf., Weimar, Germany},
-  Year                     = {2004},
-  Pages                    = {291--297},
-  Publisher                = {Citeseer},
-
-  File                     = {:Reudenbach et al. - 2004.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.245\&amp;rep=rep1\&amp;type=pdf}
 }
 
 @InProceedings{Reudenbach2004a,
@@ -19993,6 +19770,21 @@ Vol.},
   Keywords                 = {1235 queen st, LOEWE, acer saccharum, bioindicators, canada, casi, change analysis, current address, east, marie, meris, ministry of natural resources, modis, ofri, ontario, ontario forest research institute, ontario ministry of natural, p6a 2e5, paul h, physiology, provincial geomatics service centre, radiative transfer, resources, sampson, sault, silviculture, ste, sugar maple},
   Owner                    = {tnauss},
   Tags                     = {LOEWE project}
+}
+
+@Article{Sanabria2013,
+  Title                    = {Spatial interpolation of McArthur’s Forest Fire Danger Index across Australia: Observational study},
+  Author                   = {Sanabria, L. A., Qin, X., Li, J., Cechet, R. P., Lucas, C.},
+  Journal                  = {Environmental Modelling \& Software},
+  Year                     = {2013},
+  Pages                    = {37-50},
+  Volume                   = {50},
+
+  __markedentry            = {[tnauss:]},
+  File                     = {:Sanabria_Spatial interpolationof McArthur Fire Forest Danger Index across Australia.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Sanchez-Moreno2012,
@@ -21022,57 +20814,6 @@ Vol.},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI2883.1}
 }
 
-@Article{Shongwe2010,
-  Title                    = {{Projected changes in mean and extreme precipitation in Africa under global warming , Part II : East Africa}},
-  Author                   = {Shongwe, Mxolisi E. and van Oldenborgh, Geert Jan and van den Hurk, Bart and van Aalst, Maarten and Oldenborgh, Geert Jan Van and Hurk, Bart Van Den},
-  Journal                  = {?},
-  Year                     = {2010},
-
-  Month                    = jul,
-  Number                   = {14},
-  Pages                    = {3718--3733},
-  Volume                   = {24},
-
-  Abstract                 = {Probable changes in mean and extreme precipitation in East Africa are estimated from global climate models (GCMs) prepared for the IPCC Fourth Assessment Report (AR4). Bayesian statistics are used to derive the relative weights assigned to each member in the multi- model ensemble. There is substantial evidence in support of a positive shift of the whole rainfall distribution in East Africa during the wet seasons. The models give indications for an increase in mean precipitation rates and intensity of high rainfall events, but less severe droughts. Upward precipitation trends are projected from early this (twenty-first) century. As in the observations, a statistically significant link between sea-surface temperature (SST) gradients in the tropical Indian Ocean and short-rains (Octoberâ€“December) in East Africa is simulated in the GCMs. Furthermore, most models project a differential warming of the Indian Ocean during boreal autumn. This is favourable for an increase in the probabil- ity of positive Indian Ocean zonal mode (IOZM) events, which have been associated with anomalously strong short-rains in East Africa. On top of the general increase in rainfall in the tropics due to thermodynamic effects, a change in the structure of the Eastern Hemisphere Walker circulation is consistent with an increase in East Africa precipitation relative to other regions within the same latitudinal belt. A notable feature of this change is a weakening of the climatological subsidence over eastern Kenya. East Africa is shown to be a region in which a coherent projection of future precipitation change can be made, supported by physical arguments. Although the rate of change is still uncertain, almost all results point to a wetter climate with more intense wet seasons and less severe droughts. 1},
-  Doi                      = {10.1175/2010JCLI2883.1},
-  File                     = {:C$\backslash$:/Users/tnauss/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shongwe et al. - 2011.pdf:PDF},
-  ISSN                     = {0894-8755},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI2883.1}
-}
-
-@Article{Shongwe2011a,
-  Title                    = {{Projected changes in mean and extreme precipitation in Africa under global warming , Part II : East Africa}},
-  Author                   = {Shongwe, Mxolisi E and Oldenborgh, Geert Jan Van and Hurk, Bart Van Den and van Aalst, Maarten},
-  Journal                  = {Journal of Climate},
-  Year                     = {2011},
-  Pages                    = {3718--3733},
-  Volume                   = {24},
-
-  Abstract                 = {Probable changes in mean and extreme precipitation in East Africa are estimated from global climate models (GCMs) prepared for the IPCC Fourth Assessment Report (AR4). Bayesian statistics are used to derive the relative weights assigned to each member in the multi- model ensemble. There is substantial evidence in support of a positive shift of the whole rainfall distribution in East Africa during the wet seasons. The models give indications for an increase in mean precipitation rates and intensity of high rainfall events, but less severe droughts. Upward precipitation trends are projected from early this (twenty-first) century. As in the observations, a statistically significant link between sea-surface temperature (SST) gradients in the tropical Indian Ocean and short-rains (Octoberâ€“December) in East Africa is simulated in the GCMs. Furthermore, most models project a differential warming of the Indian Ocean during boreal autumn. This is favourable for an increase in the probabil- ity of positive Indian Ocean zonal mode (IOZM) events, which have been associated with anomalously strong short-rains in East Africa. On top of the general increase in rainfall in the tropics due to thermodynamic effects, a change in the structure of the Eastern Hemisphere Walker circulation is consistent with an increase in East Africa precipitation relative to other regions within the same latitudinal belt. A notable feature of this change is a weakening of the climatological subsidence over eastern Kenya. East Africa is shown to be a region in which a coherent projection of future precipitation change can be made, supported by physical arguments. Although the rate of change is still uncertain, almost all results point to a wetter climate with more intense wet seasons and less severe droughts. 1},
-  File                     = {:C$\backslash$:/Users/tnauss/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shongwe et al. - 2011(2).pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Misc{Shongwe2010a,
-  Title                    = {{Projected changes in mean and extreme precipitation in Africa under global warming , Part II : East Africa}},
-
-  Author                   = {Shongwe, Mxolisi E and Oldenborgh, Geert Jan Van and Hurk, Bart Van Den and van Aalst, Maarten},
-  Year                     = {2010},
-
-  Abstract                 = {Probable changes in mean and extreme precipitation in East Africa are estimated from global climate models (GCMs) prepared for the IPCC Fourth Assessment Report (AR4). Bayesian statistics are used to derive the relative weights assigned to each member in the multi- model ensemble. There is substantial evidence in support of a positive shift of the whole rainfall distribution in East Africa during the wet seasons. The models give indications for an increase in mean precipitation rates and intensity of high rainfall events, but less severe droughts. Upward precipitation trends are projected from early this (twenty-first) century. As in the observations, a statistically significant link between sea-surface temperature (SST) gradients in the tropical Indian Ocean and short-rains (Octoberâ€“December) in East Africa is simulated in the GCMs. Furthermore, most models project a differential warming of the Indian Ocean during boreal autumn. This is favourable for an increase in the probabil- ity of positive Indian Ocean zonal mode (IOZM) events, which have been associated with anomalously strong short-rains in East Africa. On top of the general increase in rainfall in the tropics due to thermodynamic effects, a change in the structure of the Eastern Hemisphere Walker circulation is consistent with an increase in East Africa precipitation relative to other regions within the same latitudinal belt. A notable feature of this change is a weakening of the climatological subsidence over eastern Kenya. East Africa is shown to be a region in which a coherent projection of future precipitation change can be made, supported by physical arguments. Although the rate of change is still uncertain, almost all results point to a wetter climate with more intense wet seasons and less severe droughts. 1},
-  Booktitle                = {?},
-  File                     = {:/Shongwe et al. - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Pages                    = {0--40},
-  Tags                     = {Kilimanjaro project}
-}
-
 @Article{Short2003,
   Title                    = {{Equatorial Atlantic Rain Frequency: An Intercentennial Comparison}},
   Author                   = {Short, David a.},
@@ -21113,6 +20854,22 @@ Vol.},
 
   File                     = {:Shuttleworth - 2008.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Article{Siaulys2012,
+  Title                    = {Species distribution modelling of benthic invertebrates in the south-eastern Baltic Sea},
+  Author                   = {Siaulys, A., Bucas, M.},
+  Journal                  = {Baltica},
+  Year                     = {2012},
+  Pages                    = {163–170},
+  Volume                   = {25},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.5200/baltica.2012.25.16},
+  File                     = {:Siaulys_Species_distribution_modelling_Baltica_2012.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Siegmund2009,
@@ -21272,6 +21029,21 @@ Vol.},
   ISSN                     = {0022-4928},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281998\%29055\%3C1483\%3AROWPP\%3E2.0.CO\%3B2}
+}
+
+@Article{Snell2000,
+  Title                    = {Spatial Interpolation of Surface Air Temperatures Using Artificial Neural Networks: Evaluating Their Use for Downscaling GCMs},
+  Author                   = {Snell, S. E., Gopal, S., Kaufmann, R. K.},
+  Journal                  = {Journal of Climate},
+  Year                     = {2000},
+  Pages                    = {13},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {http://dx.doi.org/10.1175/1520-0442(2000)013<0886:SIOSAT>2.0.CO;2},
+  File                     = {:Snell_spatial_interpolation_of_surface_air_temp_J_of_Climate_2000.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Soares-Filho2002,
@@ -22528,23 +22300,6 @@ Vol.},
   Url                      = {http://www.tandfonline.com/doi/abs/10.1080/1747423X.2012.718378}
 }
 
-@Article{Thies2012a,
-  Title                    = {{Projecting land-use and land-cover changes in a tropical mountain forest of Southern Ecuador}},
-  Author                   = {Thies, Boris and Meyer, Hanna and Nauss, Thomas and Bendix, J\"{o}rg},
-  Journal                  = {Journal of Land Use Science},
-  Year                     = {2012},
-
-  Month                    = aug,
-  Number                   = {September 2012},
-  Pages                    = {1--33},
-
-  Doi                      = {10.1080/1747423X.2012.718378},
-  File                     = {:Thies et al. - 2012(2).pdf:PDF},
-  ISSN                     = {1747-423X},
-  Owner                    = {tnauss},
-  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/1747423X.2012.718378}
-}
-
 @Article{Thies2008a,
   Title                    = {{Precipitation process and rainfall intensity differentiation using Meteosat Second Generation Spinning Enhanced Visible and Infrared Imager data}},
   Author                   = {Thies, Boris and Nau\ss, Thomas and Bendix, J\"{o}rg},
@@ -22779,6 +22534,21 @@ Vol.},
   Owner                    = {tnauss}
 }
 
+@Article{Thuiller2007a,
+  Title                    = {Climate change and the ecologist},
+  Author                   = {Thuiller, W.},
+  Journal                  = {Nature},
+  Year                     = {2007},
+  Volume                   = {448},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1038/448550a},
+  File                     = {:Thuiller_Climate_Change_and_ecologist_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
 @Article{Tian2010,
   Title                    = {{Model estimates of net primary productivity, evapotranspiration, and water use efficiency in the terrestrial ecosystems of the southern United States during 1895â€“2007}},
   Author                   = {Tian, Hanqin and Chen, Guangsheng and Liu, Mingliang and Zhang, Chi and Sun, Ge and Lu, Chaoqun and Xu, Xiaofeng and Ren, Wei and Pan, Shufen and Chappelka, Arthur},
@@ -22838,38 +22608,6 @@ Vol.},
   Pmid                     = {18787132},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/18787132}
-}
-
-@Article{Tierney2008a,
-  Title                    = {{Northern Hemisphere Controls on Tropical Southeast African Climate During the Past 60,000 Years}},
-  Author                   = {Tierney, Jessica E and Russell, James M and Huang, Yongsong and Damst\'{e}, Jaap S Sinninghe and Hopmans, Ellen C and Cohen, Andrew S},
-  Journal                  = {Science},
-  Year                     = {2008},
-  Number                   = {October},
-  Pages                    = {252--255},
-  Volume                   = {322},
-
-  Abstract                 = {The processes that control climate in the tropics are poorly understood. We applied compound-specific hydrogen isotopes (dD) and the TEX86 (tetraether index of 86 carbon atoms) temperature proxy to sediment cores from Lake Tanganyika to independently reconstruct precipitation and temperature variations during the past 60,000 years. Tanganyika temperatures follow Northern Hemisphere insolation and indicate that warming in tropical southeast Africa during the last glacial termination began to increase \~{}3000 years before atmospheric carbon dioxide concentrations. dD data show that this region experienced abrupt changes in hydrology coeval with orbital and millennial-scale events recorded in Northern Hemisphere monsoonal climate records. This implies that precipitation in tropical southeast Africa is more strongly controlled by changes in Indian Ocean sea surface temperatures and the winter Indian monsoon than by migration of the Intertropical Convergence Zone},
-  File                     = {:/Tierney et al. - 2008.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Tierney2008b,
-  Title                    = {{Northern Hemisphere Controls on Tropical Southeast African Climate During the Past 60,000 Years}},
-  Author                   = {Tierney, Jessica E and Russell, James M and Huang, Yongsong and Damst\'{e}, Jaap S Sinninghe and Hopmans, Ellen C and Cohen, Andrew S},
-  Journal                  = {Science},
-  Year                     = {2008},
-  Number                   = {October},
-  Pages                    = {252--255},
-  Volume                   = {322},
-
-  Abstract                 = {The processes that control climate in the tropics are poorly understood. We applied compound-specific hydrogen isotopes (dD) and the TEX86 (tetraether index of 86 carbon atoms) temperature proxy to sediment cores from Lake Tanganyika to independently reconstruct precipitation and temperature variations during the past 60,000 years. Tanganyika temperatures follow Northern Hemisphere insolation and indicate that warming in tropical southeast Africa during the last glacial termination began to increase \~{}3000 years before atmospheric carbon dioxide concentrations. dD data show that this region experienced abrupt changes in hydrology coeval with orbital and millennial-scale events recorded in Northern Hemisphere monsoonal climate records. This implies that precipitation in tropical southeast Africa is more strongly controlled by changes in Indian Ocean sea surface temperatures and the winter Indian monsoon than by migration of the Intertropical Convergence Zone},
-  File                     = {:/Tierney et al. - 2008.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
 }
 
 @Unpublished{Tjemkes1998,
@@ -23028,27 +22766,6 @@ Vol.},
   Url                      = {http://www.bioone.org/doi/abs/10.1659/mrd.981}
 }
 
-@Article{Torbick2009a,
-  Title                    = {{Changing Surface Conditions at Kilimanjaro Indicated from Multiscale Imagery}},
-  Author                   = {Torbick, Nathan and Ge, Jianjun and Qi, Jiaguo},
-  Journal                  = {Mountain Research and Development},
-  Year                     = {2009},
-
-  Month                    = feb,
-  Number                   = {1},
-  Pages                    = {5--13},
-  Volume                   = {29},
-
-  Abstract                 = {The shrinking glacier atop Kilimanjaro has received much attention as it is one of the few remaining tropical glaciers in the world. Physical drivers ranging from changes in temperature and humidity to shifts in cloud coverage and radiation have been attributed to reducing the ice mass. Studies have utilized varying methods and often use point data sources that tend to be spatially and temporally poor in the region. The objective of this study was to use complementing remote sensing data sets with systematic measurements to delineate ice cap fluctuations and land surface phenology on Kilimanjaro over the past two decades. Multitemporal, fine-scale Landsat imagery (30 m) showed approximately a 70\% reduction in ice coverage since 1976. High-frequency (bimonthly) image analysis conducted along a human activityâ€“elevation ecocline showed that the entire mountain, including the subalpine and alpine regions, has undergone an increase in vegetative signal indicating a â€˜â€˜greening upâ€™â€™ of Kilimanjaro over the past two decades. In addition, upper elevations of Kilimanjaro have undergone a temporal shift, or lengthening, in dry season phenology on the order of one month over the past two decades. The shift in dry season timing is concordant with maximum ablation periods. Overall, this study provides insight into land surface trends at resolutions that are currently lacking in Kilimanjaro climate change analyses.},
-  Doi                      = {10.1659/mrd.981},
-  File                     = {:/Torbick, Ge, Qi - 2009.pdf:PDF},
-  ISSN                     = {0276-4741},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.bioone.org/doi/abs/10.1659/mrd.981}
-}
-
 @Article{Toreti2011,
   Title                    = {{A note on the use of the standard normal homogeneity test to detect inhomogeneities in climatic time series}},
   Author                   = {Toreti, a. and Kuglitsch, F. G. and Xoplaki, E. and Della-Marta, P. M. and Aguilar, E. and Prohom, M. and Luterbacher, J.},
@@ -23118,21 +22835,6 @@ Vol.},
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Tozuka2008a,
-  Title                    = {{Tropical Indian Ocean variability revealed by self-organizing maps}},
-  Author                   = {Tozuka, Tomoki and Luo, Jing-Jia and Masson, Sebastien and Yamagata, Toshio},
-  Journal                  = {Climate Dynamics},
-  Year                     = {2008},
-  Pages                    = {333--343},
-  Volume                   = {31},
-
-  Doi                      = {10.1007/s00382-007-0356-4},
-  File                     = {:/Tozuka et al. - 2008.pdf:PDF},
-  Keywords                 = {Kilimanjaro, decadal variability, el nino-southern oscillation, indian ocean dipole, seasonal phase-locking, self-organising map},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
 @Article{Tracol2011,
   Title                    = {{Plant Area Index and microclimate underneath shrub species from a Chilean semiarid community}},
   Author                   = {Tracol, Y. and Guti\'{e}rrez, J.R. and Squeo, F.a.},
@@ -23152,6 +22854,22 @@ Vol.},
   Publisher                = {Elsevier Ltd},
   Tags                     = {Ecology,LOEWE project,Remote Sensing},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0140196310002132}
+}
+
+@Article{Tripathi2006,
+  Title                    = {Downscaling of precipitation for climate change scenarios: A support vector machine approach},
+  Author                   = {Tripathi, S., Srinivas, V. V., Nanjundiah, R. S.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2006},
+  Pages                    = {621– 640},
+  Volume                   = {330},
+
+  __markedentry            = {[tnauss:]},
+  Doi                      = {10.1016/j.jhydrol.2006.04.030},
+  File                     = {:Tripathi_downscaling_of_precipitation_for_climate_change_scenario_J_Hydrology_2006.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Tsai2004,
@@ -23272,6 +22990,24 @@ Vol.},
   Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1080/01431160500168686\&magic=crossref||D404A21C5BB053405B1A640AFFD44AE3}
 }
 
+@Article{Tucker1979,
+  Title                    = {Red and photographic infrared linear combinations for monitoring vegetation },
+  Author                   = {Compton J. Tucker},
+  Journal                  = {Remote Sensing of Environment },
+  Year                     = {1979},
+  Number                   = {2},
+  Pages                    = {127 - 150},
+  Volume                   = {8},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {In situ collected spectrometer data were used to evaluate and quantify the relationships between various linear combinations of red and photographic infrared radiances and experimental plot biomass, leaf water content, and chlorophyll content. The radiance variables evaluated included the red and photographic infrared (IR) radiance and the linear combinations of the IR/red ratio, the square root of the IR/red ratio, the IR-red difference, the vegetation index, and the transformed vegetation index. In addition, the corresponding green and red linear combinations were evaluated for comparative purposes. Three data sets were used from June, September, and October sampling periods. Regression analysis showed the increased utility of the \{IR\} and red linear combinations vis-Ã -vis the same green and red linear combinations. The red and \{IR\} linear combinations had 7% and 14% greater regression significance than the green and red linear combinations for the June and September sampling periods, respectively. The vegetation index, transformed vegetation index, and square root of the IR/red ratio were the most significant, followed closely by the IR/red ratio. Less than a 6% difference separated the highest and lowest of these four \{ER\} and red linear combinations. The use of these linear combinations was shown to be sensitive primarily to the green leaf area or green leaf biomass. As such, these linear combinations of the red and photographic \{IR\} radiances can be employed to monitor the photosynthetically active biomass of plant canopies. },
+  Doi                      = {http://dx.doi.org/10.1016/0034-4257(79)90013-0},
+  ISSN                     = {0034-4257},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.08},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/0034425779900130}
+}
+
 @Article{Tuomenvirta,
   Title                    = {{DNMI - REPORT}},
   Author                   = {Tuomenvirta, Heikki and Drebs, Achim and Tveito, Ole Einar and Laursen, Ellen Vaarby},
@@ -23375,24 +23111,6 @@ Vol.},
 
   Doi                      = {10.1146/annurev.ecolsys.36.102003.152614},
   File                     = {:Turner - 2005.pdf:PDF},
-  ISSN                     = {1543-592X},
-  Owner                    = {tnauss},
-  Url                      = {http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.36.102003.152614}
-}
-
-@Article{Turner2005a,
-  Title                    = {{LANDSCAPE ECOLOGY: What Is the State of the Science?}},
-  Author                   = {Turner, Monica G.},
-  Journal                  = {Annual Review of Ecology, Evolution, and Systematics},
-  Year                     = {2005},
-
-  Month                    = dec,
-  Number                   = {1},
-  Pages                    = {319--344},
-  Volume                   = {36},
-
-  Doi                      = {10.1146/annurev.ecolsys.36.102003.152614},
-  File                     = {:Turner - 2005(2).pdf:PDF},
   ISSN                     = {1543-592X},
   Owner                    = {tnauss},
   Url                      = {http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.36.102003.152614}
@@ -23565,22 +23283,6 @@ Vol.},
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Ummenhofer2009a,
-  Title                    = {{Contributions of Indian Ocean Sea Surface Temperatures to Enhanced East African Rainfall}},
-  Author                   = {Ummenhofer, Caroline C and Gupta, Alexander Sen and England, Matthew H},
-  Journal                  = {Journal of Climate},
-  Year                     = {2009},
-  Pages                    = {993--1013},
-  Volume                   = {22},
-
-  Abstract                 = {Links between extreme wet conditions over East Africa and Indian Ocean sea surface temperatures (SST) are investigated during the core of the so-called short rain season in Octoberâ€“November. During periods of enhanced East African rainfall, Indian Ocean SST anomalies reminiscent of a tropical Indian Ocean dipole (IOD) event are observed. Ensemble simulations with an atmospheric general circulation model are used to understand the relative effect of local and large-scale Indian Ocean SST anomalies on above-average East African precipitation. The importance of the various tropical and subtropical IOD SST poles, both indi- vidually and in combination, is quantified. In the simulations, enhanced East African â€˜â€˜short rainsâ€™â€™ are predominantly driven by the local warm SST anomalies in the western equatorial Indian Ocean, while the eastern cold pole of the tropical IOD is of lesser importance. The changed East African rainfall distribution can be explained by a reorganization of the atmospheric circulation induced by the SST anomalies. A reduction in sea level pressure over the western half of the Indian Ocean and converging wind anomalies over East Africa lead to moisture convergence and increased convective activity over the region. The pattern of large-scale circulation changes over the tropical Indian Ocean and adjacent landmasses is consistent with an anomalous strengthening of the Walker cell. The seasonal cycle of various indices related to the SST and the atmospheric circulation in the equatorial Indian Ocean are examined to assess their potential usefulness for seasonal forecasting.},
-  Doi                      = {10.1175/2008JCLI2493.1},
-  File                     = {:/Ummenhofer et al. - 2009.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
 @Article{Ummenhofer2009b,
   Title                    = {{Contributions of Indian Ocean Sea Surface Temperatures to Enhanced East African Rainfall}},
   Author                   = {Ummenhofer, Caroline C. and Gupta, Alexander Sen and England, Matthew H. and {Sen Gupta}, Alexander and Reason, Chris J. C.},
@@ -23710,28 +23412,6 @@ Vol.},
   Keywords                 = {Models, Biological,Plant Leaves,Plant Leaves: anatomy \& histology,Plants,Plants: classification,Satellite Communications,Satellite Communications: instrumentation},
   Owner                    = {tnauss},
   Pmid                     = {20569415},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/20569415}
-}
-
-@Article{Ustin2010a,
-  Title                    = {{Remote sensing of plant functional types.}},
-  Author                   = {Ustin, Susan L and Gamon, John a},
-  Journal                  = {The New phytologist},
-  Year                     = {2010},
-
-  Month                    = jun,
-  Number                   = {4},
-  Pages                    = {795--816},
-  Volume                   = {186},
-
-  Abstract                 = {Conceptually, plant functional types represent a classification scheme between species and broad vegetation types. Historically, these were based on physiological, structural and/or phenological properties, whereas recently, they have reflected plant responses to resources or environmental conditions. Often, an underlying assumption, based on an economic analogy, is that the functional role of vegetation can be identified by linked sets of morphological and physiological traits constrained by resources, based on the hypothesis of functional convergence. Using these concepts, ecologists have defined a variety of functional traits that are often context dependent, and the diversity of proposed traits demonstrates the lack of agreement on universal categories. Historically, remotely sensed data have been interpreted in ways that parallel these observations, often focused on the categorization of vegetation into discrete types, often dependent on the sampling scale. At the same time, current thinking in both ecology and remote sensing has moved towards viewing vegetation as a continuum rather than as discrete classes. The capabilities of new remote sensing instruments have led us to propose a new concept of optically distinguishable functional types ('optical types') as a unique way to address the scale dependence of this problem. This would ensure more direct relationships between ecological information and remote sensing observations.},
-  Doi                      = {10.1111/j.1469-8137.2010.03284.x},
-  File                     = {:Ustin, Gamon - 2010.pdf:PDF},
-  ISSN                     = {1469-8137},
-  Keywords                 = {LOEWE, continuous ecological traits, continuous fields, detection and ranging, discrete and, functional, groups, imaging spectroscopy, lidar, light, optical types, plant},
-  Owner                    = {tnauss},
-  Pmid                     = {20569415},
-  Tags                     = {LOEWE project},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/20569415}
 }
 
@@ -26363,15 +26043,17 @@ Vol.},
 
 @comment{jabref-meta: groupstree:
 0 AllEntriesGroup:;
-1 KeywordGroup:Cape Verde\;0\;keywords\;Kap Verde\;0\;0\;;
-1 KeywordGroup:Ecosystem Services\;0\;keywords\;Ecosystem Services\;0\
-;0\;;
+1 KeywordGroup:Biodiversity\;0\;keywords\;Biodiversity\;0\;0\;;
 1 KeywordGroup:Biodiversity Exploratories\;0\;keywords\;Biodiversity E
 xploratories\;0\;0\;;
+1 KeywordGroup:Cape Verde\;0\;keywords\;Kap Verde\;0\;0\;;
 1 KeywordGroup:Data deluge\;0\;keywords\;Data deluge\;0\;0\;;
+1 KeywordGroup:Ecosystem Services\;0\;keywords\;Ecosystem Services\;0\
+;0\;;
+1 KeywordGroup:Idessa\;0\;keywords\;Idessa\;0\;0\;;
 1 KeywordGroup:Kilimanjaro\;0\;keywords\;Kilimanjaro\;0\;0\;;
 1 KeywordGroup:LOEWE\;0\;keywords\;LOEWE\;0\;0\;;
-1 KeywordGroup:Idessa\;0\;keywords\;Idessa\;0\;0\;;
-1 KeywordGroup:Biodiversity\;0\;keywords\;Biodiversity\;0\;0\;;
+1 KeywordGroup:Machine learning\;0\;keywords\;Machine learning\;0\;0\;
+;
 }
 
