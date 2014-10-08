@@ -17007,6 +17007,15 @@ Vol.},
   Tags                     = {Atacama project}
 }
 
+@Article{Ottesumbitted,
+  Title                    = {Seasonal and long-term meteorological dynamics in the Mt Kilimanjaro region as observed from local and remote sensing time series},
+  Author                   = {Otte, Insa and Detsch, Florian and Appelhans, Tim and Nauss, Thomas and Hemp, Andreas},
+  Year                     = {sumbitted},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.08}
+}
+
 @Article{Ou1999,
   Title                    = {{Remote sensing of cirrus cloud parameters based on a 0.63â€?3.7 Âµm radiance correlation technique applied to AVHRR data}},
   Author                   = {Ou, S. C. and Liou, K. N. and King, M. D. and Tsay, S. C.},
