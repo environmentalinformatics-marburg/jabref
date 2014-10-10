@@ -337,7 +337,7 @@ article examinesg round-collectegdra ss spectrarl adiometefro r estimatingr ass
   File                     = {:todo\\annamalai_etal_2005.pdf:PDF},
   ISSN                     = {{0141-6707}},
   Journal-iso              = {{Afr. J. Ecol.}},
-  Keywords                 = {{Amboseli; increasing temperature; climate; global warming}},
+  Keywords                 = {Kilimanjaro, climate, global warming, increasing temperature, Amboseli},
   Keywords-plus            = {{AMAZON DEFORESTATION; WEATHER; BABOONS}},
   Language                 = {{English}},
   Number-of-cited-references = {{19}},
@@ -618,6 +618,7 @@ article examinesg round-collectegdra ss spectrarl adiometefro r estimatingr ass
   File                     = {:todo\\annamalai_etal_2005.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{TROPICAL CLIMATE ANOMALIES; ASIAN SUMMER MONSOON; NCEP-NCAR REANALYSIS;
  LARGE-SCALE MODELS; SOUTHERN-OSCILLATION; ATMOSPHERE MODEL; WESTERN
  PACIFIC; COUPLED GCM; ENSO; VARIABILITY}},
@@ -1993,6 +1994,7 @@ Abstract The misleading aspect of the statistical analyses used in Dommenget and
   Doi                      = {10.1175/1520-0442(2003)016<1087:COACNO>2.0.CO;2},
   File                     = {:todo\\behera_etal_2003.pdf:PDF},
   ISSN                     = {0894-8755},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Publisher                = {American Meteorological Society},
   Timestamp                = {2014.10.08},
@@ -6593,6 +6595,7 @@ broad-scale variation in taxonomic richness},
  disrupts onshore moisture transports, reducing continental rainfall. Thus, late 20th-century anthropogenic Indian Ocean warming has probably already produced societally dangerous climate change by creating drought and social disruption in some of the world's most fragile food economies. We quantify the potential impacts of the observed precipitation and agricultural capacity trends by modeling â€œmillions of undernourished peopleâ€? as a function of rainfall, population, cultivated area, seed, and fertilizer use. Persistence of current tendencies may result in a 50% increase in undernourished people by 2030. On the other hand, modest increases in per-capita agricultural productivity could more than offset the observed precipitation declines. Investing in agricultural development can help mitigate climate change while decreasing rural poverty and vulnerability.},
   Comment                  = {10.1073/pnas.0708196105},
   File                     = {:todo\\Funk_et_al_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08},
   Url                      = {http://www.pnas.org/content/105/32/11081.abstract}
@@ -8232,6 +8235,7 @@ spatial interpolation of rainfall},
   File                     = {:todo\\Hastenrath_2000.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{EAST-WEST CIRCULATIONS; SOUTHERN OSCILLATION; SEASONAL RAINFALL; AFRICA;
  ANOMALIES; CLIMATE}},
   Language                 = {{English}},
@@ -8431,6 +8435,7 @@ spatial interpolation of rainfall},
   File                     = {:todo\\Hay_et_al_2002.pdf:PDF},
   ISSN                     = {{0028-0836}},
   Journal-iso              = {{Nature}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{AUTOREGRESSIVE TIME-SERIES; UNIT-ROOT; EL-NINO; VARIABILITY; UGANDA}},
   Language                 = {{English}},
   Number-of-cited-references = {{27}},
@@ -8652,9 +8657,7 @@ spatial interpolation of rainfall},
   File                     = {:todo\\Hemp_2006b.pdf:PDF},
   ISSN                     = {{0960-3115}},
   Journal-iso              = {{Biodivers. Conserv.}},
-  Keywords                 = {{agroforestry; apophytes; coffee-banana planations; east Africa;
- epiphytes; Kilimanjaro; neophytes; ruderal vegetation; tropical montane
- forest}},
+  Keywords                 = {Kilimanjaro, apophytes, coffee-banana planations, east Africa, epiphytes, forest, neophytes, ruderal vegetation, tropical montane, agroforestry},
   Keywords-plus            = {{MT. KILIMANJARO; SOUTHERN SLOPES; PTERIDOPHYTES; TANZANIA; ECOLOGY}},
   Language                 = {{English}},
   Number-of-cited-references = {{40}},
@@ -11190,7 +11193,7 @@ and Land Cover Variables},
   File                     = {:todo\\kijazi_reason_2009a.pdf:PDF},
   ISSN                     = {{0936-577X}},
   Journal-iso              = {{Clim. Res.}},
-  Keywords                 = {{Drought; Africa; Circulation anomaly}},
+  Keywords                 = {Africa, Circulation anomaly, Kilimanjaro, Drought},
   Keywords-plus            = {{INDIAN-OCEAN; RAINFALL VARIABILITY; PRECIPITATION PATTERNS;
  SOUTHERN-AFRICA; EASTERN AFRICA; EQUATORIAL; ANOMALIES; CIRCULATION;
  MECHANISMS; PACIFIC}},
@@ -12445,6 +12448,7 @@ A collection of methods for singular spectrum analysis},
 
   __markedentry            = {[tnauss:6]},
   File                     = {:todo\\Korobeynikov_etal_2014.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08}
 }
@@ -13040,6 +13044,7 @@ A collection of methods for singular spectrum analysis},
   File                     = {:todo\\Latif_etal_1990.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
+  Keywords                 = {Kilimanjaro},
   Language                 = {{English}},
   Number-of-cited-references = {{0}},
   Orcid-numbers            = {{von Storch, Hans/0000-0002-5825-8069}},
@@ -13991,6 +13996,7 @@ A collection of methods for singular spectrum analysis},
   File                     = {:todo\\Liu_Moncrieff_2007.pdf:PDF},
   ISSN                     = {{0027-0644}},
   Journal-iso              = {{Mon. Weather Rev.}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{BULK ICE SCHEME; NUMERICAL-SIMULATION; DETAILED MICROPHYSICS;
  CONDENSATION NUCLEI; PREDICTION MODELS; BOUNDARY-LAYER; SQUALL LINE; WRF
  MODEL; PRECIPITATION; EXPLICIT}},
@@ -14041,6 +14047,7 @@ A collection of methods for singular spectrum analysis},
   File                     = {:todo\\lloyd_1982.pdf:PDF},
   ISSN                     = {{0018-9448}},
   Journal-iso              = {{IEEE Trans. Inf. Theory}},
+  Keywords                 = {Kilimanjaro},
   Language                 = {{English}},
   Number-of-cited-references = {{14}},
   Owner                    = {iotte},
@@ -15404,6 +15411,7 @@ package will be most effective if the user installs MRTSwath
 https://lpdaac.usgs.gov/tools/modis_reprojection_tool_swath),and adds the directory
 with the MRTSwath executable to the},
   File                     = {:todo\\matzke_2013.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08}
 }
@@ -16244,6 +16252,7 @@ with the MRTSwath executable to the},
 
   __markedentry            = {[tnauss:6]},
   File                     = {:todo\\moelg_etal_2008b.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08}
 }
@@ -17087,6 +17096,7 @@ with the MRTSwath executable to the},
 
   __markedentry            = {[tnauss:6]},
   File                     = {:todo\\nicholson_1996.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08}
 }
@@ -17352,6 +17362,7 @@ with the MRTSwath executable to the},
   Doc-delivery-number      = {{M4681}},
   File                     = {:todo\\ogallo_1988.pdf:PDF},
   ISSN                     = {{0196-1748}},
+  Keywords                 = {Kilimanjaro},
   Language                 = {{English}},
   Number-of-cited-references = {{24}},
   Owner                    = {iotte},
@@ -18612,8 +18623,7 @@ Indicator Kriging},
   File                     = {:todo\\Plisnier_et_al_2000.pdf:PDF},
   ISSN                     = {{0960-7447}},
   Journal-iso              = {{Glob. Ecol. Biogeogr.}},
-  Keywords                 = {{climate; East Africa; El Nino; ENSO; land cover; NDVI; remote sensing;
- teleconnections}},
+  Keywords                 = {ENSO, East Africa, El Nino, Kilimanjaro, NDVI, land cover, remote sensing, teleconnections, climate},
   Keywords-plus            = {{SEA-SURFACE TEMPERATURE; SOUTHERN OSCILLATION; VEGETATION INDEX; AVHRR
  DATA; RAINFALL; NDVI; COVER; VARIABILITY; AMERICA; KENYA}},
   Language                 = {{English}},
@@ -18721,7 +18731,7 @@ Indicator Kriging},
   File                     = {:todo\\pohl_etal_2011.pdf:PDF},
   ISSN                     = {{0930-7575}},
   Journal-iso              = {{Clim. Dyn.}},
-  Keywords                 = {{WRF; Regional climate modeling; Water cycle; East Africa; Rainfall}},
+  Keywords                 = {East Africa, Kilimanjaro, Rainfall, Regional climate modeling, Water cycle, WRF},
   Keywords-plus            = {{REGIONAL CLIMATE MODEL; MESOSCALE METEOROLOGICAL MODEL; NONLOCAL
  CLOSURE-MODEL; LAKE VICTORIA BASIN; BOUNDARY-LAYER; INTERNAL
  VARIABILITY; PART I; CONVECTIVE PARAMETERIZATION; NCEP/NCAR REANALYSES;
@@ -23597,6 +23607,7 @@ Vol.},
   File                     = {:todo\\Trenberth_1999.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{PRECIPITATION CLIMATOLOGY PROJECT; GLOBAL PRECIPITATION; GAUGE
  OBSERVATIONS; DATASET}},
   Language                 = {{English}},
@@ -25375,6 +25386,7 @@ Vol.},
  
 },
   File                     = {:todo\\Willmott_1981.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
   Timestamp                = {2014.10.08},
   Url                      = { 
@@ -25637,6 +25649,7 @@ Vol.},
   File                     = {:todo\\wu_kirtman_2004.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
+  Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{SEA-SURFACE-TEMPERATURE; NINO-SOUTHERN-OSCILLATION; TROPOSPHERIC
  BIENNIAL OSCILLATION; CIRCULATION MODEL SIMULATIONS; TROPICAL-WIDE
  TELECONNECTION; ASIAN-AUSTRALIAN MONSOON; EL-NINO; INTERANNUAL
