@@ -6905,7 +6905,7 @@
 }
 
 @Manual{Giglio2007,
-  Title                    = {MODIS Collection 4 Active Fire Product User's Guide Version 2.4},
+  Title                    = {{MODIS Collection 4 Active Fire Product User's Guide Version 2.4}},
   Author                   = {Giglio, Louis},
   Month                    = {February},
   Organization             = {University of Maryland, Department of Geography, Science Systems and Applications, Inc.},
