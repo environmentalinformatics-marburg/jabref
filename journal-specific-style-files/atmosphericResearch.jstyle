@@ -41,7 +41,7 @@ MultiCiteChronological="false"
 PageInfoSeparator="; "
 
 LAYOUT
-article=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. \journal \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}.
+article=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title.  \format[JournalAbbreviator]{\journal} \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}.
 
 book=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. \begin{edition}\edition ed., \end{edition}\publisher, \address.
 
@@ -49,7 +49,7 @@ incollection=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\autho
 
 inbook=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \format[AuthorLastFirst,AuthorAbbreviator,AuthorAndsReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
-inproceedings=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \begin{editor}\editor (Eds.),\end{editor} \Booktitle, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages} \end{pages}.
+inproceedings=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \begin{editor}\editor (Eds.),\end{editor} \Booktitle, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
 phdthesis=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. (Doctoral dissertation). \school.
 
