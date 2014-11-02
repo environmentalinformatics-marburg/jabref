@@ -1,0 +1,58 @@
+# Written by Hanna Meyer
+
+NAME
+Atmospheric Research with abbreviated journal names
+
+JOURNALS
+Atmospheric Research
+
+PROPERTIES
+Title="References"
+IsSortByPosition="false"
+IsNumberEntries="false"
+ReferenceParagraphFormat="Text body"
+ReferenceHeaderParagraphFormat="Heading 1"
+
+CITATION
+BibtexKeyCitations=false
+AuthorField="author/editor"
+YearField="year"
+MaxAuthors="2"
+MaxAuthorsFirst="2"
+AuthorSeparator=","
+AuthorLastSeparator=" and "
+AuthorLastSeparatorInText=" and "
+AuthorNumber = 10
+EtAlString=" et al."
+ItalicEtAl="false"
+YearSeparator=" "
+InTextYearSeparator=" "
+BracketBefore="("
+BracketAfter=")"
+BracketBeforeInList="("
+BracketAfterInList=")"
+CitationSeparator=", "
+UniquefierSeparator=","
+GroupedNumbersSeparator="-"
+MinimumGroupingCount="3"
+FormatCitations="false"
+CitationCharacterFormat="Default"
+MultiCiteChronological="false"
+PageInfoSeparator="; "
+
+LAYOUT
+article=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. \journal \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}.
+
+book=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. \edition ed. \publisher, \address.
+
+incollection=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \format[AuthorLastFirst,AuthorAbbreviator,AuthorAndsReplacer]{\editor} (Eds.), \Booktitle, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+
+inbook=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \format[AuthorLastFirst,AuthorAbbreviator,AuthorAndsReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+
+inproceedings=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \Booktitle, \address.
+
+phdthesis=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. (Doctoral dissertation). \school.
+
+manual=\format[Authors(LastFirst,InitialsNoSpace,NoPunc,Comma,Comma)]{\author}, \year\uniq. \title. \Url
+
+default=\format[Authors(LastFirst,InitialsNoSpace,NoPunc,Comma,Comma)]{\author}, \year\uniq \title. \journal, \volume\begin{pages}, \format[FormatPagesForHTML]{pp. \pages}\end{pages}.

@@ -1,0 +1,14 @@
+Advances in Geosciences = Adv. Geosci.
+Comptes Rendus Geoscience = C. R. Geosci.
+Computer Speech & Language = Comput. Speech Lang.
+Hydrology and Earth System Sciences = Hydrol. Earth Syst. Sci.
+IEEE Transactions on Geoscience and Remote Sensing = IEEE Trans. Geosci. Remote Sens.
+ISPRS Journal of Photogrammetry and Remote Sensing = ISPRS J. Photogramm. Remote Sens.
+International Journal of Applied Earth Observation and Geoinformation = Int. J. Appl. Earth Obs. Geoinf.
+Journal of Hydrometeorology = J. Hydrometeorol.
+Journal of Statistical Software = J. Stat. Softw.
+Machine Learning = Mach. Learn.
+Meteorological Applications = Meteorol. Appl.
+Pattern Recognition Letters = Pattern Recogn. Lett.
+Photogrammetric Engineering and Remote Sensing = Photogramm. Eng. Remote Sens.
+Remote Sensing of Environment = Remote Sens. Environ.
