@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: Cp1252
 
 
@@ -260,7 +260,6 @@
   Pages                    = {{248-251}},
   Volume                   = {{40}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{The Amboseli basin, a semi-arid, open savannah area of southern Kenya, has experienced extensive changes in habitat since the early 1960's. The present report documents patterns of air temperature and rainfall in Amboseli for the 25-year period beginning 1976. Daily temperatures increased dramatically throughout this time period, at a rate almost an order of magnitude greater than that attributed to global warming. Mean daily maximum temperature increased more than did daily minimum (0.275 vs. 0.071degreesC per annum). Although increases in mean daily maxima were documented for all months of the year, they were greatest during the hottest months, February and March. Annual rainfall varied more than four-fold (x = 346.5 mm, SD = 120.0, range 132.0-553.4 mm), yet did not exhibit any directional or other regular pattern of variability among years over this same 25-year period. Empirical as well as theoretical investigation of relations between such changes in climatic conditions and habitat characteristics are needed at local and regional as well as global scales.}},
   Address                  = {{9600 GARSINGTON RD, OXFORD OX4 2DG, OXON, ENGLAND}},
   Affiliation              = {{Altmann, J (Reprint Author), Princeton Univ, Dept Ecol \& Evolutionary Biol, Princeton, NJ 08540 USA. Princeton Univ, Dept Ecol \& Evolutionary Biol, Princeton, NJ 08540 USA. Chicago Zool Soc, Dept Conservat Biol, Brookfield, IL USA. Natl Museums Kenya, Inst Primate Res, Nairobi, Kenya. Duke Univ, Dept Biol, Durham, NC 27708 USA.}},
@@ -507,7 +506,6 @@
   Pages                    = {{302-319}},
   Volume                   = {{18}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{Prior to the 1976-77 climate shift (1950-76), sea surface temperature (SST) anomalies in the tropical Indian Ocean consisted of a basinwide warming during boreal fall of the developing phase of most El Ni (n) over tilde os, whereas after the shift (1977-99) they had an east-west asymmetry-a consequence of El Ni (n) over tildeo being associated with the Indian Ocean Dipole/Zonal mode. In this study, the possible impact of these contrasting, SST patterns on the ongoing El Ni (n) over tildeo is investigated, using atmospheric reanalysis products and solutions to both an atmospheric general circulation model (AGCM) and a simple atmospheric model (LBM), with the latter used to identify basic processes. Specifically, analyses of reanalysis products during the El Ni (n) over tildeo onset indicate that after the climate shift a low-level anticyclone over the South China Sea was shifted into the Bay of Bengal and that equatorial westerly anomalies in the Pacific Ocean were considerably stronger. The present study focuses on determining influence of Indian Ocean SST on these changes. A suite of AGCM experiments, each consisting of a 10-member ensemble, is carried out to assess the relative importance of remote (Pacific) versus local (Indian Ocean) SST anomalies in determining precipitation anomalies over the equatorial Indian Ocean. Solutions indicate that both local and remote SST anomalies are necessary for realistic simulations with convection in the tropical west Pacific and the subsequent development of the South China Sea anticyclone being particularly sensitive to Indian Ocean SST anomalies. Prior to the climate shift, the basinwide Indian Ocean SST anomalies generate an atmospheric Kelvin wave associated with easterly flow over the equatorial west-central Pacific, thereby weakening the westerly anomalies associated with the developing El Ni (n) over tildeo. In contrast, after the shift, the east-west contrast in Indian Ocean SST anomalies does not generate a significant Kelvin wave response, and there is little effect on the El Ni (n) over tildeo-induced westerlies. The Linear Baroclinic Model (LBM) solutions confirm the AGCM's results.}},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693 USA}},
   Affiliation              = {{Annamalai, H (Reprint Author), Univ Hawaii, IPRC, SOEST, 1680 EW Rd, Honolulu, HI 96822 USA. Univ Hawaii, IPRC, SOEST, Honolulu, HI 96822 USA. Univ Maryland, ESSIC, College Pk, MD USA.}},
@@ -638,6 +636,55 @@
   File                     = {:Aonashi, Liu - 2010.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/perlserv/?doi=10.1175\%2F1520-0450(2000)039\%3C2024:PMPRUT\%3E2.0.CO\%3B2\&amp;request=get-abstract}
+}
+
+@Article{Apaydin2004a,
+  Title                    = {{Spatial interpolation techniques for climate data in the GAP region in
+ Turkey}},
+  Author                   = {Apaydin, H and Sonmez, FK and Yildirim, YE},
+  Journal                  = {{CLIMATE RESEARCH}},
+  Year                     = {{2004}},
+
+  Month                    = {{DEC 31}},
+  Number                   = {{1}},
+  Pages                    = {{31-40}},
+  Volume                   = {{28}},
+
+  Abstract                 = {{Six spatial interpolation techniques (inverse distance weighted, global
+ polynomial interpolation, local polynomial interpolation, completely
+ regularized spline, kriging and cokriging with 4 sub-types) were
+ evaluated to deter-mine the best spatial distribution of 6 different
+ climate parameters (solar radiation, sunshine duration, temperature,
+ relative humidity, wind speed and rainfall) in the region of the
+ Southeastern Anatolia Project (GAP) of Turkey. Based on the root mean
+ square error values of predictions made using measured values from 1971
+ to 1999, simple cokriging yielded the best results for temperature,
+ solar radiation, relative humidity, wind speed and completely
+ regularized spline for sunshine duration and rainfall.}},
+  Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
+  Affiliation              = {{Apaydin, H (Reprint Author), Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey.
+ Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey.}},
+  Author-email             = {{apaydin@agri.ankara.edu.tr}},
+  Doc-delivery-number      = {{906JZ}},
+  Doi                      = {{10.3354/cr028031}},
+  ISSN                     = {{0936-577X}},
+  Journal-iso              = {{Clim. Res.}},
+  Keywords                 = {{spatial interpolation; climate; Southeastern Anatolia Project; inverse
+ distance weighted; polynomial interpolation; kriging; cokriging;
+ completely regularized spline}},
+  Keywords-plus            = {{MOUNTAINOUS TERRAIN; AIR-TEMPERATURE; RAINFALL; PRECIPITATION;
+ GEOSTATISTICS; RESOLUTION; VARIABLES}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{37}},
+  Owner                    = {tnauss},
+  Publisher                = {{INTER-RESEARCH}},
+  Research-areas           = {{Environmental Sciences \& Ecology; Meteorology \& Atmospheric Sciences}},
+  Researcherid-numbers     = {{Apaydin, Halit/B-6546-2008}},
+  Times-cited              = {{24}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000227638300004}},
+  Web-of-science-categories = {{Environmental Sciences; Meteorology \& Atmospheric Sciences}}
 }
 
 @Article{Apaydin2004,
@@ -816,6 +863,24 @@
   Url                      = {http://www.agu.org/pubs/crossref/2009/2008GL036500.shtml}
 }
 
+@Article{Ashraf1997,
+  Title                    = {Application of geostatistics to evaluate partial weather station networks },
+  Author                   = {Muhammad Ashraf and Jim C. Loftis and K.G. Hubbard},
+  Journal                  = {Agricultural and Forest Meteorology },
+  Year                     = {1997},
+  Number                   = {3â€“4},
+  Pages                    = {255 - 271},
+  Volume                   = {84},
+
+  Abstract                 = {Climatic data are an essential input for the determination of crop water requirements. The density and location of weather stations are the important design variables for obtaining the required degree of accuracy of weather data. The planning of weather station networks should include economic considerations, and a mixture of full and partial weather stations could be a cost-effective alternative. A â€˜fullâ€™ weather station is defined here as one in which all the weather variables used in the modified Penman equation are measured, and a â€˜partialâ€™ weather station is one in which some, but not all, weather variables are measured. The accuracy of reference evapotranspiration (Etr) estimates for sites located some distance from surrounding stations is dependent on measurement error, error of the estimation equation, and interpolation error. The interpolation error is affected by the spatial correlation structure of weather variables and method of interpolation. A case-study data set of 2 years of daily climatic data (1989â€“1990) from 17 stations in the states of Nebraska, Kansas, and Colorado was used to compare alternative network designs and interpolation methods. Root mean squared interpolation error (RMSIE) values were the criteria for evaluating Etr estimates and network performance. The kriging method gave the lowest RMSIE, followed by the inverse distance square method and the inverse distance method. Co-kriging improved the estimates still further. For a given level of performance, a mixture of full and partial weather stations would be more economical than full stations only. },
+  Doi                      = {http://dx.doi.org/10.1016/S0168-1923(96)02358-1},
+  ISSN                     = {0168-1923},
+  Keywords                 = {Geostatistics},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192396023581}
+}
+
 @Article{Asner2005,
   Title                    = {{Substrate age and precipitation effects on Hawaiian forest canopies from spaceborne imaging spectroscopy}},
   Author                   = {Asner, G and Carlson, K and Martin, R},
@@ -976,6 +1041,21 @@
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/joc.1495/abstract}
 }
 
+@Article{Attorre2013,
+  Title                    = {The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species},
+  Author                   = {Attorre, F. AND De Sanctis, M. AND Farcomeni, A. AND Guillet, A. AND Scepi, E. AND Vitale, M. AND Pella, F. AND Fasola, M},
+  Journal                  = {Journal for Nature Conservation},
+  Year                     = {2013},
+  Pages                    = {48-55},
+  Volume                   = {21},
+
+  File                     = {:Attore_et al_2013_The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species_Journal_of_Nature_Conservation.pdf:PDF},
+  Keywords                 = {Area of occupancy Extent of occurrence Random Forest Red List Criteria Socotra Suitability maps, Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.1016/j.jnc.2012.10.001}
+}
+
 @Article{Attorre2007a,
   Title                    = {Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale},
   Author                   = {Attorre, F., Alfo, M., De Sanctis, M., Francesconi, F., Bruno, F.},
@@ -989,21 +1069,6 @@
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
   Timestamp                = {2014.10.02}
-}
-
-@Article{Attorre2013,
-  Title                    = {The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species},
-  Author                   = {Attorre, F., De Sanctis, M., Farcomeni, A., Guillet, A., Scepi, E., Vitale, M., Pella, F., Fasola, M},
-  Journal                  = {Journal for Nature Conservation},
-  Year                     = {2013},
-  Pages                    = {48-55},
-  Volume                   = {21},
-
-  File                     = {:Attore_et al_2013_The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species_Journal_of_Nature_Conservation.pdf:PDF},
-  Keywords                 = {Area of occupancy Extent of occurrence Random Forest Red List Criteria Socotra Suitability maps, Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://dx.doi.org/10.1016/j.jnc.2012.10.001}
 }
 
 @Article{Atzberger2011,
@@ -1223,8 +1288,6 @@
   Author                   = {Baltas, E.},
   Journal                  = {Meteorological Applications},
   Year                     = {2007},
-
-  Month                    = mar,
   Number                   = {1},
   Pages                    = {69--78},
   Volume                   = {14},
@@ -1243,8 +1306,6 @@
   Author                   = {Balvanera, Patricia and Pfisterer, Andrea B and Buchmann, Nina and He, Jing-Shen and Nakashizuka, Tohru and Raffaelli, David and Schmid, Bernhard},
   Journal                  = {Ecology letters},
   Year                     = {2006},
-
-  Month                    = oct,
   Number                   = {10},
   Pages                    = {1146--56},
   Volume                   = {9},
@@ -1630,8 +1691,6 @@
   Author                   = {Batista, Catia and Lacuesta, Aitor and Vicente, Pedro C.},
   Journal                  = {Journal of Development Economics},
   Year                     = {2012},
-
-  Month                    = jan,
   Number                   = {1},
   Pages                    = {32--45},
   Volume                   = {97},
@@ -1884,7 +1943,6 @@
   Pages                    = {1087--1093},
   Volume                   = {16},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {Abstract The misleading aspect of the statistical analyses used in Dommenget and Latif, which raises concerns on some of the reported climate modes, is demonstrated. Adopting simple statistical techniques, the physical existence of the Indian Ocean dipole mode is shown and then the limitations of varimax and regression analyses in capturing the climate mode are discussed. Abstract The misleading aspect of the statistical analyses used in Dommenget and Latif, which raises concerns on some of the reported climate modes, is demonstrated. Adopting simple statistical techniques, the physical existence of the Indian Ocean dipole mode is shown and then the limitations of varimax and regression analyses in capturing the climate mode are discussed.},
   Booktitle                = {Journal of Climate},
   Comment                  = {doi: 10.1175/1520-0442(2003)016<1087:COACNO>2.0.CO;2},
@@ -2004,8 +2062,6 @@
   Author                   = {Belnap, Jayne and Phillips, Susan L and Miller, Mark E},
   Journal                  = {Oecologia},
   Year                     = {2004},
-
-  Month                    = oct,
   Number                   = {2},
   Pages                    = {306--16},
   Volume                   = {141},
@@ -3331,8 +3387,6 @@
   Author                   = {Cardinale, Bradley J and Duffy, J Emmett and Gonzalez, Andrew and Hooper, David U and Perrings, Charles and Venail, Patrick and Narwani, Anita and Mace, Georgina M and Tilman, David and Wardle, David a and Kinzig, Ann P and Daily, Gretchen C and Loreau, Michel and Grace, James B and Larigauderie, Anne and Srivastava, Diane S and Naeem, Shahid},
   Journal                  = {Nature},
   Year                     = {2012},
-
-  Month                    = jun,
   Number                   = {7401},
   Pages                    = {59--67},
   Volume                   = {486},
@@ -3784,6 +3838,71 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0168192300001799}
 }
 
+@Article{Chen2007a,
+  Title                    = {{A high-resolution, gridded dataset for monthly temperature normals
+ (1971-2000) in Sweden}},
+  Author                   = {Chen, Deliang and Gong, Lebing and Xu, Chong-Yu and Halldin, Sven},
+  Journal                  = {Geografiska Annaler Series A-Physical Geography},
+  Year                     = {{2007}},
+  Number                   = {{4}},
+  Pages                    = {{249-261}},
+  Volume                   = {{89A}},
+
+  Abstract                 = {{A baseline climatology is required in evaluating climate variability and
+ changes on regional and local scales. Gridded climate normals, i.e.
+ averages over a 30-year period, are of special interest since they can
+ be readily used for validation of climate models. This study is aimed at
+ creating an updated gridded dataset for Swedish monthly temperature
+ normals over the period 1971-2000, based on standard 2-m air temperature
+ records at 510 stations in mainland Sweden. Spatial trends of the normal
+ temperatures were modelled as functions of latitude, longitude and
+ elevation by multiple linear regression. The study shows that the
+ temperature normals are strongly correlated with latitude throughout the
+ year and especially in cold months, while elevation was a more important
+ factor in June and July. Longitude played a minor role and was only
+ significant in April and May. Regression equations linking temperature
+ to latitude, longitude and elevation were set up for each month. Monthly
+ temperature normals were detrended by subtracting spatial trends given
+ by the regressions. Ordinary kriging was then applied to both original
+ data (simple method) and detrended data (composite method) to model the
+ spatial variability and to perform spatial gridding. The multiple
+ regressions showed that between 82\% (summer) and 96\% (winter) of the
+ variance in monthly temperature normals could be explained by latitude
+ and elevation. Unexplained variances, i.e. the residuals, were modelled
+ with ordinary kriging with exponential semivariograms. The composite
+ grid estimates were calculated by adding the multiple linear trends back
+ to the interpolated residuals at each grid point. Kriged original
+ temperature normals provided a performance benchmark. The
+ cross-validation shows that the interpolation errors of the normals are
+ significantly reduced if the composite method rather than the simple one
+ was used. A gridded monthly dataset with 30-arcsecond spacing was
+ created using the established trends, the kriging model and a digital
+ topographic dataset.}},
+  Address                  = {{9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND}},
+  Affiliation              = {{Chen, DL (Reprint Author), Univ Gothenburg, Ctr Earth Sci, Box 460, SE-40530 Gothenburg, Sweden.
+ Chen, Deliang, Univ Gothenburg, Ctr Earth Sci, SE-40530 Gothenburg, Sweden.
+ Gong, Lebing; Xu, Chong-Yu; Halldin, Sven, Uppsala Univ, Dept Earth Sci, Uppsala, Sweden.
+ Xu, Chong-Yu, Univ Oslo, Dept Geosci, N-0316 Oslo, Norway.}},
+  Author-email             = {{deliang@gvc.gu.se}},
+  Doc-delivery-number      = {{249RY}},
+  ISSN                     = {{0435-3676}},
+  Journal-iso              = {{Geogr. Ann. Ser. A-Phys. Geogr.}},
+  Keywords                 = {{monthly temperature normals; 1971-2000; interpolation; kriging; Sweden}},
+  Keywords-plus            = {{MONTHLY PRECIPITATION; TOPOGRAPHY; ELEVATION; MODEL}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{29}},
+  Owner                    = {tnauss},
+  Publisher                = {{BLACKWELL PUBLISHING}},
+  Research-areas           = {{Physical Geography; Geology}},
+  Researcherid-numbers     = {{Xu, Chong-Yu/B-2941-2012
+ Chen, Deliang/A-5107-2013}},
+  Times-cited              = {{4}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000252248600005}},
+  Web-of-science-categories = {{Geography, Physical; Geology}}
+}
+
 @Article{Chen2007,
   Title                    = {{Renewislandsâ€”Renewable energy solutions for islands}},
   Author                   = {Chen, Fengzhen and Duic, Neven and {Manuel Alves}, Luis and {da Gra\c{c}a Carvalho}, Maria},
@@ -4203,16 +4322,16 @@
   Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3118790\&tool=pmcentrez\&rendertype=abstract}
 }
 
-@Proceedings{Collins1996,
+@Electronic{Collins1996,
   Title                    = {A Comparison of Spatial Interpolation Techniques in Temperature Estimation},
+  Author                   = {Collins, F. C. AND Bolstad, P.V.},
+  Url                      = {http://www.ncgia.ucsb.edu/conf/SANTA\_FE\_CD\-ROM/sf\_papers/collins\_fred/collins.html},
   Year                     = {1996},
 
-  Author                   = {Collins, F. C.},
   File                     = {:Collins_and_Bolstad_1996_A Comparison of Spatial Interpolation Techniques in Temperature Estimation.doc:Word},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
-  Timestamp                = {2014.10.03},
-  Url                      = {http://www.ncgia.ucsb.edu/conf/SANTA_FE_CD-ROM/sf_papers/collins_fred/collins.html}
+  Timestamp                = {2014.10.03}
 }
 
 @Article{Communication2001,
@@ -4369,8 +4488,6 @@
   Author                   = {Cottingham, K.L. and Brown, B.L. and Lennon, J.T.},
   Journal                  = {Ecology Letters},
   Year                     = {2001},
-
-  Month                    = jan,
   Number                   = {1},
   Pages                    = {72--85},
   Volume                   = {4},
@@ -4433,8 +4550,6 @@
   Author                   = {Currie, David J. and Mittelbach, Gary G. and Cornell, Howard V. and Field, Richard and Guegan, Jean-Francois and Hawkins, Bradford a. and Kaufman, Dawn M. and Kerr, Jeremy T. and Oberdorff, Thierry and O'Brien, Eileen and Turner, J. R. G.},
   Journal                  = {Ecology Letters},
   Year                     = {2004},
-
-  Month                    = dec,
   Number                   = {12},
   Pages                    = {1121--1134},
   Volume                   = {7},
@@ -4560,8 +4675,6 @@
   Author                   = {Daly, Christopher},
   Journal                  = {International Journal of Climatology},
   Year                     = {2006},
-
-  Month                    = may,
   Number                   = {6},
   Pages                    = {707--721},
   Volume                   = {26},
@@ -4580,8 +4693,6 @@
   Author                   = {Daly, Christopher and Smith, Jonathan W. and Smith, Joseph I. and McKane, Robert B.},
   Journal                  = {Journal of Applied Meteorology and Climatology},
   Year                     = {2007},
-
-  Month                    = oct,
   Number                   = {10},
   Pages                    = {1565--1586},
   Volume                   = {46},
@@ -4760,8 +4871,6 @@
   Author                   = {{Di Luzio}, Mauro and Johnson, Gregory L. and Daly, Christopher and Eischeid, Jon K. and Arnold, Jeffrey G.},
   Journal                  = {Journal of Applied Meteorology and Climatology},
   Year                     = {2008},
-
-  Month                    = feb,
   Number                   = {2},
   Pages                    = {475--497},
   Volume                   = {47},
@@ -4796,8 +4905,6 @@
   Author                   = {Diodato, Nazzareno},
   Journal                  = {International Journal of Climatology},
   Year                     = {2005},
-
-  Month                    = mar,
   Number                   = {3},
   Pages                    = {351--363},
   Volume                   = {25},
@@ -6506,7 +6613,6 @@
   Pages                    = {11081--11086},
   Volume                   = {105},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {Since 1980, the number of undernourished people in eastern and southern Africa has more than doubled. Rural development stalled and rural poverty expanded during the 1990s. Population growth remains very high, and declining per-capita agricultural capacity retards progress toward Millennium Development goals. Analyses of in situ station data and satellite observations of precipitation have identified another problematic trend: main growing-season rainfall receipts have diminished by â‰ˆ15% in food-insecure countries clustered along the western rim of the Indian Ocean. Occurring during the main growing seasons in poor countries dependent on rain-fed agriculture, these declines are societally dangerous. Will they persist or intensify? Tracing moisture deficits upstream to an anthropogenically warming Indian Ocean leads us to conclude that further rainfall declines are likely. We present analyses suggesting that warming in the central Indian Ocean ! disrupts onshore moisture transports, reducing continental rainfall. Thus, late 20th-century anthropogenic Indian Ocean warming has probably already produced societally dangerous climate change by creating drought and social disruption in some of the world's most fragile food economies. We quantify the potential impacts of the observed precipitation and agricultural capacity trends by modeling â€œmillions of undernourished peopleâ€? as a function of rainfall, population, cultivated area, seed, and fertilizer use. Persistence of current tendencies may result in a 50% increase in undernourished people by 2030. On the other hand, modest increases in per-capita agricultural productivity could more than offset the observed precipitation declines. Investing in agricultural development can help mitigate climate change while decreasing rural poverty and vulnerability.},
   Comment                  = {10.1073/pnas.0708196105},
   File                     = {:todo\\Funk_et_al_2007.pdf:PDF},
@@ -7127,6 +7233,115 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0143622811002384}
 }
 
+@Article{Goodale1998,
+  Title                    = {{Mapping monthly precipitation, temperature, and solar radiation for
+ Ireland with polynomial regression and a digital elevation model}},
+  Author                   = {Goodale, CL and Aber, JD and Ollinger, SV},
+  Journal                  = {Climate Research},
+  Year                     = {{1998}},
+  Number                   = {{1}},
+  Pages                    = {{35-49}},
+  Volume                   = {{10}},
+
+  Abstract                 = {{A 1 km(2) resolution digital elevation model (DEM) of Ireland was
+ constructed and used as the basis for generating digital maps of the
+ climate parameters required to run a model of ecosystem carbon and water
+ cycling. The DEM had mean absolute errors of 30 m or less for most of
+ Ireland. The ecosystem model requires inputs of monthly precipitation,
+ monthly averaged maximum and minimum daily temperature, and monthly
+ averaged daily solar radiation. Long-term (1951 to 1980) averaged
+ monthly data were obtained from sites measuring precipitation (618
+ sites), temperature (62 sites), and the number of hours of bright
+ sunshine per day ('sunshine hours') (61 sites). Polynomial regression
+ was used to derive a simple model for each monthly climate variable to
+ relate climate to position and elevation on the DEM. Accuracy
+ assessments with subsets of each climate data set determined that
+ polynomial regression can predict average monthly climate in Ireland
+ with mean absolute errors of 5 to 15 mm for monthly precipitation, 0.2
+ to 0.5 degrees C for monthly averaged maximum and minimum temperature,
+ and 6 to 15 min for monthly averaged sunshine hours. The polynomial
+ regression estimates of climate were compared with estimates from a
+ modified inverse-distance-squared interpolation. Prediction accuracy did
+ not differ between the 2 methods, but the polynomial regression models
+ demanded less time to generate and less computer storage space, greatly
+ decreasing the time required for regional modeling runs.}},
+  Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
+  Affiliation              = {{Goodale, CL (Reprint Author), Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA.
+ Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA.}},
+  Doc-delivery-number      = {{ZQ850}},
+  Doi                      = {{10.3354/cr010035}},
+  ISSN                     = {{0936-577X}},
+  Journal-iso              = {{Clim. Res.}},
+  Keywords                 = {{interpolation; climate grids; DEM; GIS; regional modeling}},
+  Keywords-plus            = {{NORTHEASTERN UNITED-STATES; MOUNTAINOUS TERRAIN; CLIMATE-CHANGE;
+ EVAPOTRANSPIRATION; PHOTOSYNTHESIS; RAINFALL; FORESTS}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{43}},
+  Owner                    = {tnauss},
+  Publisher                = {{INTER-RESEARCH}},
+  Research-areas           = {{Environmental Sciences \& Ecology; Meteorology \& Atmospheric Sciences}},
+  Times-cited              = {{73}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000073909300004}},
+  Web-of-science-categories = {{Environmental Sciences; Meteorology \& Atmospheric Sciences}}
+}
+
+@Article{Goovaerts2000a,
+  Title                    = {{Geostatistical approaches for incorporating elevation into the spatial
+ interpolation of rainfall}},
+  Author                   = {Goovaerts, P},
+  Journal                  = {{JOURNAL OF HYDROLOGY}},
+  Year                     = {{2000}},
+
+  Month                    = {{FEB 21}},
+  Number                   = {{1-2}},
+  Pages                    = {{113-129}},
+  Volume                   = {{228}},
+
+  Abstract                 = {{This paper presents three multivariate geostatistical algorithms for
+ incorporating a digital elevation model into the spatial prediction of
+ rainfall: simple kriging with varying local means; kriging with an
+ external drift; and colocated cokriging. The techniques are illustrated
+ using annual and monthly rainfall observations measured at 36 climatic
+ stations in a 5000 km(2) region of Portugal. Cross validation is used to
+ compare the prediction performances of the three geostatistical
+ interpolation algorithms with the straightforward linear regression of
+ rainfall against elevation and three univariate techniques: the Thiessen
+ polygon, inverse square distance; and ordinary kriging.
+ Larger prediction errors are obtained for the two algorithms (inverse
+ square distance, Thiessen polygon) that ignore both the elevation and
+ rainfall records at surrounding stations. The three multivariate
+ geostatistical algorithms outperform other interpolators, in particular
+ the linear regression, which stresses the importance of accounting for
+ spatially dependent rainfall observations in addition to the colocated
+ elevation. Last, ordinary kriging yields more accurate predictions than
+ linear regression when the correlation between rainfall and elevation is
+ moderate (less than 0.75 in the case study). (C) 2000 Elsevier Science
+ B.V. All rights reserved.}},
+  Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
+  Affiliation              = {{Goovaerts, P (Reprint Author), Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA.
+ Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA.}},
+  Author-email             = {{goovaert@engin.umich.edu}},
+  Doc-delivery-number      = {{295YM}},
+  Doi                      = {{10.1016/S0022-1694(00)00144-X}},
+  ISSN                     = {{0022-1694}},
+  Journal-iso              = {{J. Hydrol.}},
+  Keywords                 = {{rainfall; DEM; multivariate geostatistics; kriging}},
+  Keywords-plus            = {{MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS; PRECIPITATION
+ ESTIMATION}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{28}},
+  Owner                    = {tnauss},
+  Publisher                = {{ELSEVIER SCIENCE BV}},
+  Research-areas           = {{Engineering; Geology; Water Resources}},
+  Times-cited              = {{433}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000085996300010}},
+  Web-of-science-categories = {{Engineering, Civil; Geosciences, Multidisciplinary; Water Resources}}
+}
+
 @Article{Goovaerts2000,
   Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
   Author                   = {Goovaerts, P.},
@@ -7523,8 +7738,6 @@
   Author                   = {Guler, Mustafa and Cemek, Bilal and Gunal, Hikmet},
   Journal                  = {Meteorological Applications},
   Year                     = {2007},
-
-  Month                    = jun,
   Number                   = {2},
   Pages                    = {163--169},
   Volume                   = {14},
@@ -8097,8 +8310,6 @@
   Author                   = {Hasenauer, H},
   Journal                  = {Agricultural and Forest Meteorology},
   Year                     = {2003},
-
-  Month                    = oct,
   Number                   = {1-2},
   Pages                    = {87--107},
   Volume                   = {119},
@@ -8145,7 +8356,6 @@
   Pages                    = {{2746-2756}},
   Volume                   = {{13}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{The NCEP-NCAR 1958-97 upper-air dataset and surface observations have been analyzed for evidence of zonal-vertical circulations along the Indian Ocean equator and their role in climatic variability. The long-term mean upper-tropospheric circulation is dominated in boreal winter by divergent outflow from the southern Indian Ocean northwestward into southern Asia, and in summer from southern Asia southwestward into the Southern Hemisphere. In boreal autumn only, divergent easterlies blow from Indonesia along the equator into an uppertropospheric convergence band over East Africa, and only then a closed zonal-vertical circulation cell materializes along the Indian Ocean equator, between the centers of ascending motion over Indonesia and of subsidence over equatorial East Africa, and featuring westerlies in the lower layers. The boreal autumn zonal-vertical circulation varies interannually. A regime of intense circulation features accelerated equatorial surface westerlies, enhanced subsidence, and deficient rainfall at the coast of East Africa. Tn the high phase of the Southern Oscillation {[}anomalously high (low) pressure at Tahiti (Darwin)] this regime is preferred. The regime of weak zonal circulation has the opposite departure characteristics.}},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693 USA}},
   Affiliation              = {{Hastenrath, S (Reprint Author), Univ Wisconsin, Dept Atmospher \& Ocean Sci, 1225 W Dayton St, Madison, WI 53706 USA. Univ Wisconsin, Dept Atmospher \& Ocean Sci, Madison, WI 53706 USA.}},
@@ -8319,7 +8529,6 @@
   Pages                    = {{905-909}},
   Volume                   = {{415}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{The public health and economic consequences of Plasmodium falciparum malaria are once again regarded as priorities for global development. There has been much speculation on whether anthropogenic climate change is exacerbating the malaria problem, especially in areas of high altitude where P. falciparum transmission is limited by low temperature(1-4). The International Panel on Climate Change has concluded that there is likely to be a net extension in the distribution of malaria and an increase in incidence within this range(5). We investigated long-term meteorological trends in four high-altitude sites in East Africa, where increases in malaria have been reported in the past two decades. Here we show that temperature, rainfall, vapour pressure and the number of months suitable for P. falciparum transmission have not changed significantly during the past century or during the period of reported malaria resurgence. A high degree of temporal and spatial variation in the climate of East Africa suggests further that claimed associations between local malaria resurgences and regional changes in climate are overly simplistic.}},
   Address                  = {{MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND}},
   Affiliation              = {{Hay, SI (Reprint Author), Univ Oxford, Dept Zool, TALA Res Grp, S Parks Rd, Oxford OX1 3PS, England. Univ Oxford, Dept Zool, TALA Res Grp, Oxford OX1 3PS, England. Kenya Med Res Inst Wellcome Trust Collaborat Prog, Nairobi, Kenya. Univ London London Sch Hyg \& Trop Med, Dept Infect \& Trop Dis, London WC1E 7HT, England. Univ Oxford, Dept Zool, Oxford Tick Res Grp, Oxford OX1 3PS, England. Australian Natl Univ, Ctr Resource \& Environm Studies, Canberra, ACT 0200, Australia. USA, Med Res Unit Kenya, Nairobi, Kenya. Decis Syst Technol Inc, Rockville, MD 20850 USA. Univ Oxford, John Radcliffe Hosp, Ctr Trop Med, Oxford OX3 9DU, England.}},
@@ -8393,8 +8602,6 @@
   Author                   = {Hector, Andy and Bagchi, Robert},
   Journal                  = {Nature},
   Year                     = {2007},
-
-  Month                    = jul,
   Number                   = {7150},
   Pages                    = {188--90},
   Volume                   = {448},
@@ -8521,7 +8728,6 @@
   Pages                    = {{1193-1217}},
   Volume                   = {{15}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{Natural flora, vegetation, diversity and structure of 62 traditional coffee-banana plantations on Kilimanjaro were investigated and compared with the other vegetation formations on this volcano on basis of over 1400 plots following the method of Braun-Blanquet. The vegetation of the so-called Chagga homegardens belongs floristically to the formation of ruderal vegetation forming two main communities that are determined by altitude. These coffee-banana plantations maintain a high biodiversity with about 520 vascular plant species including over 400 non-cultivated plants. Most species (194) occurring in the Chagga homegardens are forest species, followed by 128 ruderal species, including 41 neophytes. Typical of the agroforestry system of the Chagga homegardens is their multilayered vegetation structure similar to a tropical montane forest with trees, shrubs, lianas, epiphytes and herbs. Beside relicts of the former forest cover, which lost most of their former habitats, there are on the other hand (apophytic) forest species, which were directly or indirectly favoured by the land use of the Chagga people. High demand of wood, the introduction of coffee varieties that are sun-tolerant and low coffee prizes on the world marked endanger this effective and sustainable system.}},
   Address                  = {{VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS}},
   Affiliation              = {{Hemp, A (Reprint Author), Univ Bayreuth, Dept Plant Physiol, Universitatsstr 30, D-95440 Bayreuth, Germany. Univ Bayreuth, Dept Plant Physiol, D-95440 Bayreuth, Germany.}},
@@ -8922,6 +9128,14 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%282003\%29042\%3C1369\%3AIWPDRF\%3E2.0.CO\%3B2}
 }
 
+@Article{Hiemstra2008,
+  Title                    = {Real-time automatic interpolation of ambient gamma dose rates from the Dutch Radioactivity Monitoring Network},
+  Author                   = {P.H. Hiemstra and E.J. Pebesma and C.J.W. Twenh"{o}fel and G.B.M. Heuvelink},
+  Journal                  = {Computers \& Geosciences},
+  Year                     = {2008},
+  Note                     = {DOI: http://dx.doi.org/10.1016/j.cageo.2008.10.011}
+}
+
 @Article{Hilbert2013,
   Title                    = {{Big Data for Development : From Information- to Knowledge Societies}},
   Author                   = {Hilbert, Martin},
@@ -9003,7 +9217,7 @@
 
 @Article{Ho2014,
   Title                    = {Mapping maximum urban air temperature on hot summer days},
-  Author                   = {Ho, H. C., Knudby, A., Sirovyak, P., Xu, Y., Hodul, M., Henderson, S. B.,},
+  Author                   = {Ho, H. C. AND Knudby, A. AND Sirovyak, P. AND Xu, Y. AND Hodul, M. AND Henderson, S. B.},
   Journal                  = {Remote Sensing of the Environment},
   Year                     = {2014},
   Pages                    = {38-45},
@@ -9055,9 +9269,85 @@
   Owner                    = {tnauss}
 }
 
+@Article{Hofstra2008a,
+  Title                    = {{Comparison of six methods for the interpolation of daily, European
+ climate data}},
+  Author                   = {Hofstra, Nynke and Haylock, Malcolm and New, Mark and Jones, Phil and
+ Frei, Christoph},
+  Journal                  = {{JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES}},
+  Year                     = {{2008}},
+
+  Month                    = {{NOV 11}},
+  Number                   = {{D21}},
+  Volume                   = {{113}},
+
+  Abstract                 = {{We compare versions of six interpolation methods for the interpolation
+ of daily precipitation, mean, minimum and maximum temperature, and sea
+ level pressure from station data over Europe from 1961 to 1990. The
+ interpolation methods evaluated are global and local kriging, two
+ versions of angular distance weighting, natural neighbor interpolation,
+ regression, 2D and 3D thin plate splines, and conditional interpolation.
+ We first evaluated, using station cross-validation and several skill
+ scores, relative skill of each method at estimating point values,
+ looking at spatial and temporal patterns and the frequency distribution
+ of the variables. We then compared, for precipitation, gridded area
+ averages from the candidate interpolation methods against existing
+ high-resolution gridded data sets for the UK and the Alps, which are
+ derived from a much denser network of stations. In both point and
+ area-average cases, differences in skill between interpolation methods
+ at any one point are smaller than the range in skill for a single method
+ either across the domain, or in different seasons. The main control on
+ spatial patterns of interpolation skill is density of the station
+ network, with topographic complexity a compounding factor. The relative
+ skill of different methods remains relatively constant through time,
+ despite a varying station network. Skill in interpolating extreme events
+ is lower than for average days, but relative skill of different methods
+ remains the same. We select global kriging as the best performing method
+ overall, for use in the development of a daily, high-resolution,
+ long-term, European data set of climate variables as part of the EU
+ funded ENSEMBLES project.}},
+  Address                  = {{2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA}},
+  Affiliation              = {{Hofstra, N (Reprint Author), Univ Oxford, Ctr Environm, Sch Geog, S Parks Rd, Oxford OX1 3QY, England.
+ Hofstra, Nynke; New, Mark, Univ Oxford, Ctr Environm, Sch Geog, Oxford OX1 3QY, England.
+ Frei, Christoph, Fed Off Meteorol \& Climatol MeteoSwiss, CH-8044 Zurich, Switzerland.
+ Haylock, Malcolm; Jones, Phil, Univ E Anglia, Sch Environm Sci, Climat Res Unit, Norwich NR4 7TJ, Norfolk, England.}},
+  Article-number           = {{D21110}},
+  Author-email             = {{nynke.hofstra@ouce.ox.ac.uk}},
+  Doc-delivery-number      = {{373SF}},
+  Doi                      = {{10.1029/2008JD010100}},
+  Eissn                    = {{2169-8996}},
+  Funding-acknowledgement  = {{EU project ENSEMBLES {[}GOCE-CT-2004-50539]; Dutch talentenbeurs; Dutch
+ Prins Bernhard Cultuurfonds beurs}},
+  Funding-text             = {{We would like to thank all institutes (see Appendix 1 of Klok and Klein
+ Tank {[}2008]) that made meteorological station data available for the
+ study. This study was funded by the EU project ENSEMBLES (WP 5.1,
+ contract GOCE-CT-2004-50539). NH was also funded by the Dutch
+ talentenbeurs and the Dutch Prins Bernhard Cultuurfonds beurs.}},
+  ISSN                     = {{2169-897X}},
+  Journal-iso              = {{J. Geophys. Res.-Atmos.}},
+  Keywords-plus            = {{RAIN-GAUGE; MESOSCALE PRECIPITATION; SPATIAL INTERPOLATION;
+ AIR-TEMPERATURE; PREDICTIVE PERFORMANCE; UNITED-STATES; PART II;
+ VARIABLES; SPLINES; NETWORKS}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{67}},
+  Orcid-numbers            = {{New, Mark/0000-0001-6082-8879
+ Hofstra, Nynke/0000-0002-0409-5145}},
+  Owner                    = {tnauss},
+  Publisher                = {{AMER GEOPHYSICAL UNION}},
+  Research-areas           = {{Meteorology \& Atmospheric Sciences}},
+  Researcherid-numbers     = {{Jones, Philip/C-8718-2009
+ New, Mark/A-7684-2008
+ Hofstra, Nynke/C-7879-2014}},
+  Times-cited              = {{40}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000260992100002}},
+  Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
+}
+
 @Article{Hofstra2008,
   Title                    = {Comparison of six methods for the interpolation of daily, European climate data},
-  Author                   = {Hofstra, N., Haylock, M., New, M., Jones, P., Frei, C.},
+  Author                   = {Hofstra, N. AND Haylock, M. AND New, M. AND Jones, P. AND Frei, C.},
   Journal                  = {Journal of Geographical Research},
   Year                     = {2008},
   Volume                   = {113},
@@ -9080,6 +9370,22 @@
   Owner                    = {tnauss},
   Url                      = {http://doc.rero.ch/lm.php?url=1000,40,2,20051006084658-RQ/1\_HohlRM.pdf},
   Volume                   = {5}
+}
+
+@Article{Holdaway1996,
+  Title                    = {Spatial modeling and interpolation of monthly temperature using kriging},
+  Author                   = {Holdaway, MR},
+  Journal                  = {Clim Res},
+  Year                     = {1996},
+  Number                   = {3},
+  Pages                    = {215--225},
+  Volume                   = {06},
+
+  Abstract                 = {Estimates of the climatic record at forest plot locations may be useful in studying how forests will respond to future climatic change. Kriging was applied to the spatial interpolation of monthly temperature records in the forested regions of Minnesota in the north central United States. Monthly empirical variograms, averaged over 90 yr, were modeled with Gaussian or linear models, and ordinary kriging was applied to interpolate the data. Anisotropies were found in the winter months, suggesting the presence of a large-scale regional trend. Structural analysis of mean monthly temperature revealed: (1) a broad regional component to the variation, changing systematically by month, which was estimated by a linear function of latitude and longitude and (2) a lake effect (due to Lake Superior) varying in strength and sign by month. A detrending approach was tested to remove these effects and a modified approach based on only the lake effect trend was also tested. The cross validation technique was used to test the 3 models. The lake effect trend model was judged best in accounting for the influence of Lake Superior on nearby land areas. The study demonstrated that moderate trends in the data do not seriously degrade the applicability of ordinary kriging to the interpolation of monthly temperature. A temporal analysis revealed that, although there have been systematic changes in the spatial variability over the last century, using century-averaged variograms is not expected to decrease the accuracy and precision of the interpolations.},
+  Comment                  = {10.3354/cr006215},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.int-res.com/abstracts/cr/v06/n3/p215-225/}
 }
 
 @Article{Hollaus2007,
@@ -9248,8 +9554,6 @@
   Author                   = {Hooper, David U and Adair, E Carol and Cardinale, Bradley J and Byrnes, Jarrett E K and Hungate, Bruce a and Matulich, Kristin L and Gonzalez, Andrew and Duffy, J Emmett and Gamfeldt, Lars and O'Connor, Mary I},
   Journal                  = {Nature},
   Year                     = {2012},
-
-  Month                    = jun,
   Number                   = {7401},
   Pages                    = {105--8},
   Volume                   = {486},
@@ -9270,8 +9574,6 @@
   Author                   = {Hooper, David U and Adair, E Carol and Cardinale, Bradley J and Byrnes, Jarrett E K and Hungate, Bruce a and Matulich, Kristin L and Gonzalez, Andrew and Duffy, J Emmett and Gamfeldt, Lars and O'Connor, Mary I},
   Journal                  = {Nature},
   Year                     = {2012},
-
-  Month                    = jun,
   Number                   = {7401},
   Pages                    = {105--8},
   Volume                   = {486},
@@ -9570,8 +9872,6 @@
   Author                   = {Hulme, Mike},
   Journal                  = {International Journal of Climatology},
   Year                     = {1992},
-
-  Month                    = nov,
   Number                   = {7},
   Pages                    = {685--699},
   Volume                   = {12},
@@ -9583,6 +9883,84 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://doi.wiley.com/10.1002/joc.3370120703}
+}
+
+@Article{Hulme1995,
+  Title                    = {{Construction of a 1961-1990 European climatology for climate change
+ modelling and impact applications}},
+  Author                   = {Hulme, M and Conway, D and Jones, PD and Jiang, T and Barrow, EM and
+ Turney, C},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {{1995}},
+
+  Month                    = {{DEC}},
+  Number                   = {{12}},
+  Pages                    = {{1333-1363}},
+  Volume                   = {{15}},
+
+  Abstract                 = {{A 1961-1990 mean monthly climatology for a `greater European' region
+ extending from 32 degrees W to 66 degrees E and from 25 degrees to 81
+ degrees N has been constructed at a resolution of 0.5 degrees latitude
+ by 0.5 degrees longitude for a suite of nine surface climate variables:
+ minimum, maximum, and mean air temperature; precipitation totals;
+ sunshine hours; vapour pressure; wind speed; and (ground) frost day and
+ rain day (>0.1 mm) frequencies. This climatology has been constructed
+ from observed station data distributed across the region. Station
+ frequencies range from 936 (wind speed) to 3078 (precipitation). Over 95
+ per cent of these data are based on observations between 1961 and 1990
+ and over 90 per cent were supplied by individual national meteorological
+ agencies (NMAs) on specific request. For four variables, some
+ standardization of the data had to be performed because different
+ countries supplied data under different definitions. Thus cloud cover
+ had to be converted to sunshine hours, relative humidity to vapour
+ pressure, air frost days to ground frost days and rain days > 1 mm to
+ rain days >0.1 mm.
+ The interpolation of the station data to the grid used elevation as one
+ of the predictor variables and thus enabled three climate surfaces to be
+ produced for each variable, reflecting the minimum, mean, and maximum
+ elevation within each 0.5 degrees by 0.5 degrees cell. Subsets of
+ stations were used for the interpolation of each variable, the selection
+ being based on optimizing the spatial distribution, source priority and
+ length of record. The accuracy of the various interpolations was
+ assessed using validation sets of independent station data (i.e. those
+ not used in the interpolation). Estimated mean absolute errors (MAE)
+ ranged from under 4 per cent for vapour pressure to about 10 per cent
+ for precipitation and up to 20 per cent for wind speed. The accuracy of
+ the interpolated surfaces for minimum and maximum temperature was
+ between 0.5 degrees C and 0.8 degrees C.
+ We believe these results constitute the first climatology that has been
+ constructed for this extensive European region at such a fine spatial
+ resolution (0.5 degrees by 0.5 degrees) from relatively dense station
+ networks, for three different elevation surfaces and for a wide range of
+ surface climate variables, all expressed with respect to a standard
+ 30-year period. The climatology is already being used by researchers for
+ applications in the areas of ecosystem modelling, climate change impact
+ assessment and climate model validation, and is available from the
+ authors.}},
+  Address                  = {{BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD}},
+  Affiliation              = {{Hulme, M (Reprint Author), UNIV E ANGLIA,SCH ENVIRONM SCI,CLIMAT RES UNIT,NORWICH NR4 7TJ,NORFOLK,ENGLAND.}},
+  Doc-delivery-number      = {{TN699}},
+  Doi                      = {{10.1002/joc.3370151204}},
+  ISSN                     = {{0899-8418}},
+  Journal-iso              = {{Int. J. Climatol.}},
+  Keywords                 = {{climate data; data corrections; spatial interpolation; European
+ climatology; climate change}},
+  Keywords-plus            = {{GENERALIZED CROSS-VALIDATION; PRECIPITATION}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{42}},
+  Orcid-numbers            = {{Hulme, Mike/0000-0002-1273-7662
+ }},
+  Owner                    = {tnauss},
+  Publisher                = {{JOHN WILEY \& SONS LTD}},
+  Research-areas           = {{Meteorology \& Atmospheric Sciences}},
+  Researcherid-numbers     = {{Hulme, Mike/F-9012-2010
+ Jones, Philip/C-8718-2009
+ Whetton, Penny/A-6885-2012}},
+  Times-cited              = {{114}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:A1995TN69900003}},
+  Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
 }
 
 @Article{Hurlbut2014,
@@ -9601,6 +9979,65 @@
   ISSN                     = {0882-8156},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/WAF-D-12-00042.1}
+}
+
+@Article{Hutchinson1995,
+  Title                    = {{Interpolating mean rainfall using thin-plate smoothing splines}},
+  Author                   = {Hutchinson, M. F.},
+  Journal                  = {{International Journal of Geographical Information Systems}},
+  Year                     = {{1995}},
+  Note                     = {{2nd International Conference/Workshop on Integrating GIS and
+ Environmental Modelling, Breckenridge, CO, SEP, 1993}},
+  Number                   = {{4}},
+  Pages                    = {{385-403}},
+  Volume                   = {{9}},
+
+  Abstract                 = {{Thin plate smoothing splines provide accurate, operationally
+ straight-forward and computationally efficient solutions to the problem
+ of the spatial interpolation of annual mean rainfall for a standard
+ period from point data which contains many short period rainfall means.
+ The analyses depend on developing a statistical model of the spatial
+ variation of the observed rainfall means, considered as noisy estimates
+ of standard period means. The error structure of this model has two
+ components which allow separately for strong spatially correlated
+ departures of observed short term means from standard period means and
+ for uncorrelated deficiencies in the representation of standard period
+ mean rainfall by a smooth function of position and elevation. Thin plate
+ splines, with the degree of smoothing determining by minimising
+ generalised cross validation, can estimate this smooth function in two
+ ways. First, the spatially correlated error structure of the data can be
+ accommodated directly by estimating the corresponding non-diagonal error
+ covariance matrix. Secondly, spatial correlation in the data error
+ structure can be removed by standardising the observed short term means
+ to standard period mean estimates using linear regression. When applied
+ to data both methods give similar interpolation accuracy, and error
+ estimates of the fitted surfaces are in good agreement with residuals
+ from withheld data. Simplified versions of the data error model, which
+ require only minimal summary data at each location, are also presented.
+ The interpolation accuracy obtained with these models is only slightly
+ inferior to that obtained with more complete statistical models. It is
+ shown that the incorporation of a continuous, spatially varying,
+ dependence on appropriately scaled elevation makes a dominant
+ contribution to surface accuracy. Incorporating dependence on aspect, as
+ determined from a digital elevation model, makes only a marginal further
+ improvement.}},
+  Address                  = {{ONE GUNDPOWDER SQUARE, LONDON, ENGLAND EC4A 3DE}},
+  Affiliation              = {{HUTCHINSON, MF (Reprint Author), AUSTRALIAN NATL UNIV,CTR RESOURCE \& ENVIRONM STUDIES,GPO BOX 4,CANBERRA,ACT 2601,AUSTRALIA.}},
+  Doc-delivery-number      = {{RQ493}},
+  Doi                      = {{10.1080/02693799508902045}},
+  ISSN                     = {{0269-3798}},
+  Journal-iso              = {{Int. J. Georg. Inf. Syst.}},
+  Keywords-plus            = {{MOUNTAINOUS TERRAIN; PRECIPITATION}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{34}},
+  Owner                    = {tnauss},
+  Publisher                = {{TAYLOR \& FRANCIS LTD LONDON}},
+  Research-areas           = {{Geography; Information Science \& Library Science}},
+  Times-cited              = {{263}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article; Proceedings Paper}},
+  Unique-id                = {{ISI:A1995RQ49300004}},
+  Web-of-science-categories = {{Geography; Information Science \& Library Science}}
 }
 
 @Article{Hyde2005,
@@ -10009,7 +10446,7 @@
 
 @Article{Jarvis2011,
   Title                    = {{The climate of cloud forests}},
-  Author                   = {Jarvis, Andy and Mulligan, Mark},
+  Author                   = {Jarvis, Andy AND Mulligan, Mark},
   Journal                  = {Hydrological Processes},
   Year                     = {2011},
 
@@ -10030,7 +10467,7 @@
 
 @Article{Jarvis2001,
   Title                    = {A Comparison among Strategies for Interpolating Maximum and Minimum Daily Air Temperatures. Part I: The Selection of ‘‘Guiding’’ Topographic and Land Cover Variables},
-  Author                   = {Jarvis, C. H., Stuart, N.},
+  Author                   = {Jarvis, C. H. AND Stuart, N.},
   Journal                  = {Journal of Applied Meteorology},
   Year                     = {2001},
   Volume                   = {40},
@@ -10039,7 +10476,7 @@
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
   Timestamp                = {2014.10.02},
-  Url                      = {http://journals.ametsoc.org/doi/pdf/10.1175/1520-0450%282001%29040%3C1060%3AACASFI%3E2.0.CO%3B2}
+  Url                      = {http://bit.do/TRaQ}
 }
 
 @Article{Jaskierniak2011,
@@ -10708,8 +11145,6 @@
   Author                   = {Kearney, Michael R and Isaac, Andrew P and Porter, Warren P},
   Journal                  = {Scientific Data},
   Year                     = {2014},
-
-  Month                    = may,
   Pages                    = {1--9},
   Volume                   = {1},
 
@@ -11031,7 +11466,6 @@
   Pages                    = {{209-223}},
   Volume                   = {{38}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{Extreme weather and climate events have major negative effects on Tanzania's economy. Recently, the prolonged drought from 1998 to 2005 caused devastating crop failures, livestock losses and reductions in the country's water reservoir levels, which, in turn, created food shortages and rationing of hydroelectric power and water. The present study analyses the atmospheric circulations associated with the 1998 to 2005 drought that affected the northeastern highlands of Tanzania. Analysis of large-scale circulation indicates that the drought during the October to December (OND) short rainy seasons, from 1998 to 2005, was related to westerly low-level moisture flux divergence and subsidence over northern Tanzania associated with an eastward shift of the Walker cell. For the March to May (MAM) long rainy seasons, the prolonged drought was related to strong moisture flux divergence over the region and subsidence associated with the occurrence of the descending branch of a Walker-type circulation over the region. Rainfall onset was undefined for most years in both the OND and the MAM seasons, and, in all cases, unevenly distributed rains with prolonged dry spells were experienced in a shorter than average rainy season. However, an out-of-season rainfall peak occurred in January, after the end of the OND rains. This delayed peak has important implications for agricultural and water resource activities. The circulation patterns observed in the Tanzanian region from 1998 to 2005 were similar to those experienced during a previous prolonged drought (1973 to 1976), suggesting that some predictability of drought may exist.}},
   Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
   Affiliation              = {{Reason, CJC (Reprint Author), Univ Cape Town, Dept Oceanog, ZA-7701 Rondebosch, South Africa. Kijazi, Agnes L.; Reason, C. J. C., Univ Cape Town, Dept Oceanog, ZA-7701 Rondebosch, South Africa. Kijazi, Agnes L., Tanzania Meteorol Agcy, Dar Es Salaam, Tanzania.}},
@@ -12291,7 +12725,6 @@
   Organization             = {CRAN},
   Year                     = {2014},
 
-  __markedentry            = {[tnauss:6]},
   File                     = {:todo\\Korobeynikov_etal_2014.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
@@ -12404,6 +12837,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S016980950300067X}
 }
 
+@Article{Krige1951,
+  Title                    = {A Statistical Approach to Some Basic Mine Valuation Problems on the Witwatersrand},
+  Author                   = {Krige, Daniel},
+  Journal                  = {Journal of the Chemical, Metallurgical and Mining Society of South Africa},
+  Year                     = {1951},
+  Number                   = {6},
+  Pages                    = {119--139},
+  Volume                   = {52},
+
+  Keywords                 = {1951, Geostatistics, Kriging, mining, tinvestigacion, trabajo\_inferencia\_bayesiana},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://dx.doi.org/10.2307/3006914},
+  Urldate                  = {2011-08-10TZ}
+}
+
 @Article{Krischke2000,
   Title                    = {{RAPIDEYE SATELLITE BASED GEO-INFORMATION SYSTEM}},
   Author                   = {Krischke, M and Niemeyer, W},
@@ -12475,6 +12924,15 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2624.1}
+}
+
+@Manual{Kuhn2014,
+  Title                    = {caret: Classification and Regression Training},
+  Author                   = {Kuhn, M.},
+  Note                     = {R package version 6.0-30},
+  Year                     = {2014},
+
+  Url                      = {http://CRAN.R-project.org/package=caret}
 }
 
 @Book{Kuhn2013,
@@ -12881,7 +13339,6 @@
   Pages                    = {{509-521}},
   Volume                   = {{3}},
 
-  __markedentry            = {[tnauss:6]},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693}},
   Affiliation              = {{LATIF, M (Reprint Author), MAX PLANCK INST METEOROL,BUNDESSTR 55,W-2000 HAMBURG 20,GERMANY.}},
   Doc-delivery-number      = {{DG140}},
@@ -13227,6 +13684,69 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.springerlink.com/openurl.asp?id=doi:10.1007/s10708-004-2870-9}
+}
+
+@Article{Lennon1995,
+  Title                    = {{Predicting the spatial-distribution of climate - temperature in Great-Britain}},
+  Author                   = {Lennon, JJ and Turner, JRG},
+  Journal                  = {{Journal of Animal Ecology}},
+  Year                     = {{1995}},
+
+  Month                    = {{MAY}},
+  Number                   = {{3}},
+  Pages                    = {{370-392}},
+  Volume                   = {{64}},
+
+  Abstract                 = {{1. The prediction and mapping of climate in areas between climate
+ stations is of increasing importance in ecology.
+ 2. Four categories of model, simple interpolation, thin plate splines,
+ multiple linear regression and mixed spline-regression, were tested for
+ their ability to predict the spatial distribution of temperature on the
+ British mainland. The models were tested by external cross-verification.
+ 3. The British distribution of mean daily temperature was predicted with
+ the greatest accuracy by using a mixed model: a thin plate spline fitted
+ to the surface of the country, after correction of the data by a
+ selection from 16 independent topographical variables (such as altitude,
+ distance from the sea, slope and topographic roughness), chosen by
+ multiple regression from a digital terrain model (DTM) of the country.
+ 4. The next most accurate method was a pure multiple regression model
+ using the DTM. Both regression and thin plate spline models based on a
+ few variables (latitude, longitude and altitude) only were comparatively
+ unsatisfactory, but some rather simple methods of surface interpolation
+ (such as bilinear interpolation after correction to sea level) gave
+ moderately satisfactory results. Differences between the methods seemed
+ to be dependent largely on their ability to model the effect of the sea
+ on land temperatures.
+ 5. Prediction of temperature by the best methods was greater than 95\%
+ accurate in all months of the year, as shown by the correlation between
+ the predicted and actual values. The predicted temperatures were
+ calculated at real altitudes, not subject to sea-level correction.
+ 6. A minimum of just over 30 temperature recording stations would
+ generate a satisfactory surface, provided the stations were well spaced.
+ 7. Maps of mean daily temperature, using the best overall methods are
+ provided; further important variables, such as continentality and length
+ of growing season, were also mapped. Many of these are believed to be
+ the first detailed representations at real altitude.
+ 8. The interpolated monthly temperature surfaces are available on disk.}},
+  Address                  = {{OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL}},
+  Affiliation              = {{LENNON, JJ (Reprint Author), UNIV LEEDS,DEPT GENET,ECOGENET BIOGEOG UNIT,LEEDS LS2 9JT,W YORKSHIRE,ENGLAND.}},
+  Doc-delivery-number      = {{QZ446}},
+  Doi                      = {{10.2307/5898}},
+  ISSN                     = {{0021-8790}},
+  Journal-iso              = {{J. Anim. Ecol.}},
+  Keywords                 = {{CLIMATE; DIGITAL-TERRAIN MODEL; MAPPING; SPLINES; TEMPERATURE}},
+  Keywords-plus            = {{SPECIES RICHNESS; ENERGY THEORY; DIVERSITY; PATTERNS}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{45}},
+  Owner                    = {tnauss},
+  Publisher                = {{BLACKWELL SCIENCE LTD}},
+  Research-areas           = {{Environmental Sciences \& Ecology; Zoology}},
+  Researcherid-numbers     = {{Lennon, Jack/F-2475-2011}},
+  Times-cited              = {{57}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:A1995QZ44600007}},
+  Web-of-science-categories = {{Ecology; Zoology}}
 }
 
 @Article{Lensky2007,
@@ -13632,12 +14152,63 @@
   Url                      = {http://www.mssanz.org.au/modsim2013/A9/li.pdf}
 }
 
-@Article{Li,
+@Article{Li2008,
+  Title                    = {A Review of Spatial Interpolation Methods for Environmental Scientists},
+  Author                   = {Li, J. AND Heap, A.},
+  Journal                  = {Geoscience Australia},
+  Year                     = {2008},
+  Volume                   = {23},
+
+  File                     = {:Li_and_Heap_2008_A review of spatial interpolation methods for environmental scientist_Geoscience_Australia_No_Record_2008_23.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.ga.gov.au/image_cache/GA12526.pdf}
+}
+
+@Article{Li2011a,
+  Title                    = {Application of machine learning methods to spatial interpolation of environmental variables},
+  Author                   = {Li, J. AND Heap, A. AND Potter, A. AND Daniell, J. J.},
+  Journal                  = {Environmental Modelling \& Software},
+  Year                     = {2011},
+  Pages                    = {1647-1659},
+  Volume                   = {26},
+
+  Doi                      = {10.1016/j.envsoft.2011.07.004},
+  File                     = {:Li2011a.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Li2011b,
+  Title                    = {Can we improve the spatial predictions of seabed sediments? A case study of spatial interpolation of mud content across the southwest Australian margin.},
+  Author                   = {Li, J. AND Heap, A. AND Potter, A. AND Huang, Z. AND Daniell, J. J.},
+  Journal                  = {Continental Shelf Research},
+  Year                     = {2011},
+  Pages                    = {1365–1376},
+  Volume                   = {31},
+
+  Doi                      = {10.1016/j.csr.2011.05.015},
+  File                     = {:Li_et_el_2011_Can we improve the spatial predicions of seabed sediments_case study of spatial interpolation of mud content across the southwest australian margin_Continenental Shelf Research_31.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S027843431100197X}
+}
+
+@TechReport{Li2008a,
   Title                    = {{A Review of Spatial Interpolation Methods for Environmental Scientists}},
   Author                   = {Li, Jin and Heap, Andrew D},
+  Institution              = {Geoscience Australia},
+  Year                     = {2008},
+
+  Address                  = {Canberra},
+  Number                   = {2008/023},
 
   File                     = {:Li, Heap - Unknown.pdf:PDF},
-  Owner                    = {tnauss}
+  Owner                    = {tnauss},
+  Url                      = {http://www.ga.gov.au/metadata-gateway/metadata/record/68229/}
 }
 
 @Article{Li2003,
@@ -13655,54 +14226,9 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450(2003)042\%3C0204\%3AHSRSAC\%3E2.0.CO\%3B2}
 }
 
-@Article{Li2008,
-  Title                    = {A Review of Spatial Interpolation Methods for Environmental Scientists},
-  Author                   = {Li, J., Heap, A.},
-  Journal                  = {Geoscience Australia},
-  Year                     = {2008},
-  Volume                   = {23},
-
-  File                     = {:Li_and_Heap_2008_A review of spatial interpolation methods for environmental scientist_Geoscience_Australia_No_Record_2008_23.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://www.ga.gov.au/image_cache/GA12526.pdf}
-}
-
-@Article{Li2011a,
-  Title                    = {Application of machine learning methods to spatial interpolation of environmental variables},
-  Author                   = {Li, J., Heap, A., Potter, A., Daniell, J. J.},
-  Journal                  = {Environmental Modelling \& Software},
-  Year                     = {2011},
-  Pages                    = {1647-1659},
-  Volume                   = {26},
-
-  Doi                      = {10.1016/j.envsoft.2011.07.004},
-  File                     = {:Li_et_al_Application_of_machine_lerning_methods_to_spatial_interpolation_2011.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02}
-}
-
-@Article{Li2011b,
-  Title                    = {Can weimprovethespatialpredictionsofseabedsediments?Acasestudyof spatial interpolationofmudcontentacrossthesouthwestAustralianmargin},
-  Author                   = {Li, J., Heap, A., Potter, A., Huang, Z., Daniell, J. J.},
-  Journal                  = {Continental Shelf Research},
-  Year                     = {2011},
-  Pages                    = {1365–1376},
-  Volume                   = {31},
-
-  Doi                      = {10.1016/j.csr.2011.05.015},
-  File                     = {:Li_et_el_2011_Can we improve the spatial predicions of seabed sediments_case study of spatial interpolation of mud content across the southwest australian margin_Continenental Shelf Research_31.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S027843431100197X}
-}
-
 @Article{Li2012,
   Title                    = {Predicting Seabed Sand Content across the Australian Margin Using Machine Learning and Geostatistical Methods},
-  Author                   = {Li, J., Potter, A., Huang, Z., Heap, A. D.},
+  Author                   = {Li, J. AND Potter, A. AND Huang, Z. AND Heap, A. D.},
   Journal                  = {Geoscience Australia},
   Year                     = {2012},
   Volume                   = {48},
@@ -13711,7 +14237,7 @@
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
   Timestamp                = {2014.10.02},
-  Url                      = {http://www.ga.gov.au/corporate_data/74030/Rec2012_048.pdf}
+  Url                      = {http://www.ga.gov.au/corporate\_data/74030/Rec2012\_048.pdf}
 }
 
 @Article{Li1996,
@@ -13757,7 +14283,7 @@
 
 @Article{Liess2012,
   Title                    = {Uncertainty in the spatial prediction of soil texture Comparison of regression tree and Random Forest models},
-  Author                   = {Liess, M., Glaser, B., Huwe, B.},
+  Author                   = {Liess, M. AND Glaser, B. AND Huwe, B.},
   Journal                  = {Geoderma},
   Year                     = {2012},
   Pages                    = {70-79},
@@ -13814,7 +14340,6 @@
   Pages                    = {{2854-2868}},
   Volume                   = {{135}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{This paper investigates the effects of cloud microphysics parameterizations on simulations of warmseason precipitation at convection- permitting grid spacing. The objective is to assess the sensitivity of summertime convection predictions to the bulk microphysics parameterizations ( BMPs) at fine- grid spacings applicable to the next generation of operational numerical weather prediction models. Four microphysical parameterization schemes are compared: simple ice ( Dudhia), four- class mixed phase ( Reisner et al.), Goddard five- class mixed phase ( Tao and Simpson), and five- class mixed phase with graupel ( Reisner et al.). The experimentation involves a 7- day episode ( 3 - 9 July 2003) of U. S. midsummer convection under moderate large- scale forcing. Overall, the precipitation coherency manifested as eastwardmoving organized convection in the lee of the Rockies is insensitive to the choice of the microphysics schemes, and the latent heating profiles are also largely comparable among the BMPs. The upper- level condensate and cloudiness, upper- level radiative cooling/ heating, and rainfall spectrum are the most sensitive, whereas the domain- mean rainfall rate and areal coverage display moderate sensitivity. Overall, the three mixed- phase schemes outperform the simple ice scheme, but a general conclusion about the degree of sophistication in the microphysics treatment and the performance is not achievable.}},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693 USA}},
   Affiliation              = {{Liu, C (Reprint Author), Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA. Natl Ctr Atmospher Res, Boulder, CO 80307 USA.}},
@@ -13865,7 +14390,6 @@
   Pages                    = {{129-137}},
   Volume                   = {{28}},
 
-  __markedentry            = {[tnauss:6]},
   Address                  = {{345 E 47TH ST, NEW YORK, NY 10017-2394}},
   Affiliation              = {{LLOYD, SP (Reprint Author), BELL TEL LABS INC,WHIPPANY RD,WHIPPANY,NJ 07981, USA.}},
   Doc-delivery-number      = {{NF528}},
@@ -13920,7 +14444,7 @@
 
 @Article{Loeffler2006,
   Title                    = {The climatologic significance of topography, altitude and region in high mountains – A survey of oceanic-continental differentiations of the Scandes.},
-  Author                   = {Löffler, J., Pape, R., Wundram, D.},
+  Author                   = {Loeffler, J. AND Pape, R. AND Wundram, D.},
   Journal                  = {Erdkunde},
   Year                     = {2006},
 
@@ -15225,7 +15749,6 @@
   Author                   = {Matzke NJ, Dept. of Integrative Biology, U.C. Berkeley},
   Organization             = {CRAN},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {Package for processing downloaded MODIS Cloud Product HDF files and derived files. Specifically, MOD35_L2 cloud product files, and the associated MOD03 geolocation files (for MODIS-TERRA); and MYD35_L2 cloud product files, and the associated MYD03 geolocation files (for MODIS-AQUA). The package will be most effective if the user installs MRTSwath (MODIS Reprojection Tool for swath products; https://lpdaac.usgs.gov/tools/modis_reprojection_tool_swath),and adds the directory with the MRTSwath executable to the},
   File                     = {:todo\\matzke_2013.pdf:PDF},
   Keywords                 = {Kilimanjaro},
@@ -16068,7 +16591,6 @@
   Publisher                = {Univ. of Calif. Press, Berkeley},
   Year                     = {2008},
 
-  __markedentry            = {[tnauss:6]},
   File                     = {:todo\\moelg_etal_2008b.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
@@ -16620,17 +17142,22 @@
 }
 
 @Article{Nalder1998,
-  Title                    = {Spatial interpolation of climatic Normals: test of a new method in the Canadian boreal forest},
-  Author                   = {Nalder, A., Wein, R. W.},
-  Journal                  = {Agricultural and Forest Meteorology},
+  Title                    = {Spatial interpolation of climatic Normals: test of a new method in the Canadian boreal forest },
+  Author                   = {Ian A. Nalder and Ross W. Wein},
+  Journal                  = {Agricultural and Forest Meteorology },
   Year                     = {1998},
-  Pages                    = {211-225},
+  Number                   = {4},
+  Pages                    = {211 - 225},
   Volume                   = {92},
 
+  Abstract                 = {Spatial interpolation of climatic data is frequently required to provide input for plant growth models. As no single method is optimal for all regions, it is important to compare the results obtained using alternative methods applied to each data set. For estimating 30-year averages (Normals) of monthly temperature and precipitation at specific sites in western Canada, we examined four forms of kriging and three simple alternatives. One of the alternatives was a novel technique, termed `gradient-plus-inverse distance squared' (GIDS), which combines multiple linear regression and distance-weighting. Based on the mean absolute errors from cross-validation tests, the methods were ranked GIDS&#xa0;&gt;&#xa0;detrended kriging&#xa0;&gt;&#xa0;nearest neighbour&#xa0;&gt;co-kriging&#xa0;&gt;&#xa0;inverse distance squared&#xa0;&gt;&#xa0;universal kriging&#xa0;&gt;&#xa0;ordinary kriging for interpolating monthly temperature, and GIDS&#xa0;&gt;&#xa0;co-kriging&gt;inverse distance squared&#xa0;&gt;&#xa0;nearest neighbour&#xa0;&gt;&#xa0;ordinary kriging&#xa0;&gt;&#xa0;detrended kriging&#xa0;&gt;&#xa0;universal kriging for interpolating monthly precipitation. \{GIDS\} gave the lowest errors, which averaged 0.5Â°C for monthly temperature and 3.6&#xa0;mm, or 11%, for monthly precipitation. These errors were comparable with those from optimal methods in other studies. \{GIDS\} errors were also more consistent for a wide range of data variability than the other methods. The performance of kriging may have been constrained by the limited number of stations (32) in the study region, but if so, this is an unavoidable limitation in regions with sparse coverage of climate stations. Compared with kriging, \{GIDS\} was simple to apply and avoided the subjectivity involved in defining variogram models and neighbourhoods. We conclude that \{GIDS\} is a simple, robust and accurate interpolation method for use in our region, and that it should be applicable elsewhere, subject to careful comparison with other methods.},
+  Doi                      = {http://dx.doi.org/10.1016/S0168-1923(98)00102-6},
   File                     = {:Nalder_and_Wein_1998_Spatial interpolation of climatic Normal_Test of new method in the Canadian boreal forest_Agri_and_Forest_Meteorology_92_211_225.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.03}
+  ISSN                     = {0168-1923},
+  Keywords                 = {Boreal forest},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192398001026}
 }
 
 @Article{Narapusetty2009,
@@ -16914,7 +17441,6 @@
   Publisher                = {Gordon and Breach},
   Year                     = {1996},
 
-  __markedentry            = {[tnauss:6]},
   File                     = {:todo\\nicholson_1996.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {iotte},
@@ -17032,6 +17558,25 @@
   Owner                    = {tnauss},
   Publisher                = {Elsevier B.V.},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0950705111000815}
+}
+
+@Article{Ninyerola2000,
+  Title                    = {A methodological approach of climatological modelling of air temperature and precipitation through GIS techniques},
+  Author                   = {Ninyerola, Miquel and Pons, Xavier and Roure, Joan M.},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2000},
+  Number                   = {14},
+  Pages                    = {1823--1841},
+  Volume                   = {20},
+
+  Abstract                 = {This study proposes an empirical methodology for modelling and mapping the air temperature (mean maximum, mean and mean minimum) and total precipitation, all of which are monthly and annual, using geographical information systems (GIS) techniques. The method can be seen as an alternative to classical interpolation techniques when spatial information is available. The geographical area used to develop and apply this model is Catalonia (32â€ˆ000 km2, northeast Spain). We have developed a multiple regression analysis between these meteorological variables as the dependent ones, and some geographical variables (altitude (ALT), latitude (LAT), continentality (CON), solar radiation (RAD) and a cloudiness factor (CLO)) as the independent ones. Data for the dependent variables were obtained from meteorological stations, and data for the independent variables were elaborated from a 180 m resolution digital elevation model (DEM). Multiple regression coefficients (bn) were used to build final maps, using digital layers for each independent variable, and applying basic GIS techniques. The results are very satisfactory in the case of mean air temperature and mean minimum air temperature, with coefficients of determination (R2) between 0.79 and 0.97, depending on the month; in the case of mean maximum air temperature, R2 ranges between 0.70 and 0.89, while in the case of precipitation, it ranges between 0.60 and 0.91. Copyright Â© 2000 Royal Meteorological Society},
+  Doi                      = {10.1002/1097-0088(20001130)20:14<1823::AID-JOC566>3.0.CO;2-B},
+  ISSN                     = {1097-0088},
+  Keywords                 = {Catalonia (northeast Spain), GIS, multiple regression analysis, interpolation, climatological modelling, mean maximum air temperature, mean air temperature, mean minimum air temperature, precipitation},
+  Owner                    = {tnauss},
+  Publisher                = {John Wiley \& Sons, Ltd.},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://dx.doi.org/10.1002/1097-0088(20001130)20:14<1823::AID-JOC566>3.0.CO;2-B}
 }
 
 @Article{Nnamchi2011,
@@ -17175,7 +17720,6 @@
   Pages                    = {{31-43}},
   Volume                   = {{8}},
 
-  __markedentry            = {[tnauss:6]},
   Address                  = {{BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD}},
   Affiliation              = {{OGALLO, LJ (Reprint Author), UNIV NAIROBI,DEPT METEOROL,POB 30197,NAIROBI,KENYA.}},
   Doc-delivery-number      = {{M4681}},
@@ -17715,7 +18259,7 @@
 
 @Article{Panitz2014,
   Title                    = {COSMO-CLM (CCLM) climate simulations over CORDEX-Africa domain: analysis of the ERA-Interim driven simulations at 0.44° and 0.22° resolution},
-  Author                   = {Panitz, H., Dosio, A., Büchner, M., Lüthi, D., Keuler, K.},
+  Author                   = {Panitz, H. AND Dosio AND A. AND Büchner, M. AND Lüthi, D. AND Keuler, K.},
   Journal                  = {Clim Dyn},
   Year                     = {2014},
   Pages                    = {3025-3038},
@@ -17733,8 +18277,6 @@
   Author                   = {Panitz, Hans-J\"{u}rgen and Dosio, Alessandro and B\"{u}chner, Matthias and L\"{u}thi, Daniel and Keuler, Klaus},
   Journal                  = {Climate Dynamics},
   Year                     = {2013},
-
-  Month                    = jul,
   Number                   = {Cclm},
 
   Doi                      = {10.1007/s00382-013-1834-5},
@@ -18053,7 +18595,7 @@
 
 @Article{Peters2007,
   Title                    = {Random forests as a tool for ecohydrological distribution modelling},
-  Author                   = {Peters, J., De Baets, B., Verhoest, N. E. C., Samson, R., Degroeve, S., De Becker, P., Huybrechts, W.},
+  Author                   = {Peters, J. AND De Baets, B. AND Verhoest, N. E. C. AND Samson, R. AND Degroeve, S. AND De Becker, P. AND Huybrechts, W.},
   Journal                  = {Ecological Modelling},
   Year                     = {2007},
   Pages                    = {304–318},
@@ -18201,6 +18743,45 @@
   ISSN                     = {0177-7971},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/BF01030054}
+}
+
+@Article{Philipps1992,
+  Title                    = {{Algorithms for spline and other approximations to functions and data}},
+  Author                   = {Philipps, GM and Taylor, PJ},
+  Journal                  = {{Computer Physics Communications}},
+  Year                     = {{1992}},
+
+  Month                    = {{DEC}},
+  Note                     = {{9th European summer school on computing techniques in physics :
+ numerical techniques and parallelism in physics, skalsky dvur,
+ czechoslovakia, sep 10-20, 1991}},
+  Number                   = {{1-3}},
+  Pages                    = {{1-21}},
+  Volume                   = {{73}},
+
+  Abstract                 = {{A succinct introduction to splines, explaining how and why B-splines are
+ used as a basis and how cubic and quadratic splines may be constructed,
+ is followed by brief account of Hermite interpolation and Pade
+ approximations.}},
+  Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
+  Affiliation              = {{PHILLIPS, GM (Reprint Author), UNIV ST ANDREWS,INST MATH,ST ANDREWS KY16 9ST,FIFE,SCOTLAND.
+ UNIV STRATHCLYDE,DEPT MATH,GLASGOW G1 1XW,SCOTLAND.}},
+  Doc-delivery-number      = {{KG559}},
+  Doi                      = {{10.1016/0010-4655(92)90025-T}},
+  ISSN                     = {{0010-4655}},
+  Journal-iso              = {{Comput. Phys. Commun.}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{9}},
+  Organization             = {{EUROPEAN PHYS SOC, COMPUTAT PHYS GRP; USN, OFF NAVAL RES; SWISS NATL
+ FUND SCI RES; GERMAN PHYS SOC}},
+  Owner                    = {tnauss},
+  Publisher                = {{ELSEVIER SCIENCE BV}},
+  Research-areas           = {{Computer Science; Physics}},
+  Times-cited              = {{1}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article; Proceedings Paper}},
+  Unique-id                = {{ISI:A1992KG55900002}},
+  Web-of-science-categories = {{Computer Science, Interdisciplinary Applications; Physics, Mathematical}}
 }
 
 @Article{Pietroniro2000,
@@ -18409,7 +18990,6 @@
   Pages                    = {{481-497}},
   Volume                   = {{9}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{1 The El Nino-Southern Oscillation (ENSO) is an important driver of inter-annual variations in climate and ecosystem productivity in tropical regions. Most previous studies have analysed ENSO-induced changes in climate based on a single variable, such as rainfall. Also, it is generally assumed that the ENSO impact in East Africa is geographically uniform. 2 The objective of this study is to improve understanding of the impact of ENSO on East African ecosystems, by measuring teleconnections between an ENSO index and a number of ecosystem variables in a spatially explicit way and for different time lags. We analysed the spatial patterns of teleconnections in the region by combining time series of climate variables measured for meteorological stations with time series of a vegetation index and surface temperature data measured by remote sensing. 3 Our results confirm the ENSO impact on the climatic and ecological variability in East Africa. However, the pattern of teleconnections is much more complex than generally assumed, both in terms of spatial distribution and impact on different ecosystem variables. Not all climate and land surface variables are teleconnected to ENSO in the same way, which leads to a complex impact of ENSO on the ecosystem. Moreover, the ENSO impact is highly differentiated in space, as the direction, magnitude and timing of this impact are controlled by the local climate system, the presence of large lakes, proximity to the coast and, possibly, local topography and land cover.}},
   Address                  = {{P O BOX 88, OSNEY MEAD, OXFORD OX2 0NE, OXON, ENGLAND}},
   Affiliation              = {{Plisnier, PD (Reprint Author), Royal Museum Cent Africa, Dept Geol \& Mineral, Leuvensesteenweg 13, B-3080 Tervuren, Belgium. Royal Museum Cent Africa, Dept Geol \& Mineral, B-3080 Tervuren, Belgium. Univ Catholique Louvain, Dept Geog, B-1348 Louvain, Belgium.}},
@@ -18495,7 +19075,6 @@
   Pages                    = {{1357-1379}},
   Volume                   = {{37}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{Uncertainties in simulating the seasonal mean atmospheric water cycle in Equatorial East Africa are quantified using 58 one-year-long experiments performed with the Weather Research and Forecasting model (WRF). Tested parameters include physical parameterizations of atmospheric convection, cloud microphysics, planetary boundary layer, land-surface model and radiation schemes, as well as land-use categories (USGS vs. MODIS), lateral forcings (ERA-Interim and ERA40 reanalyses), and domain geometry (size and vertical resolution). Results show that (1) uncertainties, defined as the differences between the experiments, are larger than the biases; (2) the parameters exerting the largest influence on simulated rainfall are, in order of decreasing importance, the shortwave radiation scheme, the land-surface model, the domain size, followed by convective schemes and land-use categories; (3) cloud microphysics, lateral forcing reanalysis, the number of vertical levels and planetary boundary layer schemes appear to be of lesser importance at the seasonal scale. Though persisting biases (consisting of conditions that are too wet over the Indian Ocean and the Congo Basin and too dry over eastern Kenya) prevail in most experiments, several configurations simulate the regional climate with reasonable accuracy.}},
   Address                  = {{233 SPRING ST, NEW YORK, NY 10013 USA}},
   Affiliation              = {{Pohl, B (Reprint Author), Univ Bourgogne, CNRS, Ctr Rech Climatol, 6 Blvd Gabriel, F-21000 Dijon, France. Pohl, Benjamin; Cretat, Julien; Camberlin, Pierre, Univ Bourgogne, CNRS, Ctr Rech Climatol, F-21000 Dijon, France.}},
@@ -18580,7 +19159,7 @@
 
 @Article{Polishchuk2009,
   Title                    = {Application of Random Forest Approach to QSAR Prediction of Aquatic Toxicity},
-  Author                   = {Polishchuk, P. G., Muratov, E. N., Artemenko, A. G., Kolumbin, O. G., Muratov, N. N., Kuz'min, V},
+  Author                   = {Polishchuk, P. G. AND Muratov, E. N. AND Artemenko, A. G. AND Kolumbin, O. G. AND Muratov, N. N. AND Kuz'min, V},
   Journal                  = {J. Chem. Inf. Model},
   Year                     = {2009},
   Pages                    = {2481–2488},
@@ -18677,7 +19256,7 @@
 
 @Article{Pozdnoukhov2009,
   Title                    = {Data-driven topo-climatic mapping with machine learning methods},
-  Author                   = {Pozdnoukhov, A., Foresti, L., Kanevski, M.},
+  Author                   = {Pozdnoukhov, A. AND Foresti, L. AND Kanevski, M.},
   Journal                  = {Nat Hazards},
   Year                     = {2009},
   Pages                    = {497–518},
@@ -18797,6 +19376,24 @@
   Keywords                 = {increment \'{a} competition \'{a},limitation \'{a} allocation principle,resource partitioning \'{a},size-asymmetric growth \'{a} diameter,\'{a} stand structure},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/s00468-010-0510-1}
+}
+
+@Article{Price2000,
+  Title                    = {A comparison of two statistical methods for spatial interpolation of Canadian monthly mean climate data},
+  Author                   = {David T. Price and Daniel W. McKenney and Ian A. Nalder and Michael F. Hutchinson and Jennifer L. Kesteven},
+  Journal                  = {Agricultural and Forest Meteorology },
+  Year                     = {2000},
+  Number                   = {2â€“3},
+  Pages                    = {81 - 94},
+  Volume                   = {101},
+
+  Abstract                 = {Two methods for elevation-dependent spatial interpolation of climatic data from sparse weather station networks were compared. Thirty-year monthly mean minimum and maximum temperature and precipitation data from regions in western and eastern Canada were interpolated using thin-plate smoothing splines (ANUSPLIN) and a statistical method termed â€˜Gradient plus Inverse-Distance-Squaredâ€™ (GIDS). Data were withheld from approximately 50 stations in each region and both methods were then used to predict the monthly mean values for each climatic variable at those locations. The comparison revealed lower root mean square error (RMSE) for \{ANUSPLIN\} in 70 out of 72 months (three variables for 12 months for both regions). Higher \{RMSE\} for \{GIDS\} was caused by more frequent occurrence of extreme errors. This result had important implications for surfaces generated using the two methods. Both interpolators performed best in the eastern (Ontario/QuÃ©bec) region where topographic and climatic gradients are smoother, whereas predicting precipitation in the west (British Columbia/Alberta) was most difficult. In the latter case, \{ANUSPLIN\} clearly produced better results for most months. \{GIDS\} has certain advantages in being easy to implement and understand, hence providing a useful baseline to compare with more sophisticated methods. The significance of the errors for any method should be considered in light of the planned applications (e.g., in extensive, uniform terrain with low relief, differences may not be important). },
+  Doi                      = {http://dx.doi.org/10.1016/S0168-1923(99)00169-0},
+  ISSN                     = {0168-1923},
+  Keywords                 = {Climate},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192399001690}
 }
 
 @Article{Prince1998,
@@ -20116,6 +20713,35 @@
   Url                      = {http://adsabs.harvard.edu/abs/1983JAtS...40.1185R}
 }
 
+@Article{Ryan1977,
+  Title                    = {{Mathematical-model for diagnosis and prediction of surface winds in
+ mountainous terrain}},
+  Author                   = {Ryan, BC},
+  Journal                  = {{Journal of Applied Meteorology}},
+  Year                     = {{1977}},
+  Number                   = {{6}},
+  Pages                    = {{571-584}},
+  Volume                   = {{16}},
+
+  __markedentry            = {[tnauss:6]},
+  Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693}},
+  Affiliation              = {{USDA,FOREST SERV,FOREST FIRE LAB,PACIF SW FOREST \& RANGE EXPTL STN,RIVERSIDE,CA 92507.}},
+  Doc-delivery-number      = {{DQ307}},
+  Doi                      = {{10.1175/1520-0450(1977)016<0571:AMMFDA>2.0.CO;2}},
+  ISSN                     = {{0894-8763}},
+  Journal-iso              = {{J. Appl. Meteorol.}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{18}},
+  Owner                    = {tnauss},
+  Publisher                = {{AMER METEOROLOGICAL SOC}},
+  Research-areas           = {{Meteorology \& Atmospheric Sciences}},
+  Times-cited              = {{42}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:A1977DQ30700001}},
+  Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
+}
+
 @Article{Ryan1996,
   Title                    = {{On the global variation of precipitating layer clouds.}},
   Author                   = {Ryan, BF},
@@ -20183,32 +20809,12 @@
   Author                   = {Sala, O. E.},
   Journal                  = {Science},
   Year                     = {2000},
-
-  Month                    = mar,
   Number                   = {5459},
   Pages                    = {1770--1774},
   Volume                   = {287},
 
   Doi                      = {10.1126/science.287.5459.1770},
   File                     = {:Sala - 2000.pdf:PDF},
-  ISSN                     = {00368075},
-  Owner                    = {tnauss},
-  Url                      = {http://www.sciencemag.org/cgi/doi/10.1126/science.287.5459.1770}
-}
-
-@Article{Sala2000a,
-  Title                    = {{Global Biodiversity Scenarios for the Year 2100Â }},
-  Author                   = {Sala, O. E.},
-  Journal                  = {Science},
-  Year                     = {2000},
-
-  Month                    = mar,
-  Number                   = {5459},
-  Pages                    = {1770--1774},
-  Volume                   = {287},
-
-  Doi                      = {10.1126/science.287.5459.1770},
-  File                     = {:Sala - 2000(2).pdf:PDF},
   ISSN                     = {00368075},
   Owner                    = {tnauss},
   Url                      = {http://www.sciencemag.org/cgi/doi/10.1126/science.287.5459.1770}
@@ -20249,7 +20855,7 @@
 
 @Article{Sanabria2013,
   Title                    = {Spatial interpolation of McArthur’s Forest Fire Danger Index across Australia: Observational study},
-  Author                   = {Sanabria, L. A., Qin, X., Li, J., Cechet, R. P., Lucas, C.},
+  Author                   = {Sanabria, L. A. AND Qin, X. AND  Li, J. AND  Cechet, R. P. AND  Lucas, C.},
   Journal                  = {Environmental Modelling \& Software},
   Year                     = {2013},
   Pages                    = {37-50},
@@ -21332,7 +21938,7 @@
 
 @Article{Siaulys2012,
   Title                    = {Species distribution modelling of benthic invertebrates in the south-eastern Baltic Sea},
-  Author                   = {Siaulys, A., Bucas, M.},
+  Author                   = {Siaulys, A. AND Bucas, M.},
   Journal                  = {Baltica},
   Year                     = {2012},
   Pages                    = {163–170},
@@ -21506,7 +22112,7 @@
 
 @Article{Snell2000,
   Title                    = {Spatial Interpolation of Surface Air Temperatures Using Artificial Neural Networks: Evaluating Their Use for Downscaling GCMs},
-  Author                   = {Snell, S. E., Gopal, S., Kaufmann, R. K.},
+  Author                   = {Snell, S. E. AND Gopal, S. AND Kaufmann, R. K.},
   Journal                  = {Journal of Climate},
   Year                     = {2000},
   Pages                    = {13},
@@ -21548,6 +22154,20 @@
   File                     = {:Society - 2012.pdf:PDF},
   Keywords                 = {factorial experiment,landscape ecology,landscape index,simulation,spatial hetero-},
   Owner                    = {tnauss}
+}
+
+@Manual{Solano2010,
+  Title                    = {MODIS Vegetation Index User's Guide (MOD13 Series)},
+  Author                   = {Solano, Ramon and Didan, Kamel and Jacobson, Andree and Huete, Alfredo},
+  Month                    = {May},
+  Organization             = {The University of Arizona, Vegetation Index and Phenology Lab},
+  Year                     = {2010},
+
+  File                     = {:Solano et al. - 2010.pdf:PDF},
+  Keywords                 = {MODIS, Vegetation Index, MOD13, MYD13},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.10.28},
+  Url                      = {http://vip.arizona.edu/documents/MODIS/MODIS_VI_UsersGuide_01_2012.pdf}
 }
 
 @Article{Solberg2006,
@@ -21731,8 +22351,6 @@
   Author                   = {Stahl, K and Moore, R and Floyer, J and Asplin, M and Mckendry, I},
   Journal                  = {Agricultural and Forest Meteorology},
   Year                     = {2006},
-
-  Month                    = oct,
   Number                   = {3-4},
   Pages                    = {224--236},
   Volume                   = {139},
@@ -22132,6 +22750,33 @@
   Keywords                 = {areal transpiration,remotely sensed vegetation index},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0304380099002008}
+}
+
+@Article{Tabios1985,
+  Title                    = {{A comparative-analysis of techniques for spatial interpolation of
+ precipitation}},
+  Author                   = {Tabios, GQ and Salas, JD},
+  Journal                  = {{Water Resources Bulletin}},
+  Year                     = {{1985}},
+  Number                   = {{3}},
+  Pages                    = {{365-380}},
+  Volume                   = {{21}},
+
+  Address                  = {{950 HERNDON PARKWAY SUITE 300, HERNDON, VA 20170-5531}},
+  Affiliation              = {{COLORADO STATE UNIV,ERC,FT COLLINS,CO 80523.}},
+  Doc-delivery-number      = {{ANR14}},
+  ISSN                     = {{0043-1370}},
+  Journal-iso              = {{Water Resour. Bull.}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{21}},
+  Owner                    = {tnauss},
+  Publisher                = {{AMER WATER RESOURCES ASSOC}},
+  Research-areas           = {{Engineering; Geology; Water Resources}},
+  Times-cited              = {{223}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:A1985ANR1400001}},
+  Web-of-science-categories = {{Engineering, Civil; Geosciences, Multidisciplinary; Water Resources}}
 }
 
 @Article{Tadross2005,
@@ -22959,6 +23604,24 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/12386332}
 }
 
+@Article{Thornton1997,
+  Title                    = {Generating surfaces of daily meteorological variables over large regions of complex terrain },
+  Author                   = {Peter E. Thornton and Steven W. Running and Michael A. White},
+  Journal                  = {Journal of Hydrology },
+  Year                     = {1997},
+  Note                     = {Aggregate Description of Land-Atmosphere Interactions },
+  Number                   = {3â€“4},
+  Pages                    = {214 - 251},
+  Volume                   = {190},
+
+  Abstract                 = {A method for generating daily surfaces of temperature, precipitation, humidity, and radiation over large regions of complex terrain is presented. Required inputs include digital elevation data and observations of maximum temperature, minimum temperature and precipitation from ground-based meteorological stations. Our method is based on the spatial convolution of a truncated Gaussian weighting filter with the set of station locations. Sensitivity to the typical heterogeneous distribution of stations in complex terrain is accomplished with an iterative station density algorithm. Spatially and temporally explicit empirical analyses of the relationships of temperature and precipitation to elevation were performed, and the characteristic spatial and temporal scales of these relationships were explored. A daily precipitation occurrence algorithm is introduced, as a precursor to the prediction of daily precipitation amount. Surfaces of humidity (vapor pressure deficit) are generated as a function of the predicted daily minimum temperature and the predicted daily average daylight temperature. Daily surfaces of incident solar radiation are generated as a function of Sun-slope geometry and interpolated diurnal temperature range. The application of these methods is demonstrated over an area of approximately 400 000 detailed illustration of the parameterization process. A cross-validation analysis was performed, comparing predicted and observed daily and annual average values. Mean absolute errors (MAE) for predicted annual average maximum and minimum temperature were 0.7Â°C and 1.2Â°C, with biases of +0.1Â°C and âˆ’0.1Â°C, respectively. \{MAE\} for predicted annual total precipitation was 13.4 cm, or, expressed as a percentage of the observed annual totals, 19.3%. The success rate for predictions of daily precipitation occurrence was 83.3%. Particular attention was given to the predicted and observed relationships between precipitation frequency and intensity, and they were shown to be similar. We tested the sensitivity of these methods to prediction grid-point spacing, and found that areal averages were unchanged for grids ranging in spacing from 500 m to 32 km. We tested the dependence of the results on timestep, and found that the temperature prediction algorithms scale perfectly in this respect. Temporal scaling of precipitation predictions was complicated by the daily occurrence predictions, but very nearly the same predictions were obtained at daily and annual timesteps. },
+  Doi                      = {http://dx.doi.org/10.1016/S0022-1694(96)03128-9},
+  ISSN                     = {0022-1694},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0022169496031289}
+}
+
 @Article{Thornton2007,
   Title                    = {{An Improved Canopy Integration Scheme for a Land Surface Model with Prognostic Canopy Structure}},
   Author                   = {Thornton, Peter E. and Zimmermann, Niklaus E.},
@@ -23337,7 +24000,6 @@
   Pages                    = {{1368-1381}},
   Volume                   = {{12}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{An approximate formulation of how much moisture that precipitates out comes from local evaporation versus horizontal transport, referred to as ``recycling,{''} has allowed new estimates of recycling, to be mapped globally as a function of length scale. The recycling is formulated in terms of the ``intensity of the hydrological cycle{''} I, which is alternatively referred to as a ``precipitation efficiency{''} as it denotes the fraction of moisture flowing through a region that is precipitated out, and a ``moistening efficiency,{''} M, which is defined as the fraction of moisture evaporated from a region to that flowing through. While datasets of the pertinent quantities have improved, they still contain uncertainties. Results show that often the intensity is not greatest at times of greatest precipitation because moisture transport into the region is also a maximum, especially in the monsoonal regions. The annual cycle variations of I are fairly small over North America and Europe while large seasonal variations in M occur in most places. Seasonal mean maps of precipitation, evaporation (E), and atmospheric moisture transport are presented and discussed along with the seasonal and annual means of derived precipitation and moisture efficiencies and the recycling Fraction. The recycling results depend greatly on the scale of the domain under consideration and global maps of the recycling for seasonal and annual means are produced for 500- and 1000-km scales that therefore allow the heterogeneity of the fields across river basins to be captured. Global annual mean recycling for 500-km scales is 9.6\%, consisting of 8.9\% over land and 9.9\% over the oceans. Even for 1000-km scales, less than 20\% of the annual precipitation typically comes from evaporation within that domain. Over the Amazon, strong advection of moisture dominates the supply of atmospheric moisture over much of the river basin but local evaporation is much more prominent over the southern parts, and, for the annual cycle as a whole, about 34\% of the moisture is recycled. Over the Mississippi Basin, the recycling is about 21\%. The smaller number mostly reflects the smaller domain size. Relatively high annual values of recycling (>20\%) occur in the subtropical highs. where E is high and the advective moisture flux is small, and in convergence zones where, again, the advective moisture flux is small. Low annual values occur over the southern oceans, the North Pacific, and the eastern equatorial Pacific, where the moisture flux is at a maximum.}},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693 USA}},
   Affiliation              = {{Trenberth, KE (Reprint Author), Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA. Natl Ctr Atmospher Res, Boulder, CO 80307 USA.}},
@@ -23363,7 +24025,7 @@
 
 @Article{Tripathi2006,
   Title                    = {Downscaling of precipitation for climate change scenarios: A support vector machine approach},
-  Author                   = {Tripathi, S., Srinivas, V. V., Nanjundiah, R. S.},
+  Author                   = {Tripathi, S. AND Srinivas, V. V. AND Nanjundiah, R. S.},
   Journal                  = {Journal of Hydrology},
   Year                     = {2006},
   Pages                    = {621– 640},
@@ -23503,7 +24165,6 @@
   Pages                    = {127 - 150},
   Volume                   = {8},
 
-  __markedentry            = {[tnauss:]},
   Abstract                 = {In situ collected spectrometer data were used to evaluate and quantify the relationships between various linear combinations of red and photographic infrared radiances and experimental plot biomass, leaf water content, and chlorophyll content. The radiance variables evaluated included the red and photographic infrared (IR) radiance and the linear combinations of the IR/red ratio, the square root of the IR/red ratio, the IR-red difference, the vegetation index, and the transformed vegetation index. In addition, the corresponding green and red linear combinations were evaluated for comparative purposes. Three data sets were used from June, September, and October sampling periods. Regression analysis showed the increased utility of the \{IR\} and red linear combinations vis-Ã -vis the same green and red linear combinations. The red and \{IR\} linear combinations had 7% and 14% greater regression significance than the green and red linear combinations for the June and September sampling periods, respectively. The vegetation index, transformed vegetation index, and square root of the IR/red ratio were the most significant, followed closely by the IR/red ratio. Less than a 6% difference separated the highest and lowest of these four \{ER\} and red linear combinations. The use of these linear combinations was shown to be sensitive primarily to the green leaf area or green leaf biomass. As such, these linear combinations of the red and photographic \{IR\} radiances can be employed to monitor the photosynthetically active biomass of plant canopies. },
   Doi                      = {http://dx.doi.org/10.1016/0034-4257(79)90013-0},
   ISSN                     = {0034-4257},
@@ -23924,8 +24585,6 @@
   Author                   = {Ustrnul, Zbigniew and Czekierda, Danuta},
   Journal                  = {Meteorological Applications},
   Year                     = {2005},
-
-  Month                    = mar,
   Number                   = {1},
   Pages                    = {43--50},
   Volume                   = {12},
@@ -24394,6 +25053,65 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0477\%281998\%29079\%3C1883\%3ATOGIRE\%3E2.0.CO\%3B2}
 }
 
+@Article{Vicente-Serrano2003,
+  Title                    = {{Comparative analysis of interpolation methods in the middle Ebro Valley
+ (Spain): application to annual precipitation and temperature}},
+  Author                   = {Vicente-Serrano, SM and Saz-Sanchez, MA and Cuadrat, JM},
+  Journal                  = {Climate Research},
+  Year                     = {{2003}},
+  Number                   = {{2}},
+  Pages                    = {{161-180}},
+  Volume                   = {{24}},
+
+  __markedentry            = {[tnauss:]},
+  Abstract                 = {{This paper analyzes the validity of various precipitation and
+ temperature maps obtained by means of diverse interpolation methods. The
+ study was carried out in an area where geographic differences and
+ spatial climatic diversity are significant (the middle Ebro Valley in
+ the northeast Of Spain). Two variables, annual precipitation and
+ temperature, and several interpolation methods were used in the climate
+ mapping: global interpolators (trend surfaces and regression models),
+ local interpolators (Thiessen polygons, inverse distance weighting,
+ splines), geostatistical methods (simple kriging, ordinary kriging,
+ block kriging, directional kriging, universal kriging and co-kriging)
+ and mixed methods (combined global, local and geostatistical methods).
+ The validity of the maps was checked through independent test weather
+ stations (30\% of the original stations). Different statistical accuracy
+ measurements determined the quality of the models. The results show that
+ some interpolation methods are very similar. Nevertheless, in the case
+ of precipitation maps, we obtained the best results using geostatistical
+ methods and a regression model formed by 4 geographic and topographic
+ variables. The best results for temperature mapping were obtained using
+ the regression-based method. The accuracy measurements obtained by the
+ different interpolation methods change significantly depending on the
+ climatic variable mapped. The validity of interpolation methods in the
+ creation of climatic maps, useful for agricultural and hydrologic
+ management, is discussed.}},
+  Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
+  Affiliation              = {{Vicente-Serrano, SM (Reprint Author), Univ Zaragoza, Dept Geog, Campus San Francisco, E-50009 Zaragoza, Spain.
+ Univ Zaragoza, Dept Geog, E-50009 Zaragoza, Spain.}},
+  Doc-delivery-number      = {{725DR}},
+  Doi                      = {{10.3354/cr024161}},
+  ISSN                     = {{0936-577X}},
+  Journal-iso              = {{Clim. Res.}},
+  Keywords                 = {{interpolation; geostatistical techniques; regression; temperature;
+ precipitation; Ebro Valley; Spain}},
+  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; GREAT-BRITAIN; NOAA-AVHRR;
+ RAINFALL; TOPOGRAPHY; ELEVATION; CLIMATE; SURFACE; MODEL}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{67}},
+  Orcid-numbers            = {{Vicente-Serrano, Sergio M./0000-0003-2892-518X}},
+  Owner                    = {tnauss},
+  Publisher                = {{INTER-RESEARCH}},
+  Research-areas           = {{Environmental Sciences \& Ecology; Meteorology \& Atmospheric Sciences}},
+  Researcherid-numbers     = {{Vicente-Serrano, Sergio M./G-3104-2012}},
+  Times-cited              = {{87}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000185528600006}},
+  Web-of-science-categories = {{Environmental Sciences; Meteorology \& Atmospheric Sciences}}
+}
+
 @Article{Vidiella1999,
   Title                    = {{Vegetation changes and sequential flowering after rain in the southern Atacama Desert}},
   Author                   = {Vidiella, Patricia E and Armesto-, Juan J and Gutie, Julio R and Serena, Universidad De La and Serena, La},
@@ -24741,6 +25459,22 @@
   File                     = {:Warner, Campagna - Unknown.pdf:PDF},
   ISBN                     = {9789628226276},
   Owner                    = {tnauss}
+}
+
+@Article{Warren2013,
+  Title                    = {Quantifying the benefit of early climate change mitigation in avoiding biodiversity loss},
+  Author                   = {Warren, R. and VanDerWal, J. and Price, J. and Welbergen, J. A. and Atkinson, I. and Ramirez-Villegas, J. and Osborn, T. J. and Jarvis, A. and Shoo, L. P. and Williams, S. E. and Lowe, J.},
+  Journal                  = {Nature Clim. Change},
+  Year                     = {2013},
+  Number                   = {7},
+  Pages                    = {678--682},
+  Volume                   = {3},
+
+  ISSN                     = {1758-678X},
+  Owner                    = {tnauss},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://dx.doi.org/10.1038/nclimate1887}
 }
 
 @Article{Waser2011,
@@ -25117,7 +25851,6 @@
   Pages                    = {184-194},
   Volume                   = {2},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = { Traditional methods of evaluating geographic models by statistical comparisons between observed and simulated variates are criticized. In particular, it is suggested that the correlation coefficient (r), its square and tests of their statistical significance are inadequate for such purposes. The root mean squared error (RMSE) and related measures as well as a new index of agreement (d) are alternatively presented as superior indices for making such comparisons. Arguments are made for increasing the number of digital algorithms and data plots being published. },
   Doi                      = {10.1080/02723646.1981.10642213},
   Eprint                   = { http://www.tandfonline.com/doi/pdf/10.1080/02723646.1981.10642213 
@@ -25128,6 +25861,27 @@
   Timestamp                = {2014.10.08},
   Url                      = { http://www.tandfonline.com/doi/abs/10.1080/02723646.1981.10642213 
 }
+}
+
+@Article{Willmott1995,
+  Title                    = {Smart Interpolation of Annually Averaged Air Temperature in the United States},
+  Author                   = {Willmott, Cort J. and Matsuura, Kenji},
+  Journal                  = {J. Appl. Meteor.},
+  Year                     = {1995},
+  Number                   = {12},
+  Pages                    = {2577--2586},
+  Volume                   = {34},
+
+  Abstract                 = {Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44Â°C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38Â°C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks.
+Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44Â°C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38Â°C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks.},
+  Booktitle                = {Journal of Applied Meteorology},
+  Comment                  = {doi: 10.1175/1520-0450(1995)034<2577:SIOAAA>2.0.CO;2},
+  Doi                      = {10.1175/1520-0450(1995)034<2577:SIOAAA>2.0.CO;2},
+  ISSN                     = {0894-8763},
+  Owner                    = {tnauss},
+  Publisher                = {American Meteorological Society},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://dx.doi.org/10.1175/1520-0450(1995)034<2577:SIOAAA>2.0.CO;2}
 }
 
 @Unpublished{Wilson2000,
@@ -25284,6 +26038,54 @@
   Owner                    = {tnauss}
 }
 
+@Article{Worlen1999,
+  Title                    = {{Spatial extrapolation of agrometeorological variables}},
+  Author                   = {Worlen, C and Schulz, K and Huwe, B and Eiden, R},
+  Journal                  = {{Agricultural and Forest Meteorology}},
+  Year                     = {{1999}},
+  Number                   = {{3-4}},
+  Pages                    = {{233-242}},
+  Volume                   = {{94}},
+
+  Abstract                 = {{Agrometeorological variables are especially subject to variations in
+ space-a fact that makes calculations of areal mean values for e.g.
+ evaporation extremely elusive. Wind, temperature, and humidity cannot be
+ measured continuously in space. In this paper we present simple methods
+ to determine values of those variables for non-ideal positions from
+ measurements at a single ideal point and test these spatial functions by
+ measurements at three non-ideal points in a catchment. For wind, we were
+ able to obtain a relatively good fit by taking the sheltering effects of
+ the catchment rims into account. Temperature was not regionalizable with
+ simple approaches, but needs to be regionalized with spatially and
+ temporally differentiated models. Specific humidity can be assumed to be
+ homogeneously distributed even though there were sinks and sources for
+ water vapor in the study area. (C) 1999 Elsevier Science B.V. All rights
+ reserved.}},
+  Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
+  Affiliation              = {{Schulz, K (Reprint Author), Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England.
+ Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England.
+ Univ Bayreuth, Dept Meteorol, D-95440 Bayreuth, Germany.
+ Univ Bayreuth, Dept Soil Phys, D-95440 Bayreuth, Germany.}},
+  Doc-delivery-number      = {{194RD}},
+  Doi                      = {{10.1016/S0168-1923(99)00015-5}},
+  ISSN                     = {{0168-1923}},
+  Journal-iso              = {{Agric. For. Meteorol.}},
+  Keywords                 = {{temperature; wind speed; absolute humidity; shelter factor; spatial
+ scale; regionalization}},
+  Keywords-plus            = {{PREDICTION; MODEL}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{13}},
+  Owner                    = {tnauss},
+  Publisher                = {{ELSEVIER SCIENCE BV}},
+  Research-areas           = {{Agriculture; Forestry; Meteorology \& Atmospheric Sciences}},
+  Researcherid-numbers     = {{Schulz, Karsten/B-4634-2010}},
+  Times-cited              = {{8}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000080206600006}},
+  Web-of-science-categories = {{Agronomy; Forestry; Meteorology \& Atmospheric Sciences}}
+}
+
 @Article{Wright2005,
   Title                    = {{Modulation of leaf economic traits and trait relationships by climate}},
   Author                   = {Wright, Ian J. and Reich, Peter B. and Cornelissen, Johannes H. C. and Falster, Daniel S. and Groom, Philip K. and Hikosaka, Kouki and Lee, William and Lusk, Christopher H. and Niinemets, \"{U}lo and Oleksyn, Jacek and Osada, Noriyuki and Poorter, Hendrik and Warton, David I. and Westoby, Mark},
@@ -25350,7 +26152,6 @@
   Pages                    = {{3037-3054}},
   Volume                   = {{17}},
 
-  __markedentry            = {[tnauss:6]},
   Abstract                 = {{This study investigates the impacts of the Indian Ocean on the relationship between the Indian summer monsoon and the El Nino-Southern Oscillation (ENSO) through numerical simulations with a coupled atmosphere-ocean general circulation model and atmospheric general circulation model (AGCM) experiments with specified sea surface temperature (SST) and surface heat flux (SHF) forcing. Previous studies have shown that this particular coupled model captures many aspects of the observed Indian summer monsoon-ENSO relationship. However, it is found that, when the Indian Ocean is decoupled from the atmosphere, the Indian monsoon-ENSO relationship reverses. This change is linked to the relationships between surface evaporation, surface wind, and SST in the north Indian Ocean. In the coupled case, surface evaporation anomalies are positively correlated with surface wind anomalies during April-June and are of the same sign as SST anomalies during July-September. In the decoupled Indian Ocean case, surface evaporation anomalies are of the same sign as surface wind anomalies during the entire April-September period. Numerical experiments with an AGCM were performed with SST or SHF anomalies specified in the tropical Indian-Pacific Ocean, tropical Pacific Ocean only, and tropical Indian Ocean only. These experiments confirm the importance of local coupled air-sea feedback in the Indian Ocean for a proper simulation of the Indian monsoon-ENSO relationship.}},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693 USA}},
   Affiliation              = {{Wu, RG (Reprint Author), Ctr Ocean Land Atmosphere Studies, 4041 Powder Mill Rd,Suite 302, Calverton, MD 20705 USA. Ctr Ocean Land Atmosphere Studies, Calverton, MD 20705 USA. George Mason Univ, Sch Computat Sci, Fairfax, VA USA.}},
@@ -25504,6 +26305,74 @@
   ISSN                     = {0894-8755},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0442\%281998\%29011\%3C1793\%3ATERIIC\%3E2.0.CO\%3B2}
+}
+
+@Article{Xia2001,
+  Title                    = {Forest climatology: estimation and use of daily climatological data for Bavaria, Germany },
+  Author                   = {Youlong Xia and Peter Fabian and Martin Winterhalter and Mei Zhao},
+  Journal                  = {Agricultural and Forest Meteorology },
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {87 - 103},
+  Volume                   = {106},
+
+  Abstract                 = {Long-term daily climatological data are important to study forest damage and simulate tree growth, but they are scarce in forested areas because observational records are often scarce. At the eight Bavarian forest sites, we examined six interpolation methods and established empirical transfer functions relating observed forest climate data to the climate data of German weather stations. Based on our comparisons, a technique is developed and used to reconstruct 31-year daily forest climatological data at six forest sites. The reconstructed climate data were then used to calculate four meteorological stress factors which are of importance to forest studies. Finally, the uncertainties, temporal and spatial variation of these stress factors were discussed. },
+  Doi                      = {http://dx.doi.org/10.1016/S0168-1923(00)00210-0},
+  ISSN                     = {0168-1923},
+  Keywords                 = {Interpolation},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.31},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192300002100}
+}
+
+@Article{Xia1999,
+  Title                    = {{A model to interpolate monthly mean climatological data at Bavarian
+ forest climate stations}},
+  Author                   = {Xia, Y and Winterhalter, M and Fabian, P},
+  Journal                  = {{Theoretical and Applied Climatology}},
+  Year                     = {{1999}},
+  Number                   = {{1-2}},
+  Pages                    = {{27-38}},
+  Volume                   = {{64}},
+
+  Abstract                 = {{Six methods were used to interpolate the monthly mean climatological
+ data from German climate stations to three Bavarian forest climate
+ stations. The observed forest climatological data at the Bavarian forest
+ climate stations were used as the reference data to which the
+ interpolated data were compared. The results show that, for monthly mean
+ daily maximum temperature at valley and plain forest climate stations,
+ each of the six interpolation methods can give accurate estimates. For
+ monthly mean daily maximum temperature, minimum temperature, air
+ temperature and water vapor pressure at mountain forest climate
+ stations, topographically aided interpolation can give the most accurate
+ estimates. Barnes interpolation combined with empirical transfer
+ functions can give accurate estimates for all climate variables at the
+ plain and valley forest climate stations, and it can also give accurate
+ estimates for monthly mean wind speed and monthly precipitation at the
+ mountain forest climate station. The empirical transfer functions are
+ very important for estimating the forest climatological data. These
+ transfer functions will be used for reconstruction of long-term forest
+ climatological data in Bavaria.}},
+  Address                  = {{SACHSENPLATZ 4-6, PO BOX 89, A-1201 VIENNA, AUSTRIA}},
+  Affiliation              = {{Xia, Y (Reprint Author), Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, Hochanger 13, D-85354 Freising, Germany.
+ Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, D-85354 Freising, Germany.}},
+  Doc-delivery-number      = {{253TG}},
+  Doi                      = {{10.1007/s007040050108}},
+  ISSN                     = {{0177-798X}},
+  Journal-iso              = {{Theor. Appl. Climatol.}},
+  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS;
+ STOCHASTIC INTERPOLATION; PRECIPITATION ESTIMATION; OPTIMUM
+ INTERPOLATION; COMPLEX TERRAIN; UNITED-STATES; RAINFALL DATA; TOPOGRAPHY}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{50}},
+  Owner                    = {tnauss},
+  Publisher                = {{SPRINGER-VERLAG WIEN}},
+  Research-areas           = {{Meteorology \& Atmospheric Sciences}},
+  Times-cited              = {{12}},
+  Timestamp                = {2014.10.31},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000083571400003}},
+  Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
 }
 
 @Article{Xiao2000,
@@ -26594,11 +27463,11 @@
   Tags                     = {Kap Verde}
 }
 
-@comment{jabref-meta: selector_keywords:}
-
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: selector_Tags:Kap Verde;}
+
+@comment{jabref-meta: selector_keywords:}
 
 @comment{jabref-meta: groupsversion:3;}
 
