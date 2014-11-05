@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10.
+% This file was created with JabRef 2.10b2.
 % Encoding: Cp1252
 
 
@@ -639,8 +639,7 @@
 }
 
 @Article{Apaydin2004a,
-  Title                    = {{Spatial interpolation techniques for climate data in the GAP region in
- Turkey}},
+  Title                    = {{Spatial interpolation techniques for climate data in the GAP region in Turkey}},
   Author                   = {Apaydin, H and Sonmez, FK and Yildirim, YE},
   Journal                  = {{CLIMATE RESEARCH}},
   Year                     = {{2004}},
@@ -650,30 +649,16 @@
   Pages                    = {{31-40}},
   Volume                   = {{28}},
 
-  Abstract                 = {{Six spatial interpolation techniques (inverse distance weighted, global
- polynomial interpolation, local polynomial interpolation, completely
- regularized spline, kriging and cokriging with 4 sub-types) were
- evaluated to deter-mine the best spatial distribution of 6 different
- climate parameters (solar radiation, sunshine duration, temperature,
- relative humidity, wind speed and rainfall) in the region of the
- Southeastern Anatolia Project (GAP) of Turkey. Based on the root mean
- square error values of predictions made using measured values from 1971
- to 1999, simple cokriging yielded the best results for temperature,
- solar radiation, relative humidity, wind speed and completely
- regularized spline for sunshine duration and rainfall.}},
+  Abstract                 = {{Six spatial interpolation techniques (inverse distance weighted, global polynomial interpolation, local polynomial interpolation, completely regularized spline, kriging and cokriging with 4 sub-types) were evaluated to deter-mine the best spatial distribution of 6 different climate parameters (solar radiation, sunshine duration, temperature, relative humidity, wind speed and rainfall) in the region of the Southeastern Anatolia Project (GAP) of Turkey. Based on the root mean square error values of predictions made using measured values from 1971 to 1999, simple cokriging yielded the best results for temperature, solar radiation, relative humidity, wind speed and completely regularized spline for sunshine duration and rainfall.}},
   Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
-  Affiliation              = {{Apaydin, H (Reprint Author), Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey.
- Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey.}},
+  Affiliation              = {{Apaydin, H (Reprint Author), Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey. Ankara Univ, Dept Farm Struct \& Irrigat, Fac Agr, TR-06110 Ankara, Turkey.}},
   Author-email             = {{apaydin@agri.ankara.edu.tr}},
   Doc-delivery-number      = {{906JZ}},
   Doi                      = {{10.3354/cr028031}},
   ISSN                     = {{0936-577X}},
   Journal-iso              = {{Clim. Res.}},
-  Keywords                 = {{spatial interpolation; climate; Southeastern Anatolia Project; inverse
- distance weighted; polynomial interpolation; kriging; cokriging;
- completely regularized spline}},
-  Keywords-plus            = {{MOUNTAINOUS TERRAIN; AIR-TEMPERATURE; RAINFALL; PRECIPITATION;
- GEOSTATISTICS; RESOLUTION; VARIABLES}},
+  Keywords                 = {{spatial interpolation; climate; Southeastern Anatolia Project; inverse distance weighted; polynomial interpolation; kriging; cokriging; completely regularized spline}},
+  Keywords-plus            = {{MOUNTAINOUS TERRAIN; AIR-TEMPERATURE; RAINFALL; PRECIPITATION; GEOSTATISTICS; RESOLUTION; VARIABLES}},
   Language                 = {{English}},
   Number-of-cited-references = {{37}},
   Owner                    = {tnauss},
@@ -3839,8 +3824,7 @@
 }
 
 @Article{Chen2007a,
-  Title                    = {{A high-resolution, gridded dataset for monthly temperature normals
- (1971-2000) in Sweden}},
+  Title                    = {{A high-resolution, gridded dataset for monthly temperature normals (1971-2000) in Sweden}},
   Author                   = {Chen, Deliang and Gong, Lebing and Xu, Chong-Yu and Halldin, Sven},
   Journal                  = {Geografiska Annaler Series A-Physical Geography},
   Year                     = {{2007}},
@@ -3848,41 +3832,9 @@
   Pages                    = {{249-261}},
   Volume                   = {{89A}},
 
-  Abstract                 = {{A baseline climatology is required in evaluating climate variability and
- changes on regional and local scales. Gridded climate normals, i.e.
- averages over a 30-year period, are of special interest since they can
- be readily used for validation of climate models. This study is aimed at
- creating an updated gridded dataset for Swedish monthly temperature
- normals over the period 1971-2000, based on standard 2-m air temperature
- records at 510 stations in mainland Sweden. Spatial trends of the normal
- temperatures were modelled as functions of latitude, longitude and
- elevation by multiple linear regression. The study shows that the
- temperature normals are strongly correlated with latitude throughout the
- year and especially in cold months, while elevation was a more important
- factor in June and July. Longitude played a minor role and was only
- significant in April and May. Regression equations linking temperature
- to latitude, longitude and elevation were set up for each month. Monthly
- temperature normals were detrended by subtracting spatial trends given
- by the regressions. Ordinary kriging was then applied to both original
- data (simple method) and detrended data (composite method) to model the
- spatial variability and to perform spatial gridding. The multiple
- regressions showed that between 82\% (summer) and 96\% (winter) of the
- variance in monthly temperature normals could be explained by latitude
- and elevation. Unexplained variances, i.e. the residuals, were modelled
- with ordinary kriging with exponential semivariograms. The composite
- grid estimates were calculated by adding the multiple linear trends back
- to the interpolated residuals at each grid point. Kriged original
- temperature normals provided a performance benchmark. The
- cross-validation shows that the interpolation errors of the normals are
- significantly reduced if the composite method rather than the simple one
- was used. A gridded monthly dataset with 30-arcsecond spacing was
- created using the established trends, the kriging model and a digital
- topographic dataset.}},
+  Abstract                 = {{A baseline climatology is required in evaluating climate variability and changes on regional and local scales. Gridded climate normals, i.e. averages over a 30-year period, are of special interest since they can be readily used for validation of climate models. This study is aimed at creating an updated gridded dataset for Swedish monthly temperature normals over the period 1971-2000, based on standard 2-m air temperature records at 510 stations in mainland Sweden. Spatial trends of the normal temperatures were modelled as functions of latitude, longitude and elevation by multiple linear regression. The study shows that the temperature normals are strongly correlated with latitude throughout the year and especially in cold months, while elevation was a more important factor in June and July. Longitude played a minor role and was only significant in April and May. Regression equations linking temperature to latitude, longitude and elevation were set up for each month. Monthly temperature normals were detrended by subtracting spatial trends given by the regressions. Ordinary kriging was then applied to both original data (simple method) and detrended data (composite method) to model the spatial variability and to perform spatial gridding. The multiple regressions showed that between 82\% (summer) and 96\% (winter) of the variance in monthly temperature normals could be explained by latitude and elevation. Unexplained variances, i.e. the residuals, were modelled with ordinary kriging with exponential semivariograms. The composite grid estimates were calculated by adding the multiple linear trends back to the interpolated residuals at each grid point. Kriged original temperature normals provided a performance benchmark. The cross-validation shows that the interpolation errors of the normals are significantly reduced if the composite method rather than the simple one was used. A gridded monthly dataset with 30-arcsecond spacing was created using the established trends, the kriging model and a digital topographic dataset.}},
   Address                  = {{9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND}},
-  Affiliation              = {{Chen, DL (Reprint Author), Univ Gothenburg, Ctr Earth Sci, Box 460, SE-40530 Gothenburg, Sweden.
- Chen, Deliang, Univ Gothenburg, Ctr Earth Sci, SE-40530 Gothenburg, Sweden.
- Gong, Lebing; Xu, Chong-Yu; Halldin, Sven, Uppsala Univ, Dept Earth Sci, Uppsala, Sweden.
- Xu, Chong-Yu, Univ Oslo, Dept Geosci, N-0316 Oslo, Norway.}},
+  Affiliation              = {{Chen, DL (Reprint Author), Univ Gothenburg, Ctr Earth Sci, Box 460, SE-40530 Gothenburg, Sweden. Chen, Deliang, Univ Gothenburg, Ctr Earth Sci, SE-40530 Gothenburg, Sweden. Gong, Lebing; Xu, Chong-Yu; Halldin, Sven, Uppsala Univ, Dept Earth Sci, Uppsala, Sweden. Xu, Chong-Yu, Univ Oslo, Dept Geosci, N-0316 Oslo, Norway.}},
   Author-email             = {{deliang@gvc.gu.se}},
   Doc-delivery-number      = {{249RY}},
   ISSN                     = {{0435-3676}},
@@ -3894,8 +3846,7 @@
   Owner                    = {tnauss},
   Publisher                = {{BLACKWELL PUBLISHING}},
   Research-areas           = {{Physical Geography; Geology}},
-  Researcherid-numbers     = {{Xu, Chong-Yu/B-2941-2012
- Chen, Deliang/A-5107-2013}},
+  Researcherid-numbers     = {{Xu, Chong-Yu/B-2941-2012 Chen, Deliang/A-5107-2013}},
   Times-cited              = {{4}},
   Timestamp                = {2014.10.31},
   Type                     = {{Article}},
@@ -7234,8 +7185,7 @@
 }
 
 @Article{Goodale1998,
-  Title                    = {{Mapping monthly precipitation, temperature, and solar radiation for
- Ireland with polynomial regression and a digital elevation model}},
+  Title                    = {{Mapping monthly precipitation, temperature, and solar radiation for Ireland with polynomial regression and a digital elevation model}},
   Author                   = {Goodale, CL and Aber, JD and Ollinger, SV},
   Journal                  = {Climate Research},
   Year                     = {{1998}},
@@ -7243,38 +7193,15 @@
   Pages                    = {{35-49}},
   Volume                   = {{10}},
 
-  Abstract                 = {{A 1 km(2) resolution digital elevation model (DEM) of Ireland was
- constructed and used as the basis for generating digital maps of the
- climate parameters required to run a model of ecosystem carbon and water
- cycling. The DEM had mean absolute errors of 30 m or less for most of
- Ireland. The ecosystem model requires inputs of monthly precipitation,
- monthly averaged maximum and minimum daily temperature, and monthly
- averaged daily solar radiation. Long-term (1951 to 1980) averaged
- monthly data were obtained from sites measuring precipitation (618
- sites), temperature (62 sites), and the number of hours of bright
- sunshine per day ('sunshine hours') (61 sites). Polynomial regression
- was used to derive a simple model for each monthly climate variable to
- relate climate to position and elevation on the DEM. Accuracy
- assessments with subsets of each climate data set determined that
- polynomial regression can predict average monthly climate in Ireland
- with mean absolute errors of 5 to 15 mm for monthly precipitation, 0.2
- to 0.5 degrees C for monthly averaged maximum and minimum temperature,
- and 6 to 15 min for monthly averaged sunshine hours. The polynomial
- regression estimates of climate were compared with estimates from a
- modified inverse-distance-squared interpolation. Prediction accuracy did
- not differ between the 2 methods, but the polynomial regression models
- demanded less time to generate and less computer storage space, greatly
- decreasing the time required for regional modeling runs.}},
+  Abstract                 = {{A 1 km(2) resolution digital elevation model (DEM) of Ireland was constructed and used as the basis for generating digital maps of the climate parameters required to run a model of ecosystem carbon and water cycling. The DEM had mean absolute errors of 30 m or less for most of Ireland. The ecosystem model requires inputs of monthly precipitation, monthly averaged maximum and minimum daily temperature, and monthly averaged daily solar radiation. Long-term (1951 to 1980) averaged monthly data were obtained from sites measuring precipitation (618 sites), temperature (62 sites), and the number of hours of bright sunshine per day ('sunshine hours') (61 sites). Polynomial regression was used to derive a simple model for each monthly climate variable to relate climate to position and elevation on the DEM. Accuracy assessments with subsets of each climate data set determined that polynomial regression can predict average monthly climate in Ireland with mean absolute errors of 5 to 15 mm for monthly precipitation, 0.2 to 0.5 degrees C for monthly averaged maximum and minimum temperature, and 6 to 15 min for monthly averaged sunshine hours. The polynomial regression estimates of climate were compared with estimates from a modified inverse-distance-squared interpolation. Prediction accuracy did not differ between the 2 methods, but the polynomial regression models demanded less time to generate and less computer storage space, greatly decreasing the time required for regional modeling runs.}},
   Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
-  Affiliation              = {{Goodale, CL (Reprint Author), Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA.
- Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA.}},
+  Affiliation              = {{Goodale, CL (Reprint Author), Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA. Univ New Hampshire, Inst Study Earth Oceans \& Space, Complex Syst Res Ctr, Durham, NH 03824 USA.}},
   Doc-delivery-number      = {{ZQ850}},
   Doi                      = {{10.3354/cr010035}},
   ISSN                     = {{0936-577X}},
   Journal-iso              = {{Clim. Res.}},
   Keywords                 = {{interpolation; climate grids; DEM; GIS; regional modeling}},
-  Keywords-plus            = {{NORTHEASTERN UNITED-STATES; MOUNTAINOUS TERRAIN; CLIMATE-CHANGE;
- EVAPOTRANSPIRATION; PHOTOSYNTHESIS; RAINFALL; FORESTS}},
+  Keywords-plus            = {{NORTHEASTERN UNITED-STATES; MOUNTAINOUS TERRAIN; CLIMATE-CHANGE; EVAPOTRANSPIRATION; PHOTOSYNTHESIS; RAINFALL; FORESTS}},
   Language                 = {{English}},
   Number-of-cited-references = {{43}},
   Owner                    = {tnauss},
@@ -7288,8 +7215,7 @@
 }
 
 @Article{Goovaerts2000a,
-  Title                    = {{Geostatistical approaches for incorporating elevation into the spatial
- interpolation of rainfall}},
+  Title                    = {{Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall}},
   Author                   = {Goovaerts, P},
   Journal                  = {{JOURNAL OF HYDROLOGY}},
   Year                     = {{2000}},
@@ -7299,37 +7225,16 @@
   Pages                    = {{113-129}},
   Volume                   = {{228}},
 
-  Abstract                 = {{This paper presents three multivariate geostatistical algorithms for
- incorporating a digital elevation model into the spatial prediction of
- rainfall: simple kriging with varying local means; kriging with an
- external drift; and colocated cokriging. The techniques are illustrated
- using annual and monthly rainfall observations measured at 36 climatic
- stations in a 5000 km(2) region of Portugal. Cross validation is used to
- compare the prediction performances of the three geostatistical
- interpolation algorithms with the straightforward linear regression of
- rainfall against elevation and three univariate techniques: the Thiessen
- polygon, inverse square distance; and ordinary kriging.
- Larger prediction errors are obtained for the two algorithms (inverse
- square distance, Thiessen polygon) that ignore both the elevation and
- rainfall records at surrounding stations. The three multivariate
- geostatistical algorithms outperform other interpolators, in particular
- the linear regression, which stresses the importance of accounting for
- spatially dependent rainfall observations in addition to the colocated
- elevation. Last, ordinary kriging yields more accurate predictions than
- linear regression when the correlation between rainfall and elevation is
- moderate (less than 0.75 in the case study). (C) 2000 Elsevier Science
- B.V. All rights reserved.}},
+  Abstract                 = {{This paper presents three multivariate geostatistical algorithms for incorporating a digital elevation model into the spatial prediction of rainfall: simple kriging with varying local means; kriging with an external drift; and colocated cokriging. The techniques are illustrated using annual and monthly rainfall observations measured at 36 climatic stations in a 5000 km(2) region of Portugal. Cross validation is used to compare the prediction performances of the three geostatistical interpolation algorithms with the straightforward linear regression of rainfall against elevation and three univariate techniques: the Thiessen polygon, inverse square distance; and ordinary kriging. Larger prediction errors are obtained for the two algorithms (inverse square distance, Thiessen polygon) that ignore both the elevation and rainfall records at surrounding stations. The three multivariate geostatistical algorithms outperform other interpolators, in particular the linear regression, which stresses the importance of accounting for spatially dependent rainfall observations in addition to the colocated elevation. Last, ordinary kriging yields more accurate predictions than linear regression when the correlation between rainfall and elevation is moderate (less than 0.75 in the case study). (C) 2000 Elsevier Science B.V. All rights reserved.}},
   Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
-  Affiliation              = {{Goovaerts, P (Reprint Author), Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA.
- Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA.}},
+  Affiliation              = {{Goovaerts, P (Reprint Author), Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA. Univ Michigan, Dept Civil \& Environm Engn, Ann Arbor, MI 48109 USA.}},
   Author-email             = {{goovaert@engin.umich.edu}},
   Doc-delivery-number      = {{295YM}},
   Doi                      = {{10.1016/S0022-1694(00)00144-X}},
   ISSN                     = {{0022-1694}},
   Journal-iso              = {{J. Hydrol.}},
   Keywords                 = {{rainfall; DEM; multivariate geostatistics; kriging}},
-  Keywords-plus            = {{MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS; PRECIPITATION
- ESTIMATION}},
+  Keywords-plus            = {{MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS; PRECIPITATION ESTIMATION}},
   Language                 = {{English}},
   Number-of-cited-references = {{28}},
   Owner                    = {tnauss},
@@ -9270,10 +9175,8 @@
 }
 
 @Article{Hofstra2008a,
-  Title                    = {{Comparison of six methods for the interpolation of daily, European
- climate data}},
-  Author                   = {Hofstra, Nynke and Haylock, Malcolm and New, Mark and Jones, Phil and
- Frei, Christoph},
+  Title                    = {{Comparison of six methods for the interpolation of daily, European climate data}},
+  Author                   = {Hofstra, Nynke and Haylock, Malcolm and New, Mark and Jones, Phil and Frei, Christoph},
   Journal                  = {{JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES}},
   Year                     = {{2008}},
 
@@ -9281,63 +9184,26 @@
   Number                   = {{D21}},
   Volume                   = {{113}},
 
-  Abstract                 = {{We compare versions of six interpolation methods for the interpolation
- of daily precipitation, mean, minimum and maximum temperature, and sea
- level pressure from station data over Europe from 1961 to 1990. The
- interpolation methods evaluated are global and local kriging, two
- versions of angular distance weighting, natural neighbor interpolation,
- regression, 2D and 3D thin plate splines, and conditional interpolation.
- We first evaluated, using station cross-validation and several skill
- scores, relative skill of each method at estimating point values,
- looking at spatial and temporal patterns and the frequency distribution
- of the variables. We then compared, for precipitation, gridded area
- averages from the candidate interpolation methods against existing
- high-resolution gridded data sets for the UK and the Alps, which are
- derived from a much denser network of stations. In both point and
- area-average cases, differences in skill between interpolation methods
- at any one point are smaller than the range in skill for a single method
- either across the domain, or in different seasons. The main control on
- spatial patterns of interpolation skill is density of the station
- network, with topographic complexity a compounding factor. The relative
- skill of different methods remains relatively constant through time,
- despite a varying station network. Skill in interpolating extreme events
- is lower than for average days, but relative skill of different methods
- remains the same. We select global kriging as the best performing method
- overall, for use in the development of a daily, high-resolution,
- long-term, European data set of climate variables as part of the EU
- funded ENSEMBLES project.}},
+  Abstract                 = {{We compare versions of six interpolation methods for the interpolation of daily precipitation, mean, minimum and maximum temperature, and sea level pressure from station data over Europe from 1961 to 1990. The interpolation methods evaluated are global and local kriging, two versions of angular distance weighting, natural neighbor interpolation, regression, 2D and 3D thin plate splines, and conditional interpolation. We first evaluated, using station cross-validation and several skill scores, relative skill of each method at estimating point values, looking at spatial and temporal patterns and the frequency distribution of the variables. We then compared, for precipitation, gridded area averages from the candidate interpolation methods against existing high-resolution gridded data sets for the UK and the Alps, which are derived from a much denser network of stations. In both point and area-average cases, differences in skill between interpolation methods at any one point are smaller than the range in skill for a single method either across the domain, or in different seasons. The main control on spatial patterns of interpolation skill is density of the station network, with topographic complexity a compounding factor. The relative skill of different methods remains relatively constant through time, despite a varying station network. Skill in interpolating extreme events is lower than for average days, but relative skill of different methods remains the same. We select global kriging as the best performing method overall, for use in the development of a daily, high-resolution, long-term, European data set of climate variables as part of the EU funded ENSEMBLES project.}},
   Address                  = {{2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA}},
-  Affiliation              = {{Hofstra, N (Reprint Author), Univ Oxford, Ctr Environm, Sch Geog, S Parks Rd, Oxford OX1 3QY, England.
- Hofstra, Nynke; New, Mark, Univ Oxford, Ctr Environm, Sch Geog, Oxford OX1 3QY, England.
- Frei, Christoph, Fed Off Meteorol \& Climatol MeteoSwiss, CH-8044 Zurich, Switzerland.
- Haylock, Malcolm; Jones, Phil, Univ E Anglia, Sch Environm Sci, Climat Res Unit, Norwich NR4 7TJ, Norfolk, England.}},
+  Affiliation              = {{Hofstra, N (Reprint Author), Univ Oxford, Ctr Environm, Sch Geog, S Parks Rd, Oxford OX1 3QY, England. Hofstra, Nynke; New, Mark, Univ Oxford, Ctr Environm, Sch Geog, Oxford OX1 3QY, England. Frei, Christoph, Fed Off Meteorol \& Climatol MeteoSwiss, CH-8044 Zurich, Switzerland. Haylock, Malcolm; Jones, Phil, Univ E Anglia, Sch Environm Sci, Climat Res Unit, Norwich NR4 7TJ, Norfolk, England.}},
   Article-number           = {{D21110}},
   Author-email             = {{nynke.hofstra@ouce.ox.ac.uk}},
   Doc-delivery-number      = {{373SF}},
   Doi                      = {{10.1029/2008JD010100}},
   Eissn                    = {{2169-8996}},
-  Funding-acknowledgement  = {{EU project ENSEMBLES {[}GOCE-CT-2004-50539]; Dutch talentenbeurs; Dutch
- Prins Bernhard Cultuurfonds beurs}},
-  Funding-text             = {{We would like to thank all institutes (see Appendix 1 of Klok and Klein
- Tank {[}2008]) that made meteorological station data available for the
- study. This study was funded by the EU project ENSEMBLES (WP 5.1,
- contract GOCE-CT-2004-50539). NH was also funded by the Dutch
- talentenbeurs and the Dutch Prins Bernhard Cultuurfonds beurs.}},
+  Funding-acknowledgement  = {{EU project ENSEMBLES {[}GOCE-CT-2004-50539]; Dutch talentenbeurs; Dutch Prins Bernhard Cultuurfonds beurs}},
+  Funding-text             = {{We would like to thank all institutes (see Appendix 1 of Klok and Klein Tank {[}2008]) that made meteorological station data available for the study. This study was funded by the EU project ENSEMBLES (WP 5.1, contract GOCE-CT-2004-50539). NH was also funded by the Dutch talentenbeurs and the Dutch Prins Bernhard Cultuurfonds beurs.}},
   ISSN                     = {{2169-897X}},
   Journal-iso              = {{J. Geophys. Res.-Atmos.}},
-  Keywords-plus            = {{RAIN-GAUGE; MESOSCALE PRECIPITATION; SPATIAL INTERPOLATION;
- AIR-TEMPERATURE; PREDICTIVE PERFORMANCE; UNITED-STATES; PART II;
- VARIABLES; SPLINES; NETWORKS}},
+  Keywords-plus            = {{RAIN-GAUGE; MESOSCALE PRECIPITATION; SPATIAL INTERPOLATION; AIR-TEMPERATURE; PREDICTIVE PERFORMANCE; UNITED-STATES; PART II; VARIABLES; SPLINES; NETWORKS}},
   Language                 = {{English}},
   Number-of-cited-references = {{67}},
-  Orcid-numbers            = {{New, Mark/0000-0001-6082-8879
- Hofstra, Nynke/0000-0002-0409-5145}},
+  Orcid-numbers            = {{New, Mark/0000-0001-6082-8879 Hofstra, Nynke/0000-0002-0409-5145}},
   Owner                    = {tnauss},
   Publisher                = {{AMER GEOPHYSICAL UNION}},
   Research-areas           = {{Meteorology \& Atmospheric Sciences}},
-  Researcherid-numbers     = {{Jones, Philip/C-8718-2009
- New, Mark/A-7684-2008
- Hofstra, Nynke/C-7879-2014}},
+  Researcherid-numbers     = {{Jones, Philip/C-8718-2009 New, Mark/A-7684-2008 Hofstra, Nynke/C-7879-2014}},
   Times-cited              = {{40}},
   Timestamp                = {2014.10.31},
   Type                     = {{Article}},
@@ -9886,10 +9752,8 @@
 }
 
 @Article{Hulme1995,
-  Title                    = {{Construction of a 1961-1990 European climatology for climate change
- modelling and impact applications}},
-  Author                   = {Hulme, M and Conway, D and Jones, PD and Jiang, T and Barrow, EM and
- Turney, C},
+  Title                    = {{Construction of a 1961-1990 European climatology for climate change modelling and impact applications}},
+  Author                   = {Hulme, M and Conway, D and Jones, PD and Jiang, T and Barrow, EM and Turney, C},
   Journal                  = {International Journal of Climatology},
   Year                     = {{1995}},
 
@@ -9898,64 +9762,22 @@
   Pages                    = {{1333-1363}},
   Volume                   = {{15}},
 
-  Abstract                 = {{A 1961-1990 mean monthly climatology for a `greater European' region
- extending from 32 degrees W to 66 degrees E and from 25 degrees to 81
- degrees N has been constructed at a resolution of 0.5 degrees latitude
- by 0.5 degrees longitude for a suite of nine surface climate variables:
- minimum, maximum, and mean air temperature; precipitation totals;
- sunshine hours; vapour pressure; wind speed; and (ground) frost day and
- rain day (>0.1 mm) frequencies. This climatology has been constructed
- from observed station data distributed across the region. Station
- frequencies range from 936 (wind speed) to 3078 (precipitation). Over 95
- per cent of these data are based on observations between 1961 and 1990
- and over 90 per cent were supplied by individual national meteorological
- agencies (NMAs) on specific request. For four variables, some
- standardization of the data had to be performed because different
- countries supplied data under different definitions. Thus cloud cover
- had to be converted to sunshine hours, relative humidity to vapour
- pressure, air frost days to ground frost days and rain days > 1 mm to
- rain days >0.1 mm.
- The interpolation of the station data to the grid used elevation as one
- of the predictor variables and thus enabled three climate surfaces to be
- produced for each variable, reflecting the minimum, mean, and maximum
- elevation within each 0.5 degrees by 0.5 degrees cell. Subsets of
- stations were used for the interpolation of each variable, the selection
- being based on optimizing the spatial distribution, source priority and
- length of record. The accuracy of the various interpolations was
- assessed using validation sets of independent station data (i.e. those
- not used in the interpolation). Estimated mean absolute errors (MAE)
- ranged from under 4 per cent for vapour pressure to about 10 per cent
- for precipitation and up to 20 per cent for wind speed. The accuracy of
- the interpolated surfaces for minimum and maximum temperature was
- between 0.5 degrees C and 0.8 degrees C.
- We believe these results constitute the first climatology that has been
- constructed for this extensive European region at such a fine spatial
- resolution (0.5 degrees by 0.5 degrees) from relatively dense station
- networks, for three different elevation surfaces and for a wide range of
- surface climate variables, all expressed with respect to a standard
- 30-year period. The climatology is already being used by researchers for
- applications in the areas of ecosystem modelling, climate change impact
- assessment and climate model validation, and is available from the
- authors.}},
+  Abstract                 = {{A 1961-1990 mean monthly climatology for a `greater European' region extending from 32 degrees W to 66 degrees E and from 25 degrees to 81 degrees N has been constructed at a resolution of 0.5 degrees latitude by 0.5 degrees longitude for a suite of nine surface climate variables: minimum, maximum, and mean air temperature; precipitation totals; sunshine hours; vapour pressure; wind speed; and (ground) frost day and rain day (>0.1 mm) frequencies. This climatology has been constructed from observed station data distributed across the region. Station frequencies range from 936 (wind speed) to 3078 (precipitation). Over 95 per cent of these data are based on observations between 1961 and 1990 and over 90 per cent were supplied by individual national meteorological agencies (NMAs) on specific request. For four variables, some standardization of the data had to be performed because different countries supplied data under different definitions. Thus cloud cover had to be converted to sunshine hours, relative humidity to vapour pressure, air frost days to ground frost days and rain days > 1 mm to rain days >0.1 mm. The interpolation of the station data to the grid used elevation as one of the predictor variables and thus enabled three climate surfaces to be produced for each variable, reflecting the minimum, mean, and maximum elevation within each 0.5 degrees by 0.5 degrees cell. Subsets of stations were used for the interpolation of each variable, the selection being based on optimizing the spatial distribution, source priority and length of record. The accuracy of the various interpolations was assessed using validation sets of independent station data (i.e. those not used in the interpolation). Estimated mean absolute errors (MAE) ranged from under 4 per cent for vapour pressure to about 10 per cent for precipitation and up to 20 per cent for wind speed. The accuracy of the interpolated surfaces for minimum and maximum temperature was between 0.5 degrees C and 0.8 degrees C. We believe these results constitute the first climatology that has been constructed for this extensive European region at such a fine spatial resolution (0.5 degrees by 0.5 degrees) from relatively dense station networks, for three different elevation surfaces and for a wide range of surface climate variables, all expressed with respect to a standard 30-year period. The climatology is already being used by researchers for applications in the areas of ecosystem modelling, climate change impact assessment and climate model validation, and is available from the authors.}},
   Address                  = {{BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD}},
   Affiliation              = {{Hulme, M (Reprint Author), UNIV E ANGLIA,SCH ENVIRONM SCI,CLIMAT RES UNIT,NORWICH NR4 7TJ,NORFOLK,ENGLAND.}},
   Doc-delivery-number      = {{TN699}},
   Doi                      = {{10.1002/joc.3370151204}},
   ISSN                     = {{0899-8418}},
   Journal-iso              = {{Int. J. Climatol.}},
-  Keywords                 = {{climate data; data corrections; spatial interpolation; European
- climatology; climate change}},
+  Keywords                 = {{climate data; data corrections; spatial interpolation; European climatology; climate change}},
   Keywords-plus            = {{GENERALIZED CROSS-VALIDATION; PRECIPITATION}},
   Language                 = {{English}},
   Number-of-cited-references = {{42}},
-  Orcid-numbers            = {{Hulme, Mike/0000-0002-1273-7662
- }},
+  Orcid-numbers            = {{Hulme, Mike/0000-0002-1273-7662 }},
   Owner                    = {tnauss},
   Publisher                = {{JOHN WILEY \& SONS LTD}},
   Research-areas           = {{Meteorology \& Atmospheric Sciences}},
-  Researcherid-numbers     = {{Hulme, Mike/F-9012-2010
- Jones, Philip/C-8718-2009
- Whetton, Penny/A-6885-2012}},
+  Researcherid-numbers     = {{Hulme, Mike/F-9012-2010 Jones, Philip/C-8718-2009 Whetton, Penny/A-6885-2012}},
   Times-cited              = {{114}},
   Timestamp                = {2014.10.31},
   Type                     = {{Article}},
@@ -9986,41 +9808,12 @@
   Author                   = {Hutchinson, M. F.},
   Journal                  = {{International Journal of Geographical Information Systems}},
   Year                     = {{1995}},
-  Note                     = {{2nd International Conference/Workshop on Integrating GIS and
- Environmental Modelling, Breckenridge, CO, SEP, 1993}},
+  Note                     = {{2nd International Conference/Workshop on Integrating GIS and Environmental Modelling, Breckenridge, CO, SEP, 1993}},
   Number                   = {{4}},
   Pages                    = {{385-403}},
   Volume                   = {{9}},
 
-  Abstract                 = {{Thin plate smoothing splines provide accurate, operationally
- straight-forward and computationally efficient solutions to the problem
- of the spatial interpolation of annual mean rainfall for a standard
- period from point data which contains many short period rainfall means.
- The analyses depend on developing a statistical model of the spatial
- variation of the observed rainfall means, considered as noisy estimates
- of standard period means. The error structure of this model has two
- components which allow separately for strong spatially correlated
- departures of observed short term means from standard period means and
- for uncorrelated deficiencies in the representation of standard period
- mean rainfall by a smooth function of position and elevation. Thin plate
- splines, with the degree of smoothing determining by minimising
- generalised cross validation, can estimate this smooth function in two
- ways. First, the spatially correlated error structure of the data can be
- accommodated directly by estimating the corresponding non-diagonal error
- covariance matrix. Secondly, spatial correlation in the data error
- structure can be removed by standardising the observed short term means
- to standard period mean estimates using linear regression. When applied
- to data both methods give similar interpolation accuracy, and error
- estimates of the fitted surfaces are in good agreement with residuals
- from withheld data. Simplified versions of the data error model, which
- require only minimal summary data at each location, are also presented.
- The interpolation accuracy obtained with these models is only slightly
- inferior to that obtained with more complete statistical models. It is
- shown that the incorporation of a continuous, spatially varying,
- dependence on appropriately scaled elevation makes a dominant
- contribution to surface accuracy. Incorporating dependence on aspect, as
- determined from a digital elevation model, makes only a marginal further
- improvement.}},
+  Abstract                 = {{Thin plate smoothing splines provide accurate, operationally straight-forward and computationally efficient solutions to the problem of the spatial interpolation of annual mean rainfall for a standard period from point data which contains many short period rainfall means. The analyses depend on developing a statistical model of the spatial variation of the observed rainfall means, considered as noisy estimates of standard period means. The error structure of this model has two components which allow separately for strong spatially correlated departures of observed short term means from standard period means and for uncorrelated deficiencies in the representation of standard period mean rainfall by a smooth function of position and elevation. Thin plate splines, with the degree of smoothing determining by minimising generalised cross validation, can estimate this smooth function in two ways. First, the spatially correlated error structure of the data can be accommodated directly by estimating the corresponding non-diagonal error covariance matrix. Secondly, spatial correlation in the data error structure can be removed by standardising the observed short term means to standard period mean estimates using linear regression. When applied to data both methods give similar interpolation accuracy, and error estimates of the fitted surfaces are in good agreement with residuals from withheld data. Simplified versions of the data error model, which require only minimal summary data at each location, are also presented. The interpolation accuracy obtained with these models is only slightly inferior to that obtained with more complete statistical models. It is shown that the incorporation of a continuous, spatially varying, dependence on appropriately scaled elevation makes a dominant contribution to surface accuracy. Incorporating dependence on aspect, as determined from a digital elevation model, makes only a marginal further improvement.}},
   Address                  = {{ONE GUNDPOWDER SQUARE, LONDON, ENGLAND EC4A 3DE}},
   Affiliation              = {{HUTCHINSON, MF (Reprint Author), AUSTRALIAN NATL UNIV,CTR RESOURCE \& ENVIRONM STUDIES,GPO BOX 4,CANBERRA,ACT 2601,AUSTRALIA.}},
   Doc-delivery-number      = {{RQ493}},
@@ -13697,37 +13490,7 @@
   Pages                    = {{370-392}},
   Volume                   = {{64}},
 
-  Abstract                 = {{1. The prediction and mapping of climate in areas between climate
- stations is of increasing importance in ecology.
- 2. Four categories of model, simple interpolation, thin plate splines,
- multiple linear regression and mixed spline-regression, were tested for
- their ability to predict the spatial distribution of temperature on the
- British mainland. The models were tested by external cross-verification.
- 3. The British distribution of mean daily temperature was predicted with
- the greatest accuracy by using a mixed model: a thin plate spline fitted
- to the surface of the country, after correction of the data by a
- selection from 16 independent topographical variables (such as altitude,
- distance from the sea, slope and topographic roughness), chosen by
- multiple regression from a digital terrain model (DTM) of the country.
- 4. The next most accurate method was a pure multiple regression model
- using the DTM. Both regression and thin plate spline models based on a
- few variables (latitude, longitude and altitude) only were comparatively
- unsatisfactory, but some rather simple methods of surface interpolation
- (such as bilinear interpolation after correction to sea level) gave
- moderately satisfactory results. Differences between the methods seemed
- to be dependent largely on their ability to model the effect of the sea
- on land temperatures.
- 5. Prediction of temperature by the best methods was greater than 95\%
- accurate in all months of the year, as shown by the correlation between
- the predicted and actual values. The predicted temperatures were
- calculated at real altitudes, not subject to sea-level correction.
- 6. A minimum of just over 30 temperature recording stations would
- generate a satisfactory surface, provided the stations were well spaced.
- 7. Maps of mean daily temperature, using the best overall methods are
- provided; further important variables, such as continentality and length
- of growing season, were also mapped. Many of these are believed to be
- the first detailed representations at real altitude.
- 8. The interpolated monthly temperature surfaces are available on disk.}},
+  Abstract                 = {{1. The prediction and mapping of climate in areas between climate stations is of increasing importance in ecology. 2. Four categories of model, simple interpolation, thin plate splines, multiple linear regression and mixed spline-regression, were tested for their ability to predict the spatial distribution of temperature on the British mainland. The models were tested by external cross-verification. 3. The British distribution of mean daily temperature was predicted with the greatest accuracy by using a mixed model: a thin plate spline fitted to the surface of the country, after correction of the data by a selection from 16 independent topographical variables (such as altitude, distance from the sea, slope and topographic roughness), chosen by multiple regression from a digital terrain model (DTM) of the country. 4. The next most accurate method was a pure multiple regression model using the DTM. Both regression and thin plate spline models based on a few variables (latitude, longitude and altitude) only were comparatively unsatisfactory, but some rather simple methods of surface interpolation (such as bilinear interpolation after correction to sea level) gave moderately satisfactory results. Differences between the methods seemed to be dependent largely on their ability to model the effect of the sea on land temperatures. 5. Prediction of temperature by the best methods was greater than 95\% accurate in all months of the year, as shown by the correlation between the predicted and actual values. The predicted temperatures were calculated at real altitudes, not subject to sea-level correction. 6. A minimum of just over 30 temperature recording stations would generate a satisfactory surface, provided the stations were well spaced. 7. Maps of mean daily temperature, using the best overall methods are provided; further important variables, such as continentality and length of growing season, were also mapped. Many of these are believed to be the first detailed representations at real altitude. 8. The interpolated monthly temperature surfaces are available on disk.}},
   Address                  = {{OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL}},
   Affiliation              = {{LENNON, JJ (Reprint Author), UNIV LEEDS,DEPT GENET,ECOGENET BIOGEOG UNIT,LEEDS LS2 9JT,W YORKSHIRE,ENGLAND.}},
   Doc-delivery-number      = {{QZ446}},
@@ -15335,6 +15098,23 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://doi.wiley.com/10.1002/joc.2086}
+}
+
+@Article{Mann1945,
+  Title                    = {{Nonparametric tests against trend}},
+  Author                   = {Mann, Henry B.},
+  Journal                  = {Econometrica},
+  Year                     = {1945},
+  Number                   = {3},
+  Pages                    = {245--259},
+  Volume                   = {13},
+
+  Doi                      = {10.2307/1907187},
+  File                     = {:Mann - 1945.pdf:PDF},
+  Keywords                 = {Time series analysis, Mann-Kendall, trends},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.11.05},
+  Url                      = {http://www.jstor.org/stable/1907187}
 }
 
 @Article{Mannaerts2000,
@@ -18752,28 +18532,21 @@
   Year                     = {{1992}},
 
   Month                    = {{DEC}},
-  Note                     = {{9th European summer school on computing techniques in physics :
- numerical techniques and parallelism in physics, skalsky dvur,
- czechoslovakia, sep 10-20, 1991}},
+  Note                     = {{9th European summer school on computing techniques in physics : numerical techniques and parallelism in physics, skalsky dvur, czechoslovakia, sep 10-20, 1991}},
   Number                   = {{1-3}},
   Pages                    = {{1-21}},
   Volume                   = {{73}},
 
-  Abstract                 = {{A succinct introduction to splines, explaining how and why B-splines are
- used as a basis and how cubic and quadratic splines may be constructed,
- is followed by brief account of Hermite interpolation and Pade
- approximations.}},
+  Abstract                 = {{A succinct introduction to splines, explaining how and why B-splines are used as a basis and how cubic and quadratic splines may be constructed, is followed by brief account of Hermite interpolation and Pade approximations.}},
   Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
-  Affiliation              = {{PHILLIPS, GM (Reprint Author), UNIV ST ANDREWS,INST MATH,ST ANDREWS KY16 9ST,FIFE,SCOTLAND.
- UNIV STRATHCLYDE,DEPT MATH,GLASGOW G1 1XW,SCOTLAND.}},
+  Affiliation              = {{PHILLIPS, GM (Reprint Author), UNIV ST ANDREWS,INST MATH,ST ANDREWS KY16 9ST,FIFE,SCOTLAND. UNIV STRATHCLYDE,DEPT MATH,GLASGOW G1 1XW,SCOTLAND.}},
   Doc-delivery-number      = {{KG559}},
   Doi                      = {{10.1016/0010-4655(92)90025-T}},
   ISSN                     = {{0010-4655}},
   Journal-iso              = {{Comput. Phys. Commun.}},
   Language                 = {{English}},
   Number-of-cited-references = {{9}},
-  Organization             = {{EUROPEAN PHYS SOC, COMPUTAT PHYS GRP; USN, OFF NAVAL RES; SWISS NATL
- FUND SCI RES; GERMAN PHYS SOC}},
+  Organization             = {{EUROPEAN PHYS SOC, COMPUTAT PHYS GRP; USN, OFF NAVAL RES; SWISS NATL FUND SCI RES; GERMAN PHYS SOC}},
   Owner                    = {tnauss},
   Publisher                = {{ELSEVIER SCIENCE BV}},
   Research-areas           = {{Computer Science; Physics}},
@@ -20714,8 +20487,7 @@
 }
 
 @Article{Ryan1977,
-  Title                    = {{Mathematical-model for diagnosis and prediction of surface winds in
- mountainous terrain}},
+  Title                    = {{Mathematical-model for diagnosis and prediction of surface winds in mountainous terrain}},
   Author                   = {Ryan, BC},
   Journal                  = {{Journal of Applied Meteorology}},
   Year                     = {{1977}},
@@ -20855,7 +20627,7 @@
 
 @Article{Sanabria2013,
   Title                    = {Spatial interpolation of McArthur뭩 Forest Fire Danger Index across Australia: Observational study},
-  Author                   = {Sanabria, L. A. AND Qin, X. AND  Li, J. AND  Cechet, R. P. AND  Lucas, C.},
+  Author                   = {Sanabria, L. A. AND Qin, X. AND Li, J. AND Cechet, R. P. AND Lucas, C.},
   Journal                  = {Environmental Modelling \& Software},
   Year                     = {2013},
   Pages                    = {37-50},
@@ -22157,7 +21929,7 @@
 }
 
 @Manual{Solano2010,
-  Title                    = {MODIS Vegetation Index User's Guide (MOD13 Series)},
+  Title                    = {{MODIS Vegetation Index User's Guide (MOD13 Series)}},
   Author                   = {Solano, Ramon and Didan, Kamel and Jacobson, Andree and Huete, Alfredo},
   Month                    = {May},
   Organization             = {The University of Arizona, Vegetation Index and Phenology Lab},
@@ -22753,8 +22525,7 @@
 }
 
 @Article{Tabios1985,
-  Title                    = {{A comparative-analysis of techniques for spatial interpolation of
- precipitation}},
+  Title                    = {{A comparative-analysis of techniques for spatial interpolation of precipitation}},
   Author                   = {Tabios, GQ and Salas, JD},
   Journal                  = {{Water Resources Bulletin}},
   Year                     = {{1985}},
@@ -25054,8 +24825,7 @@
 }
 
 @Article{Vicente-Serrano2003,
-  Title                    = {{Comparative analysis of interpolation methods in the middle Ebro Valley
- (Spain): application to annual precipitation and temperature}},
+  Title                    = {{Comparative analysis of interpolation methods in the middle Ebro Valley (Spain): application to annual precipitation and temperature}},
   Author                   = {Vicente-Serrano, SM and Saz-Sanchez, MA and Cuadrat, JM},
   Journal                  = {Climate Research},
   Year                     = {{2003}},
@@ -25064,40 +24834,15 @@
   Volume                   = {{24}},
 
   __markedentry            = {[tnauss:]},
-  Abstract                 = {{This paper analyzes the validity of various precipitation and
- temperature maps obtained by means of diverse interpolation methods. The
- study was carried out in an area where geographic differences and
- spatial climatic diversity are significant (the middle Ebro Valley in
- the northeast Of Spain). Two variables, annual precipitation and
- temperature, and several interpolation methods were used in the climate
- mapping: global interpolators (trend surfaces and regression models),
- local interpolators (Thiessen polygons, inverse distance weighting,
- splines), geostatistical methods (simple kriging, ordinary kriging,
- block kriging, directional kriging, universal kriging and co-kriging)
- and mixed methods (combined global, local and geostatistical methods).
- The validity of the maps was checked through independent test weather
- stations (30\% of the original stations). Different statistical accuracy
- measurements determined the quality of the models. The results show that
- some interpolation methods are very similar. Nevertheless, in the case
- of precipitation maps, we obtained the best results using geostatistical
- methods and a regression model formed by 4 geographic and topographic
- variables. The best results for temperature mapping were obtained using
- the regression-based method. The accuracy measurements obtained by the
- different interpolation methods change significantly depending on the
- climatic variable mapped. The validity of interpolation methods in the
- creation of climatic maps, useful for agricultural and hydrologic
- management, is discussed.}},
+  Abstract                 = {{This paper analyzes the validity of various precipitation and temperature maps obtained by means of diverse interpolation methods. The study was carried out in an area where geographic differences and spatial climatic diversity are significant (the middle Ebro Valley in the northeast Of Spain). Two variables, annual precipitation and temperature, and several interpolation methods were used in the climate mapping: global interpolators (trend surfaces and regression models), local interpolators (Thiessen polygons, inverse distance weighting, splines), geostatistical methods (simple kriging, ordinary kriging, block kriging, directional kriging, universal kriging and co-kriging) and mixed methods (combined global, local and geostatistical methods). The validity of the maps was checked through independent test weather stations (30\% of the original stations). Different statistical accuracy measurements determined the quality of the models. The results show that some interpolation methods are very similar. Nevertheless, in the case of precipitation maps, we obtained the best results using geostatistical methods and a regression model formed by 4 geographic and topographic variables. The best results for temperature mapping were obtained using the regression-based method. The accuracy measurements obtained by the different interpolation methods change significantly depending on the climatic variable mapped. The validity of interpolation methods in the creation of climatic maps, useful for agricultural and hydrologic management, is discussed.}},
   Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
-  Affiliation              = {{Vicente-Serrano, SM (Reprint Author), Univ Zaragoza, Dept Geog, Campus San Francisco, E-50009 Zaragoza, Spain.
- Univ Zaragoza, Dept Geog, E-50009 Zaragoza, Spain.}},
+  Affiliation              = {{Vicente-Serrano, SM (Reprint Author), Univ Zaragoza, Dept Geog, Campus San Francisco, E-50009 Zaragoza, Spain. Univ Zaragoza, Dept Geog, E-50009 Zaragoza, Spain.}},
   Doc-delivery-number      = {{725DR}},
   Doi                      = {{10.3354/cr024161}},
   ISSN                     = {{0936-577X}},
   Journal-iso              = {{Clim. Res.}},
-  Keywords                 = {{interpolation; geostatistical techniques; regression; temperature;
- precipitation; Ebro Valley; Spain}},
-  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; GREAT-BRITAIN; NOAA-AVHRR;
- RAINFALL; TOPOGRAPHY; ELEVATION; CLIMATE; SURFACE; MODEL}},
+  Keywords                 = {{interpolation; geostatistical techniques; regression; temperature; precipitation; Ebro Valley; Spain}},
+  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; GREAT-BRITAIN; NOAA-AVHRR; RAINFALL; TOPOGRAPHY; ELEVATION; CLIMATE; SURFACE; MODEL}},
   Language                 = {{English}},
   Number-of-cited-references = {{67}},
   Orcid-numbers            = {{Vicente-Serrano, Sergio M./0000-0003-2892-518X}},
@@ -25872,8 +25617,7 @@
   Pages                    = {2577--2586},
   Volume                   = {34},
 
-  Abstract                 = {Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44째C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38째C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks.
-Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44째C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38째C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks.},
+  Abstract                 = {Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44째C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38째C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks. Abstract Two ?smart? interpolation procedures are presented and assessed with respect to their ability to estimate annual-average air temperatures at unsampled points in space from available station averages. Smart approaches examined here improve upon commonly used procedures in that they incorporate spatially high-resolution digital elevation information, an average environmental lapse rate, and/or another higher-resolution longer-term average temperature field. Two other straightforward or commonly used interpolation methods also are presented and evaluated as benchmarks to which the smart interpolators can be compared. Interpolation from a spatially high-resolution, long-term-average air temperature climatology serves as a first approximation, while ?traditional? interpolation (from a single realization of annual average air temperature on a single station network) is the other benchmark. Traditional interpolation continues to be the most commonly used interpolation approach within many of the atmospheric and environmental sciences. Smart approaches are significantly more accurate than either traditional methods or estimates spatially interpolated from a high-resolution climatology alone. A smart interpolation method that makes combined use of a digital elevation model (DEM) and traditional interpolation was nearly 24% more accurate than traditional interpolation by itself. Average error associated with this DEM-assisted interpolation algorithm, for interpolating yearly average air temperatures in the United States, was 0.44째C. The other smart method that was evaluated combines DEM information with a high-resolution average air temperature field. It was even more accurate, as expressed in an overall average interpolation error of only 0.38째C per year, which makes it some 34% more accurate than traditional interpolation. It is likely that the performance of smart interpolation, relative to traditional interpolation, will be even better when used with relatively sparse station networks.},
   Booktitle                = {Journal of Applied Meteorology},
   Comment                  = {doi: 10.1175/1520-0450(1995)034<2577:SIOAAA>2.0.CO;2},
   Doi                      = {10.1175/1520-0450(1995)034<2577:SIOAAA>2.0.CO;2},
@@ -26047,31 +25791,14 @@ Abstract Two ?smart? interpolation procedures are presented and assessed with re
   Pages                    = {{233-242}},
   Volume                   = {{94}},
 
-  Abstract                 = {{Agrometeorological variables are especially subject to variations in
- space-a fact that makes calculations of areal mean values for e.g.
- evaporation extremely elusive. Wind, temperature, and humidity cannot be
- measured continuously in space. In this paper we present simple methods
- to determine values of those variables for non-ideal positions from
- measurements at a single ideal point and test these spatial functions by
- measurements at three non-ideal points in a catchment. For wind, we were
- able to obtain a relatively good fit by taking the sheltering effects of
- the catchment rims into account. Temperature was not regionalizable with
- simple approaches, but needs to be regionalized with spatially and
- temporally differentiated models. Specific humidity can be assumed to be
- homogeneously distributed even though there were sinks and sources for
- water vapor in the study area. (C) 1999 Elsevier Science B.V. All rights
- reserved.}},
+  Abstract                 = {{Agrometeorological variables are especially subject to variations in space-a fact that makes calculations of areal mean values for e.g. evaporation extremely elusive. Wind, temperature, and humidity cannot be measured continuously in space. In this paper we present simple methods to determine values of those variables for non-ideal positions from measurements at a single ideal point and test these spatial functions by measurements at three non-ideal points in a catchment. For wind, we were able to obtain a relatively good fit by taking the sheltering effects of the catchment rims into account. Temperature was not regionalizable with simple approaches, but needs to be regionalized with spatially and temporally differentiated models. Specific humidity can be assumed to be homogeneously distributed even though there were sinks and sources for water vapor in the study area. (C) 1999 Elsevier Science B.V. All rights reserved.}},
   Address                  = {{PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS}},
-  Affiliation              = {{Schulz, K (Reprint Author), Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England.
- Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England.
- Univ Bayreuth, Dept Meteorol, D-95440 Bayreuth, Germany.
- Univ Bayreuth, Dept Soil Phys, D-95440 Bayreuth, Germany.}},
+  Affiliation              = {{Schulz, K (Reprint Author), Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England. Univ Lancaster, Inst Environm \& Nat Sci, Lancaster LA1 4YQ, England. Univ Bayreuth, Dept Meteorol, D-95440 Bayreuth, Germany. Univ Bayreuth, Dept Soil Phys, D-95440 Bayreuth, Germany.}},
   Doc-delivery-number      = {{194RD}},
   Doi                      = {{10.1016/S0168-1923(99)00015-5}},
   ISSN                     = {{0168-1923}},
   Journal-iso              = {{Agric. For. Meteorol.}},
-  Keywords                 = {{temperature; wind speed; absolute humidity; shelter factor; spatial
- scale; regionalization}},
+  Keywords                 = {{temperature; wind speed; absolute humidity; shelter factor; spatial scale; regionalization}},
   Keywords-plus            = {{PREDICTION; MODEL}},
   Language                 = {{English}},
   Number-of-cited-references = {{13}},
@@ -26326,8 +26053,7 @@ Abstract Two ?smart? interpolation procedures are presented and assessed with re
 }
 
 @Article{Xia1999,
-  Title                    = {{A model to interpolate monthly mean climatological data at Bavarian
- forest climate stations}},
+  Title                    = {{A model to interpolate monthly mean climatological data at Bavarian forest climate stations}},
   Author                   = {Xia, Y and Winterhalter, M and Fabian, P},
   Journal                  = {{Theoretical and Applied Climatology}},
   Year                     = {{1999}},
@@ -26335,34 +26061,14 @@ Abstract Two ?smart? interpolation procedures are presented and assessed with re
   Pages                    = {{27-38}},
   Volume                   = {{64}},
 
-  Abstract                 = {{Six methods were used to interpolate the monthly mean climatological
- data from German climate stations to three Bavarian forest climate
- stations. The observed forest climatological data at the Bavarian forest
- climate stations were used as the reference data to which the
- interpolated data were compared. The results show that, for monthly mean
- daily maximum temperature at valley and plain forest climate stations,
- each of the six interpolation methods can give accurate estimates. For
- monthly mean daily maximum temperature, minimum temperature, air
- temperature and water vapor pressure at mountain forest climate
- stations, topographically aided interpolation can give the most accurate
- estimates. Barnes interpolation combined with empirical transfer
- functions can give accurate estimates for all climate variables at the
- plain and valley forest climate stations, and it can also give accurate
- estimates for monthly mean wind speed and monthly precipitation at the
- mountain forest climate station. The empirical transfer functions are
- very important for estimating the forest climatological data. These
- transfer functions will be used for reconstruction of long-term forest
- climatological data in Bavaria.}},
+  Abstract                 = {{Six methods were used to interpolate the monthly mean climatological data from German climate stations to three Bavarian forest climate stations. The observed forest climatological data at the Bavarian forest climate stations were used as the reference data to which the interpolated data were compared. The results show that, for monthly mean daily maximum temperature at valley and plain forest climate stations, each of the six interpolation methods can give accurate estimates. For monthly mean daily maximum temperature, minimum temperature, air temperature and water vapor pressure at mountain forest climate stations, topographically aided interpolation can give the most accurate estimates. Barnes interpolation combined with empirical transfer functions can give accurate estimates for all climate variables at the plain and valley forest climate stations, and it can also give accurate estimates for monthly mean wind speed and monthly precipitation at the mountain forest climate station. The empirical transfer functions are very important for estimating the forest climatological data. These transfer functions will be used for reconstruction of long-term forest climatological data in Bavaria.}},
   Address                  = {{SACHSENPLATZ 4-6, PO BOX 89, A-1201 VIENNA, AUSTRIA}},
-  Affiliation              = {{Xia, Y (Reprint Author), Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, Hochanger 13, D-85354 Freising, Germany.
- Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, D-85354 Freising, Germany.}},
+  Affiliation              = {{Xia, Y (Reprint Author), Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, Hochanger 13, D-85354 Freising, Germany. Univ Munich, Lehrstuhl Bioklimatol \& Immiss Forsch, D-85354 Freising, Germany.}},
   Doc-delivery-number      = {{253TG}},
   Doi                      = {{10.1007/s007040050108}},
   ISSN                     = {{0177-798X}},
   Journal-iso              = {{Theor. Appl. Climatol.}},
-  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS;
- STOCHASTIC INTERPOLATION; PRECIPITATION ESTIMATION; OPTIMUM
- INTERPOLATION; COMPLEX TERRAIN; UNITED-STATES; RAINFALL DATA; TOPOGRAPHY}},
+  Keywords-plus            = {{AIR-TEMPERATURE; MOUNTAINOUS TERRAIN; MULTIVARIATE GEOSTATISTICS; STOCHASTIC INTERPOLATION; PRECIPITATION ESTIMATION; OPTIMUM INTERPOLATION; COMPLEX TERRAIN; UNITED-STATES; RAINFALL DATA; TOPOGRAPHY}},
   Language                 = {{English}},
   Number-of-cited-references = {{50}},
   Owner                    = {tnauss},
@@ -27463,11 +27169,11 @@ Abstract Two ?smart? interpolation procedures are presented and assessed with re
   Tags                     = {Kap Verde}
 }
 
+@comment{jabref-meta: selector_keywords:}
+
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: selector_Tags:Kap Verde;}
-
-@comment{jabref-meta: selector_keywords:}
 
 @comment{jabref-meta: groupsversion:3;}
 
