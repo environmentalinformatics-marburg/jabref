@@ -587,7 +587,7 @@
 }
 
 @Article{Anyamba1996,
-  Title                    = {{International Journal of Remote Sensing Interannual variability of NDVI over Africa and its relation to El Ni\~{n}o / Southern Oscillation}},
+  Title                    = {{Interannual variability of NDVI over Africa and its relation to El Ni\~{n}o / Southern Oscillation}},
   Author                   = {Anyamba, A and Eastman, J R},
   Journal                  = {International Journal of Remote Sensing},
   Year                     = {1996},
@@ -612,7 +612,7 @@
 }
 
 @Article{Anyamba2002,
-  Title                    = {{From El Nino to La Nina : Vegetation Response Patterns over East and Southern Africa during the 1997 – 2000 Period}},
+  Title                    = {{From El Ni\~{n}o to La Ni\~{n}a : Vegetation Response Patterns over East and Southern Africa during the 1997\textemdash{2000} Period}},
   Author                   = {Anyamba, Assaf and Tucker, Compton J and Mahoney, R},
   Journal                  = {Journal of Climate},
   Year                     = {2002},
@@ -18633,6 +18633,23 @@
   Keywords                 = {Atacama project,atacama desert,cordillera de la costa,tillandsia lomas},
   Owner                    = {tnauss},
   Tags                     = {Atacama project}
+}
+
+@Article{Pinzon2014,
+  Title                    = {{A non-stationary 1981-2012 AVHRR NDVI3g time series}},
+  Author                   = {Pinzon, Jorge E. and Tucker, Compton J.},
+  Journal                  = {Remote Sensing},
+  Year                     = {2014},
+  Number                   = {8},
+  Pages                    = {6929--6960},
+  Volume                   = {6},
+
+  Doi                      = {10.3390/rs6086929},
+  File                     = {:Pinzon, Tucker - 2014.pdf:PDF},
+  Keywords                 = {Advanced Very High Resolution Radiometer (AVHRR), Normalized Difference Vegetation Index (NDVI), Bayesian analysis, uncertainty, bias, climate variability, non-stationary},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.11.06},
+  Url                      = {http://www.mdpi.com/2072-4292/6/8/6929/htm}
 }
 
 @Article{Pirnach1998,
