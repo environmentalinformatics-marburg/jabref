@@ -5979,7 +5979,7 @@
 }
 
 @Article{Fensholt2012,
-  Title                    = {{Evaluation of Earth Observation based global long term vegetation trends \- Comparing GIMMS and MODIS global NDVI time series}},
+  Title                    = {{Evaluation of Earth Observation based global long term vegetation trends \-- Comparing GIMMS and MODIS global NDVI time series}},
   Author                   = {Fensholt, Rasmus and Proud, Simon R.},
   Journal                  = {Remote Sensing of Environment},
   Year                     = {2012},
