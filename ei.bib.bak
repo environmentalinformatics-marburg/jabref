@@ -10550,6 +10550,21 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/20935626}
 }
 
+@Article{Justice2002,
+  Title                    = {The MODIS fire product},
+  Author                   = {Justice, C O and Giglio, L and Korontzi, S and Owens, J and Morisette, J T and Roy, D and Descloitres, J and Alleaume, S and Petitcolin, F and Kaufman, Y},
+  Journal                  = {Remote Sensing of Environment},
+  Year                     = {2002},
+  Pages                    = {244-262},
+  Volume                   = {83},
+
+  Doi                      = {10.1016/S0034-4257(02)00076-7},
+  File                     = {:Justice et al. - 2002.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.12.17},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425702000767}
+}
+
 @Article{Juvik1995,
   Title                    = {{Theoretical and Applied Climatology Direct Cloud Water Recovery by Inertial lmpaction : Implications for Large Scale Water Supply in the Cape Verde Islands}},
   Author                   = {Juvik, J O and Aujos, C Dos and Nullet, D},
@@ -16365,6 +16380,21 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0168192305000249}
 }
 
+@InBook{MoelgT2008,
+  Title                    = {The Darkening Peaks: Glacial Retreat in Scientific and Social Context},
+  Author                   = {Moelg, T and Cullen, NJ and Hardy, DR and Kaser, G},
+  Chapter                  = {Tropical glaciers in the context of climate change and society: Focus on Kilimanjaro (East Africa)},
+  Editor                   = {Orlove B et al.},
+  Pages                    = {168-184},
+  Publisher                = {Univ. of Calif. Press, Berkeley},
+  Year                     = {2008},
+
+  File                     = {:todo\\moelg_etal_2008b.pdf:PDF},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {iotte},
+  Timestamp                = {2014.10.08}
+}
+
 @Article{Moeller2007,
   Title                    = {{Cloud Properties Determined from MODIS Airborne Simulator (MAS) Subsonic Aircraft Contrail and Cloud Effects Special Study (SUCCESS) Observations}},
   Author                   = {Moeller, SA and Strabala, KI and Ackerman, SA and Moeller, CC},
@@ -16376,21 +16406,6 @@
   File                     = {:Moeller et al. - 2007.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.6569}
-}
-
-@InBook{MoelgT2008,
-  Title                    = {The Darkening Peaks: Glacial Retreat in Scientific and Social Context},
-  Author                   = {Mölg T, Cullen NJ, Hardy DR, Kaser G},
-  Chapter                  = {Tropical glaciers in the context of climate change and society: Focus on Kilimanjaro (East Africa)},
-  Editor                   = {Orlove B et al.},
-  Pages                    = {168-184},
-  Publisher                = {Univ. of Calif. Press, Berkeley},
-  Year                     = {2008},
-
-  File                     = {:todo\\moelg_etal_2008b.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {iotte},
-  Timestamp                = {2014.10.08}
 }
 
 @Article{MonteiroAlves2000,
@@ -16532,6 +16547,22 @@
   Tags                     = {Kap Verde}
 }
 
+@Article{Morisette2005,
+  Title                    = {Validation of the MODIS active fire product over Southern Africa with ASTER data},
+  Author                   = {Morisette, Jeffrey T and Giglio, Louis and Csiszar, Ivan and Justice, Christopher O},
+  Journal                  = {International Journal of Remote Sensing},
+  Year                     = {2005},
+  Number                   = {19},
+  Pages                    = {4239--4264},
+  Volume                   = {26},
+
+  Doi                      = {10.1080/01431160500113526},
+  File                     = {:Morisette et al. - 2005.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.12.17},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/01431160500113526}
+}
+
 @Article{Moron1995,
   Title                    = {{Rainfall variability in subequatorial America and Africa and relationships with the main sea-surface temperature modes (1951â€“1990)}},
   Author                   = {Moron, Vincent and Bigot, Sylvain and Roucou, Pascal},
@@ -16564,6 +16595,22 @@
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
+}
+
+@Article{Mueller2009a,
+  Title                    = {{Assessing biodiversity by remote sensing in mountainous terrain: the potential of LiDAR to predict forest beetle assemblages}},
+  Author                   = {Mueller, Joerg and Brandl, Roland},
+  Journal                  = {Journal of Applied Ecology},
+  Year                     = {2009},
+  Pages                    = {897--905},
+  Volume                   = {46},
+
+  Doi                      = {10.1111/j.1365-2664.2009.01677.x},
+  File                     = {:Mueller, Brandl - 2009.pdf:PDF},
+  Keywords                 = {airborne laser scanning, body size, canopy surface model, disturbance, habitat variables, national park, terrain surface model},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.12.15},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01677.x/full}
 }
 
 @Article{Mueller2004,
@@ -18416,6 +18463,22 @@
   File                     = {:Petitjean, Ketterlin, Gan\c{c}arski - 2011.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S003132031000453X}
+}
+
+@Article{Pettorelli2012,
+  Title                    = {Tracking the effect of climate change on ecosystem functioning using protected areas: Africa as a case study},
+  Author                   = {Pettorelli, Nathalie and Chauvenet, Aliénor L M and Duffy, James P and Cornforth, William A and Meillere, Alizée and Baillie, Jonathan E M},
+  Journal                  = {Ecological Indicators},
+  Year                     = {2012},
+  Pages                    = {269--276},
+  Volume                   = {20},
+
+  Doi                      = {10.1016/j.ecolind.2012.02.014},
+  File                     = {:Pettorelli et al. - 2012.pdf:PDF},
+  Keywords                 = {Climate change, National park, NDVI, Primary productivity, Remote sensing},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.12.17},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S1470160X1200060X}
 }
 
 @Article{Pettorelli2005,
@@ -22456,6 +22519,22 @@
   Owner                    = {tnauss},
   Publisher                = {Citeseer},
   Url                      = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.184.3788\&amp;rep=rep1\&amp;type=pdf}
+}
+
+@Article{Stuart2006,
+  Title                    = {Concepts about Forests and Water},
+  Author                   = {Stuart, Gordon W and Edwards, Pamela J},
+  Journal                  = {Northern Journal of Applied Forestry},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {11--19},
+  Volume                   = {23},
+
+  File                     = {:Stuart, Edwards - 2006.pdf:PDF},
+  Keywords                 = {Soil compaction, erosion and sedimentation, overover flow, BMP, water quality, timber harvesting},
+  Owner                    = {fdetsch},
+  Timestamp                = {2014.12.15},
+  Url                      = {http://www.ingentaconnect.com/content/saf/njaf/2006/00000023/00000001/art00003}
 }
 
 @Article{Stuckens2011,
