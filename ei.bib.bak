@@ -10661,6 +10661,21 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425702000767}
 }
 
+@Article{Justice1996,
+  Title                    = {Satellite remote sensing of fires during the SAFARI campaign using NOAA Advanced Very High Resolution Radiometer data},
+  Author                   = {Justice, C. O. and Kendall, J. D. and Dowty, P. R. and Scholes, R. J.},
+  Journal                  = {Journal of Geophysical Research: Atmospheres (1984--2012)},
+  Year                     = {1996},
+  Number                   = {D19},
+  Pages                    = {23851--23863},
+  Volume                   = {101},
+
+  Doi                      = {10.1029/95JD00623},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.01.27},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/95JD00623/abstract}
+}
+
 @Article{Juvik1995,
   Title                    = {{Theoretical and Applied Climatology Direct Cloud Water Recovery by Inertial lmpaction : Implications for Large Scale Water Supply in the Cape Verde Islands}},
   Author                   = {Juvik, J O and Aujos, C Dos and Nullet, D},
@@ -11470,6 +11485,22 @@
   ISSN                     = {0894-8763},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%282004\%29043\%3C0847\%3AVOMRRF\%3E2.0.CO\%3B2 http://journals.ametsoc.org/doi/pdf/10.1175/1520-0450(2004)043\%3C0847\%3AVOMRRF\%3E2.0.CO\%3B2}
+}
+
+@Article{Kimaro2009,
+  Title                    = {Competition between maize and pigeonpea in semi-arid Tanzania: Effect on yields and nutrition of crops},
+  Author                   = {Kimaro, A. A. and Timmer, V. R. and Chamshama, S. A. O. and Ngaga, Y. N. and Kimaro, D. A.},
+  Journal                  = {Agriculture, Ecosystems \& Environment},
+  Year                     = {2009},
+  Pages                    = {115--125},
+  Volume                   = {134},
+
+  Doi                      = {10.1016/j.agee.2009.06.002},
+  File                     = {:Kimaro et al. - 2009.pdf:PDF},
+  Keywords                 = {Fertilizer, Improved fallows, Manure, Soil fertility, Vector analysis},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.01.26},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0167880909001753#}
 }
 
 @Article{King2011,
@@ -19705,6 +19736,22 @@
   Tags                     = {Kap Verde}
 }
 
+@Article{Randriambelo1998,
+  Title                    = {An improved detection and characterization of active fires and smoke plumes in south-eastern Africa and Madagascar},
+  Author                   = {Randriambelo, T. and Baldy, S. and Bessafi, M. and Petit, M. and Despinoy, M.},
+  Journal                  = {International Journal of Remote Sensing},
+  Year                     = {1998},
+  Number                   = {14},
+  Pages                    = {2623--2638},
+  Volume                   = {19},
+
+  Doi                      = {10.1080/014311698214424},
+  File                     = {:Randriambelo et al. - 1998.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.01.27},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/014311698214424}
+}
+
 @Article{Rao1977,
   Title                    = {{New features of global climatology revealed by satellite-derived oceanic rainfall maps}},
   Author                   = {Rao, MSV and Theon, JS},
@@ -26802,7 +26849,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:Zech et al. - 2010.pdf:PDF},
+  File                     = {:/Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -26817,7 +26864,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:/Zech et al. - 2010.pdf:PDF},
+  File                     = {:Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27085,32 +27132,37 @@
 }
 
 @Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
 
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
 
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
 }
 
 @Article{,
   Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27123,38 +27175,33 @@
   Owner                    = {tnauss}
 }
 
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
 
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Article{,
-  Title                    = {{everywhere \{ Contents \}}},
+  Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
 
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
+@Misc{,
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
