@@ -690,6 +690,18 @@
   Url                      = {http://www.int-res.com/abstracts/cr/v28/n1/p31-40/}
 }
 
+@Manual{Appelhans2014,
+  Title                    = {remote: Empirical Orthogonal Teleconnections in R},
+  Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
+  Note                     = {R package version 0.3.0},
+  Year                     = {2014},
+
+  File                     = {:Appelhans, Detsch, Nauss - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://CRAN.R-project.org/package=remote}
+}
+
 @Article{Applications2012,
   Title                    = {{Predicting Woody-Plant Species Richness in Tropical Dry Forests : A Case Study from South Author ( s ): Thomas W . Gillespie PREDICTING WOODY-PLANT SPECIES RICHNESS IN TROPICAL DRY FORESTS : A CASE STUDY FROM SOUTH FLORIDA , USA}},
   Author                   = {Applications, Source Ecological and Feb, No and Gillespie, Thomas W},
@@ -3713,6 +3725,18 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/MWR3085.1}
 }
 
+@Manual{Chan2012,
+  Title                    = {TSA: Time Series Analysis},
+  Author                   = {Chan, Kung-Sik and Ripley, Brian},
+  Note                     = {R package version 1.01},
+  Year                     = {2012},
+
+  File                     = {:Chan, Ripley - 2012.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://CRAN.R-project.org/package=TSA}
+}
+
 @Article{Chan2008,
   Title                    = {{Intraseasonal precipitation variability on Kilimanjaro and the East African region and its relationship to the large-scale circulation}},
   Author                   = {Chan, R. Y. and Vuille, M. and Hardy, D. R. and Bradley, R. S.},
@@ -6036,6 +6060,18 @@
   Keywords                 = {marine stratocumulus,microphysical scheme,simulation},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809598000581}
+}
+
+@Manual{Fellows2013,
+  Title                    = {OpenStreetMap: Access to open street map raster images},
+  Author                   = {Fellows, Ian},
+  Note                     = {R package version 0.3.1},
+  Year                     = {2013},
+
+  File                     = {:Fellows - 2013.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://CRAN.R-project.org/package=OpenStreetMap}
 }
 
 @Article{Feng2008,
@@ -15709,26 +15745,32 @@
   Owner                    = {tnauss}
 }
 
-@Manual{MatzkeNJ,
-  Title                    = {Package ‘modiscloud’},
-  Author                   = {Matzke NJ, Dept. of Integrative Biology, U.C. Berkeley},
-  Organization             = {CRAN},
+@Manual{Mattiuzzi2014,
+  Title                    = {MODIS: MODIS acquisition and processing},
+  Author                   = {Mattiuzzi, Matteo},
+  Note                     = {R package version 0.10-18/r486},
+  Year                     = {2014},
 
-  Abstract                 = {Package for processing downloaded MODIS Cloud Product HDF files and derived files. Specifically, MOD35_L2 cloud product files, and the associated MOD03 geolocation files (for MODIS-TERRA); and MYD35_L2 cloud product files, and the associated MYD03 geolocation files (for MODIS-AQUA). The package will be most effective if the user installs MRTSwath (MODIS Reprojection Tool for swath products; https://lpdaac.usgs.gov/tools/modis_reprojection_tool_swath),and adds the directory with the MRTSwath executable to the},
-  File                     = {:todo\\matzke_2013.pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {iotte},
-  Timestamp                = {2014.10.08}
+  File                     = {:Mattiuzzi - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://R-Forge.R-project.org/projects/modis/}
 }
 
-@Article{Matzke2013,
-  Title                    = {{Package â€˜ modiscloud â€™}},
-  Author                   = {Matzke, Maintainer Nicholas J},
-  Year                     = {2013},
-  Number                   = {1},
+@Manual{Matzke2013,
+  Title                    = {modiscloud: An R Package for processing MODIS Level 2 Cloud Mask products},
 
+  Address                  = {Berkeley, CA},
+  Author                   = {Matzke, Nicholas J.},
+  Organization             = {University of California, Berkeley},
+  Year                     = {2013},
+
+  Abstract                 = {Package for processing downloaded MODIS Cloud Product HDF files and derived files. Specifically, MOD35_L2 cloud product files, and the associated MOD03 geolocation files (for MODIS-TERRA); and MYD35_L2 cloud product files, and the associated MYD03 geolocation files (for MODIS-AQUA). The package will be most effective if the user installs MRTSwath (MODIS Reprojection Tool for swath products; https://lpdaac.usgs.gov/tools/modis_reprojection_tool_swath),and adds the directory with the MRTSwath executable to the},
   File                     = {:Matzke - 2013.pdf:PDF},
-  Owner                    = {tnauss}
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {iotte, fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://cran.r-project.org/web/packages/modiscloud/index.html}
 }
 
 @Book{May1985,
@@ -18636,6 +18678,19 @@
   Publisher                = {Elsevier B.V.},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0921818110001773}
+}
+
+@Manual{Perpinan2014,
+  Title                    = {rasterVis},
+  Author                   = {Perpi{\~n}{\'a}n, Oscar and Hijmans, Robert},
+  Note                     = {R package version 0.32},
+  Year                     = {2014},
+
+  Doi                      = {10.5281/zenodo.12394},
+  File                     = {:Perpinan, Hijmans - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.16},
+  Url                      = {http://oscarperpinan.github.io/rastervis/}
 }
 
 @Article{PeterM1998,
@@ -22057,6 +22112,22 @@
   Owner                    = {tnauss},
   Pages                    = {1--23},
   Tags                     = {Ecology,LOEWE project,Remote Sensing}
+}
+
+@Article{Shugart2001,
+  Title                    = {Detection of vegetation change using reconnaissance Imagery},
+  Author                   = {Shugart, Herman H. and French, Nancy H. and Kasischke, Eric S. and Slawski, James J. and Dull, Charles W. and Shuchman, Robert A. and Mwangi, Joe},
+  Journal                  = {Global Change Biology},
+  Year                     = {2001},
+  Pages                    = {247--252},
+  Volume                   = {7},
+
+  Doi                      = {10.1046/j.1365-2486.2001.00379.x},
+  File                     = {:Shugart et al. - 2001.pdf:PDF},
+  Keywords                 = {carbon dioxide fertilization, high-elevation vegetation, Mt. Kenya, Mt. Kilimanjaro, reconnaissance imagery, vegetation change},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.05},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2486.2001.00379.x/full}
 }
 
 @Article{Shuttleworth2008,
@@ -26927,7 +26998,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:Zech et al. - 2010.pdf:PDF},
+  File                     = {:/Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -26942,7 +27013,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:/Zech et al. - 2010.pdf:PDF},
+  File                     = {:Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27210,32 +27281,37 @@
 }
 
 @Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
 
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
 
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
 }
 
 @Article{,
   Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27248,38 +27324,33 @@
   Owner                    = {tnauss}
 }
 
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
 
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Article{,
-  Title                    = {{everywhere \{ Contents \}}},
+  Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
   Owner                    = {tnauss}
 }
 
 @Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
 
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
+@Misc{,
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
