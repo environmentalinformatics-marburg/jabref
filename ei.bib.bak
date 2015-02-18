@@ -10000,15 +10000,16 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0034425705001112}
 }
 
-@Article{I1989,
-  Title                    = {{Spatial pattern and ecological analysis}},
-  Author                   = {I, Pierre Legendre and Fortin, Marie-josre and De, Dopartement and Montrdal, Universitd De and Succursale, A},
-  Year                     = {1989},
-  Pages                    = {107--138},
+@Manual{Hyndman2015,
+  Title                    = {forecast: Forecasting functions for time series and linear models.},
+  Author                   = {Hyndman, Rob J.},
+  Note                     = {R package version 5.8},
+  Year                     = {2015},
 
-  File                     = {:I et al. - 1989.pdf:PDF},
-  Keywords                 = {ecological theory,mantel test,mapping,model,spatial analysis,spatial autocorrelation},
-  Owner                    = {tnauss}
+  File                     = {:Hyndman - 2015.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.18},
+  Url                      = {http://github.com/robjhyndman/forecast}
 }
 
 @TechReport{IGI2000,
@@ -13646,6 +13647,21 @@
   Owner                    = {tnauss},
   Tags                     = {Biodiversity Exploratories project},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S003442579900022X}
+}
+
+@Article{Legendre1989,
+  Title                    = {{Spatial pattern and ecological analysis}},
+  Author                   = {Legendre, Pierre and Fortin, Marie-Jos\'{e}e},
+  Journal                  = {Vegetatio},
+  Year                     = {1989},
+  Pages                    = {107--138},
+  Volume                   = {80},
+
+  File                     = {:Legendre, Fortin - 1989.pdf:PDF},
+  Keywords                 = {ecological theory, mantel test, mapping, model, spatial analysis, spatial autocorrelation},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.02.18},
+  Url                      = {http://link.springer.com/article/10.1007/BF00048036}
 }
 
 @Article{Lehner2001,
@@ -25918,6 +25934,21 @@
   Url                      = {http://www.agu.org/pubs/crossref/2000/1999GL006075.shtml}
 }
 
+@InCollection{Wessels2011,
+  Title                    = {Impact of ENSO events on the Kruger National Park's vegetation},
+  Author                   = {Wessels, Konrad J. and Dwyer, Patrick C.},
+  Booktitle                = {Observations on environmental change in South Africa},
+  Publisher                = {Sun Press},
+  Year                     = {2011},
+  Editor                   = {Zietsman, Larry},
+  Pages                    = {92--96},
+
+  File                     = {:Wessels, Dwyer - 2011.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.18},
+  Url                      = {http://researchspace.csir.co.za/dspace/handle/10204/5172}
+}
+
 @Article{Whiteside2011,
   Title                    = {{Comparing object-based and pixel-based classifications for mapping savannas}},
   Author                   = {Whiteside, Timothy G and Boggs, Guy S and Maier, Stefan W},
@@ -26998,7 +27029,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:/Zech et al. - 2010.pdf:PDF},
+  File                     = {:Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27013,7 +27044,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:Zech et al. - 2010.pdf:PDF},
+  File                     = {:/Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27281,60 +27312,9 @@
 }
 
 @Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
 
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
-
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27347,10 +27327,61 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+@Article{,
+  Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
+  Number                   = {June 2006},
+
+  File                     = {:Unknown - Unknown(9).pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
   Owner                    = {tnauss}
 }
 
