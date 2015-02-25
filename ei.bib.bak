@@ -8427,7 +8427,7 @@
   Affiliation              = {{Hastenrath, S (Reprint Author), Univ Wisconsin, Dept Atmospher \& Ocean Sci, 1225 W Dayton St, Madison, WI 53706 USA. Univ Wisconsin, Dept Atmospher \& Ocean Sci, Madison, WI 53706 USA.}},
   Doc-delivery-number      = {{345JB}},
   Doi                      = {{10.1175/1520-0442(2000)013<2746:ZCOTEI>2.0.CO;2}},
-  File                     = {:todo\\Hastenrath_2000.pdf:PDF},
+  File                     = {:Hastenrath_2000.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
   Keywords                 = {Kilimanjaro},
@@ -8460,22 +8460,6 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Hastenrath2010a,
-  Title                    = {{Short Communication Climatic forcing of glacier thinning on the mountains of equatorial East Africa}},
-  Author                   = {Hastenrath, Stefan},
-  Journal                  = {International Journal of Climatology},
-  Year                     = {2010},
-  Pages                    = {146--152},
-  Volume                   = {30},
-
-  Abstract                 = {Equatorial glaciers are particularly climate sensitive components of the environment and their area shrinkage is spectacular, but the quantitative appraisal of climatic forcing requires information on net balance and changing ice thickness. Unique in the tropical belt, observations of mass budget and surface topography have been gathered by decades- long monitoring on Mount Kenya, particularly its largest, the Lewis Glacier. More limited information on ice thickness change is available for the summit of Kilimanjaro. Sensitivity analyses with constant precipitation, net allwave radiation and relative humidity serve to explore the sensible and latent heat transfer processes; humidity change riding on that of temperature providing the more substantial energy contribution to ablation. For Lewis Glacier it is found that with air some 0.7 °C cooler the mass budget could reach equilibrium. Observations on the secular evolution of air temperature and humidity in the areas of Mount Kenya and Rwenzori show compatible magnitudes, although contribution by radiative forcing cannot be excluded. For the summit of Kilimanjaro, above the mean freezing level, where ablation is limited to sublimation, turbulent heat transfer processes associated with temperature differences cannot account for the imbalance of the mass budget, and solar radiation forcing continues to be important for both the ice thinning and the lateral retreat of ice cliffs. Copyright © 2009 Royal Meteorological Society},
-  Doi                      = {10.1002/joc},
-  File                     = {:/Hastenrath - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro, ablation, accepted 12 january 2009, kilimanjaro, lewis glacier, mount kenya, net balance, received 18 february 2008, revised 27 october 2008, rwenzori, sensitivity analysis},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
 @Article{Hastenrath2001,
   Title                    = {{Variations of East African climate during the past two centuries}},
   Author                   = {Hastenrath, Stefan},
@@ -8492,6 +8476,38 @@
   Publisher                = {Springer},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.springerlink.com/index/J2V2427751277774.pdf}
+}
+
+@Article{Hastenrath2004,
+  Title                    = {Climate dynamics of atmosphere and ocean in the equatorial zone: a synthesis},
+  Author                   = {Hastenrath, Stefan and Lamb, Peter J.},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2004},
+  Pages                    = {1601--1612},
+  Volume                   = {24},
+
+  Doi                      = {10.1002/joc.1086},
+  File                     = {:Hastenrath, Lamb - 2004.pdf:PDF},
+  Keywords                 = {equatorial oceans; cross-equatorial wind; Intertropical Divergence Zone; Intertropical Convergence Zone; equatorial-zonal
+circulation cells; near-equatorial cold tongue},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.24},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/joc.1086/abstract}
+}
+
+@Article{Hastenrath1993,
+  Title                    = {Atmospheric-hydrospheric mechanisms of climate anomalies in the western equatorial Indian Ocean},
+  Author                   = {Hastenrath, Stefan and Nicklis, Achim and Greischar, Lawrence},
+  Journal                  = {Journal of Geophysical Research},
+  Year                     = {1993},
+  Number                   = {C11},
+  Pages                    = {20,219--20,235},
+  Volume                   = {98},
+
+  Doi                      = {10.1029/93JC02330},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.24},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/93JC02330/abstract;jsessionid=08A15E29B0CBFA6B78DF35358C503E28.f01t01}
 }
 
 @Article{Hastenrath2011,
@@ -19165,7 +19181,7 @@
   Affiliation              = {{Plisnier, PD (Reprint Author), Royal Museum Cent Africa, Dept Geol \& Mineral, Leuvensesteenweg 13, B-3080 Tervuren, Belgium. Royal Museum Cent Africa, Dept Geol \& Mineral, B-3080 Tervuren, Belgium. Univ Catholique Louvain, Dept Geog, B-1348 Louvain, Belgium.}},
   Doc-delivery-number      = {{402NX}},
   Doi                      = {{10.1046/j.1365-2699.2000.00208.x}},
-  File                     = {:todo\\Plisnier_et_al_2000.pdf:PDF},
+  File                     = {:Plisnier_et_al_2000.pdf:PDF},
   ISSN                     = {{0960-7447}},
   Journal-iso              = {{Glob. Ecol. Biogeogr.}},
   Keywords                 = {ENSO, East Africa, El Nino, Kilimanjaro, NDVI, land cover, remote sensing, teleconnections, climate},
@@ -19179,6 +19195,7 @@
   Timestamp                = {2014.10.08},
   Type                     = {{Article}},
   Unique-id                = {{ISI:000166996000004}},
+  Url                      = {http://www.jstor.org/stable/2665423},
   Web-of-science-categories = {{Ecology; Geography, Physical}}
 }
 
