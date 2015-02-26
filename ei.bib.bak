@@ -235,6 +235,21 @@
   Url                      = {http://www.agu.org/pubs/crossref/2003/2002JB002155.shtml}
 }
 
+@Article{Allan2001,
+  Title                    = {Is there an Indian Ocean dipole, and is it independent of the El Ni�o - Southern Oscillation?},
+  Author                   = {Allan, Rob and Chambers, Don and Drosdowsky, Wasyl and Hendon, Harry and Latif, Mojib and Nicholls, Neville and Smith, Ian and Stone, Roger and Tourre, Yves},
+  Journal                  = {CLIVAR Exchanges},
+  Year                     = {2001},
+  Number                   = {3},
+  Pages                    = {18--22},
+  Volume                   = {6},
+
+  File                     = {:Allan et al. - 2001.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.26},
+  Url                      = {http://eprints.usq.edu.au/2905/}
+}
+
 @Article{Allen2014,
   Title                    = {{A climatology of Australian severe thunderstorm environments 1979 – 2011 : inter-annual variability and ENSO influence}},
   Author                   = {Allen, John T and Karoly, David J},
@@ -632,10 +647,13 @@
   Pages                    = {3096--3103},
   Volume                   = {15},
 
+  Doi                      = {http://dx.doi.org/10.1175/1520-0442(2002)015<3096:FENOTL>2.0.CO;2},
   File                     = {:/Anyamba, Tucker, Mahoney - 2002.pdf:PDF},
   Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
+  Owner                    = {tnauss, fdetsch},
+  Tags                     = {Kilimanjaro project},
+  Timestamp                = {2015.02.26},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0442%282002%29015%3C3096:FENOTL%3E2.0.CO%3B2}
 }
 
 @Article{Aonashi2010,
@@ -8488,8 +8506,7 @@
 
   Doi                      = {10.1002/joc.1086},
   File                     = {:Hastenrath, Lamb - 2004.pdf:PDF},
-  Keywords                 = {equatorial oceans; cross-equatorial wind; Intertropical Divergence Zone; Intertropical Convergence Zone; equatorial-zonal
-circulation cells; near-equatorial cold tongue},
+  Keywords                 = {equatorial oceans; cross-equatorial wind; Intertropical Divergence Zone; Intertropical Convergence Zone; equatorial-zonal circulation cells; near-equatorial cold tongue},
   Owner                    = {fdetsch},
   Timestamp                = {2015.02.24},
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/joc.1086/abstract}
@@ -17104,6 +17121,22 @@ circulation cells; near-equatorial cold tongue},
   Url                      = {http://www.nature.com/nature/journal/v403/n6772/pdf/403853a0.pdf}
 }
 
+@Article{Myneni1996,
+  Title                    = {Satellite-based identification of linked vegetation index and sea surface temperature anomaly areas from 1982-1990 for Africa, Australia and South America},
+  Author                   = {Myneni, Ranga B. and Los, Sietse O. and Tucker, Compton J.},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {1996},
+  Number                   = {7},
+  Pages                    = {729--732},
+  Volume                   = {23},
+
+  Doi                      = {10.1029/96GL00266},
+  File                     = {:Myneni et al. - 1996.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.26},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/96GL00266/abstract}
+}
+
 @Article{Naeem2013,
   Title                    = {{The Functions of Biological Diversity in an Age of Extinction}},
   Author                   = {Naeem, Shahid},
@@ -19181,7 +19214,7 @@ circulation cells; near-equatorial cold tongue},
   Affiliation              = {{Plisnier, PD (Reprint Author), Royal Museum Cent Africa, Dept Geol \& Mineral, Leuvensesteenweg 13, B-3080 Tervuren, Belgium. Royal Museum Cent Africa, Dept Geol \& Mineral, B-3080 Tervuren, Belgium. Univ Catholique Louvain, Dept Geog, B-1348 Louvain, Belgium.}},
   Doc-delivery-number      = {{402NX}},
   Doi                      = {{10.1046/j.1365-2699.2000.00208.x}},
-  File                     = {:Plisnier_et_al_2000.pdf:PDF},
+  File                     = {:Plisnier et al. - 2000.pdf:PDF},
   ISSN                     = {{0960-7447}},
   Journal-iso              = {{Glob. Ecol. Biogeogr.}},
   Keywords                 = {ENSO, East Africa, El Nino, Kilimanjaro, NDVI, land cover, remote sensing, teleconnections, climate},
@@ -24287,22 +24320,39 @@ circulation cells; near-equatorial cold tongue},
   Affiliation              = {{Trenberth, KE (Reprint Author), Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA. Natl Ctr Atmospher Res, Boulder, CO 80307 USA.}},
   Doc-delivery-number      = {{193PR}},
   Doi                      = {{10.1175/1520-0442(1999)012<1368:AMRROA>2.0.CO;2}},
-  File                     = {:todo\\Trenberth_1999.pdf:PDF},
+  File                     = {:Trenberth - 1999.pdf:PDF},
   ISSN                     = {{0894-8755}},
   Journal-iso              = {{J. Clim.}},
   Keywords                 = {Kilimanjaro},
   Keywords-plus            = {{PRECIPITATION CLIMATOLOGY PROJECT; GLOBAL PRECIPITATION; GAUGE OBSERVATIONS; DATASET}},
   Language                 = {{English}},
   Number-of-cited-references = {{20}},
-  Owner                    = {iotte},
+  Owner                    = {iotte, fdetsch},
   Publisher                = {{AMER METEOROLOGICAL SOC}},
   Research-areas           = {{Meteorology \& Atmospheric Sciences}},
   Researcherid-numbers     = {{Trenberth, Kevin/A-5683-2012}},
   Times-cited              = {{193}},
-  Timestamp                = {2014.10.08},
+  Timestamp                = {2015.02.26},
   Type                     = {{Article}},
   Unique-id                = {{ISI:000080145700002}},
+  Url                      = {http://journals.ametsoc.org/doi/full/10.1175/1520-0442%281999%29012%3C1368:AMRROA%3E2.0.CO;2},
   Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
+}
+
+@Article{Trenberth1997,
+  Title                    = {The Definition of El Ni\~{n}o},
+  Author                   = {Trenberth, Kevin E.},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {1997},
+  Number                   = {12},
+  Pages                    = {2771--2777},
+  Volume                   = {78},
+
+  Doi                      = {http://dx.doi.org/10.1175/1520-0485(1997)027<0683:EOTESO>2.0.CO;2},
+  File                     = {:Trenberth - 1997.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.02.26},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281997%29078%3C2771:TDOENO%3E2.0.CO;2}
 }
 
 @Article{Tripathi2006,
@@ -25837,28 +25887,6 @@ circulation cells; near-equatorial cold tongue},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16862107}
 }
 
-@Article{Webster1999a,
-  Title                    = {{Coupled ocean-atmosphere dynamics in the Indian Ocean during 1997-98.}},
-  Author                   = {Webster, P J and Moore, a M and Loschnigg, J P and Leben, R R},
-  Journal                  = {Nature},
-  Year                     = {1999},
-
-  Month                    = sep,
-  Number                   = {6751},
-  Pages                    = {356--60},
-  Volume                   = {401},
-
-  Abstract                 = {Climate variability in the Indian Ocean region seems to be, in some aspects, independent of forcing by external phenomena such as the El Ni\~{n}o/Southern Oscillation. But the extent to which, and how, internal coupled ocean-atmosphere dynamics determine the state of the Indian Ocean system have not been resolved. Here we present a detailed analysis of the strong seasonal anomalies in sea surface temperatures, sea surface heights, precipitation and winds that occurred in the Indian Ocean region in 1997-98, and compare the results with the record of Indian Ocean climate variability over the past 40 years. We conclude that the 1997-98 anomalies--in spite of the coincidence with the strong El Ni\~{n}o/Southern Oscillation event--may primarily be an expression of internal dynamics, rather than a direct response to external influences. We propose a mechanism of ocean-atmosphere interaction governing the 1997-98 event that may represent a characteristic internal mode of the Indian Ocean climate system. In the Pacific Ocean, the identification of such a mode has led to successful predictions of El Ni\~{n}o; if the proposed Indian Ocean internal mode proves to be robust, there may be a similar potential for predictability of climate in the Indian Ocean region.},
-  Doi                      = {10.1038/43848},
-  File                     = {:/Webster et al. - 1999.pdf:PDF},
-  ISSN                     = {0028-0836},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Pmid                     = {16862107},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16862107}
-}
-
 @Article{Weichhart2003,
   Title                    = {{Physische Geographie und Humangeographie–eine schwierige Beziehung: Skeptische Anmerkungen zu einer Grundfrage der Geographie und zum M\"{u}nchner}},
   Author                   = {Weichhart, Peter},
@@ -26074,26 +26102,6 @@ circulation cells; near-equatorial cold tongue},
 
   Doi                      = {10.5194/bg-8-27-2011},
   File                     = {:/Williams, Hanan - 2011.pdf:PDF},
-  ISSN                     = {1726-4189},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.biogeosciences.net/8/27/2011/}
-}
-
-@Article{Williams2011a,
-  Title                    = {{ENSO and IOD teleconnections for African ecosystems: evidence of destructive interference between climate oscillations}},
-  Author                   = {Williams, C. a. and Hanan, N. P.},
-  Journal                  = {Biogeosciences},
-  Year                     = {2011},
-
-  Month                    = jan,
-  Number                   = {1},
-  Pages                    = {27--40},
-  Volume                   = {8},
-
-  Doi                      = {10.5194/bg-8-27-2011},
-  File                     = {:Williams, Hanan - 2011.pdf:PDF},
   ISSN                     = {1726-4189},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
