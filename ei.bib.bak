@@ -2330,6 +2330,23 @@
   Url                      = {http://www.springerlink.com/index/10.1007/978-1-4020-4385-7}
 }
 
+@Article{Beyrich2012,
+  Title                    = {Towards a Validation of Scintillometer Measurements: The LITFASS-2009 Experiment},
+  Author                   = {Beyrich, Frank and Bange, Jens and Hartogensis, Oscar K. and Raasch, Siegfried and Braam, Miranda and van Dinther, Dani\"{e}lle and Gr\"{a}f, Doreen and van Kesteren, Bram and van den Kroonenberg, Aline C. and Maronga, Bj\"{o}rn and Martin, Sabrina and Moene, Arnold F.},
+  Journal                  = {Boundary-Layer Meteorology},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {83--112},
+  Volume                   = {144},
+
+  Doi                      = {10.1007/s10546-012-9715-8},
+  File                     = {:Beyrich et al. - 2012.pdf:PDF},
+  Keywords                 = {Heterogeneous terrain, LITFASS, Scintillometer, Temperature structure parameter, Turbulence, Unmanned aircraft},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.09},
+  Url                      = {http://link.springer.com/article/10.1007/s10546-012-9715-8}
+}
+
 @Article{Bhuiyan2006,
   Title                    = {{Monitoring drought dynamics in the Aravalli region (India) using different indices based on ground and remote sensing data}},
   Author                   = {Bhuiyan, C and Singh, R and Kogan, F},
@@ -6341,8 +6358,8 @@
 }
 
 @Article{Foley2005,
-  Title                    = {{Global consequences of land use.}},
-  Author                   = {Foley, Jonathan a and Defries, Ruth and Asner, Gregory P and Barford, Carol and Bonan, Gordon and Carpenter, Stephen R and Chapin, F Stuart and Coe, Michael T and Daily, Gretchen C and Gibbs, Holly K and Helkowski, Joseph H and Holloway, Tracey and Howard, Erica a and Kucharik, Christopher J and Monfreda, Chad and Patz, Jonathan a and Prentice, I Colin and Ramankutty, Navin and Snyder, Peter K},
+  Title                    = {{Global consequences of land use}},
+  Author                   = {Foley, Jonathan A and Defries, Ruth and Asner, Gregory P and Barford, Carol and Bonan, Gordon and Carpenter, Stephen R and Chapin, F Stuart and Coe, Michael T and Daily, Gretchen C and Gibbs, Holly K and Helkowski, Joseph H and Holloway, Tracey and Howard, Erica a and Kucharik, Christopher J and Monfreda, Chad and Patz, Jonathan A and Prentice, I Colin and Ramankutty, Navin and Snyder, Peter K},
   Journal                  = {Science (New York, N.Y.)},
   Year                     = {2005},
 
@@ -22001,7 +22018,7 @@
 }
 
 @TechReport{Scintec2013,
-  Title                    = {Scintec Surface Layer Scintillometer Hardware Manual},
+  Title                    = {Scintec Surface Layer Scintillometer Hardware Manual SLS20/ SLS40 SLS20-A/SLS40-A (including SLSDMI option)},
   Author                   = {Scintec},
   Institution              = {Scintec AG},
   Year                     = {2013},
@@ -22012,6 +22029,20 @@
   File                     = {:Scintec - 2013.pdf:PDF},
   Owner                    = {fdetsch},
   Timestamp                = {2015.03.02}
+}
+
+@TechReport{Scintec2013a,
+  Title                    = {Scintec Surface Layer Scintillometer Hardware Manual Real-Time Extension},
+  Author                   = {Scintec},
+  Institution              = {Scintec AG},
+  Year                     = {2013},
+
+  Address                  = {Wilhelm-Maybach-Str.72108, Rottenburg, Germany},
+  Month                    = {September},
+
+  File                     = {:Scintec - 2013(2).pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.09}
 }
 
 @Article{Scofield1987,
@@ -25199,6 +25230,22 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/17997761}
 }
 
+@Article{VanKesteren2013,
+  Title                    = {Measuring H\textsubscript{2}O and CO\textsubscript{2} fluxes at field scales with scintillometry: Part I - Introduction and validation of four methods},
+  Author                   = {Van Kesteren, B. and Hartogensis, O. K. and van Dinther, D. and Moene, A. F. and De Bruin, H. A. R.},
+  Journal                  = {Agricultural and Forest Meteorology},
+  Year                     = {2013},
+  Pages                    = {75--87},
+  Volume                   = {178--179},
+
+  Doi                      = {10.1016/j.agrformet.2012.09.013},
+  File                     = {:Van Kesteren et al. - 2013.pdf:PDF},
+  Keywords                 = {Carbon dioxide flux; Eddy covariance; Energy-balance closure; Latent-heat flux; Scintillometer; Structure parameters},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192312002870}
+}
+
 @Article{Vasconcelos2012,
   Title                    = {{Identifying priority areas for island endemics using genetic versus specific diversity â€“ The case of terrestrial reptiles of the Cape Verde Islands}},
   Author                   = {Vasconcelos, Raquel and Brito, Jos\'{e} Carlos and Carvalho, S\'{\i}lvia B. and Carranza, Salvador and {James Harris}, D.},
@@ -27269,7 +27316,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:/Zech et al. - 2010.pdf:PDF},
+  File                     = {:Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27284,7 +27331,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:Zech et al. - 2010.pdf:PDF},
+  File                     = {:/Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -27551,66 +27598,10 @@
   Tags                     = {ATBD}
 }
 
-@Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
 @Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
 
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
-
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27623,11 +27614,67 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+@Article{,
+  Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
+  Number                   = {June 2006},
+
+  File                     = {:Unknown - Unknown(9).pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
 }
 
 @Article{2012,
