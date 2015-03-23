@@ -4725,6 +4725,22 @@
   Url                      = {http://www.mdpi.com/2072-4292/3/8/1710/}
 }
 
+@Article{Dsouza1990,
+  Title                    = {{Satellite rainfall estimation techniques using visible and infrared imagery}},
+  Author                   = {D'souza, G. and Barrett, EC and Power, CH},
+  Journal                  = {Remote Sensing Reviews},
+  Year                     = {1990},
+  Number                   = {2},
+  Pages                    = {379--414},
+  Volume                   = {4},
+
+  Doi                      = {10.1080/02757259009532111},
+  File                     = {:DÊ¼souza, Barrett, Power - 1990.pdf:PDF},
+  Owner                    = {tnauss},
+  Publisher                = {Taylor \& Francis},
+  Url                      = {http://www.informaworld.com/index/915954376.pdf}
+}
+
 @Article{Daily2008,
   Title                    = {{Ecosystem services: from theory to implementation.}},
   Author                   = {Daily, Gretchen C and Matson, Pamela a},
@@ -4868,20 +4884,21 @@
   Url                      = {http://doi.wiley.com/10.1111/j.1466-8238.2010.00571.x}
 }
 
-@Article{DE¼souza1990,
-  Title                    = {{Satellite rainfall estimation techniques using visible and infrared imagery}},
-  Author                   = {DÊ¼souza, G. and Barrett, EC and Power, CH},
-  Journal                  = {Remote Sensing Reviews},
-  Year                     = {1990},
-  Number                   = {2},
-  Pages                    = {379--414},
-  Volume                   = {4},
+@Article{Dawson1998,
+  Title                    = {Fog in the California redwood forest: ecosystem inputs and use by plants},
+  Author                   = {Dawson, T. E.},
+  Journal                  = {Oecologia},
+  Year                     = {1998},
+  Number                   = {4},
+  Pages                    = {476--485},
+  Volume                   = {117},
 
-  Doi                      = {10.1080/02757259009532111},
-  File                     = {:DÊ¼souza, Barrett, Power - 1990.pdf:PDF},
-  Owner                    = {tnauss},
-  Publisher                = {Taylor \& Francis},
-  Url                      = {http://www.informaworld.com/index/915954376.pdf}
+  Doi                      = {10.1007/s004420050683},
+  File                     = {:Dawson - 1998.pdf:PDF},
+  Keywords                 = {Fog; Stable isotopes; Redwood forests; Hydrology; Plant water relations},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.19},
+  Url                      = {http://link.springer.com/article/10.1007/s004420050683}
 }
 
 @Article{Dech1998,
@@ -4930,6 +4947,15 @@
   Keywords                 = {czech republic,geomorphodiversity,gis geomorphological database,gis-based geomorpho-,logical map},
   Owner                    = {tnauss},
   Url                      = {http://openurl.ingenta.com/content/xref?genre=article\&issn=0372-8854\&volume=55\&issue=4\&spage=415}
+}
+
+@Article{Detschforthcoming,
+  Title                    = {Seasonal and long-term vegetation dynamics at Mt. Kilimanjaro from NDVI time series},
+  Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
+  Year                     = {forthcoming},
+
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.16}
 }
 
 @Article{Dettling2008,
@@ -8966,6 +8992,27 @@
   Tags                     = {Kilimanjaro project}
 }
 
+@Article{Hemp2006c,
+  Title                    = {{Continuum or zonation? Altitudinal gradients in the forest vegetation of Mt. Kilimanjaro}},
+  Author                   = {Hemp, Andreas},
+  Journal                  = {Plant Ecology},
+  Year                     = {2006},
+
+  Month                    = nov,
+  Number                   = {1},
+  Pages                    = {27--42},
+  Volume                   = {184},
+
+  Doi                      = {10.1007/s11258-005-9049-4},
+  File                     = {:Hemp - 2006(3).pdf:PDF},
+  ISSN                     = {1385-0237},
+  Keywords                 = {Kilimanjaro, biodiversity, cloud forest, east africa, epiphytes, tropical montane forest, vegetation},
+  Owner                    = {tnauss, fdetsch},
+  Tags                     = {Kilimanjaro project},
+  Timestamp                = {2015.03.19},
+  Url                      = {http://www.springerlink.com/index/10.1007/s11258-005-9049-4}
+}
+
 @Article{Hemp2005,
   Title                    = {{Climate change-driven forest fires marginalize the impact of ice cap wasting on Kilimanjaro}},
   Author                   = {Hemp, Andreas},
@@ -8984,26 +9031,6 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2486.2005.00968.x}
-}
-
-@Article{Hemp2005a,
-  Title                    = {{Continuum or zonation? Altitudinal gradients in the forest vegetation of Mt. Kilimanjaro}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {Plant Ecology},
-  Year                     = {2005},
-
-  Month                    = nov,
-  Number                   = {1},
-  Pages                    = {27--42},
-  Volume                   = {184},
-
-  Doi                      = {10.1007/s11258-005-9049-4},
-  File                     = {:/Hemp - 2005.pdf:PDF},
-  ISSN                     = {1385-0237},
-  Keywords                 = {Kilimanjaro, biodiversity, cloud forest, east africa, epiphytes, tropical montane forest, vegetation},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s11258-005-9049-4}
 }
 
 @Article{Hemp2002,
@@ -13054,6 +13081,18 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2624.1}
 }
 
+@Manual{Kuhn2015,
+  Title                    = {caret: Classification and Regression Training},
+  Author                   = {Kuhn, Max},
+  Note                     = {R package version 6.0-41},
+  Year                     = {2015},
+
+  File                     = {:Kuhn - 2015.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.19},
+  Url                      = {http://CRAN.R-project.org/package=caret}
+}
+
 @Manual{Kuhn2014,
   Title                    = {caret: Classification and Regression Training},
   Author                   = {Kuhn, M.},
@@ -14371,6 +14410,22 @@
   Owner                    = {tnauss},
   Tags                     = {Workshop Biodiversityand Climate},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0034425795000976}
+}
+
+@Article{Liao2005,
+  Title                    = {Clustering of time series data -- a survey},
+  Author                   = {Liao, T. Warren},
+  Journal                  = {Pattern Recognition},
+  Year                     = {2005},
+  Pages                    = {1857--1874},
+  Volume                   = {38},
+
+  Doi                      = {10.1016/j.patcog.2005.01.025},
+  File                     = {:Liao - 2005.pdf:PDF},
+  Keywords                 = {Time series data; Clustering; Distance measure; Data mining},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.23},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0031320305001305#}
 }
 
 @Article{Liepelt2002,
@@ -16886,6 +16941,18 @@
   Keywords                 = {Cape Verde, Kap Verde},
   Owner                    = {tnauss},
   Tags                     = {Kap Verde}
+}
+
+@Manual{,
+  Title                    = {TSdist: Distance Measures for Time Series data},
+  Author                   = {Mori, Usue and Mendiburu, Alexander and Lozano, J. A.},
+  Note                     = {R package version 1.2},
+  Year                     = {2014},
+
+  File                     = {:Mori et al. - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.17},
+  Url                      = {http://CRAN.R-project.org/package=TSdist}
 }
 
 @Article{Morisette2005,
@@ -22023,7 +22090,7 @@
   Institution              = {Scintec AG},
   Year                     = {2013},
 
-  Address                  = {Wilhelm-Maybach-Str.72108, Rottenburg, Germany},
+  Address                  = {Wilhelm-Maybach-Str. 14, 72108 Rottenburg, Germany},
   Month                    = {September},
 
   File                     = {:Scintec - 2013.pdf:PDF},
@@ -22037,12 +22104,26 @@
   Institution              = {Scintec AG},
   Year                     = {2013},
 
-  Address                  = {Wilhelm-Maybach-Str.72108, Rottenburg, Germany},
+  Address                  = {Wilhelm-Maybach-Str. 14, 72108 Rottenburg, Germany},
   Month                    = {September},
 
   File                     = {:Scintec - 2013(2).pdf:PDF},
   Owner                    = {fdetsch},
   Timestamp                = {2015.03.09}
+}
+
+@TechReport{Scintec2013b,
+  Title                    = {Scintec Surface Layer Scintillometer Software Manual SRun SLS20/SLS40 SLS20-A/SLS40-A BLS450/BLS900/BLS2000 Including SRun Real-Time Sensor Interface},
+  Author                   = {Scintec},
+  Institution              = {Scinteg AG},
+  Year                     = {2013},
+
+  Address                  = {Wilhelm-Maybach-Str. 14, 72108 Rottenburg, Germany},
+  Month                    = {September},
+
+  File                     = {:Scintec - 2013(3).pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.19}
 }
 
 @Article{Scofield1987,
