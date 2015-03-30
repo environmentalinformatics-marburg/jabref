@@ -13341,15 +13341,16 @@
 
 @Article{Lambrechts2002,
   Title                    = {{Aerial survey of the threats to Mt. Kilimanjaro forests}},
-  Author                   = {Lambrechts, C. and Hemp, Claudia and Others},
+  Author                   = {Lambrechts, Christian and Woodley, Bongo and Hemp, Andreas and Hemp, Claudia and Nnyiti, Paul},
   Year                     = {2002},
   Number                   = {January},
 
   File                     = {:Lambrechts, Hemp, others - 2002.pdf:PDF},
   Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
+  Owner                    = {tnauss, fdetsch},
   Publisher                = {United Nations Development Programme (UNDP)},
   Tags                     = {Kilimanjaro project},
+  Timestamp                = {2015.03.30},
   Url                      = {http://agris.fao.org/agris-search/search/display.do?f=./2005/KE/xmldc225.xml;KE2005100225}
 }
 
@@ -27570,6 +27571,20 @@
   Owner                    = {tnauss},
   Tags                     = {CLM},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0442\%282002\%29015\%3C1832\%3ACOTCLM\%3E2.0.CO\%3B2}
+}
+
+@Article{Zhang2003,
+  Title                    = {Monitoring vegetation phenology using MODIS},
+  Author                   = {Zhang, Xiaoyang and Friedl, Mark A. and Schaaf, Crystal B. and Strahler, Alan H. and Hodges, John C. F. and Gao, Feng and Reed, Bradley C. and Huete, Alfredo},
+  Journal                  = {Remote Sensing of Environment},
+  Year                     = {2003},
+  Pages                    = {471--475},
+  Volume                   = {84},
+
+  Keywords                 = {Vegetation phenology; MODIS; Remote sensing},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.27},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425702001359#}
 }
 
 @Article{Zhao2011,
