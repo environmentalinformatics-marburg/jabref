@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: UTF8
 
 
@@ -23,6 +23,23 @@
   Keywords                 = {Cape Verde, Kap Verde, cape verde, economic importance for many, family, from migrants to their, gender, of origin is a, of the local everyday, reality for, receivers, relatives in the country, remittances, someone abroad is part, the transfer of money, transnational migration, transnational practice of considerable, waiting for money from},
   Owner                    = {tnauss},
   Tags                     = {Kap Verde}
+}
+
+@Article{Abdel-Aal2004,
+  Title                    = {Hourly temperature forecasting using abductive networks },
+  Author                   = {R.E. Abdel-Aal},
+  Journal                  = {Engineering Applications of Artificial Intelligence },
+  Year                     = {2004},
+  Number                   = {5},
+  Pages                    = {543 - 556},
+  Volume                   = {17},
+  Abstract                 = {Hourly temperature forecasts are important for electrical load forecasting and other applications in industry, agriculture, and the environment. Modern machine learning techniques including neural networks have been used for this purpose. We propose using the alternative abductive networks approach, which offers the advantages of simplified and more automated model synthesis and transparent analytical inputâ€“output models. Dedicated hourly models were developed for next-day and next-hour temperature forecasting, both with and without extreme temperature forecasts for the forecasting day, by training on hourly temperature data for 5 years and evaluation on data for the 6th year. Next-day and next-hour models using extreme temperature forecasts give an overall mean absolute error (MAE) of 1.68&#xa0;Â°F and 1.05&#xa0;Â°F, respectively. Next-hour models may also be used sequentially to provide next-day forecasts. Performance compares favourably with neural network models developed using the same data, and with more complex neural networks, reported in the literature, that require daily training. Performance is significantly superior to naive forecasts based on persistence and climatology. },
+  Doi                      = {http://dx.doi.org/10.1016/j.engappai.2004.04.002},
+  ISSN                     = {0952-1976},
+  Keywords                 = {Abductive networks},
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0952197604000399}
 }
 
 @Article{Ackerman1998,
@@ -739,6 +756,15 @@
   Url                      = {http://www.int-res.com/abstracts/cr/v28/n1/p31-40/}
 }
 
+@Article{,
+  Title                    = {remote: Empirical orthogonal teleconnections},
+  Author                   = {Appelhans, T. AND Detsch, F. AND Nauss, T.},
+  Journal                  = {Journal of Statistical Software},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
+}
+
 @Article{Appelhansaccepted,
   Title                    = {remote: Empirical Orthogonal Teleconnections in R},
   Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
@@ -751,16 +777,14 @@
   Timestamp                = {2015.04.08}
 }
 
-@Manual{Appelhans2014,
-  Title                    = {remote: Empirical Orthogonal Teleconnections in R},
-  Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
-  Note                     = {R package version 0.3.0},
-  Year                     = {2014},
+@Article{Appelhanssubmitted,
+  Title                    = {Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania},
+  Author                   = {Appelhans, Tim and Mwangomo, Ephraim and Otte, Insa and Detsch, Florian and Nauss, Thomas and Hemp, Andreas},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {submitted},
 
-  File                     = {:Appelhans, Detsch, Nauss - 2014.pdf:PDF},
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.02.16},
-  Url                      = {http://CRAN.R-project.org/package=remote}
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
 }
 
 @Article{Applications2012,
@@ -1130,6 +1154,20 @@
   Url                      = {http://dx.doi.org/10.1016/j.jnc.2012.10.001}
 }
 
+@Article{Attorre2013a,
+  Title                    = {The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species},
+  Author                   = {Attorre, F. AND De Sanctis, M. AND Farcomeni, A. AND Guillet, A. AND Scepi, E. AND Vitale, M. AND Pella, F. AND Fasola, M},
+  Journal                  = {Journal for Nature Conservation},
+  Year                     = {2013},
+  Pages                    = {48-55},
+  Volume                   = {21},
+  File                     = {:Attore_et al_2013_The use of spatial ecological modelling as a tool for improving the assessment of geographic range size of threatened species_Journal_of_Nature_Conservation.pdf:PDF},
+  Keywords                 = {Area of occupancy Extent of occurrence Random Forest Red List Criteria Socotra Suitability maps, Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.1016/j.jnc.2012.10.001}
+}
+
 @Article{Attorre2007a,
   Title                    = {Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale},
   Author                   = {Attorre, F., Alfo, M., De Sanctis, M., Francesconi, F., Bruno, F.},
@@ -1138,6 +1176,20 @@
   Pages                    = {1825-1843},
   Volume                   = {27},
 
+  Doi                      = {10.1002/joc.1495},
+  File                     = {:E\:\\Documents\\Pull_Heaven_Down\\Attore_Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale_Int_J_Climatol_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Attorre2007b,
+  Title                    = {Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale},
+  Author                   = {Attorre, F., Alfo, M., De Sanctis, M., Francesconi, F., Bruno, F.},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2007},
+  Pages                    = {1825-1843},
+  Volume                   = {27},
   Doi                      = {10.1002/joc.1495},
   File                     = {:E\:\\Documents\\Pull_Heaven_Down\\Attore_Comparison of interpolation methods for mapping climatic and bioclimatic variables at regional scale_Int_J_Climatol_2007.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -1288,6 +1340,22 @@
 
   File                     = {:Baddeley - 2010.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Article{Bahaga2015,
+  Title                    = {Potential predictability of the sea-surface temperature forced equatorial East African short rains interannual variability in the 20th century},
+  Author                   = {Bahaga, T. K. and Mengistu Tsidu, G. and Kucharski, F. and Diro, G. T.},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Year                     = {2015},
+  Pages                    = {16--26},
+  Volume                   = {141},
+
+  Doi                      = {10.1002/qj.2338},
+  File                     = {:Bahaga et al. - 2015.pdf:PDF},
+  Keywords                 = {East Africa; IOD; climate variability; mechanism; predictability; short rains},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.04.22},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/qj.2338/abstract;jsessionid=C242AA4637B226969FD7D53A397B575A.f01t03}
 }
 
 @Article{Bailey2004,
@@ -2425,10 +2493,8 @@
   Author                   = {Birney, Ewan and Hudson, Thomas J and Green, Eric D and Gunter, Chris and Eddy, Sean and Rogers, Jane and Harris, Jennifer R and Ehrlich, S Dusko and Apweiler, Rolf and Austin, Christopher P and Berglund, Lisa and Bobrow, Martin and Bountra, Chas and Brookes, Anthony J and Cambon-Thomsen, Anne and Carter, Nigel P and Chisholm, Rex L and Contreras, Jorge L and Cooke, Robert M and Crosby, William L and Dewar, Ken and Durbin, Richard and Dyke, Stephanie O M and Ecker, Joseph R and {El Emam}, Khaled and Feuk, Lars and Gabriel, Stacey B and Gallacher, John and Gelbart, William M and Granell, Antoni and Guarner, Francisco and Hubbard, Tim and Jackson, Scott a and Jennings, Jennifer L and Joly, Yann and Jones, Steven M and Kaye, Jane and Kennedy, Karen L and Knoppers, Bartha Maria and Kyrpides, Nikos C and Lowrance, William W and Luo, Jingchu and MacKay, John J and Mart\'{\i}n-Rivera, Luis and McCombie, W Richard and McPherson, John D and Miller, Linda and Miller, Webb and Moerman, Don and Mooser, Vincent and Morton, Cynthia C and Ostell, James M and Ouellette, B F Francis and Parkhill, Julian and Raina, Parminder S and Rawlings, Christopher and Scherer, Steven E and Scherer, Stephen W and Schofield, Paul N and Sensen, Christoph W and Stodden, Victoria C and Sussman, Michael R and Tanaka, Toshihiro and Thornton, Janet and Tsunoda, Tatsuhiko and Valle, David and Vuorio, Eero I and Walker, Neil M and Wallace, Susan and Weinstock, George and Whitman, William B and Worley, Kim C and Wu, Cathy and Wu, Jiayan and Yu, Jun},
   Journal                  = {Nature},
   Year                     = {2009},
-
-  Month                    = sep,
   Number                   = {7261},
-  Pages                    = {168--70},
+  Pages                    = {168-70},
   Volume                   = {461},
 
   Abstract                 = {Rapid release of prepublication data has served the field of genomics well. Attendees at a workshop in Toronto recommend extending the practice to other biological data sets.},
@@ -3524,6 +3590,21 @@
   Url                      = {http://www.nature.com/nature/journal/v486/n7401/pdf/nature11148.pdf}
 }
 
+@Article{Cardinale2012b,
+  Title                    = {Biodiversitylossanditsimpactonhumanity},
+  Author                   = {Cardinale, B.J., Duffy, J. E., Gonzalez, A., Hooper. D. U., Perrings, C., Venail, P., Narwani, A., Mace, G. M., Tilman, D., Wardle, D. A., Kinzig, A. P., Daily, G. C., Loreau, M., Grace, J. B., Larigauderie, A., Srivastava, D. S., Naeem, S.},
+  Journal                  = {Nature},
+  Year                     = {2012},
+  Number                   = {59},
+  Volume                   = {486},
+  Doi                      = {10.1038/nature11148},
+  File                     = {:Cardinale_at el_Biodiversity loss_ Nature_2012.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.nature.com/nature/journal/v486/n7401/pdf/nature11148.pdf}
+}
+
 @Article{Carling2004,
   Title                    = {{Emigration, return and development in Cape Verde: the impact of closing borders}},
   Author                   = {Carling, J\o rgen},
@@ -4437,11 +4518,22 @@
 }
 
 @Electronic{Collins1996,
-  Title                    = {A Comparison of Spatial Interpolation Techniques in Temperature Estimation},
+  Title                    = {A Comparison of Spatial Interpolation Techniques in Temperature Estimation. Online-publication at http://goo.gl/utj6e7.},
   Author                   = {Collins, F. C. AND Bolstad, P.V.},
   Url                      = {http://www.ncgia.ucsb.edu/conf/SANTA\_FE\_CD\-ROM/sf\_papers/collins\_fred/collins.html},
   Year                     = {1996},
 
+  File                     = {:Collins_and_Bolstad_1996_A Comparison of Spatial Interpolation Techniques in Temperature Estimation.doc:Word},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Electronic{Collins1996a,
+  Title                    = {A Comparison of Spatial Interpolation Techniques in Temperature Estimation},
+  Author                   = {Collins, F. C. AND Bolstad, P.V.},
+  Url                      = {http://www.ncgia.ucsb.edu/conf/SANTA\_FE\_CD\-ROM/sf\_papers/collins\_fred/collins.html},
+  Year                     = {1996},
   File                     = {:Collins_and_Bolstad_1996_A Comparison of Spatial Interpolation Techniques in Temperature Estimation.doc:Word},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -4716,6 +4808,20 @@
   Pages                    = {1121–1134},
   Volume                   = {7},
 
+  Doi                      = {10.1111/j.1461-0248.2004.00671.x},
+  File                     = {:Currie et al 2004 Ecol Lett.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Currie2004b,
+  Title                    = {Predictions and tests of climate-based hypotheses of broad-scale variation in taxonomic richness},
+  Author                   = {Currie, D. J., Mittelbach, G. G., Cornell, H. V., Guegan, J., Hawkins, B. A., Kaufman, D. M., Thierry, J. T. K., O'Brien, O. E., Turner, J. R. G.},
+  Journal                  = {Ecology Letters,},
+  Year                     = {2004},
+  Pages                    = {1121–1134},
+  Volume                   = {7},
   Doi                      = {10.1111/j.1461-0248.2004.00671.x},
   File                     = {:Currie et al 2004 Ecol Lett.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -5176,6 +5282,17 @@
 
   File                     = {:Doktorgrades, Naturwissenschaften - 2006.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Article{Dombayc2009,
+  Title                    = {Daily means ambient temperature prediction using artificial neural networks method: a case study of Turkey},
+  Author                   = {Dombayc, O.A. AND Gölcü, M.},
+  Journal                  = {Renewable Energy},
+  Year                     = {2009},
+  Volume                   = {34},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
 }
 
 @Article{Dommenget2009,
@@ -6780,6 +6897,19 @@
   Url                      = {http://www.giub.uni-bonn.de/erdkunde}
 }
 
+@Article{Fries2009b,
+  Title                    = {Thermal structure of a megadiverse andean mountain ecosystem in southern Equador and its regionalization},
+  Author                   = {Fries, A., Rollenbeck, R., Göttlicher, D., Nauss, T., Homeier, J., Peters, T., Bendix, J.},
+  Journal                  = {Erdkunde},
+  Year                     = {2009},
+  Doi                      = {10.3112/erdkunde.2009.04.03},
+  File                     = {:Fries_et al_Therma structure of megadiverse_Erdkunde_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.giub.uni-bonn.de/erdkunde}
+}
+
 @Article{Frumau2006,
   Title                    = {{Final Technical Report DFID-FRP Project no . R7991 Part I :}},
   Author                   = {Frumau, Arnoud and Tob\'{o}n, Conrado and Bruijnzeel, Sampurno},
@@ -7547,6 +7677,21 @@
   Pages                    = {113-129},
   Volume                   = {228},
 
+  Doi                      = {10.1016/S0022-1694(00)00144-X},
+  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
+  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
+}
+
+@Article{Goovaerts2000b,
+  Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
+  Author                   = {Goovaerts, P.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2000},
+  Pages                    = {113-129},
+  Volume                   = {228},
   Doi                      = {10.1016/S0022-1694(00)00144-X},
   File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
   Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
@@ -8732,6 +8877,21 @@
   Url                      = {http://www.jstor.org/stable/pdfplus/3450055.pdf?acceptTC=true&jpdConfirm=true}
 }
 
+@Article{Hawkins2003b,
+  Title                    = {Energy, water, and broad-scale geographic patterns of species richness},
+  Author                   = {Hawkins, B. A., Field, R., Cornell, H. V., Currie, D. J., Guegan, J., Kaufman, D. M., Kerr, J. T., Mittelbach, G. G., Oberdorff, T., O'Brien, E. M., Porter, E. E., Turner, J. R. G.},
+  Journal                  = {Ecology},
+  Year                     = {2003},
+  Number                   = {12},
+  Pages                    = {3105-3117},
+  Volume                   = {84},
+  File                     = {:Hawkins_et al_Energy_water_Ecology_2003.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation, diversity gradients, energy hypothesis, latitudinalgradient, productivity hypothesis},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.jstor.org/stable/pdfplus/3450055.pdf?acceptTC=true&jpdConfirm=true}
+}
+
 @Article{Hawkins2003,
   Title                    = {{Energy, water, and broad-scale geographic patterns of species richness}},
   Author                   = {Hawkins, BA and Field, R and Cornell, HV},
@@ -8851,6 +9011,20 @@
   Year                     = {2007},
   Volume                   = {448},
 
+  Doi                      = {10.1038/nature05947},
+  File                     = {:Hector_and_Bagchi_Biodiversity_and_Ecosystem_multifunctionality_Nature_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.nature.com/nature/journal/v448/n7150/pdf/nature05947.pdf}
+}
+
+@Article{Hector2007b,
+  Title                    = {Biodiversity and ecosystem multifunctionality},
+  Author                   = {Hector, A., Bagchi, R.},
+  Journal                  = {Nature},
+  Year                     = {2007},
+  Volume                   = {448},
   Doi                      = {10.1038/nature05947},
   File                     = {:Hector_and_Bagchi_Biodiversity_and_Ecosystem_multifunctionality_Nature_2007.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -9038,7 +9212,9 @@
   Author                   = {Hemp, Andreas},
   Journal                  = {African Journal of Ecology},
   Year                     = {2006},
+  Number                   = {3},
   Pages                    = {305--328},
+  Volume                   = {44},
 
   File                     = {:/Hemp - 2006.pdf:PDF},
   Keywords                 = {Kilimanjaro, east african mountains, forest disturbance by herbivores, sinarundinaria alpina, tropical montane forest},
@@ -9359,10 +9535,13 @@
 
 @Article{Hiemstra2008,
   Title                    = {Real-time automatic interpolation of ambient gamma dose rates from the Dutch Radioactivity Monitoring Network},
-  Author                   = {P.H. Hiemstra and E.J. Pebesma and C.J.W. Twenh"{o}fel and G.B.M. Heuvelink},
+  Author                   = {P.H. Hiemstra and E.J. Pebesma and C.J.W. Twenhöfel and G.B.M. Heuvelink},
   Journal                  = {Computers \& Geosciences},
   Year                     = {2008},
-  Note                     = {DOI: http://dx.doi.org/10.1016/j.cageo.2008.10.011}
+  Note                     = {DOI: http://dx.doi.org/10.1016/j.cageo.2008.10.011},
+  Number                   = {8},
+  Pages                    = {1711 - 1721},
+  Volume                   = {35}
 }
 
 @Article{Hilbert2013,
@@ -9474,6 +9653,20 @@
   Url                      = {http://dx.doi.org/10.1016/j.rse.2014.08.012}
 }
 
+@Article{Ho2014a,
+  Title                    = {Mapping maximum urban air temperature on hot summer days},
+  Author                   = {Ho, H. C. AND Knudby, A. AND Sirovyak, P. AND Xu, Y. AND Hodul, M. AND Henderson, S. B.},
+  Journal                  = {Remote Sensing of the Environment},
+  Year                     = {2014},
+  Pages                    = {38-45},
+  Volume                   = {154},
+  File                     = {:Ho_et_al_mapping_maximum_summer_temp_Remote_sensing_2014.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.1016/j.rse.2014.08.012}
+}
+
 @Article{Hoerling2002,
   Title                    = {{Atmospheric response patterns associated with tropical forcing}},
   Author                   = {Hoerling, Martin P. and Kumar, Arun},
@@ -9511,43 +9704,6 @@
   File                     = {:Hofmann, Lohmann, M\"{u}ller - 2008.pdf:PDF},
   Keywords                 = {change detection,gis,indicators,satellite mapping,updating},
   Owner                    = {tnauss}
-}
-
-@Article{Hofstra2008a,
-  Title                    = {{Comparison of six methods for the interpolation of daily, European climate data}},
-  Author                   = {Hofstra, Nynke and Haylock, Malcolm and New, Mark and Jones, Phil and Frei, Christoph},
-  Journal                  = {{JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES}},
-  Year                     = {{2008}},
-
-  Month                    = {{NOV 11}},
-  Number                   = {{D21}},
-  Volume                   = {{113}},
-
-  Abstract                 = {{We compare versions of six interpolation methods for the interpolation of daily precipitation, mean, minimum and maximum temperature, and sea level pressure from station data over Europe from 1961 to 1990. The interpolation methods evaluated are global and local kriging, two versions of angular distance weighting, natural neighbor interpolation, regression, 2D and 3D thin plate splines, and conditional interpolation. We first evaluated, using station cross-validation and several skill scores, relative skill of each method at estimating point values, looking at spatial and temporal patterns and the frequency distribution of the variables. We then compared, for precipitation, gridded area averages from the candidate interpolation methods against existing high-resolution gridded data sets for the UK and the Alps, which are derived from a much denser network of stations. In both point and area-average cases, differences in skill between interpolation methods at any one point are smaller than the range in skill for a single method either across the domain, or in different seasons. The main control on spatial patterns of interpolation skill is density of the station network, with topographic complexity a compounding factor. The relative skill of different methods remains relatively constant through time, despite a varying station network. Skill in interpolating extreme events is lower than for average days, but relative skill of different methods remains the same. We select global kriging as the best performing method overall, for use in the development of a daily, high-resolution, long-term, European data set of climate variables as part of the EU funded ENSEMBLES project.}},
-  Address                  = {{2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA}},
-  Affiliation              = {{Hofstra, N (Reprint Author), Univ Oxford, Ctr Environm, Sch Geog, S Parks Rd, Oxford OX1 3QY, England. Hofstra, Nynke; New, Mark, Univ Oxford, Ctr Environm, Sch Geog, Oxford OX1 3QY, England. Frei, Christoph, Fed Off Meteorol \& Climatol MeteoSwiss, CH-8044 Zurich, Switzerland. Haylock, Malcolm; Jones, Phil, Univ E Anglia, Sch Environm Sci, Climat Res Unit, Norwich NR4 7TJ, Norfolk, England.}},
-  Article-number           = {{D21110}},
-  Author-email             = {{nynke.hofstra@ouce.ox.ac.uk}},
-  Doc-delivery-number      = {{373SF}},
-  Doi                      = {{10.1029/2008JD010100}},
-  Eissn                    = {{2169-8996}},
-  Funding-acknowledgement  = {{EU project ENSEMBLES {[}GOCE-CT-2004-50539]; Dutch talentenbeurs; Dutch Prins Bernhard Cultuurfonds beurs}},
-  Funding-text             = {{We would like to thank all institutes (see Appendix 1 of Klok and Klein Tank {[}2008]) that made meteorological station data available for the study. This study was funded by the EU project ENSEMBLES (WP 5.1, contract GOCE-CT-2004-50539). NH was also funded by the Dutch talentenbeurs and the Dutch Prins Bernhard Cultuurfonds beurs.}},
-  ISSN                     = {{2169-897X}},
-  Journal-iso              = {{J. Geophys. Res.-Atmos.}},
-  Keywords-plus            = {{RAIN-GAUGE; MESOSCALE PRECIPITATION; SPATIAL INTERPOLATION; AIR-TEMPERATURE; PREDICTIVE PERFORMANCE; UNITED-STATES; PART II; VARIABLES; SPLINES; NETWORKS}},
-  Language                 = {{English}},
-  Number-of-cited-references = {{67}},
-  Orcid-numbers            = {{New, Mark/0000-0001-6082-8879 Hofstra, Nynke/0000-0002-0409-5145}},
-  Owner                    = {tnauss},
-  Publisher                = {{AMER GEOPHYSICAL UNION}},
-  Research-areas           = {{Meteorology \& Atmospheric Sciences}},
-  Researcherid-numbers     = {{Jones, Philip/C-8718-2009 New, Mark/A-7684-2008 Hofstra, Nynke/C-7879-2014}},
-  Times-cited              = {{40}},
-  Timestamp                = {2014.10.31},
-  Type                     = {{Article}},
-  Unique-id                = {{ISI:000260992100002}},
-  Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
 }
 
 @Article{Hofstra2008,
@@ -10635,8 +10791,22 @@
   Author                   = {Jarvis, C. H. AND Stuart, N.},
   Journal                  = {Journal of Applied Meteorology},
   Year                     = {2001},
+  Pages                    = {1060-1074},
   Volume                   = {40},
 
+  File                     = {:Jarvis_and_Stuart_2001_A comparison among strategies for interpolating maximum and minimum daily air temperatures_J_Appl_Meteorol.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://bit.do/TRaQ}
+}
+
+@Article{Jarvis2001a,
+  Title                    = {A Comparison among Strategies for Interpolating Maximum and Minimum Daily Air Temperatures. Part I: The Selection of ‘‘Guiding’’ Topographic and Land Cover Variables},
+  Author                   = {Jarvis, C. H. AND Stuart, N.},
+  Journal                  = {Journal of Applied Meteorology},
+  Year                     = {2001},
+  Volume                   = {40},
   File                     = {:Jarvis_and_Stuart_2001_A comparison among strategies for interpolating maximum and minimum daily air temperatures_J_Appl_Meteorol.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -13213,6 +13383,18 @@
   Timestamp                = {2014.10.02}
 }
 
+@Book{Kuhn2013b,
+  Title                    = {Applied Predictive Modeling},
+  Author                   = {Kuhn, M., Johnson, K.},
+  Publisher                = {Springer},
+  Year                     = {2013},
+  Doi                      = {10.1007/978-1-4614-6849-3},
+  File                     = {:Kuhn_and_Johnson_Applied_Predictive_Modeliing_Springer_2008.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
 @Article{Kultusministerium,
   Title                    = {{Bildungsstandards und Inhaltsfelder}},
   Author                   = {Kultusministerium, Hessisches},
@@ -14392,11 +14574,23 @@
   Url                      = {http://link.springer.com/10.1007/BF00125347}
 }
 
-@Article{Li2013,
+@Conference{Li2013,
+  Title                    = {Predicting the spatial distribution of seabed gravel content using random forest, spatial interpolation methods and their hybrid methods},
+  Author                   = {Li, J.},
+  Booktitle                = {20th International Congress on Modelling and Simulation},
+  Year                     = {2013},
+
+  File                     = {:li_2013_predicting_spatial_distribution_of_seabed_gravel_content_using_random_forest_spatial_interpolation.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.mssanz.org.au/modsim2013/A9/li.pdf}
+}
+
+@Article{Li2013a,
   Title                    = {Predicting the spatial distribution of seabed gravel content using random forest, spatial interpolation methods and their hybrid methods},
   Author                   = {Li, J.},
   Year                     = {2013},
-
   File                     = {:li_2013_predicting_spatial_distribution_of_seabed_gravel_content_using_random_forest_spatial_interpolation.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -14411,6 +14605,19 @@
   Year                     = {2008},
   Volume                   = {23},
 
+  File                     = {:Li_and_Heap_2008_A review of spatial interpolation methods for environmental scientist_Geoscience_Australia_No_Record_2008_23.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.ga.gov.au/image_cache/GA12526.pdf}
+}
+
+@Article{Li2008b,
+  Title                    = {A Review of Spatial Interpolation Methods for Environmental Scientists},
+  Author                   = {Li, J. AND Heap, A.},
+  Journal                  = {Geoscience Australia},
+  Year                     = {2008},
+  Volume                   = {23},
   File                     = {:Li_and_Heap_2008_A review of spatial interpolation methods for environmental scientist_Geoscience_Australia_No_Record_2008_23.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -14433,14 +14640,43 @@
   Timestamp                = {2014.10.02}
 }
 
+@Article{Li2011c,
+  Title                    = {Application of machine learning methods to spatial interpolation of environmental variables},
+  Author                   = {Li, J. AND Heap, A. AND Potter, A. AND Daniell, J. J.},
+  Journal                  = {Environmental Modelling \& Software},
+  Year                     = {2011},
+  Pages                    = {1647-1659},
+  Volume                   = {26},
+  Doi                      = {10.1016/j.envsoft.2011.07.004},
+  File                     = {:Li2011a.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
 @Article{Li2011b,
+  Title                    = {Can we improve the spatial predictions of seabed sediments? A case study of spatial interpolation of mud content across the southwest Australian margin.},
+  Author                   = {Li, J. AND Heap, A. AND Potter, A. AND Huang, Z. AND Daniell, J. J.},
+  Journal                  = {Continental Shelf Research},
+  Year                     = {2011},
+  Pages                    = {1365-1376},
+  Volume                   = {31},
+
+  Doi                      = {10.1016/j.csr.2011.05.015},
+  File                     = {:Li_et_el_2011_Can we improve the spatial predicions of seabed sediments_case study of spatial interpolation of mud content across the southwest australian margin_Continenental Shelf Research_31.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S027843431100197X}
+}
+
+@Article{Li2011d,
   Title                    = {Can we improve the spatial predictions of seabed sediments? A case study of spatial interpolation of mud content across the southwest Australian margin.},
   Author                   = {Li, J. AND Heap, A. AND Potter, A. AND Huang, Z. AND Daniell, J. J.},
   Journal                  = {Continental Shelf Research},
   Year                     = {2011},
   Pages                    = {1365–1376},
   Volume                   = {31},
-
   Doi                      = {10.1016/j.csr.2011.05.015},
   File                     = {:Li_et_el_2011_Can we improve the spatial predicions of seabed sediments_case study of spatial interpolation of mud content across the southwest australian margin_Continenental Shelf Research_31.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -14478,13 +14714,29 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450(2003)042\%3C0204\%3AHSRSAC\%3E2.0.CO\%3B2}
 }
 
-@Article{Li2012,
+@Book{Li2012,
+  Title                    = {Predicting Seabed Sand Content across the Australian Margin Using Machine Learning and Geostatistical Methods},
+  Author                   = {Li, J. AND Potter, A. AND Huang, Z. AND Heap, A. D.},
+  Publisher                = {Geoscience Australia},
+  Year                     = {2012},
+
+  Address                  = {Canberra},
+  Volume                   = {Record  2012/048},
+
+  File                     = {:Li_Predicting seabed sand content across the Autralian using machine learning and Geostatistical methods.Geoscience_2012_48.pdf:PDF},
+  Journal                  = {Geoscience Australia},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.ga.gov.au/corporate\_data/74030/Rec2012\_048.pdf}
+}
+
+@Article{Li2012a,
   Title                    = {Predicting Seabed Sand Content across the Australian Margin Using Machine Learning and Geostatistical Methods},
   Author                   = {Li, J. AND Potter, A. AND Huang, Z. AND Heap, A. D.},
   Journal                  = {Geoscience Australia},
   Year                     = {2012},
   Volume                   = {48},
-
   File                     = {:Li_Predicting seabed sand content across the Autralian using machine learning and Geostatistical methods.Geoscience_2012_48.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -14557,6 +14809,21 @@
   Pages                    = {70-79},
   Volume                   = {170},
 
+  Doi                      = {10.1016/j.geoderma.2011.10.010},
+  File                     = {:Liess_et_al_2012_Uncertanity in the spatial prediction of soil texture comparison of regression tree and random forest model_Geoderma_170.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0016706111002953}
+}
+
+@Article{Liess2012a,
+  Title                    = {Uncertainty in the spatial prediction of soil texture Comparison of regression tree and Random Forest models},
+  Author                   = {Liess, M. AND Glaser, B. AND Huwe, B.},
+  Journal                  = {Geoderma},
+  Year                     = {2012},
+  Pages                    = {70-79},
+  Volume                   = {170},
   Doi                      = {10.1016/j.geoderma.2011.10.010},
   File                     = {:Liess_et_al_2012_Uncertanity in the spatial prediction of soil texture comparison of regression tree and random forest model_Geoderma_170.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -14715,7 +14982,25 @@
   Author                   = {Loeffler, J. AND Pape, R. AND Wundram, D.},
   Journal                  = {Erdkunde},
   Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {15-24},
+  Volume                   = {60},
 
+  Doi                      = {10.3112/erdkunde.2006.01.02},
+  File                     = {:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_supplimentary.pdf:PDF;:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_main.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
+@Article{Loeffler2006a,
+  Title                    = {The climatologic significance of topography, altitude and region in high mountains – A survey of oceanic-continental differentiations of the Scandes.},
+  Author                   = {Loeffler, J. AND Pape, R. AND Wundram, D.},
+  Journal                  = {Erdkunde},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {15-24},
+  Volume                   = {60},
   Doi                      = {10.3112/erdkunde.2006.01.02},
   File                     = {:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_supplimentary.pdf:PDF;:Löffler_et_al_Climatological_significance_of_topograph_Erdkunde-2006_main.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -16380,7 +16665,25 @@
   Author                   = {Melini, D.},
   Journal                  = {Annals of Silvicultural Research},
   Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {64-68},
+  Volume                   = {37},
 
+  File                     = {:Melini_2013_751-2878-1-PB.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://dx.doi.org/10.12899/ASR-751}
+}
+
+@Article{Melini2013a,
+  Title                    = {A spatial model for sporadic tree species distribution in support of tree oriented silviculture},
+  Author                   = {Melini, D.},
+  Journal                  = {Annals of Silvicultural Research},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {64-68},
+  Volume                   = {37},
   File                     = {:Melini_2013_751-2878-1-PB.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -17348,6 +17651,7 @@
 @Article{Myers2000,
   Title                    = {{Biodiversity hotspots for conservation priorities}},
   Author                   = {Myers, Norman and Mittermeier, Russell A and Mittermeier, Cristina G and Fonseca, Gustavo A B and Kent, Jennifer},
+  Journal                  = {Nature},
   Year                     = {2000},
   Number                   = {February},
   Pages                    = {853--858},
@@ -17355,20 +17659,6 @@
 
   File                     = {:Myers et al. - 2000.pdf:PDF},
   Owner                    = {tnauss}
-}
-
-@Article{Myers2000a,
-  Title                    = {Biodiversity hotspots for conservation priorities},
-  Author                   = {Myers, N., Mittermeier, R. A., Mittermeier, C. G., Da Fonseca, G. A. B., Kent, J.},
-  Journal                  = {Nature},
-  Year                     = {2000},
-  Volume                   = {403},
-
-  File                     = {:Myers_et_al_Biodiversity_hotspot_4_Conservation_Priorities_Nature_2000.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://www.nature.com/nature/journal/v403/n6772/pdf/403853a0.pdf}
 }
 
 @Article{Myneni1996,
@@ -18422,6 +18712,25 @@
   Url                      = {http://www.agu.org/pubs/crossref/2003/2002JD003329.shtml}
 }
 
+@Article{Ortiz-Garcia2012,
+  Title                    = {Accurate local very short-term temperature prediction based on synoptic situation Support Vector Regression banks },
+  Author                   = {E.G. Ortiz-García and S. Salcedo-Sanz and C. Casanova-Mateo and A. Paniagua-Tineo and J.A. Portilla-Figueras},
+  Journal                  = {Atmospheric Research },
+  Year                     = {2012},
+  Number                   = {0},
+  Pages                    = {1 - 8},
+  Volume                   = {107},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {In this paper we present a novel system for addressing problems of local very short term (up to a time prediction horizon of 6&#xa0;h) temperature prediction based on Support Vector Regression algorithms (SVMr). Specifically, we construct \{SVMr\} banks based on the synoptic situation for each prediction period, incorporated by means of the well-known Hessâ€“Brezowsky classification (HBC). We show how this \{SVMr\} bank structure obtains very good results in a real problem of short-term temperature prediction at Barcelona-El Prat International Airport (Spain), obtaining an average \{RMSE\} of 1.34&#xa0;Â°C in 6&#xa0;hour horizon prediction. Comparison with alternative neural techniques have been carried out in order to show the effectiveness of the proposed technique, and how the inclusion of the \{HBC\} classification is also able to improve the performance of these alternative neural algorithms in the problem. },
+  Doi                      = {http://dx.doi.org/10.1016/j.atmosres.2011.10.013},
+  ISSN                     = {0169-8095},
+  Keywords                 = {Short-term temperature prediction},
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0169809511003401}
+}
+
 @Article{Oshino2006,
   Title                    = {{Global Warming and Mountain Environment}},
   Author                   = {Oshino, Masatoshi Y},
@@ -18750,27 +19059,31 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0426\%281998\%29015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2 http://journals.ametsoc.org/doi/abs/10.1175/1520-0426(1998)015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2}
 }
 
-@Article{Panitz2014,
-  Title                    = {COSMO-CLM (CCLM) climate simulations over CORDEX-Africa domain: analysis of the ERA-Interim driven simulations at 0.44° and 0.22° resolution},
-  Author                   = {Panitz, H. AND Dosio AND A. AND Büchner, M. AND Lüthi, D. AND Keuler, K.},
-  Journal                  = {Clim Dyn},
-  Year                     = {2014},
-  Pages                    = {3025-3038},
-  Volume                   = {42},
-
-  Doi                      = {10.1007/s00382-013-1834-5},
-  File                     = {:Panitz_etal_Climate_simulations_over_Cordex_Africa_2014.pdf:PDF},
-  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.03}
+@Article{Paniagua-Tineo2011,
+  Title                    = {Prediction of daily maximum temperature using a support vector regression algorithm },
+  Author                   = {A. Paniagua-Tineo and S. Salcedo-Sanz and C. Casanova-Mateo and E.G. Ortiz-GarcÃ­a and M.A. Cony and E. HernÃ¡ndez-MartÃ­n},
+  Journal                  = {Renewable Energy },
+  Year                     = {2011},
+  Number                   = {11},
+  Pages                    = {3054 - 3060},
+  Volume                   = {36},
+  Abstract                 = {Daily maximum temperature can be used a good indicator of peak energy consumption, since it can be used to predict the massive use of heating or air conditioning systems. Thus, the prediction of daily maximum temperature is an important problem with interesting applications in the energy field, since it has been proven that electricity demand depends much on weather conditions. This paper presents a novel methodology for daily maximum temperature prediction, based on a Support Vector Regression approach. The paper is focused on different measuring stations in Europe, from which different meteorological variables have been obtained, including temperature, precipitation, relative humidity and air pressure. Two more variables are also included, specifically synoptic situation of the day and monthly cycle. Using this pool of prediction variables, it is shown that the \{SVMr\} algorithm is able to give an accurate prediction of the maximum temperature 24Â h later. In the paper \{SVMr\} technique applied is fully described, including some bounds on the machine hyper-parameters in order to speed up the \{SVMr\} training process. The performance of the \{SVMr\} has been compared to that of different neural networks in the literature: a Multi-layer perceptron and an Extreme Learning Machine. },
+  Doi                      = {http://dx.doi.org/10.1016/j.renene.2011.03.030},
+  ISSN                     = {0960-1481},
+  Keywords                 = {Daily maximum temperature prediction},
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0960148111001443}
 }
 
-@Article{Panitz2013,
+@Article{Panitz2014,
   Title                    = {{COSMO-CLM (CCLM) climate simulations over CORDEX-Africa domain: analysis of the ERA-Interim driven simulations at 0.44Â° and 0.22Â° resolution}},
   Author                   = {Panitz, Hans-J\"{u}rgen and Dosio, Alessandro and B\"{u}chner, Matthias and L\"{u}thi, Daniel and Keuler, Klaus},
   Journal                  = {Climate Dynamics},
-  Year                     = {2013},
-  Number                   = {Cclm},
+  Year                     = {2014},
+  Number                   = {11-12},
+  Pages                    = {3015-3038},
+  Volume                   = {42},
 
   Doi                      = {10.1007/s00382-013-1834-5},
   File                     = {:Panitz et al. - 2013.pdf:PDF},
@@ -19099,14 +19412,42 @@
   Timestamp                = {2014.10.02}
 }
 
+@Article{PeterM1998a,
+  Title                    = {Mapping Precipitation in Switzerland with Ordinary and Indicator Kriging},
+  Author                   = {Peter M, A},
+  Journal                  = {Journal of Geographic Information and Decision Analysis},
+  Year                     = {1998},
+  Number                   = {2},
+  Pages                    = {65-76},
+  Volume                   = {2},
+  File                     = {:Atkinson_&_Lloyd_1998_Mapping precipitation in Switzerland with ordinary and indicator kriging_GIDA.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation, indicator kriging, ordinary kriging, precipitation.},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02}
+}
+
 @Article{Peters2007,
   Title                    = {Random forests as a tool for ecohydrological distribution modelling},
   Author                   = {Peters, J. AND De Baets, B. AND Verhoest, N. E. C. AND Samson, R. AND Degroeve, S. AND De Becker, P. AND Huybrechts, W.},
   Journal                  = {Ecological Modelling},
   Year                     = {2007},
-  Pages                    = {304–318},
+  Pages                    = {304-318},
   Volume                   = {207},
 
+  Doi                      = {10.1016/j.ecolmodel.2007.05.011},
+  File                     = {:Peters_Random forests as a tool for ecohyrological distribution modelling_Ecological_Modelling_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Peters2007a,
+  Title                    = {Random forests as a tool for ecohydrological distribution modelling},
+  Author                   = {Peters, J. AND De Baets, B. AND Verhoest, N. E. C. AND Samson, R. AND Degroeve, S. AND De Becker, P. AND Huybrechts, W.},
+  Journal                  = {Ecological Modelling},
+  Year                     = {2007},
+  Pages                    = {304-318},
+  Volume                   = {207},
   Doi                      = {10.1016/j.ecolmodel.2007.05.011},
   File                     = {:Peters_Random forests as a tool for ecohyrological distribution modelling_Ecological_Modelling_2007.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -19290,7 +19631,7 @@
   Year                     = {{1992}},
 
   Month                    = {{DEC}},
-  Note                     = {{9th European summer school on computing techniques in physics : numerical techniques and parallelism in physics, skalsky dvur, czechoslovakia, sep 10-20, 1991}},
+  Note                     = {{9th European summer school on computing techniques in physics : numerical techniques and parallelism in physics, Skalsky Dvur, Czechoslovakia, sep 10-20, 1991}},
   Number                   = {{1-3}},
   Pages                    = {{1-21}},
   Volume                   = {{73}},
@@ -19711,9 +20052,23 @@
   Author                   = {Polishchuk, P. G. AND Muratov, E. N. AND Artemenko, A. G. AND Kolumbin, O. G. AND Muratov, N. N. AND Kuz'min, V},
   Journal                  = {J. Chem. Inf. Model},
   Year                     = {2009},
-  Pages                    = {2481–2488},
+  Pages                    = {2481-2488},
   Volume                   = {49},
 
+  File                     = {:Polishchuk_Application_of_random_forest_approach_to_qsar_prediction_J_Chem_Inf_Model_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://pubs.acs.org/doi/pdf/10.1021/ci900203n}
+}
+
+@Article{Polishchuk2009a,
+  Title                    = {Application of Random Forest Approach to QSAR Prediction of Aquatic Toxicity},
+  Author                   = {Polishchuk, P. G. AND Muratov, E. N. AND Artemenko, A. G. AND Kolumbin, O. G. AND Muratov, N. N. AND Kuz'min, V},
+  Journal                  = {J. Chem. Inf. Model},
+  Year                     = {2009},
+  Pages                    = {2481–2488},
+  Volume                   = {49},
   File                     = {:Polishchuk_Application_of_random_forest_approach_to_qsar_prediction_J_Chem_Inf_Model_2009.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -19808,9 +20163,23 @@
   Author                   = {Pozdnoukhov, A. AND Foresti, L. AND Kanevski, M.},
   Journal                  = {Nat Hazards},
   Year                     = {2009},
-  Pages                    = {497–518},
+  Pages                    = {497-518},
   Volume                   = {50},
 
+  Doi                      = {10.1007/s11069-008-9339-y},
+  File                     = {:Pozdnoukhov_Data_driven_topo_climatic_mapping_Nat_Hazards_2009.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Pozdnoukhov2009a,
+  Title                    = {Data-driven topo-climatic mapping with machine learning methods},
+  Author                   = {Pozdnoukhov, A. AND Foresti, L. AND Kanevski, M.},
+  Journal                  = {Nat Hazards},
+  Year                     = {2009},
+  Pages                    = {497-518},
+  Volume                   = {50},
   Doi                      = {10.1007/s11069-008-9339-y},
   File                     = {:Pozdnoukhov_Data_driven_topo_climatic_mapping_Nat_Hazards_2009.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -20110,6 +20479,19 @@
   Owner                    = {tnauss, fdetsch},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1623/hysj.48.1.65.43483\&magic=crossref\%7c\%7cD404A21C5BB053405B1A640AFFD44AE3}
+}
+
+@Article{Radhika2009,
+  Title                    = {Atmospheric Temperature Prediction using Support Vector Machines},
+  Author                   = {Radhika, Y. AND Shashi, M.},
+  Journal                  = {International Journal of Computer Theory and Engineering},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {1793-8201},
+  Volume                   = {1},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
 }
 
 @Article{Radke1989,
@@ -21303,8 +21685,6 @@
   Number                   = {{6}},
   Pages                    = {{571-584}},
   Volume                   = {{16}},
-
-  __markedentry            = {[tnauss:6]},
   Address                  = {{45 BEACON ST, BOSTON, MA 02108-3693}},
   Affiliation              = {{USDA,FOREST SERV,FOREST FIRE LAB,PACIF SW FOREST \& RANGE EXPTL STN,RIVERSIDE,CA 92507.}},
   Doc-delivery-number      = {{DQ307}},
@@ -21442,6 +21822,19 @@
   Pages                    = {37-50},
   Volume                   = {50},
 
+  File                     = {:Sanabria_Spatial interpolationof McArthur Fire Forest Danger Index across Australia.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Sanabria2013a,
+  Title                    = {Spatial interpolation of McArthur’s Forest Fire Danger Index across Australia: Observational study},
+  Author                   = {Sanabria, L. A. AND Qin, X. AND Li, J. AND Cechet, R. P. AND Lucas, C.},
+  Journal                  = {Environmental Modelling \& Software},
+  Year                     = {2013},
+  Pages                    = {37-50},
+  Volume                   = {50},
   File                     = {:Sanabria_Spatial interpolationof McArthur Fire Forest Danger Index across Australia.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
   Owner                    = {mwangomo},
@@ -22629,9 +23022,23 @@
   Author                   = {Siaulys, A. AND Bucas, M.},
   Journal                  = {Baltica},
   Year                     = {2012},
-  Pages                    = {163–170},
+  Pages                    = {163-170},
   Volume                   = {25},
 
+  Doi                      = {10.5200/baltica.2012.25.16},
+  File                     = {:Siaulys_Species_distribution_modelling_Baltica_2012.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Siaulys2012a,
+  Title                    = {Species distribution modelling of benthic invertebrates in the south-eastern Baltic Sea},
+  Author                   = {Siaulys, A. AND Bucas, M.},
+  Journal                  = {Baltica},
+  Year                     = {2012},
+  Pages                    = {163-170},
+  Volume                   = {25},
   Doi                      = {10.5200/baltica.2012.25.16},
   File                     = {:Siaulys_Species_distribution_modelling_Baltica_2012.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -22780,6 +23187,25 @@
   Url                      = {www.oefse.at/publikationen/laneder/kapverde.htm}
 }
 
+@Article{Smith2009,
+  Title                    = {Artificial neural networks for automated year-round temperature prediction },
+  Author                   = {Brian A. Smith and Gerrit Hoogenboom and Ronald W. McClendon},
+  Journal                  = {Computers and Electronics in Agriculture },
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {52 - 61},
+  Volume                   = {68},
+
+  __markedentry            = {[tnauss:]},
+  Abstract                 = {Crops and livestock in most of the southeastern United States are susceptible to potential losses due to extreme cold and heat. However, given suitable warning, agricultural and horticultural producers can mitigate the damage of extreme temperature events. To provide such a warning, air temperature prediction models are needed at horizons ranging from 1 to 12&#xa0;h. The goal of this project was to explore the application of artificial neural networks (ANNs) for the prediction of air temperature during the entire year based on near real-time data. Ward-style \{ANNs\} were developed using detailed weather data collected by the Georgia Automated Environmental Monitoring Network (AEMN). The \{ANNs\} were able to provide predictions throughout the year, with a mean absolute error (MAE) of the year-round models that was less during the winter months than the \{MAE\} of the models resulting from the application of previously developed winter-specific models. The prediction \{MAE\} for a year-round evaluation set ranged from 0.516&#xa0;Â°C at the one-hour horizon to 1.873&#xa0;Â°C at the twelve-hour horizon. A detailed graphical analysis of \{MAE\} by time-of-year and time-of-day was also performed. A tendency to over-predict temperatures during summer afternoons was associated with localized cloud cover during that period. The inclusion of rainfall as input to the model was also shown to improve prediction accuracy. In addition, two simple ensemble techniques were explored and neither parallel nor series aggregation was found to reduce prediction errors. When simulated over two extreme temperature events, the models were capable of rapidly adjusting predictions on the basis of new information. The final models were applied to prediction horizons of 1â€“12&#xa0;h and deployed on the website of the Georgia \{AEMN\} (www.GeorgiaWeather.net) for use as a general, year-round decision support tool. },
+  Doi                      = {http://dx.doi.org/10.1016/j.compag.2009.04.003},
+  ISSN                     = {0168-1699},
+  Keywords                 = {Artificial intelligence},
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168169909000696}
+}
+
 @Article{Smith1998,
   Title                    = {{Results of WetNet PIP-2 Project}},
   Author                   = {Smith, E. a. and Lamm, J. E. and Adler, R. and Alishouse, J. and Aonashi, K. and Barrett, E. and Bauer, P. and Berg, W. and Chang, a. and Ferraro, R. and Ferriday, J. and Goodman, S. and Grody, N. and Kidd, C. and Kniveton, D. and Kummerow, C. and Liu, G. and Marzano, F. and Mugnai, a. and Olson, W. and Petty, G. and Shibata, a. and Spencer, R. and Wentz, F. and Wilheit, T. and Zipser, E.},
@@ -22803,8 +23229,25 @@
   Author                   = {Snell, S. E. AND Gopal, S. AND Kaufmann, R. K.},
   Journal                  = {Journal of Climate},
   Year                     = {2000},
-  Pages                    = {13},
+  Number                   = {5},
+  Pages                    = {886-895},
+  Volume                   = {13},
 
+  Doi                      = {http://dx.doi.org/10.1175/1520-0442(2000)013<0886:SIOSAT>2.0.CO;2},
+  File                     = {:Snell_spatial_interpolation_of_surface_air_temp_J_of_Climate_2000.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Snell2000a,
+  Title                    = {Spatial Interpolation of Surface Air Temperatures Using Artificial Neural Networks: Evaluating Their Use for Downscaling GCMs},
+  Author                   = {Snell, S. E. AND Gopal, S. AND Kaufmann, R. K.},
+  Journal                  = {Journal of Climate},
+  Year                     = {2000},
+  Number                   = {5},
+  Pages                    = {886-895},
+  Volume                   = {13},
   Doi                      = {http://dx.doi.org/10.1175/1520-0442(2000)013<0886:SIOSAT>2.0.CO;2},
   File                     = {:Snell_spatial_interpolation_of_surface_air_temp_J_of_Climate_2000.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -23668,6 +24111,18 @@
   Url                      = {http://doi.wiley.com/10.1002/joc.972}
 }
 
+@Article{Tasaduqq2002,
+  Title                    = {Application of neural networks for the prediction of hourly mean surface temperatures in Saudi Arabia},
+  Author                   = {Tasaduqq, S. AND Rehman Bubshait, K.},
+  Journal                  = {Renewable Energy},
+  Year                     = {2002},
+  Pages                    = {545–554},
+  Volume                   = {25},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
+}
+
 @Article{Taschetto2011,
   Title                    = {{The Contribution of Indian Ocean Sea Surface Temperature Anomalies on Australian Summer Rainfall during El Ni\~{n}o Events}},
   Author                   = {Taschetto, Andr\'{e}a S. and {Sen Gupta}, Alex and Hendon, Harry H. and Ummenhofer, Caroline C. and England, Matthew H.},
@@ -24357,12 +24812,11 @@
 }
 
 @Article{Thornton1997,
-  Title                    = {Generating surfaces of daily meteorological variables over large regions of complex terrain },
+  Title                    = {Generating surfaces of daily meteorological variables over large regions of complex terrain},
   Author                   = {Peter E. Thornton and Steven W. Running and Michael A. White},
   Journal                  = {Journal of Hydrology },
   Year                     = {1997},
-  Note                     = {Aggregate Description of Land-Atmosphere Interactions },
-  Number                   = {3â€“4},
+  Number                   = {34},
   Pages                    = {214 - 251},
   Volume                   = {190},
 
@@ -24427,6 +24881,19 @@
   Year                     = {2007},
   Volume                   = {448},
 
+  Doi                      = {10.1038/448550a},
+  File                     = {:Thuiller_Climate_Change_and_ecologist_2007.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Thuiller2007b,
+  Title                    = {Climate change and the ecologist},
+  Author                   = {Thuiller, W.},
+  Journal                  = {Nature},
+  Year                     = {2007},
+  Volume                   = {448},
   Doi                      = {10.1038/448550a},
   File                     = {:Thuiller_Climate_Change_and_ecologist_2007.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -24813,9 +25280,23 @@
   Author                   = {Tripathi, S. AND Srinivas, V. V. AND Nanjundiah, R. S.},
   Journal                  = {Journal of Hydrology},
   Year                     = {2006},
-  Pages                    = {621– 640},
+  Pages                    = {621-640},
   Volume                   = {330},
 
+  Doi                      = {10.1016/j.jhydrol.2006.04.030},
+  File                     = {:Tripathi_downscaling_of_precipitation_for_climate_change_scenario_J_Hydrology_2006.pdf:PDF},
+  Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.03}
+}
+
+@Article{Tripathi2006a,
+  Title                    = {Downscaling of precipitation for climate change scenarios: A support vector machine approach},
+  Author                   = {Tripathi, S. AND Srinivas, V. V. AND Nanjundiah, R. S.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2006},
+  Pages                    = {621-640},
+  Volume                   = {330},
   Doi                      = {10.1016/j.jhydrol.2006.04.030},
   File                     = {:Tripathi_downscaling_of_precipitation_for_climate_change_scenario_J_Hydrology_2006.pdf:PDF},
   Keywords                 = {Kilimanjaro, Machine learning, Spatial interpolation},
@@ -25342,6 +25823,24 @@
   Keywords                 = {Cape Verde, Kap Verde},
   Owner                    = {tnauss},
   Tags                     = {Kap Verde}
+}
+
+@Article{Ustaoglu2008,
+  Title                    = {Forecast of daily mean, maximum and minimum temperature time series by three artificial neural network methods},
+  Author                   = {Ustaoglu, B. and Cigizoglu, H. K. and Karaca, M.},
+  Journal                  = {Meteorological Applications},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {431--445},
+  Volume                   = {15},
+  Abstract                 = {Temperature forecasting has been one of the most important factors considered in climate impact studies on sectors of agriculture, vegetation, water resources and tourism. The main purpose of this study is to forecast daily mean, maximum and minimum temperature time series employing three different artificial neural network (ANN) methods and provide the best-fit prediction with the observed actual data using ANN algorithms.The geographical location considered is one of Turkey's most important areas of agricultural production, the Geyve and Sakarya basin, located in the south-east of the Marmara region (40Â°N and 30Â°E). The methods chosen in this study are: (1) feed-forward back propagation (FFBP), (2) radial basis function (RBF) and, (3) generalized regression neural network (GRNN). Additionally, predictions with a multiple linear regression (MLR) model were compared to those of the ANN methods. All three different ANN methods provide satisfactory predictions in terms of the selected performance criteria; correlation coefficient (R), root mean square error (RMSE), index of agreement (IA) and the results compared well with the conventional MLR method. Copyright Â© 2008 Royal Meteorological Society},
+  Doi                      = {10.1002/met.83},
+  ISSN                     = {1469-8080},
+  Keywords                 = {feed-forward back propagation, radial basis function, generalized regression neural network, multiple linear regression, daily temperature time series},
+  Owner                    = {tnauss},
+  Publisher                = {John Wiley \& Sons, Ltd.},
+  Timestamp                = {2015.04.10},
+  Url                      = {http://dx.doi.org/10.1002/met.83}
 }
 
 @Article{Ustin2010,
@@ -25871,7 +26370,6 @@
   Pages                    = {{161-180}},
   Volume                   = {{24}},
 
-  __markedentry            = {[tnauss:]},
   Abstract                 = {{This paper analyzes the validity of various precipitation and temperature maps obtained by means of diverse interpolation methods. The study was carried out in an area where geographic differences and spatial climatic diversity are significant (the middle Ebro Valley in the northeast Of Spain). Two variables, annual precipitation and temperature, and several interpolation methods were used in the climate mapping: global interpolators (trend surfaces and regression models), local interpolators (Thiessen polygons, inverse distance weighting, splines), geostatistical methods (simple kriging, ordinary kriging, block kriging, directional kriging, universal kriging and co-kriging) and mixed methods (combined global, local and geostatistical methods). The validity of the maps was checked through independent test weather stations (30\% of the original stations). Different statistical accuracy measurements determined the quality of the models. The results show that some interpolation methods are very similar. Nevertheless, in the case of precipitation maps, we obtained the best results using geostatistical methods and a regression model formed by 4 geographic and topographic variables. The best results for temperature mapping were obtained using the regression-based method. The accuracy measurements obtained by the different interpolation methods change significantly depending on the climatic variable mapped. The validity of interpolation methods in the creation of climatic maps, useful for agricultural and hydrologic management, is discussed.}},
   Address                  = {{NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY}},
   Affiliation              = {{Vicente-Serrano, SM (Reprint Author), Univ Zaragoza, Dept Geog, Campus San Francisco, E-50009 Zaragoza, Spain. Univ Zaragoza, Dept Geog, E-50009 Zaragoza, Spain.}},
@@ -27107,7 +27605,7 @@
   Journal                  = {Agricultural and Forest Meteorology },
   Year                     = {2001},
   Number                   = {2},
-  Pages                    = {87 - 103},
+  Pages                    = {87-103},
   Volume                   = {106},
 
   Abstract                 = {Long-term daily climatological data are important to study forest damage and simulate tree growth, but they are scarce in forested areas because observational records are often scarce. At the eight Bavarian forest sites, we examined six interpolation methods and established empirical transfer functions relating observed forest climate data to the climate data of German weather stations. Based on our comparisons, a technique is developed and used to reconstruct 31-year daily forest climatological data at six forest sites. The reconstructed climate data were then used to calculate four meteorological stress factors which are of importance to forest studies. Finally, the uncertainties, temporal and spatial variation of these stress factors were discussed. },
@@ -27250,6 +27748,14 @@
 
   File                     = {:Xue - 2008.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {Atmospheric Temperature Prediction using Support Vector Machines},
+  Author                   = {Y.Radhika AND M.Shashi},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2015.04.10}
 }
 
 @Article{Yachi1999,
