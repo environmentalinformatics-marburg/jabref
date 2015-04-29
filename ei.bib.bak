@@ -5149,6 +5149,18 @@
   Url                      = {http://openurl.ingenta.com/content/xref?genre=article\&issn=0372-8854\&volume=55\&issue=4\&spage=415}
 }
 
+@Manual{Detsch2014,
+  Title                    = {GSODTools. R functions to select, download and process GSOD data},
+  Author                   = {Detsch, Florian},
+  Note                     = {R package version 1.0.0},
+  Year                     = {2014},
+
+  Doi                      = {10.5281/zenodo.12217},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.04.29},
+  Url                      = {https://github.com/environmentalinformatics-marburg/GSODTools/blob/master/README.rmd}
+}
+
 @Article{Detschforthcoming,
   Title                    = {Seasonal and long-term vegetation dynamics at Mt. Kilimanjaro from NDVI time series},
   Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
