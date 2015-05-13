@@ -11258,6 +11258,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0034425713003945}
 }
 
+@Article{Kuhnlein2014,
+  Title                    = {Precipitation Estimates from MSG SEVIRI Daytime, Nighttime, and Twilight Data with Random Forests},
+  Author                   = {K\"{u}hnlein, Meike and Appelhans, Tim and Thies, Boris and Nauss, Thomas},
+  Journal                  = {Journal of Applied Meteorology and Climatology},
+  Year                     = {2014},
+  Number                   = {11},
+  Pages                    = {2457--2480},
+  Volume                   = {53},
+
+  Doi                      = {http://dx.doi.org/10.1175/JAMC-D-14-0082.1},
+  Keywords                 = {Precipitation, Rainfall, Remote sensing},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.05.13},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-14-0082.1}
+}
+
 @Article{Kuehnlein2010,
   Title                    = {{Rainfall-Rate Assignment Using MSG SEVIRI Dataâ€”A Promising Approach to Spaceborne Rainfall-Rate Retrieval for Midlatitudes}},
   Author                   = {K\"{u}hnlein, Meike and Thies, Boris and Nau\ss, Thomas and Bendix, J\"{o}rg},
