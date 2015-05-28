@@ -41,7 +41,7 @@ MultiCiteChronological="false"
 PageInfoSeparator="; "
 
 LAYOUT
-article=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title.  \format[JournalAbbreviator]{\journal}, \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}, doi:\doi.
+article=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \format[JournalAbbreviator]{\journal}, \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}, doi:\doi.
 
 book=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \address: \publisher.
 
