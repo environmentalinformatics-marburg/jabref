@@ -916,6 +916,23 @@
   Url                      = {http://adsabs.harvard.edu/abs/1994BAMS...75..401A}
 }
 
+@Article{Armanios2014,
+  Title                    = {Measuring water availability with limited ground data: assessing the feasibility of an entirely remote-sensing-based hydrologic budget of the Ru
+fiji Basin, Tanzania, using TRMM, GRACE, MODIS, SRB, and AIRS},
+  Author                   = {Armanios, Daniel Erian and Fisher, Joshua B.},
+  Journal                  = {Hydrological Processes},
+  Year                     = {2014},
+  Pages                    = {853--867},
+  Volume                   = {28},
+
+  Doi                      = {10.1002/hyp.9611},
+  File                     = {:Armanios, Fisher - 2014.pdf:PDF},
+  Keywords                 = {remote sensing; hydrologic budget; Rufiji; Usangu; runoff; AIRS; SRB; TRMM; GRACE; MODIS},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.01},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/hyp.9611/full}
+}
+
 @Article{Articles2011,
   Title                    = {{Projecting land use/land cover changes in a tropical mountain forest of southern Ecuador}},
   Author                   = {Articles, Original},
@@ -5179,7 +5196,8 @@
 @Article{Detschforthcoming,
   Title                    = {Seasonal and long-term vegetation dynamics at Mt. Kilimanjaro from NDVI time series},
   Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
-  Year                     = {forthcoming},
+  Journal                  = {Remote Sensing of Environment},
+  Year                     = {submitted},
 
   Owner                    = {fdetsch},
   Timestamp                = {2015.03.16}
@@ -6617,6 +6635,22 @@
   Url                      = {http://etn.sagepub.com/cgi/doi/10.1177/1468796811419599}
 }
 
+@Article{Fisher2009,
+  Title                    = {The land-atmosphere water flux in the tropics},
+  Author                   = {Fisher, Joshua B. and Malhi, Yadvinder and Bonal, Damien and Da Rocha, Humberto R. and Ara\'{u}jo, Alessandro C. and Gamo, Minoru and Goulden, Michael L. and Hirano, Takashi and Huete, Alfredo R. and Kondo, Hiroaki and Kumagai, Tomo'omi and Loescher, Henry W. and Miller, Scott and Nobre, Antonio D. and Nouvellon, Yann and Oberbauer, Steven F. and Panuthai, Samreong and Roupsard, Olivier and Saleska, Scott and Tanaka, Katsunori and Tanaka, Nobuaki and Tu, Kevin P. and Von Randow, Celso},
+  Journal                  = {Global Change Biology},
+  Year                     = {2009},
+  Pages                    = {2694--2714},
+  Volume                   = {15},
+
+  Doi                      = {10.1111/j.1365-2486.2008.01813.x},
+  File                     = {:Fisher et al. - 2009.pdf:PDF},
+  Keywords                 = {Amazon,  eddy  covariance,  evaporation,  evapotranspiration,  ISLSCP-II,  LBA,  model,  remote sensing, tropical},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.01},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2008.01813.x/full}
+}
+
 @Article{Flaspohler2010,
   Title                    = {{Long-term effects of fragmentation and fragment properties on bird species richness in Hawaiian forests}},
   Author                   = {Flaspohler, David J. and Giardina, Christian P. and Asner, Gregory P. and Hart, Patrick and Price, Jonathan and Lyons, Cassie Kaâ€™apu and Castaneda, Xeronimo},
@@ -6639,7 +6673,7 @@
 @Article{Foley2005,
   Title                    = {{Global consequences of land use}},
   Author                   = {Foley, Jonathan A and Defries, Ruth and Asner, Gregory P and Barford, Carol and Bonan, Gordon and Carpenter, Stephen R and Chapin, F Stuart and Coe, Michael T and Daily, Gretchen C and Gibbs, Holly K and Helkowski, Joseph H and Holloway, Tracey and Howard, Erica a and Kucharik, Christopher J and Monfreda, Chad and Patz, Jonathan A and Prentice, I Colin and Ramankutty, Navin and Snyder, Peter K},
-  Journal                  = {Science (New York, N.Y.)},
+  Journal                  = {Science},
   Year                     = {2005},
 
   Month                    = jul,
@@ -23831,6 +23865,20 @@
   File                     = {:Stewart - 1992.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://adsabs.harvard.edu/abs/1992BAMS...73..287S}
+}
+
+@Book{Stocker2013,
+  Title                    = {Climate Change 2013. The Physical Science Basis},
+  Author                   = {Stocker, Thomas F. and Qin, Dahe and Plattner, Gian-Kasper and Tignor, Melinda M.B. and Allen, Simon K. and Boschung, Judith and Nauels, Alexander and Xia, Yu and Bex, Vincent and Midgley, Pauline M.},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2013},
+
+  Address                  = {Cambridge, New York},
+  Series                   = {Intergovernmental Panel on Climate Change, Working Group I Contribution to the IPCC Fifth Assessment Report (AR5)},
+
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.01},
+  Url                      = {http://www.ipcc.ch/report/ar5/wg1/}
 }
 
 @Article{Stone2010,
