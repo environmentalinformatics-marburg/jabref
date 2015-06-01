@@ -1,4 +1,4 @@
-# Written by Florian Detsch
+# Written by Florian Detsch <florian.detsch@staff.uni-marburg.de>
 
 NAME
 Remote Sensing of Environment with abbreviated journal names
@@ -41,20 +41,21 @@ MultiCiteChronological="false"
 PageInfoSeparator="; "
 
 LAYOUT
-article=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \format[JournalAbbreviator]{\journal}, \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}, doi:\doi.
+article=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. <i>\format[JournalAbbreviator]{\journal}</i>, \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}, doi:\doi.
 
-book=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \address: \publisher.
+book=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). <i>\title</i>. \address: \publisher.
 
-incollection=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), \Booktitle (pp. \format[FormatPagesForHTML]{\pages}\end{pages}). \address: \publisher.
+incollection=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), <i>\Booktitle</i> (pp. \format[FormatPagesForHTML]{\pages}\end{pages}). \address: \publisher.
 
-inbook=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \format[AuthorLastFirst,AuthorAbbreviator,AuthorAndsReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+inbook=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. <i>\title</i>. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
-inproceedings=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title, in: \begin{editor}\editor (Eds.),\end{editor} \Booktitle, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+inproceedings=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), <i>\Booktitle</i>, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
-phdthesis=\format[Authors(LastFirst,InitialsNoSpace,Punc,Comma,Comma)]{\author}, \year\uniq. \title. (Doctoral dissertation). \school.
+phdthesis=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer)]{\author} (\format[FormatChars]{\year}\uniq). \title [Doctor Dissertation]. \address: \school.
 
-manual=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \Note. \Url.
+manual=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \Note. \Url.
 
-default=\format[Authors(LastFirst,InitialsNoSpace,NoPunc,Comma,Comma)]{\author}, \year\uniq \title. \journal, \volume\begin{pages}, \format[FormatPagesForHTML]{pp. \pages}\end{pages}.
+techreport=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. 
 
-techreport=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. 
+default=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. <i>\journal</i>, \volume\begin{pages}, \format[FormatPagesForHTML]{pp. \pages}\end{pages}.
+
