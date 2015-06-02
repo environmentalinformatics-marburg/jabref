@@ -37,7 +37,7 @@ GroupedNumbersSeparator="-"
 MinimumGroupingCount="3"
 FormatCitations="false"
 CitationCharacterFormat="Default"
-MultiCiteChronological="false"
+MultiCiteChronological="true"
 PageInfoSeparator="; "
 
 LAYOUT
@@ -45,17 +45,17 @@ article=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\f
 
 book=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). <i>\title</i>. \address: \publisher.
 
-incollection=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), <i>\Booktitle</i> (pp. \format[FormatPagesForHTML]{\pages}\end{pages}). \address: \publisher.
+incollection=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsCommaReplacer]{\editor} (Eds.), <i>\Booktitle</i> (pp. \format[FormatPagesForHTML]{\pages}\end{pages}). \address: \publisher.
 
-inbook=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. <i>\title</i>. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+inbook=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. <i>\title</i>. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsCommaReplacer]{\editor} (Eds.), \Series, \publisher, \address, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
-inproceedings=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsReplacer]{\editor} (Eds.), <i>\Booktitle</i>, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
+inproceedings=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author}, \year\uniq. \title. In \format[AuthorAbbreviator,AuthorFirstFirst,AuthorAndsCommaReplacer]{\editor} (Eds.), <i>\Booktitle</i>, \begin{publisher}\publisher,\end{publisher}\begin{address}\address\end{address}\begin{pages}, pp. \format[FormatPagesForHTML]{\pages}\end{pages}.
 
 phdthesis=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer)]{\author} (\format[FormatChars]{\year}\uniq). \title [Doctor Dissertation]. \address: \school.
 
 manual=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. \Note. \Url.
 
-techreport=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. 
+techreport=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. <i>\type</i> \number. \institution.
 
 default=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. <i>\journal</i>, \volume\begin{pages}, \format[FormatPagesForHTML]{pp. \pages}\end{pages}.
 
