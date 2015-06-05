@@ -5360,6 +5360,20 @@
   Timestamp                = {2015.03.25}
 }
 
+@TechReport{Dohrenwend1979a,
+  Title                    = {Hydrologie behavior at the top of a tropical mountain},
+  Author                   = {Dohrenwend, R. E.},
+  Institution              = {Michigan Technological University, Ford Forestry Center},
+  Year                     = {1979},
+  Number                   = {29},
+  Type                     = {Research Note},
+
+  File                     = {:Dohrenwend - 1979.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.02},
+  Url                      = {http://forest.mtu.edu/fordcenter/research/pubs/research_notes/Note29.pdf}
+}
+
 @Article{Doktorgrades2006,
   Title                    = {{SOFOS - A new Satellite-based Operational Fog Observation Scheme}},
   Author                   = {Doktorgrades, Erlangung and Naturwissenschaften, Der},
