@@ -5991,6 +5991,23 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281999\%29038\%3C1526\%3AEOTAHP\%3E2.0.CO\%3B2}
 }
 
+@Article{Ennslin2015,
+  Title                    = {Effects of elevation and land use on the biomass of trees, shrubs and herbs at Mount Kilimanjaro},
+  Author                   = {Ennslin, Andreas and Rutten, Gemma and Pommer, Ulf and Zimmermann, Reiner and Hemp, Andreas and Fischer, Markus},
+  Journal                  = {Ecosphere},
+  Year                     = {2015},
+  Number                   = {3},
+  Pages                    = {art45},
+  Volume                   = {6},
+
+  Doi                      = {http://dx.doi.org/10.1890/ES14-00492.1},
+  File                     = {:Ennslin et al. - 2015.pdf:PDF},
+  Keywords                 = {carbon stock, elevation gradient, land-use change, tropical mountain, vegetation strata},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.05},
+  Url                      = {http://www.esajournals.org/doi/10.1890/ES14-00492.1}
+}
+
 @Article{Environmental,
   Title                    = {{Environmental and Social Review Summary Cape Verde Wind Project}},
   Author                   = {Environmental, This},
@@ -6794,6 +6811,21 @@
   Keywords                 = {evenness,neural network,rain forest,remote sensing,richness,species composition},
   Owner                    = {tnauss},
   Url                      = {http://doi.wiley.com/10.1046/j.1365-2699.2003.00887.x}
+}
+
+@Article{Forde1977,
+  Title                    = {Effect of Temperature, Vapour-Pressure Deficit and Irradiance on Transpiration Rates of Maize, Paspalum, Westerwolds and Perennial Ryegrasses, Peas, White Clover and Lucerne},
+  Author                   = {Forde, B. J. and Mitchell, K. J. and Edge, E. A.},
+  Journal                  = {Functional Plant Biology},
+  Year                     = {1977},
+  Number                   = {6},
+  Pages                    = {889--899},
+  Volume                   = {4},
+
+  Doi                      = {10.1071/PP9770889},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.09},
+  Url                      = {http://www.publish.csiro.au/paper/PP9770889}
 }
 
 @Unpublished{Forecasting2000,
@@ -11286,6 +11318,21 @@
   Pmid                     = {17988759},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/17988759}
+}
+
+@PhdThesis{Kuehnel2014,
+  Title                    = {Variability of physical, chemical and hydraulic parameters in soils of Mt. Kilimanjaro across different land uses},
+  Author                   = {K\"{u}hnel, Anna},
+  School                   = {University of Bayreuth},
+  Year                     = {2014},
+
+  Address                  = {Faculty of Biology, Chemistry and Geosciences, University of Bayreuth},
+  Month                    = {September},
+
+  File                     = {:Kühnel - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.09},
+  Url                      = {https://www.dropbox.com/sh/vvcbfhve788ght2/AAANPV9JkZoz2O0bcKFDeaDra?dl=0}
 }
 
 @Article{Kuehnlein2013,
@@ -17747,6 +17794,21 @@
   ISSN                     = {03043800},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0304380011000251}
+}
+
+@Article{Murray1967,
+  Title                    = {On the Computation of Saturation Vapor Pressure},
+  Author                   = {Murray, F. W.},
+  Journal                  = {Journal of Applied Meteorology},
+  Year                     = {1967},
+  Pages                    = {203--204},
+  Volume                   = {6},
+
+  Doi                      = {http://dx.doi.org/10.1175/1520-0450(1967)006<0203:OTCOSV>2.0.CO;2},
+  File                     = {:Murray - 1967.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.09},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450%281967%29006%3C0203:OTCOSV%3E2.0.CO;2}
 }
 
 @Article{Murtugudde2000,
