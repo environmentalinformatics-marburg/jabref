@@ -17760,6 +17760,23 @@
   Url                      = {http://doi.wiley.com/10.1002/joc.3370151202}
 }
 
+@TechReport{Mu2013,
+  Title                    = {MODIS Global Terrestrial Evapotranspiration (ET) Product (NASA MOD16A2/A3)},
+  Author                   = {Mu, Qiaozhen and Zhao, Maosheng and Running, Steven W.},
+  Institution              = {Numerical Terradynamic Simulation Group, College of Forestry and Conservation, The University of Montana},
+  Year                     = {2013},
+
+  Address                  = {Missoula, MT 59812},
+  Month                    = {November},
+  Number                   = {Collection 5},
+  Type                     = {Algorithm Theoretical Basis Document},
+
+  File                     = {:Mu, Zhao, Running - 2013.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.16},
+  Url                      = {https://secure.ntsg.umt.edu/publications/2013/MZR13/MOD16_ATBD.pdf}
+}
+
 @Article{Muamba2010,
   Title                    = {{Weather Vulnerability , Climate Change , and Food Security in Mt . Kilimanjaro}},
   Author                   = {Muamba, Francis M. and Kraybill, David S},
