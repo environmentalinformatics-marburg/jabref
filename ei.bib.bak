@@ -2688,6 +2688,18 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0493\%281997\%29125\%3C2014\%3AORDACI\%3E2.0.CO\%3B2}
 }
 
+@Article{Blaney1958,
+  Title                    = {Evaporation from free water surfaces at high altitudes},
+  Author                   = {Blaney, H. F.},
+  Journal                  = {Transactions of the American Society of Civil Engineers},
+  Year                     = {1958},
+  Pages                    = {385--404},
+  Volume                   = {123},
+
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.18}
+}
+
 @Article{BlizAaˆak2011,
   Title                    = {{The exploitation of Meteosat Second Generation data for convective storms over the Czech Republic}},
   Author                   = {Bli\v{z}Åˆ\'{a}k, Vojt\v{e}ch and Sokol, Zbyn\v{e}k},
@@ -18774,6 +18786,22 @@
   File                     = {:Notter - Unknown.pdf:PDF},
   Keywords                 = {Ecosystem Services},
   Owner                    = {tnauss}
+}
+
+@Article{Nullet1994,
+  Title                    = {Generalised mountain evaporation profiles for tropical and subtropical latitudes},
+  Author                   = {Nullet, Dennis and Juvik, James O.},
+  Journal                  = {Singapore Journal of Tropical Geography},
+  Year                     = {1994},
+  Number                   = {1},
+  Pages                    = {17--24},
+  Volume                   = {15},
+
+  Doi                      = {10.1111/j.1467-9493.1994.tb00242.x},
+  File                     = {:Nullet, Juvik - 1994.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.18},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9493.1994.tb00242.x/abstract}
 }
 
 @Article{Nurmi2003,
