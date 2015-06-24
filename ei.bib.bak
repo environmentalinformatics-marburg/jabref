@@ -812,6 +812,21 @@
   Url                      = {http://CRAN.R-project.org/package=remote}
 }
 
+@Article{Appelhans2015,
+  Title                    = {Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania },
+  Author                   = {Tim Appelhans and Ephraim Mwangomo and Douglas R. Hardy and Andreas Hemp and Thomas Nauss},
+  Journal                  = {Spatial Statistics },
+  Year                     = {2015},
+  Number                   = {0},
+  Pages                    = { - },
+
+  Abstract                 = {Abstract Spatially high resolution climate information is required for a variety of applications in but not limited to functional biodiversity research. In order to scale the generally plot-based research fndings to a landscape level, spatial interpolation methods of meteorological variables are required. Based on a network of tempreature observation plots across the southern slopes of Mt. Kilimanjaro, the skill of 14 machine learning algorithms in predicting spatial temperature patterns is tested and evaluated against the heavily utilized kriging approach. Based on a 10-fold cross-validation testing design, regression trees generally perform better than linear and non-linear regression models. The best individual performance has been observed by the stochastic gradient boosting model followed by Cubist, random forest and model averaged neural networks which except for the latter are all regression tree-based algorithms. While these machine learning algorithms perform better than kriging in a quantitative evaluation, the overall visual interpretation of the resulting air temperature maps is ambiguous. Here, a combined Cubist and residual kriging approach can be considered the best solution. },
+  Doi                      = {http://dx.doi.org/10.1016/j.spasta.2015.05.008},
+  ISSN                     = {2211-6753},
+  Keywords                 = {Spatial interpolation},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S2211675315000482}
+}
+
 @Article{Appelhanssubmitted,
   Title                    = {Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania},
   Author                   = {Appelhans, Tim and Mwangomo, Ephraim and Otte, Insa and Detsch, Florian and Nauss, Thomas and Hemp, Andreas},
@@ -2446,6 +2461,22 @@
   Url                      = {http://doi.wiley.com/10.1029/2008JG000883}
 }
 
+@Article{Bergh2013,
+  Title                    = {Climate and plant cover co-determine the elevational reduction in evapotranspiration in the Swiss Alps},
+  Author                   = {van den Bergh, Thijs and Inauen, Nicole and Hiltbrunner, Erika and Körner, Christian},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2013},
+  Pages                    = {75--83},
+  Volume                   = {500},
+
+  Doi                      = {10.1016/j.jhydrol.2013.07.013},
+  File                     = {:van den Bergh et al. - 2013.pdf:PDF},
+  Keywords                 = {Atmometer; Grassland; Hydrology; Lysimeter; Mountain; Penman-Monteith equation},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0022169413005301#}
+}
+
 @Unpublished{Bernard2003,
   Title                    = {{Semantikverlust in integrierten Systemen â€“ Ein Fallbeispiel aus der Umweltplanung}},
   Author                   = {Bernard, Lars and M\"{u}nster, Westf\"{a}lische Wilhelms-universit\"{a}t},
@@ -2578,6 +2609,22 @@
   Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3073843\&tool=pmcentrez\&rendertype=abstract}
 }
 
+@Article{Biudes2015,
+  Title                    = {Patterns of energy exchange for tropical ecosystems across a climate gradient in Mato Grosso, Brazil},
+  Author                   = {Biudes, Marcelo Sacardi and Vourlitis, George Louis and Machado, Nadja Gomes and de Arruda, Paulo Henrique Zanella and Neves, Geraldo Aparecido Rodrigues and Lobo, Francisco de Almeida and Neale, Christopher Michael Usher and Nogueira, Jos\´{e} de Souza},
+  Journal                  = {Agricultural and Forest Meteorology},
+  Year                     = {2015},
+  Pages                    = {112--124},
+  Volume                   = {202},
+
+  Doi                      = {10.1016/j.agrformet.2014.12.008},
+  File                     = {:Biudes et al. - 2015.pdf:PDF},
+  Keywords                 = {Amazon Basin; Climate change; Deforestation; Ecosystem function; Evapotranspiration; Sensible heat flux},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192314003189}
+}
+
 @Article{Bj2009,
   Title                    = {{Quality Control of Flow Cytometry Data Analysis for Evaluation of Minimal Residual Disease in Bone Marrow From Acute Leukemia Patients During Treatment}},
   Author                   = {Bj, Elisabet},
@@ -2690,14 +2737,16 @@
 
 @Article{Blaney1958,
   Title                    = {Evaporation from free water surfaces at high altitudes},
-  Author                   = {Blaney, H. F.},
+  Author                   = {Blaney, Harry F.},
   Journal                  = {Transactions of the American Society of Civil Engineers},
   Year                     = {1958},
+  Number                   = {1},
   Pages                    = {385--404},
   Volume                   = {123},
 
   Owner                    = {fdetsch},
-  Timestamp                = {2015.06.18}
+  Timestamp                = {2015.06.18},
+  Url                      = {http://cedb.asce.org/cgi/WWWdisplay.cgi?294401}
 }
 
 @Article{BlizAaˆak2011,
@@ -7955,6 +8004,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0341816202000280}
 }
 
+@Article{Goulden2012,
+  Title                    = {Evapotranspiration along an elevation gradient in California’s Sierra Nevada},
+  Author                   = {Goulden, M. L. and Anderson, R. G. and Bales, R. C. and Kelly, A. E. and Meadows, M. and Winston, G. C.},
+  Journal                  = {Journal of Geophysical Research: Biogeosciences},
+  Year                     = {2012},
+  Number                   = {G3},
+  Pages                    = {G03028},
+  Volume                   = {117},
+
+  Doi                      = {10.1029/2012JG002027},
+  File                     = {:Goulden et al. - 2012.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/2012JG002027/full}
+}
+
 @Article{Goward1991,
   Title                    = {{Normalized difference vegetation index measurements from the advanced very high resolution radiometer}},
   Author                   = {Goward, S and Markham, B and Dye, D and Dulaney, W and Yang, J},
@@ -8876,6 +8941,22 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192314002780#}
 }
 
+@Article{Hardy1998,
+  Title                    = {Annual and Daily Meteorological CCycle at High Altitude on a Tropical Mountain},
+  Author                   = {Hardy, Douglas R. and Vuille, Mathias and Braun, Carsten and Keimig, Frank and Bradley, Raymond S.},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {1998},
+  Number                   = {9},
+  Pages                    = {1899--1913},
+  Volume                   = {79},
+
+  Doi                      = {http://dx.doi.org/10.1175/1520-0477(1998)079<1899:AADMCA>2.0.CO;2},
+  File                     = {:Hardy et al. - 1998.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.23},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281998%29079%3C1899%3AAADMCA%3E2.0.CO%3B2}
+}
+
 @Article{Harou2006,
   Title                    = {{The influence of the Indian Ocean dipole mode on precipitation over the Seychelles}},
   Author                   = {Harou, Aurelie P. and Lajoie, Robert F. and Kniveton, Dominic R. and Frogley, Michael R.},
@@ -9720,6 +9801,21 @@
   ISSN                     = {1211-9520},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/s12224-010-9090-5}
+}
+
+@Article{Heusinkveld2004,
+  Title                    = {Surface energy balance closure in an arid region: role of soil heat flux},
+  Author                   = {Heusinkveld, B. G. and Jacobs, A. F. G. and Holtslag, A. A. M. and Berkowicz, S. M.},
+  Journal                  = {Agricultural and Forest Meteorology},
+  Year                     = {2004},
+  Pages                    = {21--37},
+  Volume                   = {122},
+
+  Doi                      = {10.1016/j.agrformet.2003.09.005},
+  File                     = {:Heusinkveld et al. - 2004.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.23},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0168192303002259#}
 }
 
 @Book{Hey2009,
@@ -18816,6 +18912,21 @@
   Url                      = {http://scholar.google.com/scholar?hl=en\&btnG=Search\&q=intitle:Recommendations+on+the+verification+of+local+weather+forecasts+(+at+ECMWF+Member+States+)+Consultancy+Report\#1}
 }
 
+@Article{Nyman2014,
+  Title                    = {Downscaling regional climate data to calculate the radiative index of dryness in complex terrain},
+  Author                   = {Nyman, Petter and Sherwin, Christopher B. and Langhans, Christoph and Lane, Patrick N. J. and Sheridan, Gary J.},
+  Journal                  = {Australian Meteorological and Oceanographic Journal},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {109--122},
+  Volume                   = {64},
+
+  File                     = {:Nyman et al. - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://www.researchgate.net/publication/269634878_Downscaling_regional_climate_data_to_calculate_the_radiative_index_of_dryness_in_complex_terrain}
+}
+
 @Article{Nystuen1999,
   Title                    = {{Relative Performance of Automatic Rain Gauges under Different Rainfall Conditions}},
   Author                   = {Nystuen, Jeffrey a.},
@@ -19201,6 +19312,7 @@
 @Article{Ottesubmitted,
   Title                    = {Seasonal and long-term climate dynamics in the Mt Kilimanjaro region as observed from local and remote sensing time series},
   Author                   = {Otte, Insa and Detsch, Florian and Nauss, Thomas and Appelhans, Tim},
+  Journal                  = {Climate Dynamics},
   Year                     = {submitted},
 
   Owner                    = {tnauss},
@@ -21948,6 +22060,22 @@
   Owner                    = {tnauss},
   Tags                     = {Data repository project},
   Url                      = {http://www.sciencemag.org/cgi/doi/10.1126/science.1202828}
+}
+
+@Article{Roxy2014,
+  Title                    = {Soil heat flux and day time surface energy balance closure at astronomical observatory, Thiruvananthapuram, south Kerala},
+  Author                   = {Roxy, M. S. and Sumithranand, V. B. and Renuka, G.},
+  Journal                  = {Journal of Earth System Science},
+  Year                     = {2014},
+  Number                   = {4},
+  Pages                    = {741--750},
+  Volume                   = {123},
+
+  Doi                      = {10.1007/s12040-014-0437-9},
+  File                     = {:Roxy, Sumithranand, Renuka - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.06.23},
+  Url                      = {http://link.springer.com/article/10.1007%2Fs12040-014-0437-9}
 }
 
 @Article{Roy2003,
@@ -28633,7 +28761,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:/Zech et al. - 2010.pdf:PDF},
+  File                     = {:Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -28648,7 +28776,7 @@
   Volume                   = {12},
 
   Abstract                 = {Loess-Paleosols deposited during the Late Quaternary on the slopes of Mount Kilimanjaro, Tanzania (âˆ¼3Â°S), are valuable archives to reconstruct climate and environmental history in East Africa. Here we present results from a 6.5 m deep soil pit and sediment core from a small depression at âˆ¼2700 m asl on the eastern slopes, probably spanning most of the Late Quaternary (âˆ¼100 ka). Although a wide range of geochemical analyses has been performed (elemental composition, bulk isotope measurements, mineralogy, grain size), the most interesting results come from hydrogen isotopic measurements of long-chain fatty acids and alkanes, which provide qualitative estimates of past changes in precipitation. Our record shows lowest $\delta$D values from âˆ¼9 to 5 ka in the Early/Middle Holocene, consistent with regional evidence for an â€œAfrican Humid Periodâ€?. More arid conditions are inferred for the Earliest and Late Holocene (âˆ¼10î?¨shift), yielding a Holocene moisture pattern opposite to what has recently been inferred from Lake Challa at the foot of Mt. Kilimanjaro and questioning the notion that â€œdouble-precessionâ€? is a dominant driver in controlling the moisture availability in equatorial East Africa on orbital timescales. A 10 kyr cyclicity is not prominent in the longer record either. Instead, theYounger Dryas and the Last Glacial Maximum are characterized by $\delta$Denrichment (=aridity) of âˆ¼15î?¨ and âˆ¼20î?¨ compared to the Early/Middle Holocene, suggesting that northern hemispheric boundary conditions and the resultant southward migration of the ITCZ influenced moisture advection. Much more arid conditions (âˆ¼30î?¨enrichment) must be inferred for the paleosols older than âˆ¼60 ka. Although further dating efforts are required to determine the exact timing, this corroborates earlier findings from African lakes that suggested â€˜megadroughtsâ€™ occurred during Marine Isotope Stages 5 and 4.},
-  File                     = {:Zech et al. - 2010.pdf:PDF},
+  File                     = {:/Zech et al. - 2010.pdf:PDF},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project}
@@ -28978,66 +29106,10 @@
   Tags                     = {ATBD}
 }
 
-@Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
 @Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
 
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
-
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -29050,11 +29122,67 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+@Article{,
+  Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
+  Number                   = {June 2006},
+
+  File                     = {:Unknown - Unknown(9).pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
 }
 
 @Article{2012,
