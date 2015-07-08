@@ -38,7 +38,7 @@ MinimumGroupingCount="3"
 FormatCitations="false"
 CitationCharacterFormat="Default"
 MultiCiteChronological="true"
-PageInfoSeparator="; "
+PageInfoSeparator=", "
 
 LAYOUT
 article=\format[AuthorLastFirstAbbreviator,AuthorAndsCommaReplacer]{\author} (\format[FormatChars]{\year}\uniq). \title. <i>\format[JournalAbbreviator]{\journal}</i>, \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}, doi:\doi.
