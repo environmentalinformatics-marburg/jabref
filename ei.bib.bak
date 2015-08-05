@@ -1424,7 +1424,7 @@
 
 @Article{Baccini2008,
   Title                    = {{A first map of tropical Africaâ€™s above-ground biomass derived from satellite imagery}},
-  Author                   = {Baccini, a and Laporte, N and Goetz, S J and Sun, M and Dong, H},
+  Author                   = {Baccini, A and Laporte, N and Goetz, S J and Sun, M and Dong, H},
   Journal                  = {Environmental Research Letters},
   Year                     = {2008},
 
@@ -1436,8 +1436,9 @@
   Doi                      = {10.1088/1748-9326/3/4/045011},
   File                     = {:Baccini et al. - 2008.pdf:PDF},
   ISSN                     = {1748-9326},
-  Owner                    = {tnauss},
-  Url                      = {http://stacks.iop.org/1748-9326/3/i=4/a=045011?key=crossref.24eaa14be3435d90432b8de989ed79c3}
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.08.05},
+  Url                      = {https://iopscience.iop.org/1748-9326/3/4/045011/}
 }
 
 @Article{Baddeley2010,
@@ -5495,6 +5496,19 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2007JAMC1356.1}
 }
 
+@Manual{Didan2015,
+  Title                    = {MODIS Vegetation Index User's Guide (MOD13 Series)},
+  Author                   = {Didan, Kamel and Munoz, Armando Barreto and Solano, Ramon and Huete, Alfredo},
+  Month                    = {June},
+  Note                     = {Version 3.0.0 (Collection 6)},
+  Organization             = {Vegetation Index and Phenology Lab, The University of Arizona},
+  Year                     = {2015},
+
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.08.05},
+  Url                      = {http://vip.arizona.edu/documents/MODIS/MODIS_VI_UsersGuide_June_2015_C6.pdf}
+}
+
 @InCollection{Dinku2010,
   Title                    = {{Comparison of CMORPH and TRMM-3B42 over Mountainous Regions of Africa and South America}},
   Author                   = {Dinku, Tufa and Connor, Stephen J and Ceccato, Pietro},
@@ -8522,6 +8536,22 @@
   Tags                     = {Kap Verde}
 }
 
+@Article{Guay2014,
+  Title                    = {Vegetation productivity patterns at high northern latitudes: a multi-sensor satellite data assessment},
+  Author                   = {Guay, Kevin C. and Beck, Pieter S. and Berner, Logan T. and Goetz, Scott J. and Baccini, Alessandro and Buermann, Wolfgang},
+  Journal                  = {Global Change Biology},
+  Year                     = {2014},
+  Number                   = {10},
+  Pages                    = {3147--3158},
+  Volume                   = {20},
+
+  Doi                      = {10.1111/gcb.12647},
+  File                     = {:Guay et al. - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.08.05},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/gcb.12647/abstract?systemMessage=Wiley+Online+Library+will+have+intermittent+access+on+8th+August+2015+from+10%3A00-16%3A00+BST+%2F+05%3A00-11%3A00+EDT+%2F+17%3A00-23%3A00+SGT+for+essential+maintenance.++Apologies+for+the+inconvenience.}
+}
+
 @Article{Guerschman2003,
   Title                    = {{Land Use Impacts on the Normalized Difference Vegetation Index in Temperate Argentina}},
   Author                   = {Guerschman, Juan Pablo and Paruelo, Jos\'{e} M. and Burke, Ingrid C.},
@@ -10748,6 +10778,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0034425794900183}
 }
 
+@Article{Huete2010,
+  Title                    = {Remote Sensing of Tropical Forest Phenology: Issues and Controversies},
+  Author                   = {Huete, A. R. and Saleska, S. R.},
+  Journal                  = {International Archives of the Photogrammetry, Remote Sensing and Spatial Information Science},
+  Year                     = {2010},
+  Number                   = {8},
+  Pages                    = {539--541},
+  Volume                   = {38},
+
+  File                     = {:Huete, Saleska - 2010.pdf:PDF},
+  Keywords                 = {MODIS; Land; Optical; Vegetation; Precipitation; Ecology},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.08.05},
+  Url                      = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.222.493}
+}
+
 @Article{Huffman1997,
   Title                    = {{The Global Precipitation Climatology Project (GPCP) Combined Precipitation Dataset}},
   Author                   = {Huffman, George J. and Adler, Robert F. and Arkin, Philip and Chang, Alfred and Ferraro, Ralph and Gruber, Arnold and Janowiak, John and McNab, Alan and Rudolf, Bruno and Schneider, Udo},
@@ -11543,6 +11589,22 @@
   Keywords                 = {airborne hyperspectral,contemporary ref-,erence data,lidar canopy volume profiles,terrestrial},
   Owner                    = {tnauss},
   Url                      = {http://doi.wiley.com/10.1111/j.1526-100X.2010.00684.x}
+}
+
+@Article{Jong2011,
+  Title                    = {Analysis of monotonic greening and browning trends from global NDVI time-series},
+  Author                   = {de Jong, Rogier and de Bruin, Sytze and de Wit, Allard and Schaepman, Michael E. and Dent, David L.},
+  Journal                  = {Remote Sensing of Environment},
+  Year                     = {2011},
+  Pages                    = {692--702},
+  Volume                   = {115},
+
+  Doi                      = {10.1016/j.rse.2010.10.011},
+  File                     = {:de Jong et al. - 2011.pdf:PDF},
+  Keywords                 = {Global vegetation trends; Phenology; Harmonic analysis; GIMMS NDVI; Seasonal Mann-Kendall},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.08.04},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425710003160}
 }
 
 @Article{Joseph2010,
@@ -29820,6 +29882,38 @@
   Owner                    = {tnauss}
 }
 
+@Article{,
+  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
+  Number                   = {June 2006},
+
+  File                     = {:Unknown - Unknown(9).pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
 @Misc{,
   Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
 
@@ -29865,38 +29959,6 @@
 
   File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{No Title}},
-
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
-
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
 }
 
 @comment{jabref-meta: selector_keywords:}
