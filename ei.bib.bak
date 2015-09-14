@@ -1,16 +1,6 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.11b3.
 % Encoding: UTF8
 
-
-@InProceedings{,
-  Title                    = {REMOTE SENSING OF ENVIRONMENT 8:127-150(1 979)},
-  Author                   = { and RedPhotographiIcn fraredl and lnear Combinations and for MonitoringV and egetation },
-  Year                     = {1979},
-
-  Review                   = {REMOTE SENSING OF ENVIRONMENT 8:127-150(1 979) 127 Red and PhotographiIcn fraredl ,lnear Combinations for MonitoringV egetation COMPTON J. TUCKER EarthR esourceBsr anchN, ASA~G oddardS paceF lightC enterG, reenbelMt,a ryland2 0771 In situ collecteds pectrometedra taw ereu sedt o evaluatea nd quantifyt he relationshipbs etweenv ariousli near combinationosf red and photographicn fraredr adianceas nd experimentpalo t biomassl,e afw aterc ontenta, nd chlorophycllo ntentT. he radianceva riablese valuateidn cludedth er eda ndp hotographiincf rared(I B) radiancea nd the linearc ombinationosf the IR/red ratio,t he squarer oot of the IR/red ratio,t he IR- red differencet,h e vegetatioinn dex, and the transformevde getatioinn dex. In addition,t he correspondinggr eena nd red linear combinationws ere evaluatedfo r comparativpeu rposesT. hree datas ets wereu sedf rom June, Septembera,n d Octobers amplingp eriods. Regressioann al)s iss howedth ei ncreaseudt ilityo f theI R andr edl inearc ombinationvsis -a-vist hes ameg reena nd redl inearc ombinationTs.h er eda ndI R linearc ombinationhsa d7 %a nd1 4%g reaterre gressiosni gnificanceth ant he greena nd redl inearc ombinationfosr theJ unv andS eptembesra mplingp eriods,r espectively. Thev egetatioind ex,t ransformevde getatioind ex,a nds quarero oto f theI _R/redr atiow eret hem osts ignificant, followedc loselyb y thel _R/redr atio.L esst hana 6%d ifferencsee paratetdh eh ighesat ndl owesto f thesefo urI R and redl inearc ombinationsT.h e useo f theseli nearc ombinationws ass hownt o be sensitivep rimarilyto the greenle af area or greenl eafb iomassA. s such,t hesel inearc ombinationosf the red and photographiIcR radiancecsa n be employetdo monitort he photosyntheticaallcyt iveb iomasso f plantc anopies. Introduction canopys pectrain an attemptto quantify ther elationshibpe tweenth eI R andr ed The use of photographicn frared( IR) linear combinationas nd propertieso f andr edl inearc ombinationfosr monitor- plantc anopies. ing vegetatiobni omassa ndp hysiological statush aver ecentlyb ecomec ommonin PreviousW ork the remotes ensingc ommunityA. ccom- panyingt his increasedu sage,h owever, The use of a near-infrared/reradt io hasb eena lack of detaileda nalysecso n- methodf or estimatingb iomasso r leaf cerningl imitationso f these data and areai ndexw as first reportedb y Jordan theira pplication(s)tovegetationmon(i1to9r6-9 ) who used a radiancer atio of ing. Quantitativein formationre garding0 .800/0.675/~tmo derivet he leaf area the variousI R and red linearc ombina- index for forestc anopiesin a tropical tionsa nd the constraintisn volvedin the rain forest. This applicationo f the use of thesem ethodsw ill enablem ore IR/redr atiou sedt het ransmittelidg hta t advantageouasp plicationo f theset ech- thesew avelengthse, nsedo n the forest niquesI.t will alsop revenot verambitiousfl oor (Jordan, 1969). Subsequenwt ork use of these techniquesw hen other was reportedb y Pearsona nd Miller methodws ouldb e morea pplicableT.h is (1972) who developeda hand-held article examinesg round-collectegdra ss spectrarl adiometefro r estimatingr ass @ElsevieNr orthH ollandI nc., 1979 0034-4257/79/0201+2 274 501.75 
-
-}
-}
 
 @Article{Akesson,
   Title                    = {{Remittances and inequality in Cape Verde : the impact of changing family organization}},
@@ -740,6 +730,24 @@
   Url                      = {http://journals.ametsoc.org/perlserv/?doi=10.1175\%2F1520-0450(2000)039\%3C2024:PMPRUT\%3E2.0.CO\%3B2\&amp;request=get-abstract}
 }
 
+@Article{Apaydin2004,
+  Title                    = {{Spatial interpolation techniques for climate data in the GAP region in Turkey}},
+  Author                   = {Apaydin, H and Sonmez, Fk and Yildirim, Ye},
+  Journal                  = {Climate Research},
+  Year                     = {2004},
+  Number                   = {1911},
+  Pages                    = {31--40},
+  Volume                   = {28},
+
+  Doi                      = {10.3354/cr028031},
+  File                     = {:Apaydin, Sonmez, Yildirim - 2004.pdf:PDF},
+  ISSN                     = {0936-577X},
+  Keywords                 = {Biodiversity, Workshop Biodiversityand Climate, climate, cokriging, completely regularized spline, inverse distance, kriging, of the publisher, permitted without written consent, polynomial interpolation, resale or republication not, southeastern anatolia project, spatial interpolation, weighted},
+  Owner                    = {tnauss},
+  Tags                     = {Workshop Biodiversityand Climate},
+  Url                      = {http://www.int-res.com/abstracts/cr/v28/n1/p31-40/}
+}
+
 @Article{Apaydin2004a,
   Title                    = {{Spatial interpolation techniques for climate data in the GAP region in Turkey}},
   Author                   = {Apaydin, H and Sonmez, FK and Yildirim, YE},
@@ -774,22 +782,16 @@
   Web-of-science-categories = {{Environmental Sciences; Meteorology \& Atmospheric Sciences}}
 }
 
-@Article{Apaydin2004,
-  Title                    = {{Spatial interpolation techniques for climate data in the GAP region in Turkey}},
-  Author                   = {Apaydin, H and Sonmez, Fk and Yildirim, Ye},
-  Journal                  = {Climate Research},
-  Year                     = {2004},
-  Number                   = {1911},
-  Pages                    = {31--40},
-  Volume                   = {28},
+@Manual{Appelhans2014,
+  Title                    = {remote: Empirical Orthogonal Teleconnections in R},
+  Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
+  Note                     = {R package version 0.3.0},
+  Year                     = {2014},
 
-  Doi                      = {10.3354/cr028031},
-  File                     = {:Apaydin, Sonmez, Yildirim - 2004.pdf:PDF},
-  ISSN                     = {0936-577X},
-  Keywords                 = {Biodiversity, Workshop Biodiversityand Climate, climate, cokriging, completely regularized spline, inverse distance, kriging, of the publisher, permitted without written consent, polynomial interpolation, resale or republication not, southeastern anatolia project, spatial interpolation, weighted},
-  Owner                    = {tnauss},
-  Tags                     = {Workshop Biodiversityand Climate},
-  Url                      = {http://www.int-res.com/abstracts/cr/v28/n1/p31-40/}
+  File                     = {:Appelhans et al. - 2015.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.05.13},
+  Url                      = {http://CRAN.R-project.org/package=remote}
 }
 
 @Article{Appelhans2015b,
@@ -805,18 +807,6 @@
   Keywords                 = {teleconnection analysis, spatial data mining, raster data, R, climate science},
   Owner                    = {fdetsch},
   Timestamp                = {2015.04.08}
-}
-
-@Manual{Appelhans2014,
-  Title                    = {remote: Empirical Orthogonal Teleconnections in R},
-  Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
-  Note                     = {R package version 0.3.0},
-  Year                     = {2014},
-
-  File                     = {:Appelhans et al. - 2015.pdf:PDF},
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.05.13},
-  Url                      = {http://CRAN.R-project.org/package=remote}
 }
 
 @Article{Appelhans2015,
@@ -1423,7 +1413,7 @@
 }
 
 @Article{Baccini2008,
-  Title                    = {{A first map of tropical Africaâ€™s above-ground biomass derived from satellite imagery}},
+  Title                    = {{A first map of tropical Africa's above-ground biomass derived from satellite imagery}},
   Author                   = {Baccini, A and Laporte, N and Goetz, S J and Sun, M and Dong, H},
   Journal                  = {Environmental Research Letters},
   Year                     = {2008},
@@ -1714,6 +1704,19 @@
   Url                      = {http://geology.gsapubs.org/content/39/12/1111}
 }
 
+@Article{Barrett1985,
+  Title                    = {{Rainfall evaluation by remote sensing: problems and prospects}},
+  Author                   = {Barrett, E.C.},
+  Journal                  = {Hydrological Applications of Remote Sensing and Remote Data Transmission, IAHS Publ},
+  Year                     = {1985},
+  Number                   = {145},
+  Pages                    = {247--258},
+
+  File                     = {:Barrett - 1985.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://iahs.info/redbooks/a145/iahs\_145\_0247.pdf}
+}
+
 @Article{Barrett1993,
   Title                    = {{Precipitation measurement by satellites: Towards community algorithms}},
   Author                   = {Barrett, E.C.},
@@ -1730,19 +1733,6 @@
   ISSN                     = {02731177},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/027311779390537L}
-}
-
-@Article{Barrett1985,
-  Title                    = {{Rainfall evaluation by remote sensing: problems and prospects}},
-  Author                   = {Barrett, E.C.},
-  Journal                  = {Hydrological Applications of Remote Sensing and Remote Data Transmission, IAHS Publ},
-  Year                     = {1985},
-  Number                   = {145},
-  Pages                    = {247--258},
-
-  File                     = {:Barrett - 1985.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://iahs.info/redbooks/a145/iahs\_145\_0247.pdf}
 }
 
 @Article{Barrett1994,
@@ -3274,6 +3264,19 @@
   Url                      = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1645279&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1645279}
 }
 
+@Article{Browning1986,
+  Title                    = {{Conceptual models of precipitation systems}},
+  Author                   = {Browning, K.A.},
+  Journal                  = {Weather and Forecasting},
+  Year                     = {1986},
+  Pages                    = {23--41},
+  Volume                   = {1},
+
+  File                     = {:Browning - 1986.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://www.dca.iag.usp.br/www/material/amanda/aca-0433/artigos/modelo\_conceitual/i1520-0434-1-1-23.pdf}
+}
+
 @Article{Browning1990,
   Title                    = {{Rain, rainclouds and climate}},
   Author                   = {Browning, KA},
@@ -3288,19 +3291,6 @@
   Owner                    = {tnauss},
   Publisher                = {Wiley Online Library},
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/qj.49711649502/abstract}
-}
-
-@Article{Browning1986,
-  Title                    = {{Conceptual models of precipitation systems}},
-  Author                   = {Browning, K.A.},
-  Journal                  = {Weather and Forecasting},
-  Year                     = {1986},
-  Pages                    = {23--41},
-  Volume                   = {1},
-
-  File                     = {:Browning - 1986.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://www.dca.iag.usp.br/www/material/amanda/aca-0433/artigos/modelo\_conceitual/i1520-0434-1-1-23.pdf}
 }
 
 @Article{Bruce2001,
@@ -3857,26 +3847,6 @@
   Url                      = {http://www.nature.com/nature/journal/v486/n7401/pdf/nature11148.pdf}
 }
 
-@Article{Carling2004,
-  Title                    = {{Emigration, return and development in Cape Verde: the impact of closing borders}},
-  Author                   = {Carling, J\o rgen},
-  Journal                  = {Population, Space and Place},
-  Year                     = {2004},
-
-  Month                    = mar,
-  Number                   = {2},
-  Pages                    = {113--132},
-  Volume                   = {10},
-
-  Doi                      = {10.1002/psp.322},
-  File                     = {:Carling - 2004.pdf:PDF},
-  ISSN                     = {1544-8444},
-  Keywords                 = {Cape Verde, Kap Verde, deportation, emigration, remittances, return migration, transnationalism},
-  Owner                    = {tnauss},
-  Tags                     = {Kap Verde},
-  Url                      = {http://doi.wiley.com/10.1002/psp.322}
-}
-
 @Article{Carling2003,
   Title                    = {{Transnational Mappings Cartographies of Cape Verdean transnationalism}},
   Author                   = {Carling, J\o rgen},
@@ -3902,6 +3872,26 @@
   Keywords                 = {Cape Verde, Kap Verde},
   Owner                    = {tnauss},
   Tags                     = {Kap Verde}
+}
+
+@Article{Carling2004,
+  Title                    = {{Emigration, return and development in Cape Verde: the impact of closing borders}},
+  Author                   = {Carling, J\o rgen},
+  Journal                  = {Population, Space and Place},
+  Year                     = {2004},
+
+  Month                    = mar,
+  Number                   = {2},
+  Pages                    = {113--132},
+  Volume                   = {10},
+
+  Doi                      = {10.1002/psp.322},
+  File                     = {:Carling - 2004.pdf:PDF},
+  ISSN                     = {1544-8444},
+  Keywords                 = {Cape Verde, Kap Verde, deportation, emigration, remittances, return migration, transnationalism},
+  Owner                    = {tnauss},
+  Tags                     = {Kap Verde},
+  Url                      = {http://doi.wiley.com/10.1002/psp.322}
 }
 
 @Article{Carlson2007,
@@ -4059,25 +4049,6 @@
   Tags                     = {Atacama project}
 }
 
-@Article{Cermak2008,
-  Title                    = {{A novel approach to fog/low stratus detection using Meteosat 8 data}},
-  Author                   = {Cermak, Jan and Bendix, J\"{o}rg},
-  Journal                  = {Atmospheric Research},
-  Year                     = {2008},
-
-  Month                    = mar,
-  Number                   = {3-4},
-  Pages                    = {279--292},
-  Volume                   = {87},
-
-  Doi                      = {10.1016/j.atmosres.2007.11.009},
-  File                     = {:Cermak, Bendix - 2008.pdf:PDF},
-  ISSN                     = {01698095},
-  Keywords                 = {fog,meteosat second generation,nowcasting,remote sensing,stratiform clouds},
-  Owner                    = {tnauss},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809507002074}
-}
-
 @Article{Cermak2007,
   Title                    = {{Dynamical Nighttime Fog/Low Stratus Detection Based on Meteosat SEVIRI Data: A Feasibility Study}},
   Author                   = {Cermak, Jan and Bendix, J\"{o}rg},
@@ -4095,6 +4066,25 @@
   Keywords                 = {co 2 absorption,fog,limb effect,low stratus,meteosat seviri,satellite retrieval},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/s00024-007-0213-8}
+}
+
+@Article{Cermak2008,
+  Title                    = {{A novel approach to fog/low stratus detection using Meteosat 8 data}},
+  Author                   = {Cermak, Jan and Bendix, J\"{o}rg},
+  Journal                  = {Atmospheric Research},
+  Year                     = {2008},
+
+  Month                    = mar,
+  Number                   = {3-4},
+  Pages                    = {279--292},
+  Volume                   = {87},
+
+  Doi                      = {10.1016/j.atmosres.2007.11.009},
+  File                     = {:Cermak, Bendix - 2008.pdf:PDF},
+  ISSN                     = {01698095},
+  Keywords                 = {fog,meteosat second generation,nowcasting,remote sensing,stratiform clouds},
+  Owner                    = {tnauss},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809507002074}
 }
 
 @Article{Cermak2008a,
@@ -5904,17 +5894,6 @@
   Url                      = {http://ppg.sagepub.com/cgi/doi/10.1177/0309133307079054}
 }
 
-@TechReport{DWD2002,
-  Title                    = {{Das Niederschlagsgeschehen in Mitteleuropa in den ersten 12 Tagen des August 2002}},
-  Author                   = {DWD},
-  Year                     = {2002},
-  Number                   = {August},
-
-  File                     = {:DWD - 2002.pdf:PDF},
-  Owner                    = {tnauss},
-  Pages                    = {8--12}
-}
-
 @Article{DWD1997,
   Title                    = {{Das Meteorologische Observatorium Hohenpei\ss enberg II}},
   Author                   = {DWD},
@@ -5924,6 +5903,17 @@
 
   File                     = {:DWD - 1997.pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@TechReport{DWD2002,
+  Title                    = {{Das Niederschlagsgeschehen in Mitteleuropa in den ersten 12 Tagen des August 2002}},
+  Author                   = {DWD},
+  Year                     = {2002},
+  Number                   = {August},
+
+  File                     = {:DWD - 2002.pdf:PDF},
+  Owner                    = {tnauss},
+  Pages                    = {8--12}
 }
 
 @Article{Eastman2005,
@@ -6632,6 +6622,25 @@
   Owner                    = {tnauss}
 }
 
+@Article{Feilhauer2009,
+  Title                    = {{Mapping continuous fields of forest alpha and beta diversity}},
+  Author                   = {Feilhauer, Hannes and Schmidtlein, Sebastian},
+  Journal                  = {Applied Vegetation Science},
+  Year                     = {2009},
+
+  Month                    = oct,
+  Number                   = {4},
+  Pages                    = {429--439},
+  Volume                   = {12},
+
+  Doi                      = {10.1111/j.1654-109X.2009.01037.x},
+  File                     = {:Feilhauer, Schmidtlein - 2009.pdf:PDF},
+  ISSN                     = {14022001},
+  Keywords                 = {1995,czerepanov,diversity gradients,diversity maps,kyrgyz-,nomenclature,partial least squares regression,predictive mapping,species turnover,stan,walnut-fruit forests},
+  Owner                    = {tnauss},
+  Url                      = {http://doi.wiley.com/10.1111/j.1654-109X.2009.01037.x}
+}
+
 @Article{Feilhauer2011a,
   Title                    = {{On variable relations between vegetation patterns and canopy reflectance}},
   Author                   = {Feilhauer, Hannes and Schmidtlein, Sebastian},
@@ -6650,25 +6659,6 @@
   Owner                    = {tnauss},
   Publisher                = {Elsevier B.V.},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S1574954111000021}
-}
-
-@Article{Feilhauer2009,
-  Title                    = {{Mapping continuous fields of forest alpha and beta diversity}},
-  Author                   = {Feilhauer, Hannes and Schmidtlein, Sebastian},
-  Journal                  = {Applied Vegetation Science},
-  Year                     = {2009},
-
-  Month                    = oct,
-  Number                   = {4},
-  Pages                    = {429--439},
-  Volume                   = {12},
-
-  Doi                      = {10.1111/j.1654-109X.2009.01037.x},
-  File                     = {:Feilhauer, Schmidtlein - 2009.pdf:PDF},
-  ISSN                     = {14022001},
-  Keywords                 = {1995,czerepanov,diversity gradients,diversity maps,kyrgyz-,nomenclature,partial least squares regression,predictive mapping,species turnover,stan,walnut-fruit forests},
-  Owner                    = {tnauss},
-  Url                      = {http://doi.wiley.com/10.1111/j.1654-109X.2009.01037.x}
 }
 
 @Article{Feingold1998,
@@ -7827,7 +7817,7 @@
   Keywords                 = {MODIS, fire, MOD14A1, MYD14A1},
   Owner                    = {fdetsch},
   Timestamp                = {2014.10.28},
-  Url                      = {http://www.fao.org/fileadmin/templates/gfims/docs/MODIS_Fire_Users_Guide_2.4.pdf}
+  Url                      = {http://www.fao.org/fileadmin/templates/gfims/docs/MODIS_Fire_Users_Guide_2.4.pdf (accessed on 11 September 2015)}
 }
 
 @Article{Giglio2009,
@@ -8085,6 +8075,38 @@
   Web-of-science-categories = {{Environmental Sciences; Meteorology \& Atmospheric Sciences}}
 }
 
+@Article{Goovaerts2000,
+  Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
+  Author                   = {Goovaerts, P.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2000},
+  Pages                    = {113-129},
+  Volume                   = {228},
+
+  Doi                      = {10.1016/S0022-1694(00)00144-X},
+  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
+  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
+}
+
+@Article{Goovaerts2000b,
+  Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
+  Author                   = {Goovaerts, P.},
+  Journal                  = {Journal of Hydrology},
+  Year                     = {2000},
+  Pages                    = {113-129},
+  Volume                   = {228},
+
+  Doi                      = {10.1016/S0022-1694(00)00144-X},
+  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
+  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
+  Owner                    = {mwangomo},
+  Timestamp                = {2014.10.02},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
+}
+
 @Article{Goovaerts2000a,
   Title                    = {{Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall}},
   Author                   = {Goovaerts, P},
@@ -8116,38 +8138,6 @@
   Type                     = {{Article}},
   Unique-id                = {{ISI:000085996300010}},
   Web-of-science-categories = {{Engineering, Civil; Geosciences, Multidisciplinary; Water Resources}}
-}
-
-@Article{Goovaerts2000,
-  Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
-  Author                   = {Goovaerts, P.},
-  Journal                  = {Journal of Hydrology},
-  Year                     = {2000},
-  Pages                    = {113-129},
-  Volume                   = {228},
-
-  Doi                      = {10.1016/S0022-1694(00)00144-X},
-  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
-  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
-}
-
-@Article{Goovaerts2000b,
-  Title                    = {Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall},
-  Author                   = {Goovaerts, P.},
-  Journal                  = {Journal of Hydrology},
-  Year                     = {2000},
-  Pages                    = {113-129},
-  Volume                   = {228},
-
-  Doi                      = {10.1016/S0022-1694(00)00144-X},
-  File                     = {:Goovaerts_2000_Geostatistical approaches for incorporating elevation into the spatial interpolation of rainfall_Journal_of_Hydroloy_228_113_129.pdf:PDF},
-  Keywords                 = {DEM, Kilimanjaro, Kriging, Machine learning, Multivariate geostatistics, Rainfall, Spatial interpolation},
-  Owner                    = {mwangomo},
-  Timestamp                = {2014.10.02},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S002216940000144X}
 }
 
 @Article{Goudie2002,
@@ -9217,6 +9207,40 @@
   Url                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2644128\&tool=pmcentrez\&rendertype=abstract}
 }
 
+@Article{Hastenrath2001,
+  Title                    = {{Variations of East African climate during the past two centuries}},
+  Author                   = {Hastenrath, Stefan},
+  Journal                  = {Climatic change},
+  Year                     = {2001},
+  Number                   = {1},
+  Pages                    = {209--217},
+  Volume                   = {50},
+
+  File                     = {:Hastenrath - 2001.pdf:PDF},
+  ISSN                     = {0165-0009},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Publisher                = {Springer},
+  Tags                     = {Kilimanjaro project},
+  Url                      = {http://www.springerlink.com/index/J2V2427751277774.pdf}
+}
+
+@Article{Hastenrath2010,
+  Title                    = {{Short Communication Climatic forcing of glacier thinning on the mountains of equatorial East Africa}},
+  Author                   = {Hastenrath, Stefan},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2010},
+  Pages                    = {146--152},
+  Volume                   = {30},
+
+  Abstract                 = {Equatorial glaciers are particularly climate sensitive components of the environment and their area shrinkage is spectacular, but the quantitative appraisal of climatic forcing requires information on net balance and changing ice thickness. Unique in the tropical belt, observations of mass budget and surface topography have been gathered by decades- long monitoring on Mount Kenya, particularly its largest, the Lewis Glacier. More limited information on ice thickness change is available for the summit of Kilimanjaro. Sensitivity analyses with constant precipitation, net allwave radiation and relative humidity serve to explore the sensible and latent heat transfer processes; humidity change riding on that of temperature providing the more substantial energy contribution to ablation. For Lewis Glacier it is found that with air some 0.7 Â°C cooler the mass budget could reach equilibrium. Observations on the secular evolution of air temperature and humidity in the areas of Mount Kenya and Rwenzori show compatible magnitudes, although contribution by radiative forcing cannot be excluded. For the summit of Kilimanjaro, above the mean freezing level, where ablation is limited to sublimation, turbulent heat transfer processes associated with temperature differences cannot account for the imbalance of the mass budget, and solar radiation forcing continues to be important for both the ice thinning and the lateral retreat of ice cliffs. Copyright Â© 2009 Royal Meteorological Society},
+  Doi                      = {10.1002/joc},
+  File                     = {:/Hastenrath - 2010.pdf:PDF},
+  Keywords                 = {Kilimanjaro, ablation, accepted 12 january 2009, kilimanjaro, lewis glacier, mount kenya, net balance, received 18 february 2008, revised 27 october 2008, rwenzori, sensitivity analysis},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
 @Article{Hastenrath2000,
   Title                    = {{Zonal circulations over the equatorial Indian Ocean}},
   Author                   = {Hastenrath, S},
@@ -9250,40 +9274,6 @@
   Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
 }
 
-@Article{Hastenrath2010,
-  Title                    = {{Short Communication Climatic forcing of glacier thinning on the mountains of equatorial East Africa}},
-  Author                   = {Hastenrath, Stefan},
-  Journal                  = {International Journal of Climatology},
-  Year                     = {2010},
-  Pages                    = {146--152},
-  Volume                   = {30},
-
-  Abstract                 = {Equatorial glaciers are particularly climate sensitive components of the environment and their area shrinkage is spectacular, but the quantitative appraisal of climatic forcing requires information on net balance and changing ice thickness. Unique in the tropical belt, observations of mass budget and surface topography have been gathered by decades- long monitoring on Mount Kenya, particularly its largest, the Lewis Glacier. More limited information on ice thickness change is available for the summit of Kilimanjaro. Sensitivity analyses with constant precipitation, net allwave radiation and relative humidity serve to explore the sensible and latent heat transfer processes; humidity change riding on that of temperature providing the more substantial energy contribution to ablation. For Lewis Glacier it is found that with air some 0.7 Â°C cooler the mass budget could reach equilibrium. Observations on the secular evolution of air temperature and humidity in the areas of Mount Kenya and Rwenzori show compatible magnitudes, although contribution by radiative forcing cannot be excluded. For the summit of Kilimanjaro, above the mean freezing level, where ablation is limited to sublimation, turbulent heat transfer processes associated with temperature differences cannot account for the imbalance of the mass budget, and solar radiation forcing continues to be important for both the ice thinning and the lateral retreat of ice cliffs. Copyright Â© 2009 Royal Meteorological Society},
-  Doi                      = {10.1002/joc},
-  File                     = {:/Hastenrath - 2010.pdf:PDF},
-  Keywords                 = {Kilimanjaro, ablation, accepted 12 january 2009, kilimanjaro, lewis glacier, mount kenya, net balance, received 18 february 2008, revised 27 october 2008, rwenzori, sensitivity analysis},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Article{Hastenrath2001,
-  Title                    = {{Variations of East African climate during the past two centuries}},
-  Author                   = {Hastenrath, Stefan},
-  Journal                  = {Climatic change},
-  Year                     = {2001},
-  Number                   = {1},
-  Pages                    = {209--217},
-  Volume                   = {50},
-
-  File                     = {:Hastenrath - 2001.pdf:PDF},
-  ISSN                     = {0165-0009},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Publisher                = {Springer},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/J2V2427751277774.pdf}
-}
-
 @Article{Hastenrath2004,
   Title                    = {Climate dynamics of atmosphere and ocean in the equatorial zone: a synthesis},
   Author                   = {Hastenrath, Stefan and Lamb, Peter J.},
@@ -9315,24 +9305,24 @@
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/93JC02330/abstract;jsessionid=08A15E29B0CBFA6B78DF35358C503E28.f01t01}
 }
 
-@Article{Hastenrath2011,
-  Title                    = {{Circulation Mechanisms of Kenya Rainfall Anomalies}},
+@Article{Hastenrath2007,
+  Title                    = {{Diagnosing the 2005 Drought in Equatorial East Africa}},
   Author                   = {Hastenrath, Stefan and Polzin, Dierk and Mutai, Charles},
   Journal                  = {Journal of Climate},
-  Year                     = {2011},
+  Year                     = {2007},
 
-  Month                    = jan,
-  Number                   = {2},
-  Pages                    = {404--412},
-  Volume                   = {24},
+  Month                    = sep,
+  Number                   = {18},
+  Pages                    = {4628--4637},
+  Volume                   = {20},
 
-  Doi                      = {10.1175/2010JCLI3599.1},
-  File                     = {:Hastenrath, Polzin, Mutai - 2011.pdf:PDF},
+  Doi                      = {10.1175/JCLI4238.1},
+  File                     = {:Hastenrath, Polzin, Mutai - 2007.pdf:PDF},
   ISSN                     = {0894-8755},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3599.1}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JCLI4238.1}
 }
 
 @Article{Hastenrath2010b,
@@ -9355,24 +9345,24 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2009JCLI3094.1}
 }
 
-@Article{Hastenrath2007,
-  Title                    = {{Diagnosing the 2005 Drought in Equatorial East Africa}},
+@Article{Hastenrath2011,
+  Title                    = {{Circulation Mechanisms of Kenya Rainfall Anomalies}},
   Author                   = {Hastenrath, Stefan and Polzin, Dierk and Mutai, Charles},
   Journal                  = {Journal of Climate},
-  Year                     = {2007},
+  Year                     = {2011},
 
-  Month                    = sep,
-  Number                   = {18},
-  Pages                    = {4628--4637},
-  Volume                   = {20},
+  Month                    = jan,
+  Number                   = {2},
+  Pages                    = {404--412},
+  Volume                   = {24},
 
-  Doi                      = {10.1175/JCLI4238.1},
-  File                     = {:Hastenrath, Polzin, Mutai - 2007.pdf:PDF},
+  Doi                      = {10.1175/2010JCLI3599.1},
+  File                     = {:Hastenrath, Polzin, Mutai - 2011.pdf:PDF},
   ISSN                     = {0894-8755},
   Keywords                 = {Kilimanjaro},
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JCLI4238.1}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3599.1}
 }
 
 @Article{Hawkins2003a,
@@ -9624,7 +9614,7 @@
 }
 
 @Book{Helsel2002,
-  Title                    = {Statistical Methods in Water Resources (Techniques of Water-Resources Investigation, Book 4, Chapter 3A)},
+  Title                    = {Statistical Methods in Water Resources (Techniques of Water-Resources Investigation, Book 4, Chapter A3)},
   Author                   = {Helsel, D. R. and Hirsch, R. M.},
   Publisher                = {U.S. Geological Survey},
   Year                     = {2002},
@@ -9647,38 +9637,92 @@
   Url                      = {http://compute.ku-eichstaett.de/hgd/images/content/pdf/Lehrerbildung/Qualitaet der Lehrerausbildung im Fach Geographie aus der Sicht der Fachleiter.pdf}
 }
 
-@Article{Hemp2006b,
-  Title                    = {{The banana forests of Kilimanjaro: biodiversity and conservation of the Chagga homegardens}},
+@Article{Hemp2002,
+  Title                    = {{Ecology of the pteridophytes on the southern slopes of Mt. Kilimanjaro}},
+  Author                   = {Hemp, Andreas},
+  Journal                  = {Plant Ecology},
+  Year                     = {2002},
+  Number                   = {1991},
+  Pages                    = {211--239},
+  Volume                   = {159},
+
+  Doi                      = {10.1023/A:1015569125417},
+  File                     = {:Hemp - 2002.pdf:PDF},
+  Keywords                 = {Kilimanjaro, altitudinal zonation, kilimanjaro, mt, pteridophytes, tropical mountains},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project},
+  Url                      = {http://link.springer.com/article/10.1023%2FA%3A1015569125417}
+}
+
+@Article{Hemp2005,
+  Title                    = {{Climate change-driven forest fires marginalize the impact of ice cap wasting on Kilimanjaro}},
+  Author                   = {Hemp, Andreas},
+  Journal                  = {Global Change Biology},
+  Year                     = {2005},
+
+  Month                    = jul,
+  Number                   = {7},
+  Pages                    = {1013--1023},
+  Volume                   = {11},
+
+  Doi                      = {10.1111/j.1365-2486.2005.00968.x},
+  File                     = {:Hemp - 2005(2).pdf:PDF},
+  ISSN                     = {1354-1013},
+  Keywords                 = {28 january 2005, Kilimanjaro, alpine vegetation, climate change, cloud forest, east africa, erica, forest fires, january 2005 and accepted, montane and subalpine, received 10 may 2004, revised version received 7, vegetation change, vegetation zones},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project},
+  Url                      = {http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2486.2005.00968.x}
+}
+
+@Article{Hemp2006,
+  Title                    = {{Vegetation of Kilimanjaro: hidden endemics and missing bamboo}},
+  Author                   = {Hemp, Andreas},
+  Journal                  = {African Journal of Ecology},
+  Year                     = {2006},
+  Number                   = {3},
+  Pages                    = {305--328},
+  Volume                   = {44},
+
+  Doi                      = {10.1111/j.1365-2028.2006.00679.x},
+  File                     = {:/Hemp - 2006.pdf:PDF},
+  Keywords                 = {Kilimanjaro, east african mountains, forest disturbance by herbivores, sinarundinaria alpina, tropical montane forest},
+  Owner                    = {tnauss, fdetsch},
+  Tags                     = {Kilimanjaro project},
+  Timestamp                = {2015.05.14},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2028.2006.00679.x/full}
+}
+
+@Article{Hemp2006a,
+  Title                    = {{No Snow on Kilimanjaro ?}},
   Author                   = {Hemp, A},
-  Journal                  = {{BIODIVERSITY AND CONSERVATION}},
-  Year                     = {{2006}},
+  Journal                  = {German Research},
+  Year                     = {2006},
 
-  Month                    = {{APR}},
-  Number                   = {{4}},
-  Pages                    = {{1193-1217}},
-  Volume                   = {{15}},
+  File                     = {:Hemp - 2006(2).pdf:PDF},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
 
-  Abstract                 = {{Natural flora, vegetation, diversity and structure of 62 traditional coffee-banana plantations on Kilimanjaro were investigated and compared with the other vegetation formations on this volcano on basis of over 1400 plots following the method of Braun-Blanquet. The vegetation of the so-called Chagga homegardens belongs floristically to the formation of ruderal vegetation forming two main communities that are determined by altitude. These coffee-banana plantations maintain a high biodiversity with about 520 vascular plant species including over 400 non-cultivated plants. Most species (194) occurring in the Chagga homegardens are forest species, followed by 128 ruderal species, including 41 neophytes. Typical of the agroforestry system of the Chagga homegardens is their multilayered vegetation structure similar to a tropical montane forest with trees, shrubs, lianas, epiphytes and herbs. Beside relicts of the former forest cover, which lost most of their former habitats, there are on the other hand (apophytic) forest species, which were directly or indirectly favoured by the land use of the Chagga people. High demand of wood, the introduction of coffee varieties that are sun-tolerant and low coffee prizes on the world marked endanger this effective and sustainable system.}},
-  Address                  = {{VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS}},
-  Affiliation              = {{Hemp, A (Reprint Author), Univ Bayreuth, Dept Plant Physiol, Universitatsstr 30, D-95440 Bayreuth, Germany. Univ Bayreuth, Dept Plant Physiol, D-95440 Bayreuth, Germany.}},
-  Author-email             = {{andreas.hemp@uni-bayreuth.de}},
-  Doc-delivery-number      = {{055MA}},
-  Doi                      = {{10.1007/s10531-004-8230-8}},
-  File                     = {:todo\\Hemp_2006b.pdf:PDF},
-  ISSN                     = {{0960-3115}},
-  Journal-iso              = {{Biodivers. Conserv.}},
-  Keywords                 = {Kilimanjaro, apophytes, coffee-banana planations, east Africa, epiphytes, forest, neophytes, ruderal vegetation, tropical montane, agroforestry},
-  Keywords-plus            = {{MT. KILIMANJARO; SOUTHERN SLOPES; PTERIDOPHYTES; TANZANIA; ECOLOGY}},
-  Language                 = {{English}},
-  Number-of-cited-references = {{40}},
-  Owner                    = {iotte},
-  Publisher                = {{SPRINGER}},
-  Research-areas           = {{Biodiversity \& Conservation; Environmental Sciences \& Ecology}},
-  Times-cited              = {{28}},
-  Timestamp                = {2014.10.08},
-  Type                     = {{Article}},
-  Unique-id                = {{ISI:000238453600009}},
-  Web-of-science-categories = {{Biodiversity Conservation; Ecology; Environmental Sciences}}
+@Article{Hemp2006c,
+  Title                    = {{Continuum or zonation? Altitudinal gradients in the forest vegetation of Mt. Kilimanjaro}},
+  Author                   = {Hemp, Andreas},
+  Journal                  = {Plant Ecology},
+  Year                     = {2006},
+
+  Month                    = nov,
+  Number                   = {1},
+  Pages                    = {27--42},
+  Volume                   = {184},
+
+  Doi                      = {10.1007/s11258-005-9049-4},
+  File                     = {:Hemp - 2006(3).pdf:PDF},
+  ISSN                     = {1385-0237},
+  Keywords                 = {Kilimanjaro, biodiversity, cloud forest, east africa, epiphytes, tropical montane forest, vegetation},
+  Owner                    = {tnauss, fdetsch},
+  Tags                     = {Kilimanjaro project},
+  Timestamp                = {2015.03.19},
+  Url                      = {http://www.springerlink.com/index/10.1007/s11258-005-9049-4}
 }
 
 @Article{Hemp2009,
@@ -9735,92 +9779,38 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Hemp2006,
-  Title                    = {{Vegetation of Kilimanjaro: hidden endemics and missing bamboo}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {African Journal of Ecology},
-  Year                     = {2006},
-  Number                   = {3},
-  Pages                    = {305--328},
-  Volume                   = {44},
-
-  Doi                      = {10.1111/j.1365-2028.2006.00679.x},
-  File                     = {:/Hemp - 2006.pdf:PDF},
-  Keywords                 = {Kilimanjaro, east african mountains, forest disturbance by herbivores, sinarundinaria alpina, tropical montane forest},
-  Owner                    = {tnauss, fdetsch},
-  Tags                     = {Kilimanjaro project},
-  Timestamp                = {2015.05.14},
-  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2028.2006.00679.x/full}
-}
-
-@Article{Hemp2006a,
-  Title                    = {{No Snow on Kilimanjaro ?}},
+@Article{Hemp2006b,
+  Title                    = {{The banana forests of Kilimanjaro: biodiversity and conservation of the Chagga homegardens}},
   Author                   = {Hemp, A},
-  Journal                  = {German Research},
-  Year                     = {2006},
+  Journal                  = {{BIODIVERSITY AND CONSERVATION}},
+  Year                     = {{2006}},
 
-  File                     = {:Hemp - 2006(2).pdf:PDF},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
+  Month                    = {{APR}},
+  Number                   = {{4}},
+  Pages                    = {{1193-1217}},
+  Volume                   = {{15}},
 
-@Article{Hemp2006c,
-  Title                    = {{Continuum or zonation? Altitudinal gradients in the forest vegetation of Mt. Kilimanjaro}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {Plant Ecology},
-  Year                     = {2006},
-
-  Month                    = nov,
-  Number                   = {1},
-  Pages                    = {27--42},
-  Volume                   = {184},
-
-  Doi                      = {10.1007/s11258-005-9049-4},
-  File                     = {:Hemp - 2006(3).pdf:PDF},
-  ISSN                     = {1385-0237},
-  Keywords                 = {Kilimanjaro, biodiversity, cloud forest, east africa, epiphytes, tropical montane forest, vegetation},
-  Owner                    = {tnauss, fdetsch},
-  Tags                     = {Kilimanjaro project},
-  Timestamp                = {2015.03.19},
-  Url                      = {http://www.springerlink.com/index/10.1007/s11258-005-9049-4}
-}
-
-@Article{Hemp2005,
-  Title                    = {{Climate change-driven forest fires marginalize the impact of ice cap wasting on Kilimanjaro}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {Global Change Biology},
-  Year                     = {2005},
-
-  Month                    = jul,
-  Number                   = {7},
-  Pages                    = {1013--1023},
-  Volume                   = {11},
-
-  Doi                      = {10.1111/j.1365-2486.2005.00968.x},
-  File                     = {:Hemp - 2005(2).pdf:PDF},
-  ISSN                     = {1354-1013},
-  Keywords                 = {28 january 2005, Kilimanjaro, alpine vegetation, climate change, cloud forest, east africa, erica, forest fires, january 2005 and accepted, montane and subalpine, received 10 may 2004, revised version received 7, vegetation change, vegetation zones},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2486.2005.00968.x}
-}
-
-@Article{Hemp2002,
-  Title                    = {{Ecology of the pteridophytes on the southern slopes of Mt. Kilimanjaro}},
-  Author                   = {Hemp, Andreas},
-  Journal                  = {Plant Ecology},
-  Year                     = {2002},
-  Number                   = {1991},
-  Pages                    = {211--239},
-  Volume                   = {159},
-
-  Doi                      = {10.1023/A:1015569125417},
-  File                     = {:Hemp - 2002.pdf:PDF},
-  Keywords                 = {Kilimanjaro, altitudinal zonation, kilimanjaro, mt, pteridophytes, tropical mountains},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://link.springer.com/article/10.1023%2FA%3A1015569125417}
+  Abstract                 = {{Natural flora, vegetation, diversity and structure of 62 traditional coffee-banana plantations on Kilimanjaro were investigated and compared with the other vegetation formations on this volcano on basis of over 1400 plots following the method of Braun-Blanquet. The vegetation of the so-called Chagga homegardens belongs floristically to the formation of ruderal vegetation forming two main communities that are determined by altitude. These coffee-banana plantations maintain a high biodiversity with about 520 vascular plant species including over 400 non-cultivated plants. Most species (194) occurring in the Chagga homegardens are forest species, followed by 128 ruderal species, including 41 neophytes. Typical of the agroforestry system of the Chagga homegardens is their multilayered vegetation structure similar to a tropical montane forest with trees, shrubs, lianas, epiphytes and herbs. Beside relicts of the former forest cover, which lost most of their former habitats, there are on the other hand (apophytic) forest species, which were directly or indirectly favoured by the land use of the Chagga people. High demand of wood, the introduction of coffee varieties that are sun-tolerant and low coffee prizes on the world marked endanger this effective and sustainable system.}},
+  Address                  = {{VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS}},
+  Affiliation              = {{Hemp, A (Reprint Author), Univ Bayreuth, Dept Plant Physiol, Universitatsstr 30, D-95440 Bayreuth, Germany. Univ Bayreuth, Dept Plant Physiol, D-95440 Bayreuth, Germany.}},
+  Author-email             = {{andreas.hemp@uni-bayreuth.de}},
+  Doc-delivery-number      = {{055MA}},
+  Doi                      = {{10.1007/s10531-004-8230-8}},
+  File                     = {:todo\\Hemp_2006b.pdf:PDF},
+  ISSN                     = {{0960-3115}},
+  Journal-iso              = {{Biodivers. Conserv.}},
+  Keywords                 = {Kilimanjaro, apophytes, coffee-banana planations, east Africa, epiphytes, forest, neophytes, ruderal vegetation, tropical montane, agroforestry},
+  Keywords-plus            = {{MT. KILIMANJARO; SOUTHERN SLOPES; PTERIDOPHYTES; TANZANIA; ECOLOGY}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{40}},
+  Owner                    = {iotte},
+  Publisher                = {{SPRINGER}},
+  Research-areas           = {{Biodiversity \& Conservation; Environmental Sciences \& Ecology}},
+  Times-cited              = {{28}},
+  Timestamp                = {2014.10.08},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000238453600009}},
+  Web-of-science-categories = {{Biodiversity Conservation; Ecology; Environmental Sciences}}
 }
 
 @Book{Hengl,
@@ -10791,17 +10781,6 @@
   Url                      = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.222.493}
 }
 
-@Article{Huffman2000,
-  Title                    = {{The Global Precipitation Climatology Project ( GPCP ) Combined Precipitation Dataset}},
-  Author                   = {Huffman, George J and Adler, Robert F and Arkin, Philip and Chang, Alfred and Ferraro, Ralph and Gruber, Arnold and Janowiak, John and Mcnab, Alan and Rudolf, Bruno and Schneider, Udo},
-  Journal                  = {Water},
-  Year                     = {2000},
-  Pages                    = {5--20},
-
-  File                     = {:Huffman et al. - 2000.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Article{Huffman1997,
   Title                    = {{The Global Precipitation Climatology Project (GPCP) Combined Precipitation Dataset}},
   Author                   = {Huffman, George J. and Adler, Robert F. and Arkin, Philip and Chang, Alfred and Ferraro, Ralph and Gruber, Arnold and Janowiak, John and McNab, Alan and Rudolf, Bruno and Schneider, Udo},
@@ -10818,6 +10797,17 @@
   ISSN                     = {0003-0007},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0477\%281997\%29078\%3C0005\%3ATGPCPG\%3E2.0.CO\%3B2}
+}
+
+@Article{Huffman2000,
+  Title                    = {{The Global Precipitation Climatology Project ( GPCP ) Combined Precipitation Dataset}},
+  Author                   = {Huffman, George J and Adler, Robert F and Arkin, Philip and Chang, Alfred and Ferraro, Ralph and Gruber, Arnold and Janowiak, John and Mcnab, Alan and Rudolf, Bruno and Schneider, Udo},
+  Journal                  = {Water},
+  Year                     = {2000},
+  Pages                    = {5--20},
+
+  File                     = {:Huffman et al. - 2000.pdf:PDF},
+  Owner                    = {tnauss}
 }
 
 @TechReport{Huffman2014,
@@ -11854,23 +11844,6 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JAMC2284.1}
 }
 
-@Article{Kabanda2000,
-  Title                    = {{Synoptic evolution of composite wet spells over northern Tanzania}},
-  Author                   = {Kabanda, Ta and Jury, Mr},
-  Journal                  = {Climate Research},
-  Year                     = {2000},
-  Pages                    = {239--248},
-  Volume                   = {15},
-
-  Doi                      = {10.3354/cr015239},
-  File                     = {:/Kabanda, Jury - 2000.pdf:PDF},
-  ISSN                     = {0936-577X},
-  Keywords                 = {1, Kilimanjaro, east africa are associated, intra-seasonal oscillations, introduction and background, of the publisher, permitted without written consent, rainfall, rainy spells over tropical, resale or republication not, tanzania},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.int-res.com/abstracts/cr/v15/n3/p239-248/}
-}
-
 @Article{Kabanda1999,
   Title                    = {{Inter-annual variability of short rains over northern Tanzania}},
   Author                   = {Kabanda, Ta and Jury, Mr},
@@ -11887,6 +11860,23 @@
   Owner                    = {tnauss},
   Tags                     = {Kilimanjaro project},
   Url                      = {http://www.int-res.com/abstracts/cr/v13/n3/p231-241/}
+}
+
+@Article{Kabanda2000,
+  Title                    = {{Synoptic evolution of composite wet spells over northern Tanzania}},
+  Author                   = {Kabanda, Ta and Jury, Mr},
+  Journal                  = {Climate Research},
+  Year                     = {2000},
+  Pages                    = {239--248},
+  Volume                   = {15},
+
+  Doi                      = {10.3354/cr015239},
+  File                     = {:/Kabanda, Jury - 2000.pdf:PDF},
+  ISSN                     = {0936-577X},
+  Keywords                 = {1, Kilimanjaro, east africa are associated, intra-seasonal oscillations, introduction and background, of the publisher, permitted without written consent, rainfall, rainy spells over tropical, resale or republication not, tanzania},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project},
+  Url                      = {http://www.int-res.com/abstracts/cr/v15/n3/p239-248/}
 }
 
 @Article{Kalthoff2006,
@@ -12366,6 +12356,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809500000648}
 }
 
+@Article{Kidd1998,
+  Title                    = {{On rainfall retrieval using polarization-corrected temperatures}},
+  Author                   = {Kidd, C.},
+  Journal                  = {International Journal of Remote Sensing},
+  Year                     = {1998},
+  Number                   = {5},
+  Pages                    = {981--996},
+  Volume                   = {19},
+
+  Doi                      = {10.1080/014311698215829},
+  File                     = {:Kidd - 1998.pdf:PDF},
+  ISSN                     = {0143-1161},
+  Owner                    = {tnauss},
+  Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1080/014311698215829\&magic=crossref||D404A21C5BB053405B1A640AFFD44AE3}
+}
+
 @Article{Kidd2001,
   Title                    = {{Satellite rainfall climatology: a review}},
   Author                   = {Kidd, C.},
@@ -12383,22 +12389,6 @@
   Keywords                 = {microwave,passive,rainfall,satellite climatology},
   Owner                    = {tnauss},
   Url                      = {http://doi.wiley.com/10.1002/joc.635}
-}
-
-@Article{Kidd1998,
-  Title                    = {{On rainfall retrieval using polarization-corrected temperatures}},
-  Author                   = {Kidd, C.},
-  Journal                  = {International Journal of Remote Sensing},
-  Year                     = {1998},
-  Number                   = {5},
-  Pages                    = {981--996},
-  Volume                   = {19},
-
-  Doi                      = {10.1080/014311698215829},
-  File                     = {:Kidd - 1998.pdf:PDF},
-  ISSN                     = {0143-1161},
-  Owner                    = {tnauss},
-  Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1080/014311698215829\&magic=crossref||D404A21C5BB053405B1A640AFFD44AE3}
 }
 
 @Article{Kidd2012,
@@ -12481,7 +12471,7 @@
 
   Owner                    = {fdetsch},
   Timestamp                = {2015.05.13},
-  Url                      = {https://www.ncdc.noaa.gov/oa/pod-guide/ncdc/docs/podug/index.htm}
+  Url                      = {https://www.ncdc.noaa.gov/oa/pod-guide/ncdc/docs/podug/index.htm (accessed on 11 September 2015)}
 }
 
 @Article{Kijazi2009,
@@ -12639,26 +12629,18 @@
   Url                      = {http://www.sciencemag.org/cgi/doi/10.1126/science.1197872}
 }
 
-@Article{King1993,
-  Title                    = {{Radiative properties of clouds}},
-  Author                   = {King, MD},
-  Journal                  = {Aerosol-Cloud-Climate Interactions},
-  Year                     = {1993},
+@Article{King1979,
+  Title                    = {{Determination of the ground albedo and the index of absorption of atmospheric particulates by remote sensing. II-Application}},
+  Author                   = {King, M.D.},
+  Journal                  = {Journal of Atmospheric Sciences},
+  Year                     = {1979},
+  Number                   = {1},
+  Pages                    = {1072--1083},
+  Volume                   = {36},
 
-  File                     = {:King - 1993.pdf:PDF},
+  File                     = {:King - 1979.pdf:PDF},
   Owner                    = {tnauss},
-  Url                      = {http://books.google.com/books?hl=en\&amp;lr=\&amp;id=9jGDc5HRJGYC\&amp;oi=fnd\&amp;pg=PA123\&amp;dq=Radiative+Properties+of+Clouds\&amp;ots=9NPwJOPgG4\&amp;sig=BYrz-7obpm2ZeuuElCk6Tkc-wRQ}
-}
-
-@Article{King1986,
-  Title                    = {{Comparative accuracy of selected multiple scattering approximations}},
-  Author                   = {King, MD},
-  Journal                  = {Journal of the atmospheric sciences},
-  Year                     = {1986},
-
-  File                     = {:King - 1986.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://cat.inist.fr/?aModele=afficheN\&amp;cpsidt=8672442}
+  Url                      = {http://adsabs.harvard.edu/abs/1979JAtS...36.1072K}
 }
 
 @Article{King1983,
@@ -12679,18 +12661,26 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407383900961}
 }
 
-@Article{King1979,
-  Title                    = {{Determination of the ground albedo and the index of absorption of atmospheric particulates by remote sensing. II-Application}},
-  Author                   = {King, M.D.},
-  Journal                  = {Journal of Atmospheric Sciences},
-  Year                     = {1979},
-  Number                   = {1},
-  Pages                    = {1072--1083},
-  Volume                   = {36},
+@Article{King1986,
+  Title                    = {{Comparative accuracy of selected multiple scattering approximations}},
+  Author                   = {King, MD},
+  Journal                  = {Journal of the atmospheric sciences},
+  Year                     = {1986},
 
-  File                     = {:King - 1979.pdf:PDF},
+  File                     = {:King - 1986.pdf:PDF},
   Owner                    = {tnauss},
-  Url                      = {http://adsabs.harvard.edu/abs/1979JAtS...36.1072K}
+  Url                      = {http://cat.inist.fr/?aModele=afficheN\&amp;cpsidt=8672442}
+}
+
+@Article{King1993,
+  Title                    = {{Radiative properties of clouds}},
+  Author                   = {King, MD},
+  Journal                  = {Aerosol-Cloud-Climate Interactions},
+  Year                     = {1993},
+
+  File                     = {:King - 1993.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://books.google.com/books?hl=en\&amp;lr=\&amp;id=9jGDc5HRJGYC\&amp;oi=fnd\&amp;pg=PA123\&amp;dq=Radiative+Properties+of+Clouds\&amp;ots=9NPwJOPgG4\&amp;sig=BYrz-7obpm2ZeuuElCk6Tkc-wRQ}
 }
 
 @Article{King2002,
@@ -12752,38 +12742,22 @@
   Url                      = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.4751\&amp;rep=rep1\&amp;type=pdf}
 }
 
-@Article{King2003a,
-  Title                    = {{Remote sensing of smoke, land, and clouds from the NASA ER-2 during SAFARI 2000}},
-  Author                   = {King, Michael D.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2003},
-  Number                   = {D13},
-  Pages                    = {1--12},
-  Volume                   = {108},
-
-  Doi                      = {10.1029/2002JD003207},
-  File                     = {:King - 2003.pdf:PDF},
-  ISSN                     = {0148-0227},
-  Owner                    = {tnauss},
-  Url                      = {http://www.agu.org/pubs/crossref/2003/2002JD003207.shtml}
-}
-
-@Article{King1993a,
-  Title                    = {{Comparative Accuracy of Diffuse Radiative Properties Computed Using Selected Multiple Scattering Approximations}},
+@Article{King1982,
+  Title                    = {{Sensitivity of Constrained Linear Inversions to the Selection of the Lagrange Multiplier}},
   Author                   = {King, Michael D.},
   Journal                  = {Journal of the Atmospheric Sciences},
-  Year                     = {1993},
+  Year                     = {1982},
 
-  Month                    = jan,
-  Number                   = {2},
-  Pages                    = {247--259},
-  Volume                   = {50},
+  Month                    = jun,
+  Number                   = {6},
+  Pages                    = {1356--1369},
+  Volume                   = {39},
 
-  Doi                      = {10.1175/1520-0469(1993)050<0247:CAODRP>2.0.CO;2},
-  File                     = {:King - 1993(2).pdf:PDF},
+  Doi                      = {10.1175/1520-0469(1982)039<1356:SOCLIT>2.0.CO;2},
+  File                     = {:King - 1982.pdf:PDF},
   ISSN                     = {0022-4928},
   Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281993\%29050\%3C0247\%3ACAODRP\%3E2.0.CO\%3B2}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281982\%29039\%3C1356\%3ASOCLIT\%3E2.0.CO\%3B2}
 }
 
 @Article{King1987,
@@ -12804,22 +12778,38 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281987\%29044\%3C1734\%3ADOTSOT\%3E2.0.CO\%3B2}
 }
 
-@Article{King1982,
-  Title                    = {{Sensitivity of Constrained Linear Inversions to the Selection of the Lagrange Multiplier}},
+@Article{King1993a,
+  Title                    = {{Comparative Accuracy of Diffuse Radiative Properties Computed Using Selected Multiple Scattering Approximations}},
   Author                   = {King, Michael D.},
   Journal                  = {Journal of the Atmospheric Sciences},
-  Year                     = {1982},
+  Year                     = {1993},
 
-  Month                    = jun,
-  Number                   = {6},
-  Pages                    = {1356--1369},
-  Volume                   = {39},
+  Month                    = jan,
+  Number                   = {2},
+  Pages                    = {247--259},
+  Volume                   = {50},
 
-  Doi                      = {10.1175/1520-0469(1982)039<1356:SOCLIT>2.0.CO;2},
-  File                     = {:King - 1982.pdf:PDF},
+  Doi                      = {10.1175/1520-0469(1993)050<0247:CAODRP>2.0.CO;2},
+  File                     = {:King - 1993(2).pdf:PDF},
   ISSN                     = {0022-4928},
   Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281982\%29039\%3C1356\%3ASOCLIT\%3E2.0.CO\%3B2}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281993\%29050\%3C0247\%3ACAODRP\%3E2.0.CO\%3B2}
+}
+
+@Article{King2003a,
+  Title                    = {{Remote sensing of smoke, land, and clouds from the NASA ER-2 during SAFARI 2000}},
+  Author                   = {King, Michael D.},
+  Journal                  = {Journal of Geophysical Research},
+  Year                     = {2003},
+  Number                   = {D13},
+  Pages                    = {1--12},
+  Volume                   = {108},
+
+  Doi                      = {10.1029/2002JD003207},
+  File                     = {:King - 2003.pdf:PDF},
+  ISSN                     = {0148-0227},
+  Owner                    = {tnauss},
+  Url                      = {http://www.agu.org/pubs/crossref/2003/2002JD003207.shtml}
 }
 
 @Article{King1979a,
@@ -12858,22 +12848,6 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0426\%282004\%29021\%3C0857\%3ARSOLWA\%3E2.0.CO\%3B2}
 }
 
-@Article{King1993b,
-  Title                    = {{Optical Properties of Marine Stratocumulus Clouds Modified by Ships}},
-  Author                   = {King, Michael D. and Radke, Lawrence F. and Hobbs, Peter V.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {1993},
-  Number                   = {D2},
-  Pages                    = {2729--2739},
-  Volume                   = {98},
-
-  Doi                      = {10.1029/92JD02082},
-  File                     = {:King, Radke, Hobbs - 1993.pdf:PDF},
-  ISSN                     = {0148-0227},
-  Owner                    = {tnauss},
-  Url                      = {http://www.agu.org/pubs/crossref/1993/92JD02082.shtml}
-}
-
 @Article{King1990,
   Title                    = {{Determination of the Spectral Absorption of Solar Radiation by Marine Stratocumulus Clouds from Airborne Measurements within Clouds}},
   Author                   = {King, Michael D. and Radke, Lawrence F. and Hobbs, Peter V.},
@@ -12890,6 +12864,22 @@
   ISSN                     = {0022-4928},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281990\%29047\%3C0894\%3ADOTSAO\%3E2.0.CO\%3B2}
+}
+
+@Article{King1993b,
+  Title                    = {{Optical Properties of Marine Stratocumulus Clouds Modified by Ships}},
+  Author                   = {King, Michael D. and Radke, Lawrence F. and Hobbs, Peter V.},
+  Journal                  = {Journal of Geophysical Research},
+  Year                     = {1993},
+  Number                   = {D2},
+  Pages                    = {2729--2739},
+  Volume                   = {98},
+
+  Doi                      = {10.1029/92JD02082},
+  File                     = {:King, Radke, Hobbs - 1993.pdf:PDF},
+  ISSN                     = {0148-0227},
+  Owner                    = {tnauss},
+  Url                      = {http://www.agu.org/pubs/crossref/1993/92JD02082.shtml}
 }
 
 @Article{King1995,
@@ -13174,6 +13164,154 @@
   Url                      = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1315634}
 }
 
+@Article{Kokhanovsky1995,
+  Title                    = {{Local optical parameters of spherical polydispersions: simple approximations}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {Applied optics},
+  Year                     = {1995},
+  Number                   = {24},
+  Pages                    = {5513--5519},
+  Volume                   = {34},
+
+  File                     = {:Kokhanovsky - 1995.pdf:PDF},
+  Keywords                 = {cloud,edge effects,geometric optics approximation,mie theory,of america,optics,particle-size distribution,r 1995 optical society},
+  Owner                    = {tnauss},
+  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=45816}
+}
+
+@Article{Kokhanovsky1997,
+  Title                    = {{Optical properties of aerosol particles: A review of approximate analytical solutions}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {Journal of aerosol science},
+  Year                     = {1997},
+
+  File                     = {:Kokhanovsky - 1997.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0021850296000584}
+}
+
+@Article{Kokhanovsky1999,
+  Title                    = {{On the determination of the refractive index of strongly absorbing particles dispersed in a non-absorbing host medium}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {Journal of Physics D: Applied Physics},
+  Year                     = {1999},
+  Pages                    = {825--831},
+  Volume                   = {32},
+
+  File                     = {:Kokhanovsky - 1999.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://iopscience.iop.org/0022-3727/32/7/012}
+}
+
+@Article{Kokhanovsky1999a,
+  Title                    = {{The dependence of the radiative characteristics of optically thick media on the shape of particles}},
+  Author                   = {Kokhanovsky, a},
+  Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+  Year                     = {1999},
+
+  Month                    = sep,
+  Number                   = {2-6},
+  Pages                    = {393--407},
+  Volume                   = {63},
+
+  Doi                      = {10.1016/S0022-4073(99)00027-8},
+  File                     = {:Kokhanovsky - 1999(2).pdf:PDF},
+  ISSN                     = {00224073},
+  Owner                    = {tnauss},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0022407399000278}
+}
+
+@Article{Kokhanovsky2000,
+  Title                    = {{The determination of the effective radius of drops in water clouds from polarization measurements}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {Physics and Chemistry of the Earth, Part B: Hydrology, Oceans and Atmosphere},
+  Year                     = {2000},
+  Number                   = {5-6},
+  Pages                    = {471--474},
+  Volume                   = {25},
+
+  File                     = {:Kokhanovsky - 2000.pdf:PDF},
+  Owner                    = {tnauss},
+  Publisher                = {Elsevier},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S1464190900000472}
+}
+
+@Article{Kokhanovsky2001,
+  Title                    = {{Reflection and transmission of polarized light by optically thick weakly absorbing random media}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {JOSA A},
+  Year                     = {2001},
+  Number                   = {4},
+  Pages                    = {883--887},
+  Volume                   = {18},
+
+  File                     = {:Kokhanovsky - 2001.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=63885}
+}
+
+@Article{Kokhanovsky2002,
+  Title                    = {{Determination of the droplet effective size and optical depth of cloudy media from polarimetric measurements: theory}},
+  Author                   = {Kokhanovsky, Alexander},
+  Journal                  = {Applied optics},
+  Year                     = {2002},
+
+  File                     = {:Kokhanovsky - 2002(2).pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=69192}
+}
+
+@Article{Kokhanovsky2002a,
+  Title                    = {{Analytical solutions of multiple light scattering problems: a review}},
+  Author                   = {Kokhanovsky, AA},
+  Journal                  = {Measurement Science and Technology},
+  Year                     = {2002},
+  Pages                    = {233--240},
+  Volume                   = {13},
+
+  File                     = {:/Unknown - 2002.pdf:PDF},
+  Keywords                 = {combustion diagnostics,environmental monitoring,laser diffractometer,laser sizer,light scattering,radiative transfer},
+  Owner                    = {tnauss},
+  Url                      = {http://iopscience.iop.org/0957-0233/13/3/301}
+}
+
+@Article{Kokhanovsky2002b,
+  Title                    = {{The accuracy of selected approximations for the reflection function of a semi-infinite turbid medium}},
+  Author                   = {Kokhanovsky, a},
+  Journal                  = {Journal of Physics D: Applied Physics},
+  Year                     = {2002},
+
+  Month                    = may,
+  Number                   = {10},
+  Pages                    = {1057--1062},
+  Volume                   = {35},
+
+  Doi                      = {10.1088/0022-3727/35/10/314},
+  File                     = {:Kokhanovsky - 2002.pdf:PDF},
+  ISSN                     = {00223727},
+  Owner                    = {tnauss},
+  Url                      = {http://stacks.iop.org/0022-3727/35/i=10/a=314?key=crossref.f8a051927964dbb8c0120d2c17c8cbb6}
+}
+
+@Article{Kokhanovsky2003a,
+  Title                    = {{The reflection function of optically thick weakly absorbing turbid layers: a simple approximation}},
+  Author                   = {Kokhanovsky, a},
+  Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+  Year                     = {2003},
+
+  Month                    = mar,
+  Number                   = {2},
+  Pages                    = {165--175},
+  Volume                   = {77},
+
+  Doi                      = {10.1016/S0022-4073(02)00085-7},
+  File                     = {:Kokhanovsky - 2003(2).pdf:PDF},
+  ISSN                     = {00224073},
+  Keywords                 = {clouds,radiative transfer,turbid media},
+  Owner                    = {tnauss},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0022407302000857}
+}
+
 @Article{Kokhanovsky2004a,
   Title                    = {{The determination of the atmospheric optical thickness over Western Europe using SeaWiFS imagery}},
   Author                   = {Kokhanovsky, AA},
@@ -13276,168 +13414,78 @@
   Url                      = {http://books.google.com/books?hl=en\&amp;lr=\&amp;id=umLfH\_DmdzoC\&amp;oi=fnd\&amp;pg=PR11\&amp;dq=Light+Scattering+Media+Optics\&amp;ots=w6HBu1qtJy\&amp;sig=b4dNbv0grv4WMphQw4ClilZjOYo}
 }
 
-@Article{Kokhanovsky2003a,
-  Title                    = {{The reflection function of optically thick weakly absorbing turbid layers: a simple approximation}},
-  Author                   = {Kokhanovsky, a},
-  Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
-  Year                     = {2003},
+@Article{Kokhanovsky1998,
+  Title                    = {{Variability of the Phase Function of Atmospheric Aerosols at Large Scattering Angles}},
+  Author                   = {Kokhanovsky, a. a.},
+  Journal                  = {Journal of the Atmospheric Sciences},
+  Year                     = {1998},
 
-  Month                    = mar,
-  Number                   = {2},
-  Pages                    = {165--175},
-  Volume                   = {77},
+  Month                    = feb,
+  Number                   = {3},
+  Pages                    = {314--320},
+  Volume                   = {55},
 
-  Doi                      = {10.1016/S0022-4073(02)00085-7},
-  File                     = {:Kokhanovsky - 2003(2).pdf:PDF},
-  ISSN                     = {00224073},
-  Keywords                 = {clouds,radiative transfer,turbid media},
+  Doi                      = {10.1175/1520-0469(1998)055<0314:VOTPFO>2.0.CO;2},
+  File                     = {:Kokhanovsky - 1998(2).pdf:PDF},
+  ISSN                     = {0022-4928},
   Owner                    = {tnauss},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0022407302000857}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281998\%29055\%3C0314\%3AVOTPFO\%3E2.0.CO\%3B2}
 }
 
-@Article{Kokhanovsky2002,
-  Title                    = {{Determination of the droplet effective size and optical depth of cloudy media from polarimetric measurements: theory}},
-  Author                   = {Kokhanovsky, Alexander},
-  Journal                  = {Applied optics},
-  Year                     = {2002},
+@Article{Kokhanovsky1998a,
+  Title                    = {{Reflection of light from semi-infinite turbid media}},
+  Author                   = {Kokhanovsky, Alexander a.},
+  Journal                  = {Journal of the Optical Society of America A},
+  Year                     = {1998},
+  Number                   = {11},
+  Pages                    = {2877},
+  Volume                   = {15},
 
-  File                     = {:Kokhanovsky - 2002(2).pdf:PDF},
+  Doi                      = {10.1364/JOSAA.15.002877},
+  File                     = {:Kokhanovsky - 1998.pdf:PDF},
+  ISSN                     = {1084-7529},
   Owner                    = {tnauss},
-  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=69192}
+  Url                      = {http://www.opticsinfobase.org/abstract.cfm?URI=JOSAA-15-11-2877}
 }
 
-@Article{Kokhanovsky2002a,
-  Title                    = {{Analytical solutions of multiple light scattering problems: a review}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {Measurement Science and Technology},
-  Year                     = {2002},
-  Pages                    = {233--240},
-  Volume                   = {13},
-
-  File                     = {:/Unknown - 2002.pdf:PDF},
-  Keywords                 = {combustion diagnostics,environmental monitoring,laser diffractometer,laser sizer,light scattering,radiative transfer},
-  Owner                    = {tnauss},
-  Url                      = {http://iopscience.iop.org/0957-0233/13/3/301}
-}
-
-@Article{Kokhanovsky2002b,
-  Title                    = {{The accuracy of selected approximations for the reflection function of a semi-infinite turbid medium}},
-  Author                   = {Kokhanovsky, a},
-  Journal                  = {Journal of Physics D: Applied Physics},
+@Article{Kokhanovsky2002c,
+  Title                    = {{Simple approximate formula for the reflection function of a homogeneous, semi-infinite turbid medium.}},
+  Author                   = {Kokhanovsky, Alexander a},
+  Journal                  = {Journal of the Optical Society of America. A, Optics, image science, and vision},
   Year                     = {2002},
 
   Month                    = may,
-  Number                   = {10},
-  Pages                    = {1057--1062},
-  Volume                   = {35},
+  Number                   = {5},
+  Pages                    = {957--60},
+  Volume                   = {19},
 
-  Doi                      = {10.1088/0022-3727/35/10/314},
-  File                     = {:Kokhanovsky - 2002.pdf:PDF},
-  ISSN                     = {00223727},
+  Abstract                 = {A simple, approximate analytical formula is proposed for the reflection function of a semi-infinite, homogeneous particulate layer. It is assumed that the zenith angle of the viewing direction is equal to zero (thus corresponding to the case of nadir observations), whereas the light incidence direction is arbitrary. The formula yields accurate results for incidence-zenith angles less than approximately 85 degrees and can be useful in analyzing satellite nadir observations of optically thick clouds.},
+  File                     = {:Kokhanovsky - 2002(4).pdf:PDF},
+  ISSN                     = {1084-7529},
   Owner                    = {tnauss},
-  Url                      = {http://stacks.iop.org/0022-3727/35/i=10/a=314?key=crossref.f8a051927964dbb8c0120d2c17c8cbb6}
+  Pmid                     = {11999970},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/11999970}
 }
 
-@Article{Kokhanovsky2001,
-  Title                    = {{Reflection and transmission of polarized light by optically thick weakly absorbing random media}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {JOSA A},
-  Year                     = {2001},
-  Number                   = {4},
-  Pages                    = {883--887},
-  Volume                   = {18},
+@Article{Kokhanovsky2002d,
+  Title                    = {{Reflection and polarization of light by semi-infinite turbid media: simple approximations.}},
+  Author                   = {Kokhanovsky, a a},
+  Journal                  = {Journal of colloid and interface science},
+  Year                     = {2002},
 
-  File                     = {:Kokhanovsky - 2001.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=63885}
-}
-
-@Article{Kokhanovsky2000,
-  Title                    = {{The determination of the effective radius of drops in water clouds from polarization measurements}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {Physics and Chemistry of the Earth, Part B: Hydrology, Oceans and Atmosphere},
-  Year                     = {2000},
-  Number                   = {5-6},
-  Pages                    = {471--474},
-  Volume                   = {25},
-
-  File                     = {:Kokhanovsky - 2000.pdf:PDF},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S1464190900000472}
-}
-
-@Article{Kokhanovsky1999,
-  Title                    = {{On the determination of the refractive index of strongly absorbing particles dispersed in a non-absorbing host medium}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {Journal of Physics D: Applied Physics},
-  Year                     = {1999},
-  Pages                    = {825--831},
-  Volume                   = {32},
-
-  File                     = {:Kokhanovsky - 1999.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://iopscience.iop.org/0022-3727/32/7/012}
-}
-
-@Article{Kokhanovsky1999a,
-  Title                    = {{The dependence of the radiative characteristics of optically thick media on the shape of particles}},
-  Author                   = {Kokhanovsky, a},
-  Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
-  Year                     = {1999},
-
-  Month                    = sep,
-  Number                   = {2-6},
-  Pages                    = {393--407},
-  Volume                   = {63},
-
-  Doi                      = {10.1016/S0022-4073(99)00027-8},
-  File                     = {:Kokhanovsky - 1999(2).pdf:PDF},
-  ISSN                     = {00224073},
-  Owner                    = {tnauss},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0022407399000278}
-}
-
-@Article{Kokhanovsky1997,
-  Title                    = {{Optical properties of aerosol particles: A review of approximate analytical solutions}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {Journal of aerosol science},
-  Year                     = {1997},
-
-  File                     = {:Kokhanovsky - 1997.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0021850296000584}
-}
-
-@Article{Kokhanovsky1995,
-  Title                    = {{Local optical parameters of spherical polydispersions: simple approximations}},
-  Author                   = {Kokhanovsky, AA},
-  Journal                  = {Applied optics},
-  Year                     = {1995},
-  Number                   = {24},
-  Pages                    = {5513--5519},
-  Volume                   = {34},
-
-  File                     = {:Kokhanovsky - 1995.pdf:PDF},
-  Keywords                 = {cloud,edge effects,geometric optics approximation,mie theory,of america,optics,particle-size distribution,r 1995 optical society},
-  Owner                    = {tnauss},
-  Url                      = {http://www.opticsinfobase.org/abstract.cfm?\&amp;id=45816}
-}
-
-@Article{Kokhanovsky2004g,
-  Title                    = {{Single light scattering: Bubbles versus droplets}},
-  Author                   = {Kokhanovsky, Alexander a.},
-  Journal                  = {American Journal of Physics},
-  Year                     = {2004},
+  Month                    = jul,
   Number                   = {2},
-  Pages                    = {258},
-  Volume                   = {72},
+  Pages                    = {429--33},
+  Volume                   = {251},
 
-  Doi                      = {10.1119/1.1621030},
-  File                     = {:Kokhanovsky - 2004(3).pdf:PDF},
-  ISSN                     = {00029505},
+  Abstract                 = {The paper is devoted to the investigation of the accuracy of the Rozenberg approximation for the reflection function of a semi-infinite absorbing random media. We found that this approximation can be used at y<0.5, where y= square root (1-omega (0))/(3(1-g)) . Here omega(0) is the single scattering albedo and g is the asymmetry parameter. We also propose the modified approximation, which can be used at least up to y=1-2, depending on the observation geometry.},
+  Doi                      = {10.1006/jcis.2002.8364},
+  File                     = {:Kokhanovsky - 2002(3).pdf:PDF},
+  ISSN                     = {0021-9797},
+  Keywords                 = {light reflection,radiative transfer},
   Owner                    = {tnauss},
-  Url                      = {http://link.aip.org/link/AJPIAS/v72/i2/p258/s1\&Agg=doi}
+  Pmid                     = {16290750},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16290750}
 }
 
 @Article{Kokhanovsky2003b,
@@ -13509,78 +13557,20 @@
   Url                      = {http://www.agu.org/pubs/crossref/2003/2001JD001543.shtml}
 }
 
-@Article{Kokhanovsky2002c,
-  Title                    = {{Simple approximate formula for the reflection function of a homogeneous, semi-infinite turbid medium.}},
-  Author                   = {Kokhanovsky, Alexander a},
-  Journal                  = {Journal of the Optical Society of America. A, Optics, image science, and vision},
-  Year                     = {2002},
-
-  Month                    = may,
-  Number                   = {5},
-  Pages                    = {957--60},
-  Volume                   = {19},
-
-  Abstract                 = {A simple, approximate analytical formula is proposed for the reflection function of a semi-infinite, homogeneous particulate layer. It is assumed that the zenith angle of the viewing direction is equal to zero (thus corresponding to the case of nadir observations), whereas the light incidence direction is arbitrary. The formula yields accurate results for incidence-zenith angles less than approximately 85 degrees and can be useful in analyzing satellite nadir observations of optically thick clouds.},
-  File                     = {:Kokhanovsky - 2002(4).pdf:PDF},
-  ISSN                     = {1084-7529},
-  Owner                    = {tnauss},
-  Pmid                     = {11999970},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/11999970}
-}
-
-@Article{Kokhanovsky2002d,
-  Title                    = {{Reflection and polarization of light by semi-infinite turbid media: simple approximations.}},
-  Author                   = {Kokhanovsky, a a},
-  Journal                  = {Journal of colloid and interface science},
-  Year                     = {2002},
-
-  Month                    = jul,
-  Number                   = {2},
-  Pages                    = {429--33},
-  Volume                   = {251},
-
-  Abstract                 = {The paper is devoted to the investigation of the accuracy of the Rozenberg approximation for the reflection function of a semi-infinite absorbing random media. We found that this approximation can be used at y<0.5, where y= square root (1-omega (0))/(3(1-g)) . Here omega(0) is the single scattering albedo and g is the asymmetry parameter. We also propose the modified approximation, which can be used at least up to y=1-2, depending on the observation geometry.},
-  Doi                      = {10.1006/jcis.2002.8364},
-  File                     = {:Kokhanovsky - 2002(3).pdf:PDF},
-  ISSN                     = {0021-9797},
-  Keywords                 = {light reflection,radiative transfer},
-  Owner                    = {tnauss},
-  Pmid                     = {16290750},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16290750}
-}
-
-@Article{Kokhanovsky1998,
-  Title                    = {{Variability of the Phase Function of Atmospheric Aerosols at Large Scattering Angles}},
-  Author                   = {Kokhanovsky, a. a.},
-  Journal                  = {Journal of the Atmospheric Sciences},
-  Year                     = {1998},
-
-  Month                    = feb,
-  Number                   = {3},
-  Pages                    = {314--320},
-  Volume                   = {55},
-
-  Doi                      = {10.1175/1520-0469(1998)055<0314:VOTPFO>2.0.CO;2},
-  File                     = {:Kokhanovsky - 1998(2).pdf:PDF},
-  ISSN                     = {0022-4928},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281998\%29055\%3C0314\%3AVOTPFO\%3E2.0.CO\%3B2}
-}
-
-@Article{Kokhanovsky1998a,
-  Title                    = {{Reflection of light from semi-infinite turbid media}},
+@Article{Kokhanovsky2004g,
+  Title                    = {{Single light scattering: Bubbles versus droplets}},
   Author                   = {Kokhanovsky, Alexander a.},
-  Journal                  = {Journal of the Optical Society of America A},
-  Year                     = {1998},
-  Number                   = {11},
-  Pages                    = {2877},
-  Volume                   = {15},
+  Journal                  = {American Journal of Physics},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {258},
+  Volume                   = {72},
 
-  Doi                      = {10.1364/JOSAA.15.002877},
-  File                     = {:Kokhanovsky - 1998.pdf:PDF},
-  ISSN                     = {1084-7529},
+  Doi                      = {10.1119/1.1621030},
+  File                     = {:Kokhanovsky - 2004(3).pdf:PDF},
+  ISSN                     = {00029505},
   Owner                    = {tnauss},
-  Url                      = {http://www.opticsinfobase.org/abstract.cfm?URI=JOSAA-15-11-2877}
+  Url                      = {http://link.aip.org/link/AJPIAS/v72/i2/p258/s1\&Agg=doi}
 }
 
 @Article{Kokhanovsky2006,
@@ -13742,21 +13732,6 @@
   Url                      = {http://www.atmos-meas-tech-discuss.net/4/5597/2011/}
 }
 
-@Article{Kokhanovsky1998d,
-  Title                    = {{On remote sensing of water clouds from space}},
-  Author                   = {Kokhanovsky, AA and Zege, EP},
-  Journal                  = {Advances in Space Research},
-  Year                     = {1998},
-  Number                   = {3},
-  Pages                    = {425--428},
-  Volume                   = {21},
-
-  File                     = {:Kokhanovsky, Zege - 1998.pdf:PDF},
-  Owner                    = {tnauss},
-  Publisher                = {Elsevier},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S027311779700923X}
-}
-
 @Article{Kokhanovsky1997a,
   Title                    = {{Optical properties of aerosol particles: A review of approximate analytical solutions}},
   Author                   = {Kokhanovsky, a and Zege, E},
@@ -13773,6 +13748,21 @@
   ISSN                     = {00218502},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0021850296000584}
+}
+
+@Article{Kokhanovsky1998d,
+  Title                    = {{On remote sensing of water clouds from space}},
+  Author                   = {Kokhanovsky, AA and Zege, EP},
+  Journal                  = {Advances in Space Research},
+  Year                     = {1998},
+  Number                   = {3},
+  Pages                    = {425--428},
+  Volume                   = {21},
+
+  File                     = {:Kokhanovsky, Zege - 1998.pdf:PDF},
+  Owner                    = {tnauss},
+  Publisher                = {Elsevier},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S027311779700923X}
 }
 
 @Article{Konzept,
@@ -14021,6 +14011,15 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2624.1}
 }
 
+@Manual{Kuhn2014,
+  Title                    = {caret: Classification and Regression Training},
+  Author                   = {Kuhn, M.},
+  Note                     = {R package version 6.0-30},
+  Year                     = {2014},
+
+  Url                      = {http://CRAN.R-project.org/package=caret}
+}
+
 @Manual{Kuhn2015,
   Title                    = {caret: Classification and Regression Training},
   Author                   = {Kuhn, Max},
@@ -14030,15 +14029,6 @@
   File                     = {:Kuhn - 2015.pdf:PDF},
   Owner                    = {fdetsch},
   Timestamp                = {2015.03.19},
-  Url                      = {http://CRAN.R-project.org/package=caret}
-}
-
-@Manual{Kuhn2014,
-  Title                    = {caret: Classification and Regression Training},
-  Author                   = {Kuhn, M.},
-  Note                     = {R package version 6.0-30},
-  Year                     = {2014},
-
   Url                      = {http://CRAN.R-project.org/package=caret}
 }
 
@@ -14932,22 +14922,22 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JAM2487.1}
 }
 
-@Article{Lensky2005,
-  Title                    = {{The time-space exchangeability of satellite retrieved relations between cloud top temperature and particle effective radius}},
-  Author                   = {Lensky, I. M. and Rosenfeld, D.},
-  Journal                  = {Atmospheric Chemistry and Physics Discussions},
-  Year                     = {2005},
+@Article{Lensky1997,
+  Title                    = {{Estimation of Precipitation Area and Rain Intensity Based on the Microphysical Properties Retrieved from NOAA AVHRR Data}},
+  Author                   = {Lensky, Itamar M. and Rosenfeld, Daniel},
+  Journal                  = {Journal of Applied Meteorology},
+  Year                     = {1997},
 
-  Month                    = nov,
-  Number                   = {6},
-  Pages                    = {11911--11928},
-  Volume                   = {5},
+  Month                    = mar,
+  Number                   = {3},
+  Pages                    = {234--242},
+  Volume                   = {36},
 
-  Doi                      = {10.5194/acpd-5-11911-2005},
-  File                     = {:Lensky, Rosenfeld - 2005.pdf:PDF},
-  ISSN                     = {1680-7375},
+  Doi                      = {10.1175/1520-0450(1997)036<0234:EOPAAR>2.0.CO;2},
+  File                     = {:Lensky, Rosenfeld - 1997.pdf:PDF},
+  ISSN                     = {0894-8763},
   Owner                    = {tnauss},
-  Url                      = {http://www.atmos-chem-phys-discuss.net/5/11911/2005/}
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281997\%29036\%3C0234\%3AEOPAAR\%3E2.0.CO\%3B2}
 }
 
 @Article{Lensky2003,
@@ -14986,22 +14976,22 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%282003\%29042\%3C1218\%3AANDAFI\%3E2.0.CO\%3B2}
 }
 
-@Article{Lensky1997,
-  Title                    = {{Estimation of Precipitation Area and Rain Intensity Based on the Microphysical Properties Retrieved from NOAA AVHRR Data}},
-  Author                   = {Lensky, Itamar M. and Rosenfeld, Daniel},
-  Journal                  = {Journal of Applied Meteorology},
-  Year                     = {1997},
+@Article{Lensky2005,
+  Title                    = {{The time-space exchangeability of satellite retrieved relations between cloud top temperature and particle effective radius}},
+  Author                   = {Lensky, I. M. and Rosenfeld, D.},
+  Journal                  = {Atmospheric Chemistry and Physics Discussions},
+  Year                     = {2005},
 
-  Month                    = mar,
-  Number                   = {3},
-  Pages                    = {234--242},
-  Volume                   = {36},
+  Month                    = nov,
+  Number                   = {6},
+  Pages                    = {11911--11928},
+  Volume                   = {5},
 
-  Doi                      = {10.1175/1520-0450(1997)036<0234:EOPAAR>2.0.CO;2},
-  File                     = {:Lensky, Rosenfeld - 1997.pdf:PDF},
-  ISSN                     = {0894-8763},
+  Doi                      = {10.5194/acpd-5-11911-2005},
+  File                     = {:Lensky, Rosenfeld - 2005.pdf:PDF},
+  ISSN                     = {1680-7375},
   Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%281997\%29036\%3C0234\%3AEOPAAR\%3E2.0.CO\%3B2}
+  Url                      = {http://www.atmos-chem-phys-discuss.net/5/11911/2005/}
 }
 
 @Article{Lernen,
@@ -15059,6 +15049,18 @@
   Owner                    = {tnauss}
 }
 
+@InProceedings{Levizzani1999,
+  Title                    = {{Intense rainfall monitoring from geostationary satellites}},
+  Author                   = {Levizzani, Vincenzo},
+  Booktitle                = {Conference on Satellite Meteorology and Oceanography, 9 th, Paris, France},
+  Year                     = {1999},
+  Pages                    = {327--330},
+
+  File                     = {:Levizzani - 1999.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://www.csa.com/partners/viewrecord.php?requester=gs\&amp;collection=TRD\&amp;recid=A0023256AH}
+}
+
 @Article{Levizzani2000,
   Title                    = {{Satellite rainfall estimates: a look back and a perspective}},
   Author                   = {Levizzani, V},
@@ -15080,18 +15082,6 @@
   File                     = {:Levizzani - 2000.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://www.isac.cnr.it/~meteosat/papers/madrid98.pdf}
-}
-
-@InProceedings{Levizzani1999,
-  Title                    = {{Intense rainfall monitoring from geostationary satellites}},
-  Author                   = {Levizzani, Vincenzo},
-  Booktitle                = {Conference on Satellite Meteorology and Oceanography, 9 th, Paris, France},
-  Year                     = {1999},
-  Pages                    = {327--330},
-
-  File                     = {:Levizzani - 1999.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://www.csa.com/partners/viewrecord.php?requester=gs\&amp;collection=TRD\&amp;recid=A0023256AH}
 }
 
 @Article{Levizzani2000b,
@@ -15193,6 +15183,18 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0493\%281998\%29126\%3C3189\%3AEADOAL\%3E2.0.CO\%3B2}
 }
 
+@Book{Leyens2001,
+  Title                    = {{Biodiversit\"{a}t des geplanten Schutzgebietes auf der Insel Fogo/ Kap Verde}},
+  Author                   = {Leyens, T.},
+  Year                     = {2001},
+
+  File                     = {:Leyens - 2001.pdf:PDF},
+  ISBN                     = {3933984912},
+  Keywords                 = {Cape Verde, Kap Verde},
+  Owner                    = {tnauss},
+  Tags                     = {Kap Verde}
+}
+
 @Book{Leyens2002,
   Title                    = {{Biodiversit\"{a}t und Erhalt der Hochlagenvegetation der Insel Fogo ( Kap Verde ): Ausarbeitung eines Konzeptes f\"{u}r ein Schutzgebiet}},
   Author                   = {Leyens, T.},
@@ -15210,18 +15212,6 @@
   Year                     = {2002},
 
   File                     = {:Leyens - 2002.pdf:PDF},
-  Keywords                 = {Cape Verde, Kap Verde},
-  Owner                    = {tnauss},
-  Tags                     = {Kap Verde}
-}
-
-@Book{Leyens2001,
-  Title                    = {{Biodiversit\"{a}t des geplanten Schutzgebietes auf der Insel Fogo/ Kap Verde}},
-  Author                   = {Leyens, T.},
-  Year                     = {2001},
-
-  File                     = {:Leyens - 2001.pdf:PDF},
-  ISBN                     = {3933984912},
   Keywords                 = {Cape Verde, Kap Verde},
   Owner                    = {tnauss},
   Tags                     = {Kap Verde}
@@ -18603,6 +18593,24 @@
   Url                      = {http://www.mdpi.com/2072-4292/2/2/478/}
 }
 
+@Article{Nakajima1990,
+  Title                    = {{Determination of the Optical Thickness and Effective Particle Radius of Clouds from Reflected Solar Radiation Measurements. Part I: Theory}},
+  Author                   = {Nakajima, Teruyuki and King, Michael D.},
+  Journal                  = {Journal of the Atmospheric Sciences},
+  Year                     = {1990},
+
+  Month                    = aug,
+  Number                   = {15},
+  Pages                    = {1878--1893},
+  Volume                   = {47},
+
+  Doi                      = {10.1175/1520-0469(1990)047<1878:DOTOTA>2.0.CO;2},
+  File                     = {:Nakajima, King - 1990.pdf:PDF},
+  ISSN                     = {0022-4928},
+  Owner                    = {tnauss},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281990\%29047\%3C1878\%3ADOTOTA\%3E2.0.CO\%3B2}
+}
+
 @Article{Nakajima1992,
   Title                    = {{Asymptotic theory for optically thick layers: application to the discrete ordinates method.}},
   Author                   = {Nakajima, T and King, M D},
@@ -18621,24 +18629,6 @@
   Owner                    = {tnauss},
   Pmid                     = {20802648},
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/20802648}
-}
-
-@Article{Nakajima1990,
-  Title                    = {{Determination of the Optical Thickness and Effective Particle Radius of Clouds from Reflected Solar Radiation Measurements. Part I: Theory}},
-  Author                   = {Nakajima, Teruyuki and King, Michael D.},
-  Journal                  = {Journal of the Atmospheric Sciences},
-  Year                     = {1990},
-
-  Month                    = aug,
-  Number                   = {15},
-  Pages                    = {1878--1893},
-  Volume                   = {47},
-
-  Doi                      = {10.1175/1520-0469(1990)047<1878:DOTOTA>2.0.CO;2},
-  File                     = {:Nakajima, King - 1990.pdf:PDF},
-  ISSN                     = {0022-4928},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%281990\%29047\%3C1878\%3ADOTOTA\%3E2.0.CO\%3B2}
 }
 
 @Article{Nakajima2004,
@@ -18725,17 +18715,6 @@
   Url                      = {http://www.niiss.org/cwis438/websites/niiss/FieldMethods/ModWhit.php?WebSiteID=1}
 }
 
-@Article{NKE2010,
-  Title                    = {{Nationalpark W E I T E R E I N F O R M AT I O N E N :}},
-  Author                   = {{Nationalpark Kellerwald-Edersee}},
-  Year                     = {2010},
-
-  File                     = {:Nationalpark Kellerwald-Edersee - 2010.pdf:PDF},
-  Keywords                 = {LOEWE},
-  Owner                    = {tnauss},
-  Tags                     = {LOEWE project}
-}
-
 @TechReport{NKE2008,
   Title                    = {{Nationalparkplan 2008 - Projekte und Karten}},
   Author                   = {{Nationalpark Kellerwald-Edersee}},
@@ -18751,6 +18730,17 @@
   Year                     = {2008},
 
   File                     = {:Nationalpark Kellerwald-Edersee - 2008(2).pdf:PDF},
+  Keywords                 = {LOEWE},
+  Owner                    = {tnauss},
+  Tags                     = {LOEWE project}
+}
+
+@Article{NKE2010,
+  Title                    = {{Nationalpark W E I T E R E I N F O R M AT I O N E N :}},
+  Author                   = {{Nationalpark Kellerwald-Edersee}},
+  Year                     = {2010},
+
+  File                     = {:Nationalpark Kellerwald-Edersee - 2010.pdf:PDF},
   Keywords                 = {LOEWE},
   Owner                    = {tnauss},
   Tags                     = {LOEWE project}
@@ -18793,6 +18783,18 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809505001195}
 }
 
+@Article{Nauss2006,
+  Title                    = {{Discriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data}},
+  Author                   = {Nauss, T and Kokhanovsky, AA},
+  Journal                  = {Atmospheric Chemistry and},
+  Year                     = {2006},
+  Pages                    = {5031--5036},
+
+  File                     = {:Nauss, Kokhanovsky - 2006.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://hal.archives-ouvertes.fr/hal-00296071/}
+}
+
 @Article{Nauss2011,
   Title                    = {{Retrieval of warm cloud optical properties using simple approximations}},
   Author                   = {Nauss, Thomas and Kokhanovsky, A.A.},
@@ -18811,18 +18813,6 @@
   Publisher                = {Elsevier},
   Tags                     = {Cloud properties,Radiative transfer,Satellite retrieval},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0034425711000307}
-}
-
-@Article{Nauss2006,
-  Title                    = {{Discriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data}},
-  Author                   = {Nauss, T and Kokhanovsky, AA},
-  Journal                  = {Atmospheric Chemistry and},
-  Year                     = {2006},
-  Pages                    = {5031--5036},
-
-  File                     = {:Nauss, Kokhanovsky - 2006.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://hal.archives-ouvertes.fr/hal-00296071/}
 }
 
 @Article{Nauss2007,
@@ -20423,19 +20413,6 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16701427}
 }
 
-@Article{Petty1999,
-  Title                    = {{Prevalence of precipitation from warm-topped clouds over eastern Asia and the western Pacific}},
-  Author                   = {Petty, GW},
-  Journal                  = {Journal of Climate},
-  Year                     = {1999},
-  Pages                    = {220--229},
-  Volume                   = {12},
-
-  File                     = {:Petty - 1999.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://journals.ametsoc.org/perlserv/?doi=10.1175\%2F1520-0442(1999)012\%3C0220:POPFWT\%3E2.0.CO\%3B2\&amp;request=get-abstract}
-}
-
 @Article{Petty1995,
   Title                    = {{The status of satellite-based rainfall estimation over land}},
   Author                   = {Petty, G},
@@ -20454,6 +20431,19 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0034425794000704}
 }
 
+@Article{Petty1999,
+  Title                    = {{Prevalence of precipitation from warm-topped clouds over eastern Asia and the western Pacific}},
+  Author                   = {Petty, GW},
+  Journal                  = {Journal of Climate},
+  Year                     = {1999},
+  Pages                    = {220--229},
+  Volume                   = {12},
+
+  File                     = {:Petty - 1999.pdf:PDF},
+  Owner                    = {tnauss},
+  Url                      = {http://journals.ametsoc.org/perlserv/?doi=10.1175\%2F1520-0442(1999)012\%3C0220:POPFWT\%3E2.0.CO\%3B2\&amp;request=get-abstract}
+}
+
 @Article{Petty1996,
   Title                    = {{Satellite estimation of precipitation over land}},
   Author                   = {Petty, Grant and Krajewski, Witold},
@@ -20470,6 +20460,22 @@
   ISSN                     = {0262-6667},
   Owner                    = {tnauss},
   Url                      = {http://www.informaworld.com/openurl?genre=article\&doi=10.1080/02626669609491519\&magic=crossref\%7c\%7cD404A21C5BB053405B1A640AFFD44AE3}
+}
+
+@Article{Petty1994,
+  Title                    = {{Physical retrievals of over-ocean rain rate from multichannel microwave imagery. Part II: Algorithm implementation}},
+  Author                   = {Petty, G. W.},
+  Journal                  = {Meteorology and Atmospheric Physics},
+  Year                     = {1994},
+  Number                   = {1-4},
+  Pages                    = {101--121},
+  Volume                   = {54},
+
+  Doi                      = {10.1007/BF01030054},
+  File                     = {:Petty - 1994.pdf:PDF},
+  ISSN                     = {0177-7971},
+  Owner                    = {tnauss},
+  Url                      = {http://www.springerlink.com/index/10.1007/BF01030054}
 }
 
 @Article{Petty2001,
@@ -20506,22 +20512,6 @@
   ISSN                     = {0894-8763},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0450\%282001\%29040\%3C2105\%3APAMRPO\%3E2.0.CO\%3B2}
-}
-
-@Article{Petty1994,
-  Title                    = {{Physical retrievals of over-ocean rain rate from multichannel microwave imagery. Part II: Algorithm implementation}},
-  Author                   = {Petty, G. W.},
-  Journal                  = {Meteorology and Atmospheric Physics},
-  Year                     = {1994},
-  Number                   = {1-4},
-  Pages                    = {101--121},
-  Volume                   = {54},
-
-  Doi                      = {10.1007/BF01030054},
-  File                     = {:Petty - 1994.pdf:PDF},
-  ISSN                     = {0177-7971},
-  Owner                    = {tnauss},
-  Url                      = {http://www.springerlink.com/index/10.1007/BF01030054}
 }
 
 @Article{Philippon2014,
@@ -20685,6 +20675,22 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0169809598000428}
 }
 
+@Article{Platnick2000,
+  Title                    = {{Vertical photon transport in cloud remote sensing problems}},
+  Author                   = {Platnick, S.},
+  Journal                  = {Journal of Geophysical Research},
+  Year                     = {2000},
+  Number                   = {D18},
+  Pages                    = {22919--22935},
+  Volume                   = {105},
+
+  Doi                      = {10.1029/2000JD900333},
+  File                     = {:Platnick - 2000.pdf:PDF},
+  ISSN                     = {0148-0227},
+  Owner                    = {tnauss},
+  Url                      = {http://www.agu.org/pubs/crossref/2000/2000JD900333.shtml}
+}
+
 @Article{Platnick2001,
   Title                    = {{Approximations for horizontal photon transport in cloud remote sensing problems}},
   Author                   = {Platnick, S},
@@ -20701,22 +20707,6 @@
   ISSN                     = {00224073},
   Owner                    = {tnauss},
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0022407300000169}
-}
-
-@Article{Platnick2000,
-  Title                    = {{Vertical photon transport in cloud remote sensing problems}},
-  Author                   = {Platnick, S.},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2000},
-  Number                   = {D18},
-  Pages                    = {22919--22935},
-  Volume                   = {105},
-
-  Doi                      = {10.1029/2000JD900333},
-  File                     = {:Platnick - 2000.pdf:PDF},
-  ISSN                     = {0148-0227},
-  Owner                    = {tnauss},
-  Url                      = {http://www.agu.org/pubs/crossref/2000/2000JD900333.shtml}
 }
 
 @Article{Platnick2003,
@@ -21177,24 +21167,6 @@
   Owner                    = {tnauss}
 }
 
-@Article{Pretzsch2012,
-  Title                    = {{Evidence of variant intra- and interspecific scaling of tree crown structure and relevance for allometric theory.}},
-  Author                   = {Pretzsch, Hans and Dieler, Jochen},
-  Journal                  = {Oecologia},
-  Year                     = {2012},
-
-  Month                    = jan,
-
-  Abstract                 = {General scaling rules or constants for metabolic and structural plant allometry as assumed by the theory of Euclidian geometric scaling (2/3-scaling) or metabolic scaling (3/4-scaling) may meet human's innate propensity for simplicity and generality of pattern and processes in nature. However, numerous empirical works show that variability of crown structure rather than constancy is essential for a tree's success in coping with crowding. In order to link theory and empiricism, we analyzed the intra- and inter-specific scaling of crown structure for 52 tree species. The basis is data from 84 long-term plots of temperate monospecific forests under survey since 1870 and a set of 126 yield tables of angiosperm and gymnosperm forest tree species across the world. The study draws attention to (1) the intra-specific variation and correlation of the three scaling relationships: tree height versus trunk diameter, crown cross-sectional area versus trunk diameter, and tree volume versus trunk diameter, and their dependence on competition, (2) the inter-specific variation and correlation of the same scaling exponents ([Formula: see text] and [Formula: see text]) across 52 tree species, and (3) the relevance of the revealed variable scaling of crown structure for leaf organs and metabolic scaling. Our results arrive at suggesting a more extended metabolic theory of ecology which includes variability and covariation between allometric relationships as prerequisite for the individual plant's competitiveness.},
-  Doi                      = {10.1007/s00442-011-2240-5},
-  File                     = {:Pretzsch, Dieler - 2012.pdf:PDF},
-  ISSN                     = {1432-1939},
-  Keywords                 = {fractal dimension \'{a},geometry \'{a},metabolic scaling theory \'{a},structural allometry \'{a} euclidian},
-  Owner                    = {tnauss},
-  Pmid                     = {22237660},
-  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22237660}
-}
-
 @Article{Pretzsch2010,
   Title                    = {{The dependency of the size-growth relationship of Norway spruce (Picea abies [L.] Karst.) and European beech (Fagus sylvatica [L.]) in forest stands on long-term site conditions, drought events, and ozone stress}},
   Author                   = {Pretzsch, Hans and Dieler, Jochen},
@@ -21212,6 +21184,24 @@
   Keywords                 = {increment \'{a} competition \'{a},limitation \'{a} allocation principle,resource partitioning \'{a},size-asymmetric growth \'{a} diameter,\'{a} stand structure},
   Owner                    = {tnauss},
   Url                      = {http://www.springerlink.com/index/10.1007/s00468-010-0510-1}
+}
+
+@Article{Pretzsch2012,
+  Title                    = {{Evidence of variant intra- and interspecific scaling of tree crown structure and relevance for allometric theory.}},
+  Author                   = {Pretzsch, Hans and Dieler, Jochen},
+  Journal                  = {Oecologia},
+  Year                     = {2012},
+
+  Month                    = jan,
+
+  Abstract                 = {General scaling rules or constants for metabolic and structural plant allometry as assumed by the theory of Euclidian geometric scaling (2/3-scaling) or metabolic scaling (3/4-scaling) may meet human's innate propensity for simplicity and generality of pattern and processes in nature. However, numerous empirical works show that variability of crown structure rather than constancy is essential for a tree's success in coping with crowding. In order to link theory and empiricism, we analyzed the intra- and inter-specific scaling of crown structure for 52 tree species. The basis is data from 84 long-term plots of temperate monospecific forests under survey since 1870 and a set of 126 yield tables of angiosperm and gymnosperm forest tree species across the world. The study draws attention to (1) the intra-specific variation and correlation of the three scaling relationships: tree height versus trunk diameter, crown cross-sectional area versus trunk diameter, and tree volume versus trunk diameter, and their dependence on competition, (2) the inter-specific variation and correlation of the same scaling exponents ([Formula: see text] and [Formula: see text]) across 52 tree species, and (3) the relevance of the revealed variable scaling of crown structure for leaf organs and metabolic scaling. Our results arrive at suggesting a more extended metabolic theory of ecology which includes variability and covariation between allometric relationships as prerequisite for the individual plant's competitiveness.},
+  Doi                      = {10.1007/s00442-011-2240-5},
+  File                     = {:Pretzsch, Dieler - 2012.pdf:PDF},
+  ISSN                     = {1432-1939},
+  Keywords                 = {fractal dimension \'{a},geometry \'{a},metabolic scaling theory \'{a},structural allometry \'{a} euclidian},
+  Owner                    = {tnauss},
+  Pmid                     = {22237660},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22237660}
 }
 
 @Article{Price2000,
@@ -21464,21 +21454,6 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0140196307003382}
 }
 
-@Article{Rahman2008,
-  Title                    = {{Satellite estimation of forest carbon using regression models}},
-  Author                   = {Rahman, MM and Csaplovics, E. and Koch, B.},
-  Journal                  = {International Journal of Remote Sensing},
-  Year                     = {2008},
-  Number                   = {23},
-  Pages                    = {6917--6936},
-  Volume                   = {29},
-
-  File                     = {:/Rahman, Csaplovics, Koch - 2008.pdf:PDF},
-  Owner                    = {tnauss},
-  Publisher                = {Taylor \& Francis},
-  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/01431160802144187}
-}
-
 @Article{Rahman2005,
   Title                    = {{An efficient regression strategy for extracting forest biomass information from satellite sensor data}},
   Author                   = {Rahman, M.M. and Csaplovics, E. and Koch, B.},
@@ -21492,6 +21467,21 @@
   Owner                    = {tnauss},
   Publisher                = {Taylor \& Francis},
   Url                      = {http://www.tandfonline.com/doi/abs/10.1080/01431160500044705}
+}
+
+@Article{Rahman2008,
+  Title                    = {{Satellite estimation of forest carbon using regression models}},
+  Author                   = {Rahman, MM and Csaplovics, E. and Koch, B.},
+  Journal                  = {International Journal of Remote Sensing},
+  Year                     = {2008},
+  Number                   = {23},
+  Pages                    = {6917--6936},
+  Volume                   = {29},
+
+  File                     = {:/Rahman, Csaplovics, Koch - 2008.pdf:PDF},
+  Owner                    = {tnauss},
+  Publisher                = {Taylor \& Francis},
+  Url                      = {http://www.tandfonline.com/doi/abs/10.1080/01431160802144187}
 }
 
 @Article{Rai2011,
@@ -22258,15 +22248,15 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S0143622811001639}
 }
 
-@Article{Ropelewski1996,
-  Title                    = {{Quantifiing Southern Oscillation-Precipitation Relationships}},
+@Article{Ropelewski1987,
+  Title                    = {{Global and Regional Scale Precipitation Patterns Associated with the El Nino/Southern Oscillation}},
   Author                   = {Ropelewski, C. F. and Halpert, M. S.},
-  Journal                  = {Journal of Climate},
-  Year                     = {1996},
-  Pages                    = {1043--1059},
-  Volume                   = {9},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {1987},
+  Pages                    = {1606--},
+  Volume                   = {115},
 
-  File                     = {:/Ropelewski, Halpert - 1996.pdf:PDF},
+  File                     = {:/Ropelewski, Halpert - 1987.pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -22284,15 +22274,15 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@Article{Ropelewski1987,
-  Title                    = {{Global and Regional Scale Precipitation Patterns Associated with the El Nino/Southern Oscillation}},
+@Article{Ropelewski1996,
+  Title                    = {{Quantifiing Southern Oscillation-Precipitation Relationships}},
   Author                   = {Ropelewski, C. F. and Halpert, M. S.},
-  Journal                  = {Monthly Weather Review},
-  Year                     = {1987},
-  Pages                    = {1606--},
-  Volume                   = {115},
+  Journal                  = {Journal of Climate},
+  Year                     = {1996},
+  Pages                    = {1043--1059},
+  Volume                   = {9},
 
-  File                     = {:/Ropelewski, Halpert - 1987.pdf:PDF},
+  File                     = {:/Ropelewski, Halpert - 1996.pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -22628,6 +22618,20 @@
   Series                   = {MODIS Algorithm Theoretical Basis Document}
 }
 
+@Article{Rutledge1983,
+  Title                    = {{The Mesoscale and Microscale Structure and Organization of Clouds and Precipitation in Midlatitude Cyclones. VIII: A Model for the Seeder-Feeder'Process in Warm-Frontal Rainbands.}},
+  Author                   = {Rutledge, S.A. and Hobbs, P.V.},
+  Journal                  = {Journal of Atmospheric Sciences},
+  Year                     = {1983},
+  Pages                    = {1185--1206},
+  Volume                   = {40},
+
+  File                     = {:Rutledge, Hobbs - 1983.pdf:PDF},
+  ISSN                     = {0022-4928},
+  Owner                    = {tnauss},
+  Url                      = {http://adsabs.harvard.edu/abs/1983JAtS...40.1185R}
+}
+
 @Article{Rutledge1984,
   Title                    = {{The mesoscale and microscale structure and organization of clouds and precipitation in midlatitude cyclones. XII- A diagnostic modeling study of precipitation development in narrow cold-frontal rainbands}},
   Author                   = {Rutledge, S.A. and Hobbs, P.V.},
@@ -22642,18 +22646,17 @@
   Url                      = {http://www4.ncsu.edu/~gary/mea793/pdf/Rutledge\_Hobbs\_1984.pdf}
 }
 
-@Article{Rutledge1983,
-  Title                    = {{The Mesoscale and Microscale Structure and Organization of Clouds and Precipitation in Midlatitude Cyclones. VIII: A Model for the Seeder-Feeder'Process in Warm-Frontal Rainbands.}},
-  Author                   = {Rutledge, S.A. and Hobbs, P.V.},
-  Journal                  = {Journal of Atmospheric Sciences},
-  Year                     = {1983},
-  Pages                    = {1185--1206},
-  Volume                   = {40},
+@Article{Ryan1996,
+  Title                    = {{On the global variation of precipitating layer clouds.}},
+  Author                   = {Ryan, BF},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {1996},
+  Pages                    = {53--70},
+  Volume                   = {77},
 
-  File                     = {:Rutledge, Hobbs - 1983.pdf:PDF},
-  ISSN                     = {0022-4928},
+  File                     = {:Ryan - 1996.pdf:PDF},
   Owner                    = {tnauss},
-  Url                      = {http://adsabs.harvard.edu/abs/1983JAtS...40.1185R}
+  Url                      = {http://adsabs.harvard.edu/abs/1996BAMS...77...53R}
 }
 
 @Article{Ryan1977,
@@ -22681,19 +22684,6 @@
   Type                     = {{Article}},
   Unique-id                = {{ISI:A1977DQ30700001}},
   Web-of-science-categories = {{Meteorology \& Atmospheric Sciences}}
-}
-
-@Article{Ryan1996,
-  Title                    = {{On the global variation of precipitating layer clouds.}},
-  Author                   = {Ryan, BF},
-  Journal                  = {Bulletin of the American Meteorological Society},
-  Year                     = {1996},
-  Pages                    = {53--70},
-  Volume                   = {77},
-
-  File                     = {:Ryan - 1996.pdf:PDF},
-  Owner                    = {tnauss},
-  Url                      = {http://adsabs.harvard.edu/abs/1996BAMS...77...53R}
 }
 
 @Book{Sachs2006,
@@ -23211,6 +23201,18 @@
   Url                      = {http://link.springer.com/article/10.1007%2Fs00704-013-0900-6}
 }
 
+@Article{Schmidtlein2004,
+  Title                    = {{Coarse-scale substrate mapping using plant functionl response types}},
+  Author                   = {Schmidtlein, Sebastian},
+  Journal                  = {Erdkunde},
+  Year                     = {2004},
+  Pages                    = {137--155},
+  Volume                   = {58},
+
+  File                     = {:Schmidtlein - 2004.pdf:PDF},
+  Owner                    = {tnauss}
+}
+
 @Article{Schmidtlein2005,
   Title                    = {{Imaging spectroscopy as a tool for mapping Ellenberg indicator values}},
   Author                   = {Schmidtlein, Sebastian},
@@ -23227,18 +23229,6 @@
   ISSN                     = {00218901},
   Owner                    = {tnauss},
   Url                      = {http://doi.wiley.com/10.1111/j.1365-2664.2005.01064.x}
-}
-
-@Article{Schmidtlein2004,
-  Title                    = {{Coarse-scale substrate mapping using plant functionl response types}},
-  Author                   = {Schmidtlein, Sebastian},
-  Journal                  = {Erdkunde},
-  Year                     = {2004},
-  Pages                    = {137--155},
-  Volume                   = {58},
-
-  File                     = {:Schmidtlein - 2004.pdf:PDF},
-  Owner                    = {tnauss}
 }
 
 @Article{Schmidtlein2003,
@@ -23664,18 +23654,6 @@
   Url                      = {http://cat.inist.fr/?aModele=afficheN\&amp;cpsidt=7577132}
 }
 
-@InProceedings{Scofield2004,
-  Title                    = {{The use of the hydro-nowcaster for mesoscale convective systems and the tropical rainfall nowcaster (TRaN) for landfalling tropical systems}},
-  Author                   = {Scofield, Roderick A and Kuligowski, Robert J},
-  Booktitle                = {Symposium on Planning, Nowcasting, and Forecasting in the Urban Zone, Seattle, WA},
-  Year                     = {2004},
-  Pages                    = {2--4},
-  Publisher                = {AMS},
-
-  File                     = {:Scofield, Kuligowski - 2004.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Article{Scofield2003,
   Title                    = {{Status and Outlook of Operational Satellite Precipitation Algorithms for Extreme-Precipitation Events}},
   Author                   = {Scofield, Roderick a. and Kuligowski, Robert J.},
@@ -23692,6 +23670,18 @@
   ISSN                     = {0882-8156},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0434\%282003\%29018\%3C1037\%3ASAOOOS\%3E2.0.CO\%3B2}
+}
+
+@InProceedings{Scofield2004,
+  Title                    = {{The use of the hydro-nowcaster for mesoscale convective systems and the tropical rainfall nowcaster (TRaN) for landfalling tropical systems}},
+  Author                   = {Scofield, Roderick A and Kuligowski, Robert J},
+  Booktitle                = {Symposium on Planning, Nowcasting, and Forecasting in the Urban Zone, Seattle, WA},
+  Year                     = {2004},
+  Pages                    = {2--4},
+  Publisher                = {AMS},
+
+  File                     = {:Scofield, Kuligowski - 2004.pdf:PDF},
+  Owner                    = {tnauss}
 }
 
 @Article{Seaquist2003,
@@ -25264,17 +25254,6 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/21600754}
 }
 
-@Article{Taylor2012,
-  Title                    = {{International Journal of Remote Sensitivity study of soil moisture on the temporal evolution of surface temperature over bare surfaces}},
-  Author                   = {Taylor, Publisher},
-  Year                     = {2012},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:Taylor - 2012.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Article{Taylor2007,
   Title                    = {{International Journal of Remote Sensing Exploring a V-I-S ( vegetation-impervious surface-soil ) model for urban ecosystem analysis through remote sensing : comparative anatomy for cities â€ }},
   Author                   = {Taylor, Publisher},
@@ -25294,6 +25273,17 @@
   Pages                    = {37--41},
 
   File                     = {:Taylor - 2007(2).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{Taylor2012,
+  Title                    = {{International Journal of Remote Sensitivity study of soil moisture on the temporal evolution of surface temperature over bare surfaces}},
+  Author                   = {Taylor, Publisher},
+  Year                     = {2012},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:Taylor - 2012.pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -25659,6 +25649,18 @@
   Url                      = {http://link.springer.com/article/10.1007/BF00120238}
 }
 
+@PhdThesis{Thies2008,
+  Title                    = {{A novel day / night-technique for area-wide precipitation retrieval over Central Europe using MSG SEVIRI data}},
+  Author                   = {Thies, B.},
+  School                   = {Philipps-Universit\"{a}t Marburg},
+  Year                     = {2008},
+
+  File                     = {:Thies - 2008.pdf:PDF},
+  Keywords                 = {ATBD},
+  Owner                    = {tnauss},
+  Tags                     = {ATBD}
+}
+
 @Article{Thies2011,
   Title                    = {{Satellite based remote sensing of weather and climate : recent achievements and future perspectives}},
   Author                   = {Thies, B},
@@ -25671,18 +25673,6 @@
   File                     = {:Thies - 2011.pdf:PDF},
   Keywords                 = {accepted 26 july 2011,climatology,meteorology,received 4 april 2011,remote sensing,revised 16 july 2011,satellite},
   Owner                    = {tnauss}
-}
-
-@PhdThesis{Thies2008,
-  Title                    = {{A novel day / night-technique for area-wide precipitation retrieval over Central Europe using MSG SEVIRI data}},
-  Author                   = {Thies, B.},
-  School                   = {Philipps-Universit\"{a}t Marburg},
-  Year                     = {2008},
-
-  File                     = {:Thies - 2008.pdf:PDF},
-  Keywords                 = {ATBD},
-  Owner                    = {tnauss},
-  Tags                     = {ATBD}
 }
 
 @Article{Thies2012,
@@ -26611,24 +26601,6 @@
   Url                      = {http://ecolsys.annualreviews.org/cgi/doi/10.1146/annurev.ecolsys.20.1.171}
 }
 
-@Article{Turner2005,
-  Title                    = {{LANDSCAPE ECOLOGY: What Is the State of the Science?}},
-  Author                   = {Turner, Monica G.},
-  Journal                  = {Annual Review of Ecology, Evolution, and Systematics},
-  Year                     = {2005},
-
-  Month                    = dec,
-  Number                   = {1},
-  Pages                    = {319--344},
-  Volume                   = {36},
-
-  Doi                      = {10.1146/annurev.ecolsys.36.102003.152614},
-  File                     = {:Turner - 2005.pdf:PDF},
-  ISSN                     = {1543-592X},
-  Owner                    = {tnauss},
-  Url                      = {http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.36.102003.152614}
-}
-
 @Article{Turner1990,
   Title                    = {{Spatial and temporal analysis of landscape patterns}},
   Author                   = {Turner, Monica G.},
@@ -26646,6 +26618,24 @@
   Keywords                 = {disturbance,geographic information systems,gis,neutral model,scale,spatial pattern analysis},
   Owner                    = {tnauss},
   Url                      = {http://link.springer.com/10.1007/BF02573948}
+}
+
+@Article{Turner2005,
+  Title                    = {{LANDSCAPE ECOLOGY: What Is the State of the Science?}},
+  Author                   = {Turner, Monica G.},
+  Journal                  = {Annual Review of Ecology, Evolution, and Systematics},
+  Year                     = {2005},
+
+  Month                    = dec,
+  Number                   = {1},
+  Pages                    = {319--344},
+  Volume                   = {36},
+
+  Doi                      = {10.1146/annurev.ecolsys.36.102003.152614},
+  File                     = {:Turner - 2005.pdf:PDF},
+  ISSN                     = {1543-592X},
+  Owner                    = {tnauss},
+  Url                      = {http://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.36.102003.152614}
 }
 
 @Article{Turner1989a,
@@ -26698,19 +26688,22 @@
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2008JAMC2000.1}
 }
 
-@Article{Twomey1979,
-  Title                    = {{Doubling and superposition methods in the presence of thermal emission}},
+@Article{Twomey1971,
+  Title                    = {{Radiative transfer: Terrestrial clouds}},
   Author                   = {Twomey, S},
   Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
-  Year                     = {1979},
-  Number                   = {4},
-  Pages                    = {355--363},
-  Volume                   = {22},
+  Year                     = {1971},
 
-  File                     = {:Twomey - 1979.pdf:PDF},
+  Month                    = jun,
+  Number                   = {6},
+  Pages                    = {779--783},
+  Volume                   = {11},
+
+  Doi                      = {10.1016/0022-4073(71)90054-9},
+  File                     = {:Twomey - 1971.pdf:PDF},
+  ISSN                     = {00224073},
   Owner                    = {tnauss},
-  Publisher                = {Elsevier},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407379900736}
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407371900549}
 }
 
 @Article{Twomey1975,
@@ -26728,22 +26721,19 @@
   Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407375900886}
 }
 
-@Article{Twomey1971,
-  Title                    = {{Radiative transfer: Terrestrial clouds}},
+@Article{Twomey1979,
+  Title                    = {{Doubling and superposition methods in the presence of thermal emission}},
   Author                   = {Twomey, S},
   Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
-  Year                     = {1971},
+  Year                     = {1979},
+  Number                   = {4},
+  Pages                    = {355--363},
+  Volume                   = {22},
 
-  Month                    = jun,
-  Number                   = {6},
-  Pages                    = {779--783},
-  Volume                   = {11},
-
-  Doi                      = {10.1016/0022-4073(71)90054-9},
-  File                     = {:Twomey - 1971.pdf:PDF},
-  ISSN                     = {00224073},
+  File                     = {:Twomey - 1979.pdf:PDF},
   Owner                    = {tnauss},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407371900549}
+  Publisher                = {Elsevier},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022407379900736}
 }
 
 @Misc{Tyc2005,
@@ -26947,24 +26937,6 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/20569415}
 }
 
-@Article{Ustrnul2005,
-  Title                    = {{Application of GIS for the development of climatological air temperature maps: an example from Poland}},
-  Author                   = {Ustrnul, Zbigniew and Czekierda, Danuta},
-  Journal                  = {Meteorological Applications},
-  Year                     = {2005},
-  Number                   = {1},
-  Pages                    = {43--50},
-  Volume                   = {12},
-
-  Doi                      = {10.1017/S1350482705001507},
-  File                     = {:Ustrnul, Czekierda - 2005.pdf:PDF},
-  ISSN                     = {1350-4827},
-  Keywords                 = {Biodiversity, Workshop Biodiversityand Climate},
-  Owner                    = {tnauss},
-  Tags                     = {Workshop Biodiversityand Climate},
-  Url                      = {http://doi.wiley.com/10.1017/S1350482705001507}
-}
-
 @Article{Ustrnul2001,
   Title                    = {{Circulation background of the atmospheric precipitation in Central Europe (based on the Polish example)}},
   Author                   = {Ustrnul, Zbigniew and Czekierda, Danuta},
@@ -26983,19 +26955,22 @@
   Url                      = {http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref\&body=linker\&reqdoi=10.1127/0941-2948/2001/0010-0103}
 }
 
-@Article{Varnai2003,
-  Title                    = {{A method for analyzing how various parts of clouds influence each other's brightness}},
-  Author                   = {V\'{a}rnai, Tam\'{a}s},
-  Journal                  = {Journal of Geophysical Research},
-  Year                     = {2003},
-  Number                   = {D22},
-  Volume                   = {108},
+@Article{Ustrnul2005,
+  Title                    = {{Application of GIS for the development of climatological air temperature maps: an example from Poland}},
+  Author                   = {Ustrnul, Zbigniew and Czekierda, Danuta},
+  Journal                  = {Meteorological Applications},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {43--50},
+  Volume                   = {12},
 
-  Doi                      = {10.1029/2003JD003561},
-  File                     = {:V\'{a}rnai - 2003.pdf:PDF},
-  ISSN                     = {0148-0227},
+  Doi                      = {10.1017/S1350482705001507},
+  File                     = {:Ustrnul, Czekierda - 2005.pdf:PDF},
+  ISSN                     = {1350-4827},
+  Keywords                 = {Biodiversity, Workshop Biodiversityand Climate},
   Owner                    = {tnauss},
-  Url                      = {http://www.agu.org/pubs/crossref/2003/2003JD003561.shtml}
+  Tags                     = {Workshop Biodiversityand Climate},
+  Url                      = {http://doi.wiley.com/10.1017/S1350482705001507}
 }
 
 @Article{Varnai2000,
@@ -27014,6 +26989,21 @@
   ISSN                     = {0022-4928},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0469\%282000\%29057\%3C0216\%3AIOTDRE\%3E2.0.CO\%3B2}
+}
+
+@Article{Varnai2003,
+  Title                    = {{A method for analyzing how various parts of clouds influence each other's brightness}},
+  Author                   = {V\'{a}rnai, Tam\'{a}s},
+  Journal                  = {Journal of Geophysical Research},
+  Year                     = {2003},
+  Number                   = {D22},
+  Volume                   = {108},
+
+  Doi                      = {10.1029/2003JD003561},
+  File                     = {:V\'{a}rnai - 2003.pdf:PDF},
+  ISSN                     = {0148-0227},
+  Owner                    = {tnauss},
+  Url                      = {http://www.agu.org/pubs/crossref/2003/2003JD003561.shtml}
 }
 
 @Article{Varnai2002,
@@ -29574,219 +29564,28 @@
   Tags                     = {ATBD}
 }
 
-@Article{,
-  Title                    = {{No Title}},
+@Article{1999,
+  Title                    = {{Document of The World Bank Report No . 19143 PROJECT APPRAISAL DOCUMENT Public Disclosure Authorized IN AN AMOUNT OF SDR 12 . 5 MILLION ( US \$ 17 . 5 MIILLION EQUIVALENT ) AND A GEF GRANT IN AN AMOUNT OF US \$ 4 . 7 MILLION EQUIVALENT TO TE REPUBLIC OF CAP}},
+  Year                     = {1999},
+  Number                   = {19143},
 
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
-
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
-
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
-
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
-
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
+  File                     = {:Unknown - 1999.pdf:PDF},
+  Keywords                 = {Cape Verde, Kap Verde},
   Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
+  Tags                     = {Kap Verde}
 }
 
-@Article{,
-  Title                    = {{No Title}},
+@Article{2000,
+  Title                    = {{MODELLING OF NATURA 2000 HABITAT TYPES IN DIFFERENT BIOGEOGRAPHIC REGIONS â€“ EXPERIENCES FROM SPAIN AND}},
+  Journal                  = {ocw.upm.es},
+  Year                     = {2000},
+  Number                   = {Eb 5},
+  Volume                   = {145},
 
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
-@Article{2012,
-  Title                    = {extraction of tree crowns and heights using lidar},
-  Year                     = {2012},
-  Pages                    = {1--19},
-
-  File                     = {:Unknown - 2012.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2011,
-  Title                    = {{EL NI\~{N}O MEETS LA NI\~{N}A â€“ ANOMALOUS RAINFALL PATTERNS IN THE â€œ TRADITIONAL â€? EL NI\~{N}O REGION OF SOUTHERN ECUADOR J \"{o}rg B endix , K atJa t rachte , e nrique P alacios , r \"{u}tger r ollenBecK , d ietrich g \"{o}ttlicher , t homas n auss and a strid B endix}},
-  Year                     = {2011},
-  Number                   = {2},
-  Volume                   = {65},
-
-  Doi                      = {10.3112/erdkunde.2011.02.04},
-  File                     = {:Unknown - 2011.pdf:PDF},
-  Keywords                 = {el ni\~{n}o,enso,la ni\~{n}a,rainfall anomalies,sea surface temperature anomalies,south ecuador},
-  Owner                    = {tnauss}
-}
-
-@Article{2010,
-  Title                    = {{International Journal of Development of a global land cover characteristics database and IGBP DISCover from 1 km AVHRR data}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:Unknown - 2010(2).pdf:PDF},
-  ISBN                     = {0143116002},
-  Owner                    = {tnauss}
-}
-
-@Book{2010a,
-  Title                    = {{International Journal of Global land cover classification at 1 km spatial resolution using a classification tree approach}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-
-  File                     = {:Unknown - 2010(4).pdf:PDF},
-  ISBN                     = {0143116002},
+  File                     = {:Unknown - 2000.pdf:PDF},
+  Keywords                 = {geo-factor,object-based classification,potential natural vegetation},
   Owner                    = {tnauss},
-  Pages                    = {37--41}
-}
-
-@Article{2010b,
-  Title                    = {{International Journal of Development of a global land cover characteristics database and IGBP DISCover from 1 km AVHRR data}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:/Unknown - 2010.pdf:PDF},
-  ISBN                     = {0143116002},
-  Owner                    = {tnauss}
-}
-
-@Article{2010c,
-  Title                    = {{International Journal of The derivation of the green vegetation fraction from NOAA / AVHRR data for use in numerical weather prediction models}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:Unknown - 2010(5).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2010d,
-  Title                    = {{International Journal of Remote A verification of the ' triangle ' method for obtaining surface soil water content and energy fluxes from remote measurements of the Normalized Difference Vegetation Index ( NDVI ) and surface e}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:Unknown - 2010.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2010e,
-  Title                    = {{International Journal of Monitoring land-cover changes : A comparison of change detection techniques}},
-  Year                     = {2010},
-  Number                   = {February 2013},
-  Pages                    = {37--41},
-
-  File                     = {:Unknown - 2010(3).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2009,
-  Title                    = {{CLIMATIC CONTROL OF RADIAL GROWTH OF CEDRELA MONTANA IN A HUMID MOUNTAIN RAINFOREST IN SOUTHERN ECUADOR}},
-  Year                     = {2009},
-  Number                   = {4},
-  Pages                    = {337--345},
-  Volume                   = {63},
-
-  Doi                      = {10.3112/erdkunde.2009.04.04},
-  File                     = {:Unknown - 2009.pdf:PDF},
-  Keywords                 = {cedrela montana,dendrochronology,dendrometer,ecuador,tree rings,tropical mountain rain forest,wood anatomy},
-  Owner                    = {tnauss}
-}
-
-@Article{2009a,
-  Title                    = {{THERMAL STRUCTURE OF A MEGADIVERSE ANDEAN MOUNTAIN ECOSYSTEM IN SOUTHERN ECUADOR AND ITS REGIONALIZATION}},
-  Year                     = {2009},
-  Number                   = {4},
-  Pages                    = {321--335},
-  Volume                   = {63},
-
-  Doi                      = {10.3112/erdkunde.2009.04.03},
-  File                     = {:Unknown - 2009(3).pdf:PDF},
-  Keywords                 = {air temperature,forest and open land,outh ecuador,regionalization,thermal structure},
-  Owner                    = {tnauss}
-}
-
-@Misc{2009b,
-  Title                    = {{Simple approximations for reflection and transmission functions of vertically inhomogeneous clouds}},
-  Year                     = {2009},
-
-  File                     = {:Unknown - 2009(2).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2008,
-  Title                    = {{Schadenspiegel Special feature issue Risk factor of air}},
-  Year                     = {2008},
-
-  File                     = {:Unknown - 2008.pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{2006,
-  Title                    = {{Improving Seasonal Forecasting in the Low Latitudes}},
-  Year                     = {2006},
-  Number                   = {1994},
-  Pages                    = {1859--1879},
-
-  File                     = {:Unknown - 2006.pdf:PDF},
-  Owner                    = {tnauss}
+  Url                      = {http://ocw.upm.es/proyectos-de-ingenieria/sistemas-de-informacion-geografica-tecnicas-cuantitativas-para-gestion-de-datos/contenidos/WEB/APLICACIONES/comparacion\_habitats.pdf}
 }
 
 @Article{2002,
@@ -29934,28 +29733,219 @@
   Owner                    = {tnauss}
 }
 
-@Article{2000,
-  Title                    = {{MODELLING OF NATURA 2000 HABITAT TYPES IN DIFFERENT BIOGEOGRAPHIC REGIONS â€“ EXPERIENCES FROM SPAIN AND}},
-  Journal                  = {ocw.upm.es},
-  Year                     = {2000},
-  Number                   = {Eb 5},
-  Volume                   = {145},
+@Article{2006,
+  Title                    = {{Improving Seasonal Forecasting in the Low Latitudes}},
+  Year                     = {2006},
+  Number                   = {1994},
+  Pages                    = {1859--1879},
 
-  File                     = {:Unknown - 2000.pdf:PDF},
-  Keywords                 = {geo-factor,object-based classification,potential natural vegetation},
-  Owner                    = {tnauss},
-  Url                      = {http://ocw.upm.es/proyectos-de-ingenieria/sistemas-de-informacion-geografica-tecnicas-cuantitativas-para-gestion-de-datos/contenidos/WEB/APLICACIONES/comparacion\_habitats.pdf}
+  File                     = {:Unknown - 2006.pdf:PDF},
+  Owner                    = {tnauss}
 }
 
-@Article{1999,
-  Title                    = {{Document of The World Bank Report No . 19143 PROJECT APPRAISAL DOCUMENT Public Disclosure Authorized IN AN AMOUNT OF SDR 12 . 5 MILLION ( US \$ 17 . 5 MIILLION EQUIVALENT ) AND A GEF GRANT IN AN AMOUNT OF US \$ 4 . 7 MILLION EQUIVALENT TO TE REPUBLIC OF CAP}},
-  Year                     = {1999},
-  Number                   = {19143},
+@Article{2008,
+  Title                    = {{Schadenspiegel Special feature issue Risk factor of air}},
+  Year                     = {2008},
 
-  File                     = {:Unknown - 1999.pdf:PDF},
-  Keywords                 = {Cape Verde, Kap Verde},
+  File                     = {:Unknown - 2008.pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{2009,
+  Title                    = {{CLIMATIC CONTROL OF RADIAL GROWTH OF CEDRELA MONTANA IN A HUMID MOUNTAIN RAINFOREST IN SOUTHERN ECUADOR}},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {337--345},
+  Volume                   = {63},
+
+  Doi                      = {10.3112/erdkunde.2009.04.04},
+  File                     = {:Unknown - 2009.pdf:PDF},
+  Keywords                 = {cedrela montana,dendrochronology,dendrometer,ecuador,tree rings,tropical mountain rain forest,wood anatomy},
+  Owner                    = {tnauss}
+}
+
+@Article{2009a,
+  Title                    = {{THERMAL STRUCTURE OF A MEGADIVERSE ANDEAN MOUNTAIN ECOSYSTEM IN SOUTHERN ECUADOR AND ITS REGIONALIZATION}},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {321--335},
+  Volume                   = {63},
+
+  Doi                      = {10.3112/erdkunde.2009.04.03},
+  File                     = {:Unknown - 2009(3).pdf:PDF},
+  Keywords                 = {air temperature,forest and open land,outh ecuador,regionalization,thermal structure},
+  Owner                    = {tnauss}
+}
+
+@Misc{2009b,
+  Title                    = {{Simple approximations for reflection and transmission functions of vertically inhomogeneous clouds}},
+  Year                     = {2009},
+
+  File                     = {:Unknown - 2009(2).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{2010,
+  Title                    = {{International Journal of Development of a global land cover characteristics database and IGBP DISCover from 1 km AVHRR data}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:Unknown - 2010(2).pdf:PDF},
+  ISBN                     = {0143116002},
+  Owner                    = {tnauss}
+}
+
+@Book{2010a,
+  Title                    = {{International Journal of Global land cover classification at 1 km spatial resolution using a classification tree approach}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+
+  File                     = {:Unknown - 2010(4).pdf:PDF},
+  ISBN                     = {0143116002},
   Owner                    = {tnauss},
-  Tags                     = {Kap Verde}
+  Pages                    = {37--41}
+}
+
+@Article{2010b,
+  Title                    = {{International Journal of Development of a global land cover characteristics database and IGBP DISCover from 1 km AVHRR data}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:/Unknown - 2010.pdf:PDF},
+  ISBN                     = {0143116002},
+  Owner                    = {tnauss}
+}
+
+@Article{2010c,
+  Title                    = {{International Journal of The derivation of the green vegetation fraction from NOAA / AVHRR data for use in numerical weather prediction models}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:Unknown - 2010(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{2010d,
+  Title                    = {{International Journal of Remote A verification of the ' triangle ' method for obtaining surface soil water content and energy fluxes from remote measurements of the Normalized Difference Vegetation Index ( NDVI ) and surface e}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:Unknown - 2010.pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{2010e,
+  Title                    = {{International Journal of Monitoring land-cover changes : A comparison of change detection techniques}},
+  Year                     = {2010},
+  Number                   = {February 2013},
+  Pages                    = {37--41},
+
+  File                     = {:Unknown - 2010(3).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{2011,
+  Title                    = {{EL NI\~{N}O MEETS LA NI\~{N}A â€“ ANOMALOUS RAINFALL PATTERNS IN THE â€œ TRADITIONAL â€? EL NI\~{N}O REGION OF SOUTHERN ECUADOR J \"{o}rg B endix , K atJa t rachte , e nrique P alacios , r \"{u}tger r ollenBecK , d ietrich g \"{o}ttlicher , t homas n auss and a strid B endix}},
+  Year                     = {2011},
+  Number                   = {2},
+  Volume                   = {65},
+
+  Doi                      = {10.3112/erdkunde.2011.02.04},
+  File                     = {:Unknown - 2011.pdf:PDF},
+  Keywords                 = {el ni\~{n}o,enso,la ni\~{n}a,rainfall anomalies,sea surface temperature anomalies,south ecuador},
+  Owner                    = {tnauss}
+}
+
+@Article{2012,
+  Title                    = {extraction of tree crowns and heights using lidar},
+  Year                     = {2012},
+  Pages                    = {1--19},
+
+  File                     = {:Unknown - 2012.pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
+
+  File                     = {:Unknown - Unknown(3).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
+}
+
+@Misc{,
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(5).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
+  Number                   = {June 2006},
+
+  File                     = {:Unknown - Unknown(9).pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{No Title}},
+
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  Owner                    = {tnauss}
 }
 
 @comment{jabref-meta: selector_keywords:}
