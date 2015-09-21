@@ -1396,6 +1396,20 @@
   Url                      = {http://www.springerlink.com/index/10.1007/s10531-010-9959-x}
 }
 
+@Misc{Buescher2007,
+  Title                    = {{DECOVER - GEOINFORMATION SERVICES TO UPDATE AND SUPPLEMENT LAND COVER DATA FOR GERMAN DECISION MAKERS}},
+
+  Author                   = {B\"{u}scher, Olaf and Buck, Oliver},
+  Year                     = {2007},
+
+  Booktitle                = {Methods},
+  File                     = {:Buck, Cover, Detection - Unknown.pdf:PDF},
+  Keywords                 = {Remote Sensing, Land Cover, Classification, Change Detection, Interoperability},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.09.21},
+  Url                      = {http://www.isprs.org/proceedings/XXXVI/1-W51/}
+}
+
 @InProceedings{Ba2000,
   Title                    = {{Routine Rainfall Estimation from Geostationary Satellite}},
   Author                   = {Ba, M.B. and Gruber, Arnold},
@@ -3490,17 +3504,6 @@
   Owner                    = {tnauss},
   Tags                     = {Biodiversity Exploratories project},
   Url                      = {http://www.springerlink.com/openurl.asp?genre=article\&id=doi:10.1007/s10021-002-0110-z}
-}
-
-@Misc{,
-  Title                    = {{DECOVER - GEOINFORMATION SERVICES TO UPDATE AND SUPPLEMENT LAND COVER DATA FOR GERMAN DECISION MAKERS}},
-
-  Author                   = {Buck, O and Cover, Land and Detection, Change},
-
-  Booktitle                = {Methods},
-  File                     = {:Buck, Cover, Detection - Unknown.pdf:PDF},
-  Keywords                 = {change detection,classification,interoperability,land cover,remote sensing},
-  Owner                    = {tnauss}
 }
 
 @Book{Budyko1974,
@@ -18151,7 +18154,7 @@
   Tags                     = {Kap Verde}
 }
 
-@Manual{,
+@Manual{Mori2014,
   Title                    = {TSdist: Distance Measures for Time Series data},
   Author                   = {Mori, Usue and Mendiburu, Alexander and Lozano, J. A.},
   Note                     = {R package version 1.2},
@@ -19658,8 +19661,8 @@
 }
 
 @Article{Ottesubmitted,
-  Title                    = {Seasonal and long-term climate dynamics in the Mt Kilimanjaro region as observed from local and remote sensing time series},
-  Author                   = {Otte, Insa and Detsch, Florian and Nauss, Thomas and Appelhans, Tim},
+  Title                    = {Decadal trends and interannual variability of atmospheric parameters as observed from local and remote sensing time series at Mt. Kilimanjaro, Tanzania},
+  Author                   = {Otte, Insa and Detsch, Florian and Mwangomo, Ephraim and Nauss, Thomas and Appelhans, Tim},
   Journal                  = {Climate Dynamics},
   Year                     = {submitted},
 
@@ -21408,11 +21411,15 @@
   Journal                  = {International Journal of Computer Theory and Engineering},
   Year                     = {2009},
   Number                   = {1},
-  Pages                    = {1793-8201},
+  Pages                    = {1793--8201},
   Volume                   = {1},
 
+  Doi                      = {10.7763/IJCTE.2009.V1.9},
+  File                     = {:Radhika, Shashi - 2009.pdf:PDF},
+  Keywords                 = {Comparative Studies, Neural Networks, Regression, Time Series, Weather Forecasting},
   Owner                    = {tnauss},
-  Timestamp                = {2015.04.10}
+  Timestamp                = {2015.04.10},
+  Url                      = {http://ijcte.org/papers/009.pdf}
 }
 
 @Article{Radke1989,
@@ -22365,7 +22372,7 @@
   Url                      = {http://adsabs.harvard.edu/abs/1989JCli....2..201R}
 }
 
-@Article{,
+@Article{Rotach2004,
   Title                    = {{Turbulence Structure and Exchange Processes in an Alpine Valley: The Riviera Project}},
   Author                   = {Rotach, Mathias W. and Calanca, Pierluigi and Graziani, Giovanni and Gurtz, Joachim and Steyn, D. G. and Vogt, Roland and Andretta, Marco and Christen, Andreas and Cieslik, Stanislaw and Connolly, Richard and {De Wekker}, Stephan F. J. and Galmarini, Stefano and Kadygrov, Evgeny N. and Kadygrov, Vladislav and Miller, Evgeny and Neininger, Bruno and Rucker, Magdalena and {Van Gorsel}, Eva and Weber, Heidi and Weiss, Alexandra and Zappa, Massimiliano},
   Journal                  = {Bulletin of the American Meteorological Society},
@@ -22644,6 +22651,22 @@
   File                     = {:Rutledge, Hobbs - 1984.pdf:PDF},
   Owner                    = {tnauss},
   Url                      = {http://www4.ncsu.edu/~gary/mea793/pdf/Rutledge\_Hobbs\_1984.pdf}
+}
+
+@Article{Rutten2015,
+  Title                    = {Forest structure and composition of previously selectively logged and non-logged montane forests at Mt. Kilimanjaro},
+  Author                   = {Rutten, Gemma and Ensslin, Andreas and Hemp, Andreas and Fischer, Markus},
+  Journal                  = {Forest Ecology and Management},
+  Year                     = {2015},
+  Pages                    = {61--66},
+  Volume                   = {337},
+
+  Doi                      = {10.1016/j.foreco.2014.10.036},
+  File                     = {:Rutten et al. - 2015.pdf:PDF},
+  Keywords                 = {Afro-montane rainforest; East Africa; Tree inventory; Ocotea usambarensis; Historical logging; Forest regeneration},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.09.21},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0378112714006185}
 }
 
 @Article{Ryan1996,
@@ -28869,14 +28892,6 @@
 
   File                     = {:Xue - 2008.pdf:PDF},
   Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {Atmospheric Temperature Prediction using Support Vector Machines},
-  Author                   = {Y.Radhika AND M.Shashi},
-
-  Owner                    = {tnauss},
-  Timestamp                = {2015.04.10}
 }
 
 @Article{Yachi1999,
