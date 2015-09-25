@@ -11760,6 +11760,18 @@
   Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/17988759}
 }
 
+@Misc{Kuehne2005,
+  Title                    = {{Interpretation und Manipulation in der thematischen Kartographie. Sch\"{u}ler \"{u}berpr\"{u}fen Kartenaussagen.}},
+
+  Author                   = {K\"{u}hne, Olaf},
+  Year                     = {2005},
+
+  File                     = {:Kuehne - 2005.pdf:PDF},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.09.24},
+  Url                      = {http://www.fachportal-paedagogik.de/fis_bildung/suche/fis_set.html?FId=692558}
+}
+
 @PhdThesis{Kuehnel2014,
   Title                    = {Variability of physical, chemical and hydraulic parameters in soils of Mt. Kilimanjaro across different land uses},
   Author                   = {K\"{u}hnel, Anna},
@@ -19962,6 +19974,22 @@
   ISSN                     = {0739-0572},
   Owner                    = {tnauss},
   Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0426\%281998\%29015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2 http://journals.ametsoc.org/doi/abs/10.1175/1520-0426(1998)015\%3C0098\%3AOIOEDT\%3E2.0.CO\%3B2}
+}
+
+@Article{Pandey2012,
+  Title                    = {{Estimating cloud optical thickness and associated surface UV irradiance from SEVIRI by implementing a semi-analytical cloud retrieval algorithm}},
+  Author                   = {Pandey, P. and De Ridder, K. and Gillotay, D. and van Lipzig, N. P. M.},
+  Journal                  = {Atmospheric Chemistry and Physics},
+  Year                     = {2012},
+  Pages                    = {7961--7975},
+  Volume                   = {12},
+
+  Doi                      = {10.5194/acp-12-7961-2012},
+  File                     = {:Pandey et al. - 2012.pdf:PDF},
+  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.09.24},
+  Url                      = {www.atmos-chem-phys.net/12/7961/2012/}
 }
 
 @Article{Paniagua-Tineo2011,
@@ -29876,15 +29904,6 @@
   Owner                    = {tnauss}
 }
 
-@Article{,
-  Title                    = {{Estimating cloud optical thickness from SEVIR by impementing a semi-analytical cloud retreieval algorithm}},
-  Number                   = {June 2006},
-
-  File                     = {:Unknown - Unknown(9).pdf:PDF},
-  Keywords                 = {asymmetry parameter,cloud optical thickness,cloud water,cloudsat,sacura,seviri},
-  Owner                    = {tnauss}
-}
-
 @Misc{,
   Title                    = {{1520-0493\%281979\%29107-1382\%3Atrbfco-2\%2E0\%2Eco\%3B2.pdf}},
 
@@ -29938,13 +29957,6 @@
   Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
 
   File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{\"{U}berpr\"{u}fung von Kartenaussagen\_ Interpretation und Manipulation in der thematischen Kartographie.pdf}},
-
-  File                     = {:Unknown - Unknown(3).pdf:PDF},
   Owner                    = {tnauss}
 }
 
