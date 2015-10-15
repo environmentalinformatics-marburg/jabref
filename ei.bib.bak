@@ -803,6 +803,7 @@
   Pages                    = {1--19},
   Volume                   = {65},
 
+  Doi                      = {10.18637/jss.v065.i10},
   File                     = {:Appelhans, Detsch, Nauss - accepted.pdf:PDF},
   Keywords                 = {teleconnection analysis, spatial data mining, raster data, R, climate science},
   Owner                    = {fdetsch},
@@ -3686,26 +3687,6 @@
 }
 
 @Article{Camberlin2009,
-  Title                    = {{Components of rainy seasonsâ€™ variability in Equatorial East Africa: onset, cessation, rainfall frequency and intensity}},
-  Author                   = {Camberlin, Pierre and Moron, Vincent and Okoola, Raphael and Philippon, Nathalie and Gitau, Wilson},
-  Journal                  = {Theoretical and Applied Climatology},
-  Year                     = {2009},
-
-  Month                    = feb,
-  Pages                    = {237--249},
-  Volume                   = {98},
-
-  Abstract                 = {The inter-annual and spatial variability of different rainfall variables is analysed over Equatorial East Africa (Kenya and northeastern Tanzania). At the station level, three variables are considered: the total precipitation amount (P), the number of rain days (NRD) and the daily rainfall intensity (INT). Using a network of 34 stations, inter-station correlations (1958â€“1987) are computed for each of these variables. The spatial coherence of monthly or seasonal P and NRD is always much higher than that of rainfall intensity. However, large variations in spatial coherence are found in the course of the seasonal cycle. Coherence is highest at the peak of the short rains (Octoberâ€“December) and low during the long rains (Marchâ€“May), except at its beginning. The inter-annual variability of the onset and cessation of the rains is next considered, at the regional scale, and the study extended to 2001. In the long rains, the onset and cessation dates are independent of NRD and INT during the rainy season. Hence, the long rains seasonal rainfall total depends on a combination of virtually unrelated factors, which may account for the difficulty in its prediction. However, the onset, which exhibits a large inter-annual variability and a strong spatial coherence, has a prime role. Conversely, in the short rains, though the onset is again more decisive than the cessation, the different intra-seasonal descriptors of the rains are more strongly inter-related.},
-  Doi                      = {10.1007/s00704-009-0113-1},
-  File                     = {:/Camberlin et al. - 2009.pdf:PDF},
-  ISSN                     = {0177-798X},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project},
-  Url                      = {http://www.springerlink.com/index/10.1007/s00704-009-0113-1}
-}
-
-@Article{Camberlin2009a,
   Title                    = {{Components of rainy seasonsâ€™ variability in Equatorial East Africa: onset, cessation, rainfall frequency and intensity}},
   Author                   = {Camberlin, Pierre and Moron, Vincent and Okoola, Raphael and Philippon, Nathalie and Gitau, Wilson},
   Journal                  = {Theoretical and Applied Climatology},
@@ -9619,8 +9600,11 @@
 @Book{Helsel2002,
   Title                    = {Statistical Methods in Water Resources (Techniques of Water-Resources Investigation, Book 4, Chapter A3)},
   Author                   = {Helsel, D. R. and Hirsch, R. M.},
-  Publisher                = {U.S. Geological Survey},
+  Publisher                = {Elsevier},
   Year                     = {2002},
+
+  Address                  = {Amsterdam, The Netherlands},
+  Note                     = {338-340},
 
   File                     = {:Helsel, Hirsch - 2002.pdf:PDF},
   Owner                    = {fdetsch},
@@ -12258,6 +12242,7 @@
   Pages                    = {81--93},
   Volume                   = {30},
 
+  Doi                      = {10.2307/2332226},
   File                     = {:Kendall - 1938.pdf:PDF},
   Owner                    = {fdetsch},
   Timestamp                = {2015.07.27},
@@ -17097,6 +17082,7 @@
   Year                     = {2011},
 
   Address                  = {San Francisco, CA},
+  Note                     = {49-51},
 
   File                     = {:Matloff - 2011.pdf:PDF},
   Owner                    = {fdetsch},
@@ -17349,6 +17335,7 @@
 
   Address                  = {Fairfax, VA},
   Month                    = {November},
+  Note                     = {1-23},
   Number                   = {6},
   Type                     = {Tech Notes},
 
@@ -29897,10 +29884,52 @@
   Owner                    = {tnauss}
 }
 
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
+}
+
+@Misc{,
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
+}
+
 @Article{,
   Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -29914,49 +29943,7 @@
 @Article{,
   Title                    = {{No Title}},
 
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
-
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
-}
-
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
-
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
-@Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
-
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
 }
 
