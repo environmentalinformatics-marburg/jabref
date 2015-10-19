@@ -5402,6 +5402,17 @@
   Url                      = {https://github.com/environmentalinformatics-marburg/GSODTools/blob/master/README.rmd}
 }
 
+@Manual{,
+  Title                    = {gimms: Download and Process GIMMS NDVI3g Data},
+  Author                   = {Detsch, Florian},
+  Note                     = {R package version 0.1.1},
+  Year                     = {2015},
+
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.10.19},
+  Url                      = {http://CRAN.R-project.org/package=gimms}
+}
+
 @Article{Detschforthcoming,
   Title                    = {Seasonal and long-term vegetation dynamics from NDVI time series at Mt. Kilimanjaro, Tanzania},
   Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
@@ -16027,6 +16038,21 @@
   Url                      = {http://scielo.unam.mx/scielo.php?pid=S0187-62362006000300001\&amp;script=sci\_arttext}
 }
 
+@Article{Lyapustin2014,
+  Title                    = {Scientific impact of MODIS C5 calibration degradation and C6+ improvements},
+  Author                   = {Lyapustin, A. and Wang, Y. and Xiong, X. and Meister, G. and Platnick, S. and Levy, R. and Franz, B. and Korkin, S. and Hilker, T. and Tucker, J. and Hall, F. and Sellers, P. and Wu, A. and Angal, A.},
+  Journal                  = {Atmospheric Measurement Techniques},
+  Year                     = {2014},
+  Pages                    = {4353--4365},
+  Volume                   = {7},
+
+  Doi                      = {10.5194/amt-7-4353-2014},
+  File                     = {:Lyapustin et al. - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.10.15},
+  Url                      = {http://www.atmos-meas-tech.net/7/4353/2014/amt-7-4353-2014.html}
+}
+
 @Article{M$ackslash$$ackslash$uller-Westermeier2005,
   Title                    = {{Die Witterung in Deutschland}},
   Author                   = {M$\backslash$$\backslash$"uller-Westermeier, G. and RIECKE, W.},
@@ -22684,6 +22710,22 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0378112714006185}
 }
 
+@Article{Rutten2015a,
+  Title                    = {Vertical and Horizontal Vegetation Structure across Natural and Modified Habitat Types at Mount Kilimanjaro},
+  Author                   = {Rutten, Gemma and Ensslin, Andreas and Hemp, Andreas and Fischer, Markus},
+  Journal                  = {PLoS ONE},
+  Year                     = {2015},
+  Number                   = {9},
+  Pages                    = {e0138822},
+  Volume                   = {10},
+
+  Doi                      = {10.1371/journal.pone.0138822},
+  File                     = {:Rutten et al. - 2015a.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.09.30},
+  Url                      = {http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138822}
+}
+
 @Article{Ryan1996,
   Title                    = {{On the global variation of precipitating layer clouds.}},
   Author                   = {Ryan, BF},
@@ -24335,6 +24377,7 @@
   Title                    = {{MODIS Vegetation Index User's Guide (MOD13 Series)}},
   Author                   = {Solano, Ramon and Didan, Kamel and Jacobson, Andree and Huete, Alfredo},
   Month                    = {May},
+  Note                     = {Version 2.00, May 2010 (Collection 5)},
   Organization             = {The University of Arizona, Vegetation Index and Phenology Lab},
   Year                     = {2010},
 
@@ -27208,6 +27251,7 @@
 @Article{Verbesselt2010,
   Title                    = {{Phenological Change Detection while Accounting for Abrupt and Gradual Trends in Satellite Image Time Series}},
   Author                   = {Verbesselt, Jan and Hyndman, Rob and Culvenor, Darius},
+  Journal                  = {Remote Sensing of Environment},
   Year                     = {2010},
   Number                   = {12},
   Pages                    = {2970--2980},
@@ -27215,7 +27259,9 @@
 
   Doi                      = {10.1016/j.rse.2010.08.003},
   File                     = {:Verbesselt, Hyndman, Culvenor - 2010.pdf:PDF},
-  Owner                    = {tnauss}
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2015.10.19},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425710002336}
 }
 
 @Article{Verbesselt2010a,
@@ -27234,6 +27280,17 @@
   Owner                    = {tnauss, fdetsch},
   Timestamp                = {2015.01.26},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S003442570900265X}
+}
+
+@Manual{,
+  Title                    = {bfast: Breaks For Additive Season and Trend (BFAST)},
+  Author                   = {Verbesselt, Jan and Zeileis, Achim and Hyndman, Rob},
+  Year                     = {2014},
+
+  File                     = {:Verbesselt, Zeileis, Hyndman - 2014.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.10.19},
+  Url                      = {https://cran.r-project.org/web/packages/bfast/index.html}
 }
 
 @Article{Verde2012,
@@ -29949,9 +30006,9 @@
 
 @comment{jabref-meta: selector_keywords:}
 
-@comment{jabref-meta: selector_publisher:}
-
 @comment{jabref-meta: selector_Tags:Kap Verde;}
+
+@comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: groupsversion:3;}
 
