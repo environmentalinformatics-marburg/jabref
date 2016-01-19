@@ -1588,6 +1588,17 @@
   URL                      = {http://geology.gsapubs.org/content/39/12/1111}
 }
 
+@PhdThesis{Barreto-Munoz2013,
+  author =    {Barreto-Munoz, Armando},
+  title =     {Multi-Sensor Vegetation Index and Land Surface Phenology Earth Science Data Records in Support of Global Change Studies: Data Quality Challenges and Data Explorer System},
+  school =    {The University of Arizona},
+  year =      {2013},
+  address =   {Department of Agricultural and Biosystems Engineering},
+  file =      {:Barreto-Munoz - 2013.pdf:PDF},
+  owner =     {fdetsch},
+  timestamp = {2016.01.14}
+}
+
 @Article{Barrett1985,
   Title                    = {{Rainfall evaluation by remote sensing: problems and prospects}},
   Author                   = {Barrett, E.C.},
@@ -10775,7 +10786,7 @@
 @Article{Justice1996,
   Title                    = {Satellite remote sensing of fires during the SAFARI campaign using NOAA Advanced Very High Resolution Radiometer data},
   Author                   = {Justice, C. O. and Kendall, J. D. and Dowty, P. R. and Scholes, R. J.},
-  Journal                  = {Journal of Geophysical Research: Atmospheres (1984--2012)},
+  Journal                  = {Journal of Geophysical Research: Atmospheres (1984–2012)},
   Year                     = {1996},
   Number                   = {D19},
   Pages                    = {23851--23863},
@@ -15066,6 +15077,21 @@
   Owner                    = {tnauss},
   Publisher                = {Nature Publishing Group},
   URL                      = {http://dx.doi.org/10.1038/nature11869}
+}
+
+@Article{Maeda2014,
+  Title                    = {{Spatiotemporal characterization of land surface temperature in Mount Kilimanjaro using satellite data}},
+  Author                   = {Maeda, Eduardo Eiji and Hurskainen, Pekka},
+  Journal                  = {Theoretical and Applied Climatology},
+  Year                     = {2014},
+  Month                    = {November},
+  Number                   = {3},
+  Pages                    = {497--509},
+  Volume                   = {118},
+  DOI                      = {10.1007/s00704-013-1082-y},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.01.11},
+  URL                      = {http://link.springer.com/article/10.1007/s00704-013-1082-y}
 }
 
 @Article{Maganga2002,
@@ -23932,6 +23958,21 @@
   Timestamp                = {2014.10.03}
 }
 
+@Article{Tian2015,
+  author =    {Tian, Feng and Fensholt, Rasmus and Verbesselt, Jan and Grogan, Kenneth and Horion, Stephanie and Wang, Yunjia},
+  title =     {{Evaluating temporal consistency of long-term global NDVI datasets for trend analysis}},
+  journal =   {Remote Sensing of Environment},
+  year =      {2015},
+  volume =    {163},
+  pages =     {326--340},
+  doi =       {10.1016/j.rse.2015.03.031},
+  file =      {:Tian et al. - 2015.pdf:PDF},
+  keywords =  {GIMMS3g, LTDR, VIP, SPOT-VGT, MODIS, Sensor shift related artifacts, Break ppoint detection},
+  owner =     {fdetsch},
+  timestamp = {2016.01.14},
+  url =       {http://www.sciencedirect.com/science/article/pii/S0034425715001285}
+}
+
 @Article{Tian2010,
   Title                    = {{Model estimates of net primary productivity, evapotranspiration, and water use efficiency in the terrestrial ecosystems of the southern United States during 1895â€“2007}},
   Author                   = {Tian, Hanqin and Chen, Guangsheng and Liu, Mingliang and Zhang, Chi and Sun, Ge and Lu, Chaoqun and Xu, Xiaofeng and Ren, Wei and Pan, Shufen and Chappelka, Arthur},
@@ -26075,6 +26116,22 @@
   URL                      = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1202951}
 }
 
+@Article{Wittich1995,
+  author =    {Wittich, K.-P. and Hansing, O.},
+  title =     {Area-averaged vegetative cover fraction estimated from satellite data},
+  journal =   {International Journal of Biometeorology},
+  year =      {1995},
+  volume =    {38},
+  number =    {4},
+  pages =     {209--215},
+  doi =       {10.1007/BF01245391},
+  file =      {:Wittich, Hansing - 1995.pdf:PDF},
+  keywords =  {Vegetation cover factor, Normalized difference vegetation index, Phenological data},
+  owner =     {fdetsch},
+  timestamp = {2016.01.13},
+  url =       {http://link.springer.com/article/10.1007/BF01245391}
+}
+
 @Article{Wolde2002,
   Title                    = {{Cloud structure and crystal growth in nimbostratus}},
   Author                   = {Wolde, M},
@@ -27050,6 +27107,21 @@
   Owner                    = {tnauss}
 }
 
+@Article{Zhu2015,
+  author =    {Zhu, Likai and Meng, Jijun},
+  title =     {Determining the relative importance of climatic drivers on spring phenology in grassland ecosystems of semi-arid areas},
+  journal =   {International Journal of Biometeorology},
+  year =      {2015},
+  volume =    {59},
+  pages =     {237--248},
+  doi =       {10.1007/s00484-014-0839-z},
+  file =      {:Zhu, Meng - 2015.pdf:PDF},
+  keywords =  {Ordos, Semi-arid area, Grassland, Land surface phenology, The start of the growing season (SOS), Climate change},
+  owner =     {fdetsch},
+  timestamp = {2016.01.12},
+  url =       {http://link.springer.com/article/10.1007%2Fs00484-014-0839-z}
+}
+
 @Article{Zhuge2011,
   Title                    = {{Rainfall Retrieval and Nowcasting Based on Multispectral Satellite Images. Part I: Retrieval Study on Daytime 10-Minute Rain Rate}},
   Author                   = {Zhuge, Xiao-Yong and Yu, Fan and Zhang, Cheng-Wei},
@@ -27470,23 +27542,6 @@
 }
 
 @Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
-@Misc{,
-  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
-  File                     = {:Unknown - Unknown(6).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
   Title                    = {{No Title}},
   File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
@@ -27505,11 +27560,20 @@
 }
 
 @Misc{,
-  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
-  File                     = {:/Unknown - Unknown.doc:doc},
-  Keywords                 = {Kilimanjaro},
-  Owner                    = {tnauss},
-  Tags                     = {Kilimanjaro project}
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Title                    = {{everywhere \{ Contents \}}},
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
 }
 
 @Misc{,
@@ -27519,9 +27583,17 @@
 }
 
 @Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Title                    = {{KeyElementOfLandscapePatternMeasures.pdf}},
+  File                     = {:Unknown - Unknown(6).pdf:PDF},
   Owner                    = {tnauss}
+}
+
+@Misc{,
+  Title                    = {{Stable isotopes in rainfall and fog in the Luquillo Mountains2}},
+  File                     = {:/Unknown - Unknown.doc:doc},
+  Keywords                 = {Kilimanjaro},
+  Owner                    = {tnauss},
+  Tags                     = {Kilimanjaro project}
 }
 
 @comment{jabref-meta: selector_Tags:Kap Verde;}
