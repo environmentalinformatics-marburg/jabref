@@ -1,0 +1,51 @@
+# Written by Florian Detsch <florian.detsch@staff.uni-marburg.de>
+
+NAME
+Oecologia
+
+JOURNALS
+Oecologia
+
+PROPERTIES
+Title="References"
+IsSortByPosition="false"
+IsNumberEntries="false"
+ReferenceParagraphFormat="Text body"
+ReferenceHeaderParagraphFormat="Heading 1"
+
+CITATION
+BibtexKeyCitations=false
+AuthorField="author/editor"
+YearField="year"
+MaxAuthors="2"
+MaxAuthorsFirst="2"
+AuthorSeparator=","
+AuthorLastSeparator=" and "
+AuthorLastSeparatorInText=" and "
+AuthorNumber = 10
+EtAlString=" et al."
+ItalicEtAl="false"
+YearSeparator=" "
+InTextYearSeparator=" "
+BracketBefore="("
+BracketAfter=")"
+BracketBeforeInList="("
+BracketAfterInList=")"
+CitationSeparator=", "
+UniquefierSeparator=","
+GroupedNumbersSeparator="-"
+MinimumGroupingCount="3"
+FormatCitations="false"
+CitationCharacterFormat="Default"
+MultiCiteChronological="false"
+PageInfoSeparator="; "
+
+LAYOUT
+article=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,Replace(\, , ),Replace(\.,),Replace( and,\,)]{\author} (\format[FormatChars]{\year}\uniq) \title. \journal \volume\begin{pages}: \format[FormatPagesForHTML]{\pages}\end{pages}
+
+inbook=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,Replace(\, , ),Replace(\.,),Replace( and,\,)]{\author} (\format[FormatChars]{\year}\uniq) \chapter. In: \format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,Replace(\, , ),Replace(\.,),Replace( and,\,)]{\editor} (eds.) \title. \publisher, \address, pp \format[FormatPagesForHTML]{\pages}\end{pages}
+
+manual=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,Replace(\, , ),Replace(\.,),Replace( and,\,)]{\author} (\format[FormatChars]{\year}\uniq) \title. \Note, \Url
+
+default=\format[AuthorLastFirstAbbreviator,NoSpaceBetweenAbbreviations,Replace(\, , ),Replace(\.,),Replace( and,\,)]{\author} (\format[FormatChars]{\year}\uniq) \title. \journal \volume\begin{pages}, \format[FormatPagesForHTML]{\pages}\end{pages}
+
