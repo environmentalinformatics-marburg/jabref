@@ -5046,15 +5046,6 @@
   URL                      = {http://CRAN.R-project.org/package=gimms}
 }
 
-@Article{Detschforthcoming,
-  Title                    = {Seasonal and long-term vegetation dynamics from NDVI time series at Mt. Kilimanjaro, Tanzania},
-  Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
-  Journal                  = {Remote Sensing of Environment},
-  Year                     = {submitted},
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.16}
-}
-
 @Article{Dettling2008,
   Title                    = {{Angewandte Zeitreihenanalyse}},
   Author                   = {Dettling, Marcel},
@@ -5247,16 +5238,16 @@
 }
 
 @Article{Dool2000,
-  Title                    = {{Empirical orthogonal teleconnections}},
-  Author                   = {van den Dool, HM and Saha, S and Johansson, \r{A}},
-  Journal                  = {Journal of Climate},
-  Year                     = {2000},
-  Pages                    = {1421--1435},
-  Volume                   = {13},
-  DOI                      = {http://dx.doi.org/10.1175/1520-0442(2000)013<1421:EOT>2.0.CO;2},
-  File                     = {:Dool, Saha - 2000.pdf:PDF},
-  Owner                    = {tnauss},
-  URL                      = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2000)013\%3C1421\%3AEOT\%3E2.0.CO\%3B2}
+  author  = {van den Dool, HM and Saha, S and Johansson, \r{A}},
+  title   = {{Empirical orthogonal teleconnections}},
+  year    = {2000},
+  volume  = {13},
+  pages   = {1421--1435},
+  doi     = {10.1175/1520-0442(2000)013<1421:EOT>2.0.CO;2},
+  url     = {http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2000)013\%3C1421\%3AEOT\%3E2.0.CO\%3B2},
+  file    = {:Dool, Saha - 2000.pdf:PDF},
+  journal = {Journal of Climate},
+  owner   = {tnauss},
 }
 
 @Article{Dorais2011,
@@ -17925,19 +17916,19 @@
 }
 
 @Article{Ogutu2007,
-  Title                    = {{El Nino-Southern Oscillation, rainfall and Normalized Difference Vegetation Index fluctuations in the Mara-Serengeti ecosystem}},
-  Author                   = {Ogutu, J O and Piepho, H-P and Dublin, H T and Bhola, N and Reid, R S},
-  Journal                  = {African Journal of Ecology},
-  Year                     = {2007},
-  Pages                    = {132--143},
-  Volume                   = {46},
-  DOI                      = {10.1111/j.1365-2028.2007.00821.x},
-  File                     = {:Ogutu et al. - 2007.pdf:PDF},
-  Keywords                 = {Kilimanjaro, enso, fluctuations, mara-serengeti, ndvi, rainfall, temperature},
-  Owner                    = {tnauss, fdetsch},
-  Tags                     = {Kilimanjaro project},
-  Timestamp                = {2015.05.13},
-  URL                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2028.2007.00821.x/abstract}
+  author    = {Ogutu, J O and Piepho, H-P and Dublin, H T and Bhola, N and Reid, R S},
+  title     = {{El Ni\~{n}o-Southern Oscillation, rainfall and Normalized Difference Vegetation Index fluctuations in the Mara-Serengeti ecosystem}},
+  year      = {2007},
+  volume    = {46},
+  pages     = {132--143},
+  doi       = {10.1111/j.1365-2028.2007.00821.x},
+  url       = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2028.2007.00821.x/abstract},
+  file      = {:Ogutu et al. - 2007.pdf:PDF},
+  journal   = {African Journal of Ecology},
+  keywords  = {Kilimanjaro, enso, fluctuations, mara-serengeti, ndvi, rainfall, temperature},
+  owner     = {tnauss, fdetsch},
+  tags      = {Kilimanjaro project},
+  timestamp = {2015.05.13},
 }
 
 @Article{Oh2002,
@@ -19741,8 +19732,7 @@
   Pmid                     = {19956684},
   URL                      = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2776975\&tool=pmcentrez\&rendertype=abstract}
 }
-
-@Article{Rohr2003,
+{Rohr2003,
   Title                    = {{Rainfall distribution on the slopes of Mt Kilimanjaro}},
   Author                   = {R\{o}hr, Paul Christen and Killingtveit, \{AA}nund},
   Journal                  = {Hydrological Sciences Journal},
@@ -22235,18 +22225,18 @@
 }
 
 @Article{Simic2014,
-  Title                    = {Assessing the Impact of Leaf Area Index on Evapotranspiration and Groundwater Recharge across a Shallow Water Region for Diverse Land Cover and Soil Properties},
-  Author                   = {Simic, A. and Fernandes, R. and Wang, S.},
-  Journal                  = {Journal of Water Resource and Hydraulic Engineering},
-  Year                     = {2014},
-  Number                   = {4},
-  Pages                    = {60--73},
-  Volume                   = {3},
-  File                     = {:Simic et al. - 2014.pdf:PDF},
-  Keywords                 = {Evapotranspiration; Recharge; Leaf Area Index; Remote Sensing; Sensitivity Analysis},
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.06.16},
-  URL                      = {http://www.academicpub.org/jwrhe/paperInfo.aspx?paperid=16378}
+  author =    {Simic, A. and Fernandes, R. and Wang, S.},
+  title =     {{Assessing the Impact of Leaf Area Index on Evapotranspiration and Groundwater Recharge across a Shallow Water Region for Diverse Land Cover and Soil Properties}},
+  journal =   {Journal of Water Resource and Hydraulic Engineering},
+  year =      {2014},
+  volume =    {3},
+  number =    {4},
+  pages =     {60--73},
+  file =      {:Simic et al. - 2014.pdf:PDF},
+  keywords =  {Evapotranspiration; Recharge; Leaf Area Index; Remote Sensing; Sensitivity Analysis},
+  owner =     {fdetsch},
+  timestamp = {2015.06.16},
+  url =       {http://www.academicpub.org/jwrhe/paperInfo.aspx?paperid=16378}
 }
 
 @Book{Simko1991,
@@ -27563,9 +27553,26 @@
   Owner                    = {tnauss}
 }
 
+@Misc{,
+  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
+  File                     = {:Unknown - Unknown(4).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
 @Article{,
-  Title                    = {{No Title}},
-  File                     = {:Unknown - Unknown(10).pdf:PDF},
+  Title                    = {{everywhere \{ Contents \}}},
+  File                     = {:Unknown - Unknown(8).pdf:PDF},
+  Owner                    = {tnauss}
+}
+
+@Article{,
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.03}
+}
+
+@Misc{,
+  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
+  File                     = {:Unknown - Unknown(2).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27575,32 +27582,9 @@
   Owner                    = {tnauss}
 }
 
-@Misc{,
-  Title                    = {{1520-0469(1995)052\_4043\_WADOCM\_2.0.pdf}},
-  File                     = {:Unknown - Unknown(2).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Article{,
-  Owner                    = {fdetsch},
-  Timestamp                = {2015.03.03}
-}
-
-@Article{,
-  Title                    = {{everywhere \{ Contents \}}},
-  File                     = {:Unknown - Unknown(8).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
-@Misc{,
-  Title                    = {{1520-0469\%281964\%29021-0634\%3Aaaptws-2\%2E0\%2Eco\%3B2.pdf}},
-  File                     = {:Unknown - Unknown(4).pdf:PDF},
-  Owner                    = {tnauss}
-}
-
 @Article{,
   Title                    = {{No Title}},
-  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  File                     = {:Unknown - Unknown(10).pdf:PDF},
   Owner                    = {tnauss}
 }
 
@@ -27612,15 +27596,44 @@
   Tags                     = {Kilimanjaro project}
 }
 
-@comment{jabref-meta: selector_Tags:Kap Verde;}
+@Article{,
+  Title                    = {{No Title}},
+  File                     = {:Unknown - Unknown(7).pdf:PDF},
+  Owner                    = {tnauss}
+}
 
-@comment{jabref-meta: selector_keywords:}
+@Article{Detsch2016a,
+  author    = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
+  title     = {{A Comparative Study of Cross-Product NDVI DDynamic in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}},
+  year      = {2016},
+  volume    = {8},
+  number    = {2},
+  pages     = {159},
+  doi       = {10.3390/rs8020159},
+  file      = {:Detsch et al. - 2016a.pdf:PDF},
+  journal   = {Remote Sensing},
+  keywords  = {NDVI; AVHRR GIMMS; MODIS; seasonal fluctuations; monotonic trends; sensor degradation; trend significance; Kilimanjaro},
+  owner     = {fdetsch},
+  timestamp = {2016-07-27},
+}
 
-@comment{jabref-meta: selector_publisher:}
+@Article{Detsch2016,
+  author    = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Hemp, Andreas and Nauss, Thomas},
+  title     = {{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based NDVI time series at Mt. Kilimanjaro, Tanzania}},
+  year      = {2016},
+  volume    = {178},
+  pages     = {70--83},
+  doi       = {10.1016/j.rse.2016.03.007},
+  file      = {:Detsch et al. - 2016.pdf:PDF},
+  journal   = {Remote Sensing of Environment},
+  keywords  = {NDVI; Trends; Seasonality; Teleconnections; Fire disturbance; Mt. Kilimanjaro},
+  owner     = {fdetsch},
+  timestamp = {2016-07-25},
+}
 
-@comment{jabref-meta: groupsversion:3;}
+@Comment{jabref-meta: databaseType:biblatex;}
 
-@comment{jabref-meta: groupstree:
+@Comment{jabref-meta: groupstree:
 0 AllEntriesGroup:;
 1 KeywordGroup:Biodiversity\;0\;keywords\;Biodiversity\;0\;0\;;
 1 KeywordGroup:Biodiversity Exploratories\;0\;keywords\;Biodiversity Exploratories\;0\;0\;;
@@ -27633,3 +27646,6 @@
 1 KeywordGroup:Machine learning\;0\;keywords\;Machine learning\;0\;0\;;
 }
 
+@Comment{jabref-meta: groupsversion:3;}
+
+@Comment{jabref-meta: selector_Tags:Kap Verde;}
