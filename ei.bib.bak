@@ -28170,6 +28170,21 @@
   timestamp = {2016-10-27},
 }
 
+@Article{Ward2011,
+  author    = {Ward, E. and Buytaert, W. and Peaver, L. and Wheater, H.},
+  title     = {{Evaluation of precipitation products over complex mountainous terrain: A water resources perspective}},
+  year      = {2011},
+  volume    = {34},
+  number    = {10},
+  month     = oct,
+  pages     = {1222--1231},
+  doi       = {10.1016/j.advwatres.2011.05.007},
+  file      = {:Ward et al. - 2011.pdf:PDF},
+  journal   = {Advances in Water Resources},
+  owner     = {fdetsch},
+  timestamp = {2016-10-27},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: groupstree:
